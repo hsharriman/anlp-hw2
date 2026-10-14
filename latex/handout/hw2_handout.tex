@@ -1,0 +1,755 @@
+% 11-711 Fall 2026, Homework 2 handout.
+% Typeset from HANDOUT.md; keep the two in sync when either changes.
+
+\documentclass[11pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{tcolorbox}
+\usepackage{amsmath,amssymb}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{lmodern}
+
+\tcbuselibrary{skins}
+
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+\definecolor{headerblue}{rgb}{0.85,0.87,0.98}
+\definecolor{deliverblue}{rgb}{0.06,0.10,0.45}
+\definecolor{lightbg}{rgb}{0.96,0.97,1.0}
+\definecolor{tabgold}{rgb}{0.99,0.95,0.80}
+\definecolor{codebg}{rgb}{0.97,0.97,0.97}
+
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue}
+
+% "Section: Title" banner
+\newcommand{\problem}[1]{%
+  \vspace{1em}
+  \noindent\colorbox{headerblue}{\parbox{\dimexpr\textwidth-2\fboxsep}{%
+    \vspace{2pt}\textbf{\large #1}\vspace{2pt}}}
+  \vspace{0.6em}
+}
+
+% Subsection heading inside a banner section
+\newcommand{\subsec}[1]{%
+  \vspace{0.8em}
+  \noindent{\sffamily\bfseries\color{mauve} #1}
+  \vspace{0.35em}
+  \par
+}
+
+% Boxed deliverables callout with a gold tab
+\newtcolorbox{deliverables}[1]{
+  enhanced, colback=lightbg, colframe=deliverblue, boxrule=0.9pt,
+  arc=2pt, left=8pt, right=8pt, top=12pt, bottom=8pt,
+  overlay={\node[fill=tabgold, draw=deliverblue, line width=0.9pt,
+    rounded corners=1pt, inner xsep=8pt, inner ysep=3pt,
+    font=\bfseries\footnotesize, anchor=north]
+    at ([yshift=6pt]frame.north) {#1};},
+  before skip=14pt, after skip=10pt
+}
+
+% Verbatim block on a light ground
+\newtcolorbox{codebox}{
+  colback=codebg, colframe=codebg!70!black, boxrule=0.4pt, arc=1pt,
+  left=6pt, right=6pt, top=4pt, bottom=4pt,
+  before skip=8pt, after skip=8pt
+}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\footnotesize 11-711 Fall 2026; Homework 2}
+\rhead{\footnotesize\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% Long \texttt{} URLs cannot hyphenate; let TeX stretch interword space rather
+% than overflow the right margin.
+\emergencystretch=3em
+\sloppy
+\hbadness=10000
+
+\begin{document}
+
+\begin{center}
+  {\Huge\sffamily\color{mauve} Homework 2}\\[6pt]
+  {\Large\sffamily End-to-end NLP System (RAG) Building}\\[10pt]
+  {\large 11-711 Advanced Natural Language Processing, Fall 2026}\\[4pt]
+  \textbf{Released:} Friday, September 25 \quad\textbf{Due:} Friday, October 23, 11:59 PM ET\\[2pt]
+  \textbf{Individual assignment} \quad 100 points \quad 10\% of your grade
+\end{center}
+
+\vspace{0.8em}
+\hrule
+\vspace{0.8em}
+
+\noindent Large language models (LLMs) such as Llama\,2 have been shown effective for
+question-answering \mbox{(\href{https://arxiv.org/abs/2307.09288}{Touvron et al., 2023})}, however,
+they are often limited by their knowledge in certain domains. A common technique here is to augment
+an LLM's knowledge with documents that are relevant to the question. In this assignment, you will
+\emph{develop a retrieval augmented generation system (RAG)}
+\mbox{(\href{https://arxiv.org/abs/2005.11401}{Lewis et al., 2021})} that is capable of answering
+questions about Pittsburgh and CMU, including history, culture, trivia, and upcoming
+events.\footnote{See the \href{https://cmu-anlp.org/assignments/}{assignment policies} for this
+class, including submission information, late day policy and more.}
+
+\begin{codebox}
+\begin{verbatim}
+Q: Who is Pittsburgh named after?
+A: William Pitt
+
+Q: What famous machine learning venue had its first conference
+   in Pittsburgh in 1980?
+A: ICML
+
+Q: What musical artist is performing at PPG Arena on October 13?
+A: Billie Eilish
+\end{verbatim}
+\end{codebox}
+
+\noindent So far in your machine learning classes, you may have experimented with standardized tasks
+and datasets that were easily accessible. However, in the real world, NLP practitioners often have to
+solve a problem from scratch (like this one!). This includes gathering and cleaning data, annotating
+your data, choosing a model, iterating on the model, and possibly going back to change your data. In
+this assignment, you'll get to experience this full process.
+
+\vspace{0.6em}
+\noindent\textcolor{red}{\textbf{There is no starter code.}} You must collect your own data and
+develop a model of your choice on the data. We provide a public leaderboard for you to evaluate your
+system before the final unseen test set. We will be releasing the inputs for the test set a few days
+before the assignment deadline, and you will run your already-constructed system over this data and
+submit the results. We also ask you to follow several experimental best practices, and describe the
+result in your report.
+
+\vspace{0.6em}
+\noindent\textbf{The key checkpoints for this assignment are:}
+\begin{itemize}[nosep, leftmargin=2em]
+  \item Understand the task specification
+  \item Prepare your raw data
+  \item Develop a retrieval augmented generation system with retrieval components
+  \item Generate results
+  \item Write a report
+  \item Submit your work
+\end{itemize}
+
+\vspace{0.6em}
+\noindent\textbf{On the use of AI.} Per the syllabus, you may use AI to help you write \emph{code}.
+You may \textbf{not} use it to write any part of your report.
+
+%======================================================================
+\problem{Task: Retrieval Augmented Generation (RAG)}
+
+\noindent You'll be working on the task of factual question-answering (QA). We will focus
+specifically on questions about various facts concerning Pittsburgh and CMU. Since existing QA
+systems might not have the necessary knowledge in this domain, you will need to augment each question
+with relevant documents. Given an input question, your system will first retrieve documents and use
+those documents to generate an answer.
+
+%======================================================================
+\problem{Preparing raw data}
+
+\subsec{Compiling a knowledge resource}
+
+\noindent For your test set and the RAG systems, you will first need to compile a knowledge resource
+of relevant documents. We have provided a \textbf{baseline knowledge resource} that you may use as a
+starting point. You can build on top of this baseline by adding new sources and expanding coverage.
+You are free to use any publicly available resource, but we highly recommend including the websites
+below. Note that we can also ask you questions from relevant subpages (e.g. ``about'', ``schedule'',
+``history'', ``upcoming events'', ``vendors'', etc.) from these websites:
+
+\vspace{0.4em}
+\noindent\textbf{General Info and History of Pittsburgh/CMU}
+\begin{itemize}[nosep, leftmargin=2em]
+  \item Wikipedia pages (\href{https://en.wikipedia.org/wiki/Pittsburgh}{Pittsburgh},
+    \href{https://en.wikipedia.org/wiki/History_of_Pittsburgh}{History of Pittsburgh}).
+  \item \href{https://www.pittsburghpa.gov/Home}{City of Pittsburgh webpage}
+  \item \href{https://www.britannica.com/place/Pittsburgh}{Encyclopedia Brittanica page}
+  \item \href{https://www.visitpittsburgh.com}{Visit Pittsburgh webpage}: This website also contains
+    subpages that would be useful for other topics (see below), like events, sports, music, food, etc.
+  \item City of Pittsburgh \href{https://pittsburghpa.gov/finance/tax-forms}{Tax Regulations}: See the
+    links under the ``Regulations'' column of the table
+  \item City of Pittsburgh
+    \href{https://www.pittsburghpa.gov/files/assets/city/v/4/omb/documents/operating-budgets/2025-operating-budget.pdf}{2025
+    Operating Budget}
+  \item \href{https://www.cmu.edu/about/}{About CMU \& CMU History}
+\end{itemize}
+
+\vspace{0.4em}
+\noindent\textbf{Events in Pittsburgh and CMU} (We will only ask about annual/recurring events and
+events taking place from \textbf{October 2026} onward.)
+\begin{itemize}[nosep, leftmargin=2em]
+  \item \href{https://pittsburgh.events}{Pittsburgh events calendar}: Navigate to month-specific pages
+    for easier scraping
+  \item \href{https://downtownpittsburgh.com/events/}{Downtown Pittsburgh events calendar}
+  \item \href{https://www.pghcitypaper.com/pittsburgh/EventSearch?v=d}{Pittsburgh City Paper events}
+  \item \href{https://events.cmu.edu}{CMU events calendar} and
+    \href{https://www.cmu.edu/engage/alumni/events/campus/index.html}{campus events page}
+\end{itemize}
+
+\vspace{0.4em}
+\noindent\textbf{Music and Culture} (Note that many of these pages also contain upcoming events, also
+see Wikipedia pages for each.)
+\begin{itemize}[nosep, leftmargin=2em]
+  \item Pittsburgh \href{https://www.pittsburghsymphony.org}{Symphony},
+    \href{https://pittsburghopera.org}{Opera}, and \href{https://trustarts.org}{Cultural Trust}
+  \item Pittsburgh Museums (\href{https://carnegiemuseums.org}{Carnegie Museums},
+    \href{https://www.heinzhistorycenter.org}{Heinz History Center}),
+    \href{https://www.thefrickpittsburgh.org}{The Frick}, and
+    \href{https://en.wikipedia.org/wiki/List_of_museums_in_Pittsburgh}{more}
+\end{itemize}
+
+\vspace{0.4em}
+\noindent\textbf{Food-related events}
+\begin{itemize}[nosep, leftmargin=2em]
+  \item \href{https://www.visitpittsburgh.com/events-festivals/food-festivals/}{Food Festivals}
+  \item \href{https://www.picklesburgh.com/}{Picklesburgh}
+  \item \href{https://www.pghtacofest.com/}{Pittsburgh Taco Fest}
+  \item \href{https://pittsburghrestaurantweek.com/}{Pittsburgh Restaurant Week}
+  \item \href{https://littleitalydays.com}{Little Italy Days}
+  \item \href{https://bananasplitfest.com}{Banana Split Fest}
+\end{itemize}
+
+\vspace{0.4em}
+\noindent\textbf{Sports} (Note that many of these pages also contain upcoming events, also see
+Wikipedia pages for each. Don't worry about scraping news/scores/recent stats from these sites.)
+\begin{itemize}[nosep, leftmargin=2em]
+  \item General info
+    (\href{https://www.visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/}{Visit Pittsburgh})
+  \item Pittsburgh \href{https://www.mlb.com/pirates}{Pirates},
+    \href{https://www.steelers.com}{Steelers}, and \href{https://www.nhl.com/penguins/}{Penguins}
+\end{itemize}
+
+\subsec{Collecting raw data}
+
+\noindent Your knowledge resource might include a mix of HTML pages, PDFs, and plain text documents.
+You will need to clean this data and convert it into a file format that facilitates your model
+development. Here are some tools that you could use:
+
+\begin{itemize}[nosep, leftmargin=2em]
+  \item To process HTML pages, you can use
+    \href{https://pypi.org/project/beautifulsoup4/}{beautifulsoup4}.
+  \item To parse PDF documents into plain text, you can use
+    \href{https://github.com/py-pdf/pypdf}{pypdf} or
+    \href{https://github.com/jsvine/pdfplumber}{pdfplumber}.
+\end{itemize}
+
+\noindent By the end of this step, you will have a collection of documents that will serve as the
+knowledge resource for your RAG system.
+
+%======================================================================
+\problem{Training data}
+
+\noindent This is an \textbf{optional} aspect of this assignment, should you choose to train a model.
+The choice of training data is a bit more flexible, and depends on your implementation. If you are
+fine-tuning a model, you could possibly:
+
+\begin{itemize}[nosep, leftmargin=2em]
+  \item Annotate it yourself manually, see the guidelines below.
+  \item Do some sort of automatic annotation and/or data augmentation. You cannot use closed-source
+    models (such as GPT\,5, Claude etc.) for this process.
+  \item Use existing datasets for transfer learning.
+\end{itemize}
+
+\noindent If you are using an LLM in a few-shot learning setting, you could possibly:
+
+\begin{itemize}[nosep, leftmargin=2em]
+  \item Annotate examples for the task using the guidelines below.
+  \item Use existing datasets to identify examples for in-context learning.
+\end{itemize}
+
+\noindent This training set you have constructed will constitute
+\texttt{data/train/questions.txt} and \texttt{data/train/reference\_answers.json} in your submission.
+Read our model and data policy for this assignment.
+
+\subsec{Annotation guidelines (optional)}
+
+\begin{itemize}[nosep, leftmargin=2em]
+  \item \textbf{Domain Relevance}: Training examples should be similar in nature to the evaluation
+    data (i.e., questions about Pittsburgh and CMU). Use the knowledge resources listed above when
+    curating examples.
+  \item \textbf{Diversity}: Your training data should cover a wide range of questions about
+    Pittsburgh and CMU.
+  \item \textbf{Size}: The size of your training data should be sufficient to support your training
+    objective (e.g., fine-tuning or prompt selection). There is no minimum required size.
+  \item If you want some guidelines about this, see the lecture on experimental design and
+    evaluation.\footnote{Two lectures this semester cover this material: \textbf{Research Skills and
+    Experimental Design} (October 8) and \textbf{Benchmarking and Evaluation Techniques} (October 22).
+    Slides are posted on the \href{https://cmu-anlp.org/schedule/}{course schedule}. Since the second
+    falls the day before this assignment is due, you may also find the Fall 2025 notes on
+    \href{https://cmu-l3.github.io/anlp-fall2025/static_files/anlp-f2025-14-experimentation.pdf}{experimental
+    design} and
+    \href{https://cmu-l3.github.io/anlp-fall2025/static_files/anlp-f2025-13-evaluation.pdf}{evaluation}
+    useful earlier in the assignment.}
+  \item \textbf{Quality}: Annotated examples should be accurate.
+\end{itemize}
+
+\noindent To help you get started, here are some example questions:
+
+\begin{itemize}[nosep, leftmargin=2em]
+  \item Questions that could be answered by just prompting an LLM
+    \begin{itemize}[nosep, leftmargin=1.6em]
+      \item Which three rivers meet in downtown Pittsburgh?
+    \end{itemize}
+  \item Questions that can be better answered by augmenting an LLM with relevant documents
+    \begin{itemize}[nosep, leftmargin=1.6em]
+      \item What is the name of the annual pickle festival held in Pittsburgh?
+    \end{itemize}
+  \item Questions that are likely answered only through augmentation
+    \begin{itemize}[nosep, leftmargin=1.6em]
+      \item When was the Pittsburgh Soul Food Festival established?
+    \end{itemize}
+  \item Questions that are sensitive to temporal signals
+    \begin{itemize}[nosep, leftmargin=1.6em]
+      \item Who is performing at X venue on Y date?
+    \end{itemize}
+\end{itemize}
+
+%======================================================================
+\problem{Developing your RAG system}
+
+\noindent Unlike assignment 1, there is no starter code for this assignment. You are free to use open
+source libraries and models. However, keep in mind the specific constraints outlined across different
+sections in this assignment, and make sure you provide due credit for any resources used in your
+report. See our model policy.
+
+\subsec{Implementation Requirements}
+
+\noindent For your RAG system, you will need the following three components:
+
+\begin{enumerate}[nosep, leftmargin=2em]
+  \item \textbf{Document \& query embedder} (can use existing models)
+  \item \textbf{Document retriever} (implement sparse, dense and hybrid retrieval)
+  \item \textbf{Document reader} (aka. question-answering system) (can use existing models)
+\end{enumerate}
+
+\vspace{0.5em}
+\noindent For the core retrieval components listed below, you \textbf{MUST} implement the retrieval
+logic directly using libraries such as sentence-transformers, scikit-learn, numpy etc. You cannot use
+high-level RAG frameworks like LangChain, LlamaIndex, or similar tools that abstract away the
+retrieval implementation.
+
+\vspace{0.6em}
+\noindent\textbf{Document Chunking.} Large documents need to be broken down into smaller, manageable
+pieces (chunks) for effective retrieval, since embedding models have token limits and retrieving
+overly large text segments can dilute relevance and overwhelm the generation model. Implement
+document chunking strategies that split documents into appropriately-sized segments while preserving
+semantic coherence. You may want to implement and try out different approaches (e.g., fixed-size with
+overlap, sentence-aware chunking, paragraph-based chunking etc.), since chunking strategy can have a
+significant impact on downstream retrieval and generation performance. Consider edge cases like very
+short documents, very long paragraphs, and documents with special formatting.
+
+\vspace{0.6em}
+\noindent\textbf{Hybrid Retrieval.} Implement a system that combines dense (vector-based) and sparse
+(keyword-based) retrieval:
+
+\begin{itemize}[nosep, leftmargin=2em]
+  \item \textbf{Dense Retrieval}: Use embedding models to create vector representations of documents
+    and queries. We recommend starting with sentence-transformers models like
+    \texttt{all-MiniLM-L6-v2} for efficiency, though you can experiment with other models (for
+    guidance on selecting high-performing embedding models, refer to the
+    \href{https://huggingface.co/spaces/mteb/leaderboard}{MTEB Leaderboard}) to improve performance.
+    Use \href{https://github.com/facebookresearch/faiss}{FAISS} for efficient vector storage and
+    similarity search. You'll need to implement the pipeline for embedding documents, building the
+    FAISS index, and retrieving similar documents for queries.
+  \item \textbf{Sparse Retrieval}: Integrate BM25 into your pipeline. You can use existing BM25
+    implementations, limited to \href{https://github.com/xhluca/bm25s}{bm25s} or
+    \href{https://pypi.org/project/rank-bm25/}{rank-bm25}, or build your own implementation if you
+    wish to do so.
+  \item \textbf{Combination Strategy}: Implement at least one established method for combining dense
+    and sparse retrieval results. Common approaches include score normalization and weighted
+    averaging, rank-based fusion methods (like Reciprocal Rank Fusion), using one method to filter or
+    re-rank results from the other, or other ensemble techniques found in the literature. Experiment
+    with different combination strategies to see which works best for your dataset.
+\end{itemize}
+
+\vspace{0.5em}
+\noindent To get started with the overall RAG architecture, you can reference:
+
+\begin{itemize}[nosep, leftmargin=2em]
+  \item 11-711 lecture notes
+  \item \href{https://acl2023-retrieval-lm.github.io}{ACL 2023 tutorial on retrieval-augmented LMs}
+  \item \href{https://github.com/facebookresearch/llama-recipes/tree/main/demo_apps/RAG_Chatbot_example}{llama-recipes}
+    for an example RAG chatbot with Llama\,2
+  \item \href{https://github.com/ollama/ollama}{Ollama} or
+    \href{https://github.com/ggerganov/llama.cpp}{llama.cpp} to run LLMs locally on your machine
+\end{itemize}
+
+\noindent All the code for your data preprocessing, model development and evaluation will be a part of
+your GitHub repository (see submission for details).
+
+%======================================================================
+\problem{Generating results}
+
+\noindent Finally, you will evaluate your systems on held-out test queries and submit your results for
+scoring. To support iterative development, we provide a public leaderboard to help you improve your
+system iteratively, as well as a separate unseen test set that will be used for final grading.
+
+\vspace{0.5em}
+\noindent The final unseen test set (questions only) will be released the day before the assignment is
+due (\textbf{Thursday, October 22nd, 2026}).
+
+\subsec{Public evaluation data}
+
+\noindent We release \texttt{public\_evaluation\_data.json} alongside this handout: 157 questions
+about Pittsburgh and CMU, each with one or more reference answers, drawn from the same pool as the
+test set. Each entry looks like this:
+
+\begin{codebox}
+\begin{verbatim}
+{
+    "id": "1",
+    "question": "What open mic event occurs weekly on Mondays
+                 from 8:00-10:00 PM?",
+    "answers": ["Monday Night Open Mic Comedy!"]
+}
+\end{verbatim}
+\end{codebox}
+
+\noindent Because the reference answers are included, you can score this set locally with the metrics
+described below. Use it as your development set: it is how you are expected to run the comparisons
+that the analysis section asks for. Do not train or tune on it if you also plan to report it as a
+held-out number.
+
+\vspace{0.5em}
+\noindent Note that this is \textbf{not} the leaderboard set. The leaderboard uses a different set of
+queries, and we will not release its reference answers.
+
+\subsec{Public leaderboard}
+
+\noindent\textcolor{red}{\textbf{The leaderboard is not live yet --- we will post the leaderboard
+link along with queries (without answers) on Piazza as soon as it is released.}}
+
+\vspace{0.4em}
+\noindent For this leaderboard:
+\begin{itemize}[nosep, leftmargin=2em]
+  \item The queries are \textbf{different from} those in \texttt{public\_evaluation\_data.json}.
+    Scoring well on the public evaluation data does not guarantee the same score here.
+  \item We will \textbf{not} release the reference answers for the leaderboard queries, so you cannot
+    score this set yourself.
+  \item Only aggregate scores will be shown.
+  \item You are limited to \textbf{at most 10 submissions} in total.
+  \item You are only allowed to submit \textbf{one answer per question}.
+  \item If you don't want your Andrew ID displayed, you can replace it with the nickname we assigned
+    to you through email titled ``Advanced NLP Assignment 2 Leaderboard Nicknames''.
+\end{itemize}
+
+\vspace{0.4em}
+\noindent The leaderboard is intended solely as a development and diagnostic tool. Scores on the
+leaderboard will \textbf{not} be used directly for grading.
+
+\begin{deliverables}{SUBMISSION FORMAT: PUBLIC LEADERBOARD}
+\begin{verbatim}
+{
+    "andrewid": <your Andrew ID or assigned nickname>,
+    "1": "Answer 1",
+    "2": "Answer 2",
+    ...
+}
+\end{verbatim}
+\textbf{Please make sure you follow this format. Points will be deducted for misformatted outputs.}
+\end{deliverables}
+
+\subsec{Running your ablations}
+
+\noindent The leaderboard is \textbf{not} the place to run your ablations: you have at most 10
+submissions in total, and the analysis section asks you to compare several systems (dense-only,
+sparse-only, hybrid, more than one fusion strategy, and retrieval vs closed-book). That is already
+more configurations than you have submissions.
+
+\vspace{0.5em}
+\noindent Instead, run every comparison locally against \texttt{public\_evaluation\_data.json},
+which ships with reference answers for exactly this purpose. If you annotate your own questions,
+holding out a portion of them gives you a second development set; never train, tune, or prompt-select
+on whatever you report as held-out. Report how many questions each number is computed over. Your
+development scores and the leaderboard scores measure different question sets, so keep them in
+separate columns of your results table and never average the two.
+
+\vspace{0.5em}
+\noindent Use your leaderboard submissions sparingly. Once your ablations are done, submit
+predictions from the systems that scored best on the public evaluation data and on any test data you
+built yourself, to check them against questions you did not write.
+
+\subsec{Unseen test set}
+
+\noindent This test set will be curated by the course staff and will serve as the \textbf{final
+evaluation} of your system's ability to respond to a variety of questions about Pittsburgh and CMU.
+Because the goal of this assignment is not to perform hyperparameter optimization on this private test
+set, we ask you to not overfit to this test set. You are allowed to submit up to three output files
+(\texttt{system\_outputs/system\_output\_\{1,2,3\}.json}). We will use the best performing file for
+grading.
+
+\begin{deliverables}{SUBMISSION FORMAT: UNSEEN TEST SET}
+\begin{verbatim}
+{
+    "1": "Answer 1",
+    "2": "Answer 2",
+    ...
+}
+\end{verbatim}
+\textbf{Please make sure you follow this format. Points will be deducted for misformatted outputs.}
+\end{deliverables}
+
+\subsec{Release policy for late days}
+
+\noindent The \href{https://cmu-anlp.org/syllabus/}{course late policy} applies: for each
+unexcused day your homework is late, 5\% is subtracted from your grade for this homework. You may
+request excused late days by emailing \texttt{f2026-11-711@andrew.cmu.edu} at least 168 hours
+(7 days) before the deadline; medical requests with documentation can be made later.
+
+\vspace{0.5em}
+\noindent This assignment adds one logistical requirement on top of that policy. Because the test set
+is released the day before the deadline, everyone who submits late must receive a \textbf{different}
+test set, so that students using late days do not gain extra time on the same questions. If you plan
+to submit late, you \textbf{MUST} tell the TAs via a Piazza post how many days you plan to take and
+the date you plan to submit. A day before that date, a different test set will be released to you. We
+have distinct test sets prepared for up to 5 late days.
+
+\subsec{Evaluation metrics}
+
+\noindent Your submissions will be evaluated on a combination of metrics, including standard metrics
+(answer recall, F1, and ROUGE-L) and LLM-as-Judge (score 1--5) with rubrics. See section 6.1 of the
+original SQuAD paper for details of standard metrics. The standard metrics are token-based and measure
+the overlap between your system answer and the reference answer(s). Therefore, we recommend keeping
+your system generated responses as concise as possible.
+
+%======================================================================
+\problem{Writing your report}
+
+\noindent We ask you to write a report detailing various aspects about your end-to-end system
+development (see the grading criteria below).
+
+\vspace{0.4em}
+\noindent There will be a \textbf{7 page limit} for the report, and we require you to use the
+\href{https://github.com/acl-org/acl-style-files}{ACL template}.
+
+\vspace{0.4em}
+\noindent Make sure you cite all your sources (open-source models, libraries, papers, blogs etc.) in
+your report.
+
+%======================================================================
+\problem{Submission \& Grading}
+
+\begin{deliverables}{SUBMISSION CHECKLIST}
+There are \textbf{two Gradescope submissions}, both due at the deadline above:
+\begin{itemize}[nosep, leftmargin=1.6em]
+  \item \textbf{Assignment2: Report} --- \texttt{report.pdf}, built from the ACL template.
+  \item \textbf{Assignment2: Code} --- a zip containing your code link, system outputs, and
+    (optionally) your annotated training data.
+\end{itemize}
+\vspace{0.4em}
+Between them you must turn in:
+\begin{itemize}[nosep, leftmargin=1.6em]
+  \item Your report.
+  \item A link to your GitHub repository containing your code.\footnote{Create a private GitHub repo
+    and give access to the TAs in charge of this assignment by the deadline. See the Piazza
+    announcement post for our GitHub usernames.}
+  \item (Optionally) training data you annotated for this assignment.
+  \item Your system outputs on our test set.
+\end{itemize}
+\end{deliverables}
+
+\noindent The zip you upload to \textbf{Assignment2: Code} should have the following structure
+(assuming the lowercase Andrew ID is \texttt{ANDREWID}).
+
+\begin{codebox}
+\begin{verbatim}
+ANDREWID/
+|-- github.txt
+|-- data/
+|   |-- train (optional)/
+|       |-- questions.txt
+|       |-- reference_answers.json
+|-- system_outputs/
+|   |-- system_output_1.json
+|   |-- system_output_2.json (optional)
+|   |-- system_output_3.json (optional)
+|-- README.md
+\end{verbatim}
+\end{codebox}
+
+\noindent Do not put \texttt{report.pdf} inside the zip; it is graded on its own Gradescope
+assignment.
+
+\vspace{0.5em}
+\noindent\textcolor{red}{\textbf{A code submission without \texttt{system\_outputs/} will be marked
+incomplete.}} Your system outputs are what the 30 results points are scored on, so a zip that
+contains only code and a GitHub link cannot be graded.
+
+\subsec{Grading}
+
+\noindent The following points (max.\ 100 points) are derived from the results and your report. See
+the course grading policy.\footnote{Grading policy: \url{https://cmu-anlp.org/syllabus/}}
+
+\begin{itemize}[leftmargin=2em]
+  \item \textbf{Submit code (30 points)}: submit your code for preprocessing and model development in
+    the form of a GitHub repo. We may not necessarily run your code, but we will look at it. So please
+    ensure that it contains up-to-date code with a README file outlining the steps to run it.
+  \item \textbf{Results (30 points)}: points based on your system's performance on our private test
+    set. 20 points based on your performance using our metrics,\footnote{In general, if your system is
+    generating answers that are relevant to the question, it would be considered non-trivial. This
+    could be achieved with a basic RAG system.} plus up to 10 points based on level of performance
+    relative to other submissions from the class.
+  \item \textbf{Report}: the points below are awarded based on your report.
+    \begin{itemize}[leftmargin=1.6em]
+      \item \textbf{Data creation (10 points)}: clearly describe how you created your data. Please
+        include the following details:
+        \begin{itemize}[nosep, leftmargin=1.4em]
+          \item How did you compile your knowledge resource, and how did you decide which documents to
+            include?
+          \item How did you extract raw data? What tools did you use?
+          \item What data was annotated for training if any (what kind and how much)?
+          \item For training data that you did not annotate, did you use any extra data and in what
+            way?
+        \end{itemize}
+      \item \textbf{Model details (10 points)}: clearly describe your model(s). Please include the
+        following details:
+        \begin{itemize}[nosep, leftmargin=1.4em]
+          \item What kind of methods (including baselines) did you try? Explain at least two
+            variations (more is welcome). This can include variations of models, which data it was
+            trained on, training strategy, embedding models, retrievers, re-rankers, etc.
+          \item What was your justification for trying these methods?
+        \end{itemize}
+      \item \textbf{Results (10 points)}: report raw numbers from your experiments. Please include the
+        following details:
+        \begin{itemize}[nosep, leftmargin=1.4em]
+          \item What was the result of each system variant you tried, measured on
+            \texttt{public\_evaluation\_data.json} and on any development or test data you built
+            yourself? Say which set each number comes from and how many questions it covers.
+          \item For the systems whose predictions you submitted to the leaderboard, what score did
+            they receive? You have at most 10 submissions, so we do not expect a leaderboard score
+            for every variant.
+        \end{itemize}
+      \item \textbf{Analysis (10 points)}: perform quantitative/qualitative analysis and present your
+        findings:
+        \begin{itemize}[nosep, leftmargin=1.4em]
+          \item Perform a comparison of the outputs on a more fine-grained level than just holistic
+            accuracy numbers, and report the results. For instance, how did your models perform across
+            various types of questions?
+          \item Report your results across at least two variations you tried, including variations of
+            models, which data it was trained on, training strategy, embedding models, retrievers,
+            re-rankers, etc.
+          \item Perform an analysis that evaluates the effectiveness of the retrieve-and-augment
+            strategy vs closed-book use of your models.
+          \item Evaluate your hybrid retrieval approach by comparing dense-only, sparse-only, and
+            hybrid retrieval performance. Which fusion strategies work best for different types of
+            questions?
+          \item Show examples of outputs from at least two of the systems you created. Ideally, these
+            examples could be representative of the quantitative differences that you found above.
+        \end{itemize}
+    \end{itemize}
+\end{itemize}
+
+%======================================================================
+\problem{Model and Data Policy}
+
+\noindent To make the assignment accessible to everyone:
+
+\begin{itemize}[leftmargin=2em]
+  \item You are only allowed to use models that are also accessible through
+    \href{https://huggingface.co/models}{HuggingFace}. This means you may not use closed models like
+    OpenAI models, but you can opt to use a hosting service for an open model (such as the Hugging
+    Face or Together APIs). \textbf{The model must have been released before January 1, 2026, and must
+    not exceed 32B total parameters}. For mixture-of-experts models this is the total parameter
+    count across all experts, not the active count per token.
+  \item You are only allowed to include publicly available data in your knowledge resource and
+    training data.
+  \item You are welcome to use any open-source library to assist your data annotation and model
+    training. For data annotation, you can use tools like Label Studio, Doccano, or similar annotation
+    platforms to create your question-answer pairs efficiently. For model development, you can use
+    standard ML libraries like scikit-learn, PyTorch, or HuggingFace Transformers for any model
+    training, fine-tuning, or evaluation tasks. Make sure you check the license and provide due credit
+    for all tools used.
+\end{itemize}
+
+\noindent If you have any questions about whether a model or data is allowed, please ask on Piazza.
+
+%======================================================================
+\problem{FAQ}
+
+\noindent\textbf{Q: ``There are lots of links and subpages in the webpages, what is exactly the scope
+for this assignment?''}\\
+A: The scope includes the links in this handout and their descendant pages that are specifically
+relevant to the topics we have listed (e.g. history, events, music, food, sports). In addition, you
+may also include some PDFs that can be reached from those websites, even if they are not technically
+descendant pages. Use your best judgment to determine whether a webpage is relevant---a good heuristic
+is whether we can ask questions about factual content included in those pages.
+
+\vspace{0.6em}
+\noindent\textbf{Q: ``Is manual scraping prohibited?''}\\
+A: Manual scraping is not prohibited. To what extent you would perform the task manually is up to you.
+
+\vspace{0.6em}
+\noindent\textbf{Q: ``What libraries can I use for web scraping and document processing?''}\\
+A: You can use standard libraries like Selenium, Beautiful Soup, requests, pdfminer, pypdf,
+pdfplumber, and similar tools for data collection and preprocessing, as long as you provide proper
+credit in your report. These are considered basic utilities rather than high-level RAG frameworks.
+
+\vspace{0.6em}
+\noindent\textbf{Q: ``What is the date range I should consider for event-based questions?''}\\
+A: For any date-based questions specifically about events, we will only ask about events taking
+place from October 2026 onward; every question with a specific date falls on or after October 22,
+2026. Annual and recurring events are also in scope.
+
+\vspace{0.6em}
+\noindent\textbf{Q: ``Can I use a mixture-of-experts model?''}\\
+A: Yes, as long as its \textbf{total} parameter count is at most 32B. We count total rather than
+active parameters because you still have to load every expert, which is what limits what will run on
+the hardware most of you have.
+
+\vspace{0.6em}
+\noindent\textbf{Q: ``Can I use any closed-source models (OpenAI, Claude, etc.)?''}\\
+A: No. You cannot use any closed-source models for any part of the assignment, including embeddings,
+retrieval, or generation. All models must be open-weight and available through HuggingFace or similar
+open platforms.
+
+\vspace{0.6em}
+\noindent\textbf{Q: ``Can I use LangChain or related frameworks for this assignment?''}\\
+A: No, you cannot use LangChain or other RAG frameworks (such as LlamaIndex or similar libraries) that
+abstract away the core retrieval implementation. The purpose of this assignment is to learn the
+underlying mechanics of retrieval systems by implementing and integrating them yourself.
+
+\vspace{0.6em}
+\noindent\textbf{Q: ``What counts as `manual implementation' for chunking and retrieval?''}\\
+A: You need to write the core logic yourself. For chunking: implement the splitting logic, overlap
+handling, and boundary detection. For hybrid retrieval: implement the integration pipeline, and result
+processing. You can use libraries as suggested in the sections above (e.g., NLTK for tokenization,
+NumPy for math operations, FAISS for vector operations, existing BM25 implementations like bm25s or
+rank-bm25) but not complete retrieval frameworks like LangChain retrievers or high-level RAG pipeline
+frameworks.
+
+\vspace{0.6em}
+\noindent\textbf{Q: ``How do I show that my results are statistically significant?''}\\
+A: You can use statistical tests to determine whether performance differences between methods are
+statistically significant. Examples include paired t-tests (for continuous metrics like F1 scores) and
+McNemar's tests (for binary classification accuracy). You can run these tests on multiple metrics, or
+argue in your writeup that one metric is the best proxy for final system performance. If differences
+between methods are not statistically significant, interpret what this means for your system (e.g., a
+new feature may not actually improve performance despite appearing better).
+
+\vspace{0.6em}
+\noindent\textbf{Q: ``If I use late days, will I be evaluated on the same test set as those who do not
+use late days?''}\\
+A: No. We release a different test set for each late day (up to 5), ensuring fairness for everyone
+in the class. Note that the late penalty itself is the course-wide 5\% per unexcused day; see the
+release policy for late days above.
+
+%======================================================================
+\problem{Acknowledgements}
+
+\noindent This assignment was based on the Spring 2024 version of this assignment by Graham Neubig and
+TAs.
+
+%======================================================================
+\problem{References}
+
+\begin{itemize}[nosep, leftmargin=2em]
+  \item Lewis et al., 2021. \href{https://arxiv.org/abs/2005.11401}{Retrieval-Augmented Generation for
+    Knowledge-Intensive NLP Tasks}.
+  \item Touvron et al., 2023. \href{https://arxiv.org/abs/2307.09288}{Llama 2: Open Foundation and
+    Fine-Tuned Chat Models}.
+  \item Vu et al., 2023. \href{https://arxiv.org/abs/2310.03214}{FreshLLMs: Refreshing Large Language
+    Models with Search Engine Augmentation}.
+\end{itemize}
+
+\end{document}

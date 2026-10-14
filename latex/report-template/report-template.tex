@@ -1,0 +1,231 @@
+% 11-711 Fall 2026; Homework 2 report template.
+%
+% This is the ACL template, which the handout requires. Keep the style files as
+% they are: do not change margins, font size, or spacing to fit more in.
+%
+% HARD LIMIT: 7 pages of content. References do not count toward the limit.
+%
+% The four graded sections below are worth 10 points each (40 of 100). Each
+% one lists the questions the handout asks you to answer; answer all of them.
+% If something does not apply to your system, say so in a sentence rather than
+% leaving the section empty, so we can tell the difference.
+%
+% Cite every model, library, dataset, paper, and blog post you used. Per the
+% syllabus, every word of this report must be your own: you may use AI to help
+% write code, but not to write any part of this report.
+
+\pdfoutput=1
+
+\documentclass[11pt]{article}
+
+\usepackage{acl}
+
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{inconsolata}
+
+\title{11-711 Homework 2: Retrieval-Augmented Generation for Pittsburgh and CMU}
+
+% Individual submission. If your team is approved to work jointly, list every
+% author and mark equal contribution as needed.
+\author{
+  Your Name \\
+  \texttt{yourandrewid@andrew.cmu.edu} \\[4pt]
+  {\small Due: October 23, 2026, 11:59 PM ET}
+}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+% Around 150 words. What system did you build, what were the main design
+% decisions, and what did the evaluation show? State your headline number.
+\end{abstract}
+
+%======================================================================
+\section{Introduction}
+% Replace this sentence; it is here to show the citation commands and to give
+% the bibliography something to render. \citep for parenthetical, \citet for
+% textual: as \citet{lewis2021rag} show, ...
+We build a retrieval-augmented generation system \citep{lewis2021rag} that
+answers factual questions about Pittsburgh and Carnegie Mellon University.
+
+% Half a page at most. What the task is, what your final system does end to
+% end, and a roadmap of the report. A pipeline figure here is usually worth
+% more than a paragraph of prose.
+
+% \begin{figure}[t]
+%   \centering
+%   \includegraphics[width=\columnwidth]{assets/pipeline.png}
+%   \caption{End-to-end architecture of our system.}
+%   \label{fig:pipeline}
+% \end{figure}
+
+%======================================================================
+\section{Data Creation}
+\label{sec:data}
+% 10 points. Answer all four questions below.
+
+\subsection{Knowledge resource}
+% How did you compile your knowledge resource, and how did you decide which
+% documents to include? Give the source list and the scoping rule you applied.
+% A table of source, number of documents, and number of tokens makes the scale
+% concrete and costs you three lines.
+
+% \begin{table}[t]
+%   \centering
+%   \begin{tabular}{lrr}
+%     \toprule
+%     Source & Documents & Tokens \\
+%     \midrule
+%     & & \\
+%     \midrule
+%     Total & & \\
+%     \bottomrule
+%   \end{tabular}
+%   \caption{Composition of our knowledge resource.}
+%   \label{tab:corpus}
+% \end{table}
+
+\subsection{Extraction and cleaning}
+% How did you extract the raw data, and with what tools? Cover crawling, HTML
+% and PDF handling, boilerplate removal, and deduplication. Report what you
+% discarded and why, not only what you kept.
+
+\subsection{Annotated training data}
+% What did you annotate, what kind, and how much? Describe your guidelines and
+% your annotator agreement if you measured it. This step is optional in the
+% assignment: if you annotated nothing, say so here and explain the choice.
+
+\subsection{Other data}
+% For training data you did not annotate yourself: what extra data did you use,
+% and in what way? Note licenses, and confirm it falls within the model and
+% data policy in the handout.
+
+%======================================================================
+\section{Model Details}
+\label{sec:model}
+% 10 points. Describe your system, and explain at least TWO variations you
+% tried (more is welcome) along with your justification for trying each. A
+% variation can be a different embedding model, retriever, re-ranker, chunking
+% scheme, reader, prompt, or training strategy.
+
+\subsection{Chunking}
+% Your splitting logic, chunk size, overlap, and how you handled boundaries.
+% Say how you treated the edge cases: very short documents, very long
+% paragraphs, tables and other special formatting.
+
+\subsection{Dense retrieval}
+% Embedding model and why you chose it, index type, and how you build and query
+% it. Report the number of vectors and the retrieval depth $k$.
+
+\subsection{Sparse retrieval}
+% BM25 implementation, tokenization and stemming choices, and any parameter
+% tuning.
+
+\subsection{Hybrid retrieval}
+% The combination strategy is a required component. State the fusion method
+% precisely enough that a reader could reimplement it: give the formula, the
+% weights, and how you chose them.
+
+\subsection{Reader}
+% The generation model, prompt format, decoding settings, and context budget.
+% Confirm the model satisfies the handout's policy (open-weight, on HuggingFace,
+% within the size limit).
+
+\subsection{Baselines}
+% What you compare against. At minimum a closed-book variant of your reader,
+% since Section~\ref{sec:analysis} asks you to quantify what retrieval buys.
+
+%======================================================================
+\section{Results}
+\label{sec:results}
+% 10 points. Report the raw numbers for every system variant you tried, measured
+% on public_evaluation_data.json and on any development or test data you built
+% yourself. Add the leaderboard score for the systems whose predictions you
+% submitted there; with 10 submissions you will not have one for every variant,
+% and that is expected. State which system produced each of the
+% system_output_{1,2,3}.json files you submitted.
+
+% \begin{table}[t]
+%   \centering
+%   \begin{tabular}{lrrrrr}
+%     \toprule
+%     & \multicolumn{4}{c}{Public eval (157 q)} & Leaderboard \\
+%     \cmidrule(lr){2-5}
+%     System & Recall & F1 & ROUGE-L & Judge & Total \\
+%     \midrule
+%     Closed-book      & & & & & -- \\
+%     Dense only       & & & & & -- \\
+%     Sparse only      & & & & & -- \\
+%     Hybrid (final)   & & & & & \\
+%     \bottomrule
+%   \end{tabular}
+%   \caption{Results on the public evaluation set, with leaderboard scores for the
+%            systems we submitted.}
+%   \label{tab:results}
+% \end{table}
+
+% Say which set each number comes from and how many questions it covers.
+% Leaderboard scores and numbers from your own held-out set measure different
+% questions, so keep them in separate columns and never average the two.
+
+%======================================================================
+\section{Analysis}
+\label{sec:analysis}
+% 10 points. This section is graded on insight, not on the size of the table.
+% All five items below are required.
+
+\subsection{Performance by question type}
+% Break the results down more finely than one holistic number. Define your
+% question categories, say how you assigned them, and report per-category
+% scores. Where does the system fail, and why?
+
+\subsection{Comparing your variations}
+% Report results for at least two of the variations from Section~\ref{sec:model}
+% and say what you conclude. If two systems differ by less than run-to-run
+% variation, say that rather than declaring a winner.
+
+\subsection{Retrieval versus closed-book}
+% Quantify what retrieval actually buys over using the same reader with no
+% context. Which questions improve, and which get worse?
+
+\subsection{Dense, sparse, and hybrid}
+% Compare the three retrieval modes directly, and compare your fusion
+% strategies. Which works best for which kind of question? A question type
+% where sparse beats dense, or the reverse, is the interesting part.
+
+\subsection{Example outputs}
+% Show outputs from at least two of your systems on the same questions. Choose
+% examples that illustrate the quantitative differences above rather than
+% cherry-picking successes.
+
+%======================================================================
+\section{Conclusion}
+% What you built, what you learned, and what you would do next with more time.
+
+%======================================================================
+\section*{Limitations}
+% Optional but encouraged: where your evaluation is thin, what your knowledge
+% resource does not cover, and which conclusions your evidence does not support.
+
+%======================================================================
+\section*{Use of AI (required, ungraded)}
+% Which parts of this assignment did you use AI for, and how? If you used none,
+% say so. This question is required by the syllabus: using AI without making an
+% honest attempt at answering it is itself an academic integrity violation.
+% Remember that AI may not be used to write any part of this report.
+
+%======================================================================
+\bibliography{custom}
+
+\end{document}

@@ -1,0 +1,84 @@
+% 11-711 Fall 2026, Homework 2 starter bibliography.
+%
+% A few entries you are likely to need. Add your own for every model, library,
+% dataset, and paper you use — the handout requires you to cite all of them.
+% Verify each entry against the source before you rely on it.
+
+@misc{lewis2021rag,
+  title         = {Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks},
+  author        = {Patrick Lewis and Ethan Perez and Aleksandra Piktus and Fabio Petroni
+                   and Vladimir Karpukhin and Naman Goyal and Heinrich K{\"u}ttler
+                   and Mike Lewis and Wen-tau Yih and Tim Rockt{\"a}schel
+                   and Sebastian Riedel and Douwe Kiela},
+  year          = {2021},
+  eprint        = {2005.11401},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url           = {https://arxiv.org/abs/2005.11401}
+}
+
+@misc{touvron2023llama2,
+  title         = {Llama 2: Open Foundation and Fine-Tuned Chat Models},
+  author        = {Hugo Touvron and Louis Martin and Kevin Stone and others},
+  year          = {2023},
+  eprint        = {2307.09288},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url           = {https://arxiv.org/abs/2307.09288}
+}
+
+@misc{vu2023freshllms,
+  title         = {FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation},
+  author        = {Tu Vu and Mohit Iyyer and Xuezhi Wang and Noah Constant and Jerry Wei
+                   and Jason Wei and Chris Tar and Yun-Hsuan Sung and Denny Zhou
+                   and Quoc Le and Thang Luong},
+  year          = {2023},
+  eprint        = {2310.03214},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url           = {https://arxiv.org/abs/2310.03214}
+}
+
+% Cite this for the definition of token-level F1 and answer recall (Section 6.1).
+@inproceedings{rajpurkar2016squad,
+  title     = {SQuAD: 100,000+ Questions for Machine Comprehension of Text},
+  author    = {Pranav Rajpurkar and Jian Zhang and Konstantin Lopyrev and Percy Liang},
+  booktitle = {Conference on Empirical Methods in Natural Language Processing},
+  year      = {2016},
+  url       = {https://api.semanticscholar.org/CorpusID:11816014}
+}
+
+@inproceedings{reimers2019sbert,
+  title     = {Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks},
+  author    = {Nils Reimers and Iryna Gurevych},
+  booktitle = {Conference on Empirical Methods in Natural Language Processing},
+  year      = {2019},
+  url       = {https://arxiv.org/abs/1908.10084}
+}
+
+@article{johnson2019faiss,
+  title   = {Billion-scale similarity search with {GPUs}},
+  author  = {Jeff Johnson and Matthijs Douze and Herv{\'e} J{\'e}gou},
+  journal = {IEEE Transactions on Big Data},
+  volume  = {7},
+  number  = {3},
+  pages   = {535--547},
+  year    = {2019}
+}
+
+% The classic reference for reciprocal rank fusion, one option for the
+% combination strategy the handout requires.
+@inproceedings{cormack2009rrf,
+  title     = {Reciprocal rank fusion outperforms condorcet and individual rank learning methods},
+  author    = {Gordon V. Cormack and Charles L. A. Clarke and Stefan B{\"u}ttcher},
+  booktitle = {Proceedings of the 32nd International ACM SIGIR Conference on Research and
+               Development in Information Retrieval},
+  pages     = {758--759},
+  year      = {2009}
+}
+
+@misc{bm25s,
+  title        = {bm25s: Fast lexical search with BM25},
+  howpublished = {\url{https://github.com/xhluca/bm25s}},
+  note         = {Accessed: <date>}
+}

@@ -1,0 +1,76 @@
+URL: https://www.cmu.edu/news/stories/archives/2026/january/teaching-a-robot-to-hang-a-t-shirt-starts-with-data
+
+Teaching a Robot To Hang a T-shirt Starts With Data - News - Carnegie Mellon University
+Skip to main content
+January 6, 2026
+Teaching a Robot To Hang a T-shirt Starts With Data
+Share on Facebook (opens in new window)
+Share on X (opens in new window)
+Share on LinkedIn (opens in new window)
+Print this page
+Share by email
+By:
+Stacey Federoff
+Email
+Media Inquiries
+Name
+University Communications and Marketing, Media Relations
+Email
+Carnegie Mellon University sophomore Jasmine Li knew since high school that she wanted to explore robotics while majoring in
+electrical and computer engineering
+(opens in new window)
+.
+Building on her experience volunteering at retirement homes before CMU, Li chose to apply for a
+Summer Undergraduate Research Fellowship
+(opens in new window)
+award to combine robotics and teaching technology as a tool for success. She decided to focus on assistive robotics that help people with everyday tasks.
+“I was interested in the side of robotics that helps people who might not be as familiar with technology,” she said. “I was thinking about the hardware side of robotics, but I ended up doing a lot more with the data collection and software — the algorithmic side.”
+For her project, she worked with Ph.D. student Zheyuan Hu in the
+Robotic Caregiving and Human Interaction Lab
+(opens in new window)
+led by assistant professor
+Zackory Erickson
+(opens in new window)
+.
+The Summer Undergraduate Research Fellowship (SURF) program awards $4,500 to undergraduates at Carnegie Mellon for 8-10 full-time weeks of summer research on campus in any field of study.
+Apply here
+(opens in new window)
+“I got to explore what robotics looks like behind the scenes, and it demystified some of the ideas I had about the field,” she said. “Robotics has so many opportunities for innovation and growth through research.”
+Jasmine Li
+Li worked with a bimanual robot arm setup — two multijointed arms clamped on a table — that can be controlled by a human remotely using a pair of VR joysticks, or operated fully autonomously via a neural network.
+She analyzed the robot's behaviors in both simulations and real-world tasks in order to study how robots fail when imitating complex human activities, such as hanging shirts.
+“We found that when a human tries to insert a hanger, the person will sometimes do minuscule corrections, but we had a theory that the robot might learn better if we corrected the task on a larger scale,” she said.
+So, rather than a tiny twist or adjustment, they guided the robotic arms to return to their original position before attempting to hang the shirt again more accurately.
+Using the newfound data collection method, training the robot became more efficient, collecting more data and improving performance with fewer iterations of human teaching, Li said.
+The team also
+experimented with the method
+(opens in new window)
+using other trials that tasked the robot with packing a burger into a takeout box and sealing an airtight container lid.
+Introducing RaC:
+A data collection protocol that boosts data efficiency by 10x compared to some of the best imitation results.
+Key idea: scale recovery & correction data systematically => policies can reset+retry when acting (consistent self-correct) => better performance.
+🧵0/N
+pic.twitter.com/E0lJjUMVl6
+— Zheyuan Hu (@real_ZheyuanHu)
+September 10, 2025
+Hu applauded Li’s work designing the task and conducting the experiments, which were
+described in a paper
+(opens in new window)
+accepted by the Making Sense of Data in Robotics: Composition, Curation, and Interpretability at Scale workshop at the 2025 Conference on Robot Learning (CoRL).
+In the Robotic Caregiving and Human Interaction Lab, a bimanual robot arm setup imitated complex human activities, such as hanging shirts, for Li's SURF project, which analyzed the robot's behaviors.
+“Jasmine did excellent work this summer, helping me design a challenging task and conduct experiments in the lab," Hu said. "Her hard work expedited both the ideation and iteration processes."
+Li also enjoyed participating in
+Speak Up!
+(opens in new window)
+research presentations for undergraduate students. Inspired by her SURF project, Li is taking Introduction to Human-Robot Interaction this semester.
+“It’s hard to train a robot to be able to complete multiple different tasks, what we call generalization,” she said. “Robotics research, for now, focuses on training robots for specific tasks, but, eventually, everyone contributing to the research will help us get there.”
+— Related Content —
+CMU Junior Creates New Tool To Inspect Epilepsy Data
+CMU Robot Puts on Shirts One Sleeve at a Time
+CMU Math Student Charts a New Path with Rubik’s Cubes
+The Piper: Campus & Community News
+(opens in new window)
+Official Events Calendar
+(opens in new window)
+▴
+scroll to top

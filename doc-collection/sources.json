@@ -1,0 +1,36 @@
+[
+  {"category": "general", "name": "Wikipedia: Pittsburgh", "url": "https://en.wikipedia.org/wiki/Pittsburgh"},
+  {"category": "general", "name": "Wikipedia: History of Pittsburgh", "url": "https://en.wikipedia.org/wiki/History_of_Pittsburgh"},
+  {"category": "general", "name": "City of Pittsburgh", "url": "https://www.pittsburghpa.gov/Home"},
+  {"category": "general", "name": "Encyclopedia Britannica: Pittsburgh", "url": "https://www.britannica.com/place/Pittsburgh"},
+  {"category": "general", "name": "Visit Pittsburgh", "url": "https://www.visitpittsburgh.com"},
+  {"category": "general", "name": "City of Pittsburgh tax regulations", "url": "https://pittsburghpa.gov/finance/tax-forms"},
+  {"category": "general", "name": "City of Pittsburgh 2025 operating budget", "url": "https://www.pittsburghpa.gov/files/assets/city/v/4/omb/documents/operating-budgets/2025-operating-budget.pdf"},
+  {"category": "general", "name": "About CMU & CMU history", "url": "https://www.cmu.edu/about/"},
+
+  {"category": "events", "name": "Pittsburgh events calendar", "url": "https://pittsburgh.events"},
+  {"category": "events", "name": "Downtown Pittsburgh events calendar", "url": "https://downtownpittsburgh.com/events/"},
+  {"category": "events", "name": "Pittsburgh City Paper events", "url": "https://www.pghcitypaper.com/pittsburgh/EventSearch?v=d"},
+  {"category": "events", "name": "CMU events calendar", "url": "https://events.cmu.edu"},
+  {"category": "events", "name": "CMU campus events", "url": "https://www.cmu.edu/engage/alumni/events/campus/index.html"},
+
+  {"category": "music-culture", "name": "Pittsburgh Symphony", "url": "https://www.pittsburghsymphony.org"},
+  {"category": "music-culture", "name": "Pittsburgh Opera", "url": "https://pittsburghopera.org"},
+  {"category": "music-culture", "name": "Pittsburgh Cultural Trust", "url": "https://trustarts.org"},
+  {"category": "music-culture", "name": "Carnegie Museums", "url": "https://carnegiemuseums.org"},
+  {"category": "music-culture", "name": "Heinz History Center", "url": "https://www.heinzhistorycenter.org"},
+  {"category": "music-culture", "name": "The Frick Pittsburgh", "url": "https://www.thefrickpittsburgh.org"},
+  {"category": "music-culture", "name": "Wikipedia: List of museums in Pittsburgh", "url": "https://en.wikipedia.org/wiki/List_of_museums_in_Pittsburgh"},
+
+  {"category": "food", "name": "Visit Pittsburgh food festivals", "url": "https://www.visitpittsburgh.com/events-festivals/food-festivals/"},
+  {"category": "food", "name": "Picklesburgh", "url": "https://www.picklesburgh.com/"},
+  {"category": "food", "name": "Pittsburgh Taco Fest", "url": "https://www.pghtacofest.com/"},
+  {"category": "food", "name": "Pittsburgh Restaurant Week", "url": "https://pittsburghrestaurantweek.com/"},
+  {"category": "food", "name": "Little Italy Days", "url": "https://littleitalydays.com"},
+  {"category": "food", "name": "Banana Split Fest", "url": "https://bananasplitfest.com"},
+
+  {"category": "sports", "name": "Visit Pittsburgh sports teams", "url": "https://www.visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/"},
+  {"category": "sports", "name": "Pittsburgh Pirates", "url": "https://www.mlb.com/pirates"},
+  {"category": "sports", "name": "Pittsburgh Steelers", "url": "https://www.steelers.com"},
+  {"category": "sports", "name": "Pittsburgh Penguins", "url": "https://www.nhl.com/penguins/"}
+]

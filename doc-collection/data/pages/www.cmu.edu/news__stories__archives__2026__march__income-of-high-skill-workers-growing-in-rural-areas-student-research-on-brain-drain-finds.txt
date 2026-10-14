@@ -1,0 +1,77 @@
+URL: https://www.cmu.edu/news/stories/archives/2026/march/income-of-high-skill-workers-growing-in-rural-areas-student-research-on-brain-drain-finds
+
+Income of High-Skill Workers Growing in Rural Areas, Student Research on ‘Brain Drain’ Finds - News - Carnegie Mellon University
+Skip to main content
+March 12, 2026
+Income of High-Skill Workers Growing in Rural Areas, Student Research on ‘Brain Drain’ Finds
+Share on Facebook (opens in new window)
+Share on X (opens in new window)
+Share on LinkedIn (opens in new window)
+Print this page
+Share by email
+By:
+Stacey Federoff
+Email
+Media Inquiries
+Name
+Cassia Crogan
+Title
+University Communications & Marketing
+Email
+Phone
+412-268-9295
+In rural areas, the number of low-wage jobs, such as those in retail or warehousing, has increased, research by a Carnegie Mellon University junior found. At the same time, income in rural areas from high-wage jobs, such as those in health care and professional services, has also grown.
+Kausthub Satluri set out to study “brain drain,” or the movement of skilled and intelligent workers from rural to urban areas, and the way it affects businesses’ productivity. Satluri, a
+statistics and machine learning major
+(opens in new window)
+in the
+Dietrich College of Humanities and Social Sciences
+(opens in new window)
+, wanted to dig deeper using data and mathematical modeling.
+In a course taught by
+Nick Pretnar
+(opens in new window)
+, adjunct professor of economics at the
+Tepper School of Business
+(opens in new window)
+and assistant director of the Laboratory for Aggregate Economics and Finance at the University of California, Santa Barbara, Satluri learned how a traditional model considers things such as the number of workers and hours they work.
+However, Satluri wondered if he could also include considerations about the effects of brain drain into the model for a more accurate picture. So, he decided to explore that idea for a
+Summer Undergraduate Research Fellowship
+(opens in new window)
+project with Pretnar’s help.
+“We were trying to quantify that relationship in more than just economic output,” Satluri said. “We wanted to explore the structural differences in terms of what industries are more common in rural versus urban areas, or what industries attract people with the most skills and education.”
+Kausthub Satluri used a Summer Undergraduate Research Fellowship at Carnegie Mellon to analyze economic data, highlighting differences between rural and urban areas.
+Satluri analyzed data from the U.S. Department of Agriculture
+Economic Research Service
+(opens in new window)
+as his primary source. He created dozens of visualizations based on the population and economic information from all 50 states organized by county, industry and profit.
+First, Satluri had to organize hundreds of thousands of data points. For example, some of the income figures in a single county’s industry in a single year were too small for their own category, so to account for this data sparsity, Satluri had to “bin” some data together.
+“We had to find a way so that we didn't run out of data to be able to actually analyze to see the trajectories and paths,” he said.
+Drawing from previous economics research, Satluri divided the data by rural and urban counties as well as the types of industry and income. He would try one classification strategy, find no clear pattern, then return to the data and try again.
+“Mathematicians spend their whole lives proving theorems without knowing how it will influence anything. Binning strategies and other things, sometimes we don’t immediately realize how useful they can be,” Satluri said. “They are theories that can be built upon greatly in the future.”
+Most rural areas lacked any representation of each type of industry, so he incorporated an "intermediate" category for suburban areas.
+“After we started binning like this, we started seeing a lot more patterns,” he said. “There are lots of these rabbit holes that we have to dig really, really deep into, and then decide if we can make a claim about what we find. I had a lot of fun.”
+Satluri found that in the suburbs, higher concentrations of industries from all different sectors can have an effect on the entire urban area. However, if those counties have smaller populations, then growth may still be concentrated in the urban counties.
+As income from high-wage jobs grows in rural areas, the increases still aren’t enough to catch up to the high concentrations of those jobs in urban areas. These are jobs in industries such as business management, finance and insurance, technical and scientific services, real estate or arts and entertainment.
+They account for the fastest-growing sector in the economy, contributing to 53% of growth in urban income from 2003-2023, but only 27% of growth in rural income, according to his and Pretnar’s research.
+The data’s relationships will be added to a structural economic model that he and Pretnar are developing for a research paper, extending their work beyond the summer project.
+“What matters most are the questions that you ask and how you parse the data — how you choose to shape the data, and not necessarily the size of the model that processes it,” Satluri said.
+Pretnar said Satluri’s eager attitude toward working with and analyzing data made him an integral researcher and collaborator.
+“More than that, Kausthub is also a motivated learner who seems to experience true joy in tackling problems,” Pretnar said.
+Personally, Satluri said he gained a better understanding of how to scrutinize data.
+“This research got me to jump from one idea until I hit a dead end. Then I got to go back, follow another lead, then to another dead end, over and over again,” he said. “We spent the entire summer under one assumption because we saw a bunch of patterns. Then, once we actually dug into it, we came to the realization that maybe there’s a better assumption, so we had to go all the way back then start in another direction.”
+While the macroeconomics class was outside of his major, Satluri has grown to enjoy exploring the field.
+“I did not know that I was interested in economics to start out,” he said. “If you have an innate curiosity for something, you should do what it takes to ask those questions because they may provide you the opportunity to explore something that you’re more interested in than you thought.”
+The Summer Undergraduate Research Fellowship (SURF) program awards $4,500 to undergraduates at Carnegie Mellon for 8-10 full-time weeks of summer research on campus in any field of study.
+Apply here
+(opens in new window)
+— Related Content —
+CMU Math Student Charts a New Path with Rubik’s Cubes
+Mindset Matters: Employing Economic Research And Practical Interventions To Fight Poverty
+Dietrich Students Use Summer Undergraduate Research Fellowship Projects To Examine Past, Create Future
+The Piper: Campus & Community News
+(opens in new window)
+Official Events Calendar
+(opens in new window)
+▴
+scroll to top
