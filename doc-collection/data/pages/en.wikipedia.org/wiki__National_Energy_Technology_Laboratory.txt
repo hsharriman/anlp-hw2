@@ -1,0 +1,274 @@
+URL: https://en.wikipedia.org/wiki/National_Energy_Technology_Laboratory
+
+National Energy Technology Laboratory - Wikipedia
+Jump to content
+Coordinates: 40°18′02″N 79°58′39″W﻿ / ﻿40.30049°N 79.97763°W﻿ / 40.30049; -79.97763
+From Wikipedia, the free encyclopedia
+United States research lab
+National Energy Technology Laboratory
+Established 1910 (Pittsburgh);
+1946 (Morgantown);
+2005 (Albany, Oregon)
+Research type Office of Fossil Energy
+Budget US$681,000,000
+Director Marianne Walck
+Staff 1,400
+Location Pittsburgh, Pennsylvania;
+Morgantown, West Virginia;
+Albany, Oregon
+Campus 242 acres (0.98 km2)
+Affiliations United States Department of Energy
+Operating agency
+United States Department of Energy
+Website netl.doe.gov
+The National Energy Technology Laboratory (NETL) is a U.S. national laboratory under the Department of Energy Office of Fossil Energy.[1] NETL focuses on applied research for the clean production and use of domestic energy resources. It performs research and development on the supply, efficiency, and environmental constraints of producing and using fossil energy resources while maintaining affordability.
+NETL has sites in Albany, Oregon; Morgantown, West Virginia; and Pittsburgh, Pennsylvania. Together, these sites have 117 buildings and 242 acres of land. More than 1,400 employees work at NETL's three sites, including federal employees and contractors.
+NETL funds and manages contracted research in the United States and more than 40 foreign countries through arrangements with private organizations and other government agencies. This work is augmented by onsite applied research in computational and basic sciences, energy system dynamics, geological and environmental systems, and materials science. NETL is the only of the 17 national laboratories that is government owned, government operated.[2]
+History
+[edit]
+NETL Pittsburgh Laboratory at Bruceton Research Center
+Building 39 at NETL Morgantown Laboratory
+NETL Albany Laboratory
+1900-1950s
+[edit]
+NETL originated from a number of organizations that existed in the early 1900s. In 1910, the U.S. Department of Interior’s (DOI) Bureau of Mines established the Pittsburgh Experiment Station in Bruceton, Pennsylvania, to train coal miners and conduct research on coal-mining-related safety equipment and practices. The Pittsburgh Experiment Station began coal-to-liquids conversion research in the mid-1920s, soon after several European countries had begun to pursue research in coal-based synthetic fuels. Just eight years later in Bartlesville, Oklahoma, the Bureau of Mines opened the Petroleum Experiment Station to pursue systematic application of engineering and scientific methods to oil drilling, helping the oil industry create operating and safety standards. As a result of the Synthetic Liquid Fuels Act of 1944, the Pittsburgh Experiment Station became the Bruceton Research Center in 1948.[3]
+In 1946, the Synthesis Gas Branch Experiment Station was established for government-sponsored coal-gasification research, in particular producing synthesis gas from coal, at West Virginia University’s facilities in Morgantown, West Virginia. The Station joined with two other nearby DOI groups to create the Appalachian Experiment Station for onsite coal research at the current Morgantown location in 1954.[3]
+1970s
+[edit]
+The new U.S. Energy Research and Development Administration renamed the former DOI sites as the Bartlesville, Morgantown, and Pittsburgh Energy Research Centers in 1975. These Centers began overseeing federally funded contracts for fossil energy research and development. All three Research Centers became Energy Technology Centers in 1977 under the newly established U.S. Department of Energy. The Centers housed onsite research in coal, oil, and gas technologies and managed contracts for research and development conducted by universities, industry, and other research institutions.[3]
+1980s-1990s
+[edit]
+In 1983, however, operation of the Bartlesville Energy Technology Center transferred to IIT Research Institute, based in Chicago, and the Bartlesville Project Office was established to oversee petroleum research activities. Then, in 1996, the Morgantown and Pittsburgh Energy Technology Centers, a mere 65 miles (105 km) apart, were consolidated under the same administration to form the Federal Energy Technology Center (FETC). The National Petroleum Technology Office (NPTO) in Tulsa, Oklahoma, was established in 1998, and the Bartlesville Project Office was closed.[3]
+FETC became a national laboratory, NETL, in 1999 and was joined by NPTO in 2000. NETL opened the Arctic Energy Office in Fairbanks, Alaska, in 2001 to promote research, development, and deployment of
+Oil recovery, gas-to-liquids, and natural gas production and transportation and
+Electric power in Arctic climates, including fossil, wind, geothermal, fuel cells, and small hydroelectric facilities.[3]
+2000s
+[edit]
+In 2005, the Albany Research Center (ARC) in Albany, Oregon, merged with NETL as a third laboratory location, providing expertise in life-cycle research and advanced materials for energy system challenges. Founded on the site of the former Albany College in 1942, ARC made its mark processing zirconium. In 1985, the center was named an historical landmark by the American Society for Metals. Today, researchers here address fundamental mechanisms and processes; melt, cast, and fabricate up to one ton of materials; completely characterize the chemical and physical properties of materials; and deal with the waste and by-products of materials processes.[3]
+The Tulsa, Oklahoma, office moved to Sugar Land, Texas, in 2009.[4]
+Partnership
+[edit]
+NETL collaborates with industry, academia, other government agencies, and international research organizations.[citation needed]
+Carbon Capture Simulation Initiative
+[edit]
+The Carbon Capture Simulation Initiative (CCSI) partners national laboratories, industry and academic institutions to develop and deploy computational modeling and simulation tools that accelerate carbon capture technologies from discovery to widespread future deployment on hundreds of power plants.[5]
+NETL is partnering with Lawrence Berkeley National Laboratory, Lawrence Livermore National Laboratory, Los Alamos National Laboratory, Pacific Northwest National Laboratory on this Initiative.
+National Risk Assessment Partnership
+[edit]
+Led by NETL, the National Risk Assessment Partnership (NRAP) studies the behavior of engineered-natural systems to develop the risk assessment tools necessary for safe, permanent geologic CO2 storage. To assist in effective site characterization, selection, operation, and management, NRAP is considering potential risks associated with key operational concerns, as well as those associated with long-term liabilities, such as groundwater protection and storage permanence. NRAP is developing a method for quantifying risk profiles of multiple types of carbon dioxide storage sites to guide decision making and risk management. NRAP is also developing monitoring and mitigation protocols to reduce uncertainty in the predicted long-term behavior of a site.[6]
+NRAP relies on expertise and resources from Lawrence Berkeley National Laboratory, Lawrence Livermore National Laboratory, Los Alamos National Laboratory, Pacific Northwest National Laboratory, and the NETL-Regional University Alliance.
+Regional Carbon Sequestration Partnerships
+[edit]
+In 2003, DOE awarded cooperative agreements to seven Regional Carbon Sequestration Partnerships (RCSPs) because geographical differences in fossil fuel use and geologic storage opportunities across North America dictate regional approaches to capture and storage of CO2 and other greenhouse gasses. Each RCSP has developed a regional carbon management plan to identify the most suitable storage strategies and technologies, aid in regulatory development, and propose appropriate infrastructure for carbon capture and storage commercialization within their respective regions to safely and permanently store CO2. NETL manages the partnership and the projects.
+The RCSPs comprise more than 400 organizations covering 43 states and four Canadian provinces and include representatives from state and local agencies, regional universities, national laboratories, non-government organizations, foreign government agencies, engineering and research firms, electric utilities, oil and gas companies, and other industrial partners. The following are the seven RCSPs:
+Big Sky Carbon Sequestration Partnership
+Midwest Geological Sequestration Consortium
+Midwest Regional Carbon Sequestration Partnership
+Plains CO2 Reduction Partnership
+Southeast Regional Carbon Sequestration Partnership
+Southwest Regional Partnership on Carbon Sequestration
+West Coast Regional Carbon Sequestration Partnership
+Technologies
+[edit]
+Researcher at work at a National Energy Technology Laboratory facility
+NETL's fossil fuel research, development, and demonstration focus on efficient energy use and clean energy production from domestic fossil fuel resources.
+Onsite research, development, and demonstration address key energy and environmental concerns and solve issues that slow commercialization of domestic fuel power systems, fossil-fuel resource development, and environmental mitigation and waste management technologies. NETL works with modeling and theoretical research as well as bench- to demonstration-scale development and demonstration of technologies and concepts.[citation needed]
+Coal
+[edit]
+NETL addresses critical research and development challenges for near-zero emissions power production from coal. Continued use of coal electric power production is enabled through NETL's research, development, demonstration, and, ultimately, deployment of advanced systems and technologies that increase overall plant efficiency while reducing emissions like carbon dioxide (CO2) and nitrous oxides (NOx). Projects within the coal program are part of DOE's Clean Coal Research Program. The aim is to improve on CO2 capture and storage techniques, and to develop advanced energy systems, as well as sensing and advanced process controls. NETL's coal program also investigates a range of advances in combustion, gasification, turbines, fuels, and fuel cell technologies that can increase power plant efficiency, improve plant economics, and reduce the amount of CO2 byproduct per unit of electricity generated. Development of these systems is designed to enable continued use of the United States’ significant fossil fuel resources as a major contributor to the nation's energy portfolio.[citation needed]
+The goals of NETL's research in advanced energy systems are to develop a new generation of clean coal-fueled energy conversion systems capable of producing competitively priced electric power while reducing CO2 and other emissions, improving efficiency, increasing plant availability, and reducing cooling water requirements. Key aspects of this research include improving overall system thermal efficiency, reducing capital and operating costs, and enabling affordable CO2 capture. Technology research areas include Gasification Systems, Advanced Combustion Systems, Advanced Turbines, Solid Oxide Fuel Cells, Carbon Capture, Carbon Storage, and Crosscutting Research.
+NETL's coal program also manages the Clean Coal Research Program's portfolio of large-scale technology demonstration projects that test advanced Program-developed technologies at full scale in integrated facilities. Final technical, environmental, and financial challenges associated with new advanced coal technologies are overcome during full-scale testing so the technologies are ready for commercial deployment. The demonstrated technologies fall under four CO2 capture pathways, each followed by CO2 storage: pre-combustion, post-combustion, oxy-combustion, and industrial carbon capture and storage.[7]
+Oil and Gas
+[edit]
+NETL helps advance development of technologies supporting efficient, environmentally benign unconventional domestic oil and gas resources. The Lab's research projects help catalyze the development of these new technologies, provide objective data to help quantify the environmental and safety risks of oil and gas development, and characterize emerging energy resources like methane hydrate or shale gas production. The program foci are on deep-water technology, enhanced oil recovery, and methane hydrate. NETL's research on unconventional oil and gas includes efforts for improving wellbore cement used to stabilize wells for deep-water drilling; expeditions to determine presence and volume of methane hydrate along coastlines; development of hydraulic fracturing data collection tools to improve environmental reporting, monitoring, and protection; analysis to determine alternate sources of freshwater for oil and gas development, as well as many other areas of expertise.
+Energy Analysis
+[edit]
+NETL assesses short-term trends in the energy industry and the U.S. and world economies that may impact energy production and use, and long-term trends that may modify demand for energy and influence the choice of fuels and energy production technologies after 2025. The Lab also develops scenarios for use in technology planning activities that also help quantify the benefits of the Lab's research portfolio.
+Non-fossil Energy Research, Development, Demonstration, and Deployment
+[edit]
+NETL provides technical, administrative, and project management services to customers within DOE and other federal agencies. NETL primarily manages research, development, demonstration, and deployment activities for the DOE Office of Energy Efficiency and Renewable Energy (EERE) and the DOE Office of Electricity Delivery and Energy Reliability (OE). These projects and activities are related to energy efficiency in vehicles, buildings, and manufacturing facilities, as well as the enhancement, security and reliability of America's electrical and natural gas transmission and distribution systems. NETL manages activities on behalf of the EERE Vehicle Technologies Office, especially EERE's efforts to advance the development and deployment of advanced vehicle technologies, including electric vehicles, engine efficiency, and lightweight materials.
+In addition, NETL supports administration of the Clean Cities Program, which increases the use of alternative fuels for transportation by building coalitions of state and local governments, private industry, non-profit organizations, and fleet managers. For the EERE Building Technologies Office, NETL supports the Solid-State Lighting Initiative, which is pursuing next-generation lighting technologies that will eventually replace the traditional incandescent light bulb. NETL is also managing Combined Heat and Power and Distributed Generation project activities on behalf of the EERE Advanced Manufacturing Office. For OE, NETL actively participates in DOE's response to disruptions to our nation's energy infrastructure, such as hurricanes and other natural disasters, and is laying the groundwork to modernize the national electric grid.[citation needed]
+Administration
+[edit]
+Marianne Walck, Ph.D.—Director, NETL
+Sean I. Plasynski, Ph.D.— Principal Deputy Director, NETL
+Heather Quedenfeld — Chief Operating Officer, NETL
+David Lyons, Ph.D.—Deputy Director, Science and Technology Strategic Plans and Programs, Research Innovation Center
+Bryan Morreale, Ph.D.— Executive Director of the Research and Innovation Center (R&IC)
+James E. Wilson—Executive Director & Chief Financial Officer, Finance & Acquisition Center
+Shonda Talley — Chief Information Officer
+Directors
+[edit]
+No.  Image  Director  Term start  Term end  Refs.
+1    Rita Bajura  December 1999  February 2005
+acting    Carl O. Bauer  February 2005  September 29, 2005
+2  September 29, 2005  February 28, 2010  [8][9]
+acting    Anthony Cugini  January 1, 2010  April 1, 2010
+3  April 1, 2010  September 18, 2013  [10][11]
+acting    Scott Klara  September 18, 2013  August 3, 2014
+4    Grace Bochenek  August 4, 2014  February 28, 2018  [12][13][14]
+acting    Sean Plasynski  March 1, 2018  November 10, 2018  [15]
+5    Brian J. Anderson  November 11, 2018  April 25, 2023  [16]
+acting    Sean Plasynski  April 26, 2023  February 2024
+6    Marianne Walck  February 11, 2024  present  [17]
+See also
+[edit]
+PHEV Research Center
+References
+[edit]
+This article incorporates public domain material from NETL History. United States Department of Energy.
+↑ United States Department of Energy
+↑ ""Organization | netl.doe.gov"". netl.doe.gov. Retrieved February 27, 2025.
+1 2 3 4 5 6 "History". National Energy Technology Laboratory. Archived from the original on January 7, 2018. Retrieved January 23, 2017.
+↑ "DOE - Fossil Energy: National Energy Technology Laboratory". fossil.energy.gov. Retrieved January 25, 2023.
+↑ "Carbon Capture Simulation Initiative". www.netl.doe.gov. Retrieved January 23, 2017.
+↑ "National Risk Assessment Partnership". National Energy Technology Laboratory. Retrieved January 23, 2017.
+↑ Morgan, David; Guinan, Allison; Sheriff, Alana (March 21, 2022). "FECM/NETL CO2 Transport Cost Model (2022): Model Overview". No. DOE/NETL-2022/3776. OSTI 1856354.
+↑ "Energy Dep't Names New Director of Countrywide Energy Technology Lab". Green Environment News. September 29, 2005.
+↑ "Director Leaving the National Energy Technology Laboratory". DOE. December 14, 2009.
+↑ "DOE's National Energy Technology Laboratory". DOE. April 1, 2010.
+↑ Yimam, Bofta (November 20, 2013). "Former director of National Energy Technology Laboratory indicted in Pittsburgh". WTAE-TV.
+↑ "Grace Bochenek Named New Director of DOE's National Energy Technology Laboratory". DOE. August 4, 2014.
+↑ "NETL Director to Retire". DOE. February 9, 2018.
+↑ "Dr. Grace M. Bochenek". DOE.
+↑ "Veteran Energy Research Leader Named Acting Director of NETL". DOE. March 1, 2018.
+↑ "Dr. Brian J. Anderson to Head DOE's National Energy Technology Laboratory". DOE. November 9, 2018.
+↑ "Marianne Walck, Ph.D., Selected as NETL Director". NETL. February 12, 2024.
+External links
+[edit]
+Wikimedia Commons has media related to National Energy Technology Laboratory.
+Official website
+Study materials on the NETL (archived 11 March 2007)
+v
+t
+e
+United States Department of Energy
+Headquarters: James V. Forrestal Building
+Chris Wright, Secretary of Energy
+James Danly, Deputy Secretary of Energy
+Deputy Secretary of Energy
+Office of Intelligence and Counterintelligence
+Energy Information Administration
+Advanced Research Projects Agency-Energy
+Under Secretary of Energy for Infrastructure
+Office of Cybersecurity, Energy Security, & Energy Response
+Under Secretary of Energy for Nuclear Security
+National Nuclear Security Administration
+Under Secretary of Energy for Science and Innovation
+Office of Science
+OSTI
+Office of Electricity
+Office of Energy Efficiency and Renewable Energy
+Office of Fossil Energy and Carbon Management
+Office of Nuclear Energy
+Assistant Secretary of Energy for Nuclear Energy
+Office of Nuclear Energy
+Power Marketing Administration
+Bonneville Power Administration
+Southeastern Power Administration
+Southwestern Power Administration
+Western Area Power Administration
+National Laboratory System
+Ames
+Argonne
+NBL
+CNM
+APS
+ATLAS
+EMC
+Berkeley
+ALS
+MF
+NCEM
+NERSC
+ESN
+JGI
+Brookhaven
+AGS
+CFN
+NSLS
+NSLS II
+RHIC
+Fermilab
+TeV
+Idaho
+RESL
+JLab
+Livermore
+NARAC
+NIF
+Los Alamos
+DARHTF
+NETL
+Albany
+NLR
+Oak Ridge
+SNS
+CNMS
+HFIR
+NCCS
+Pacific Northwest
+EMSL
+PPPL
+NSTX
+TFTR
+SRNL
+Sandia
+Z
+SLAC
+SSRL
+Energy Department facilities and reservations
+Fernald NLO
+Hanford
+K-25
+Kansas City Plant
+Nevada Test Site
+Area 19
+Area 20
+NHHOR
+Pantex
+Rocky Flats
+SSFL
+ETEC
+SRE
+SRS
+SPR
+WIPP
+Y-12
+Yucca Mountain
+Related independent agency
+Federal Energy Regulatory Commission
+Authority control databases
+International
+ISNI
+VIAF
+GND
+National
+United States
+Czech Republic
+2
+Norway
+Israel
+Other
+Yale LUX
+40°18′02″N 79°58′39″W﻿ / ﻿40.30049°N 79.97763°W﻿ / 40.30049; -79.97763
+Retrieved from "https://en.wikipedia.org/w/index.php?title=National_Energy_Technology_Laboratory&oldid=1379514887"
+Category:
+United States Department of Energy national laboratories
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Use American English from March 2019
+All Wikipedia articles written in American English
+Use mdy dates from March 2019
+All articles with unsourced statements
+Articles with unsourced statements from September 2019
+Wikipedia articles incorporating material from the United States Department of Energy
+Commons category link from Wikidata
+Official website different in Wikidata and Wikipedia
+Pages using gadget WikiMiniAtlas
+Coordinates on Wikidata
+Search
+Search
+National Energy Technology Laboratory
+1 language   Add topic

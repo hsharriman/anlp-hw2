@@ -1,0 +1,578 @@
+URL: https://en.wikipedia.org/wiki/Help:IPA/English
+
+Help:IPA/English - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+< Help:IPA
+This page is about the pronunciation of words in English. For sounds not found in English, see Help:IPA. For a basic introduction to the IPA, see Help:IPA/Introduction. For a guide to adding IPA characters to Wikipedia articles, see Wikipedia:Manual of Style/Pronunciation § Entering IPA characters.
+This is the pronunciation key for IPA transcriptions of English on Wikipedia.
+It provides a set of symbols to represent the pronunciation of English in Wikipedia articles, and example words that illustrate the sounds that correspond to them. Integrity must be maintained between the key and the transcriptions that link here; do not change any symbol or value without establishing consensus on the talk page first.
+For an introductory guide on IPA symbols, see Help:IPA. For the distinction between [ ], / / and ⟨ ⟩, see IPA § Brackets and transcription delimiters.
+Shortcuts
+H:IPA-ENH:IPA-EN
+H:IPAEH:IPAE
+H:IPAENH:IPAEN
+Wikipedia key to pronunciation of English
+On Wikipedia, the pronunciation of words is shown using the International Phonetic Alphabet (IPA). The tables below provide a key to the IPA symbols used for English pronunciations in a diaphonemic scheme. Please note that some of these symbols are used in ways specific to Wikipedia, and may differ from their usage in dictionaries.
+If IPA symbols do not display correctly in your browser, see the troubleshooting links below.
+Editors should use IPA templates such as {{IPAc-en}} when adding IPA to Wikipedia articles, see Manual of Style/Pronunciation § Entering IPA characters for guidance. These templates ensure accessibility and tooltip functionality, see the documentation page for usage instructions.
+Key
+If you are looking for an IPA symbol that does not appear in the pronunciation key below, see Help:IPA, which provides a more comprehensive list. For a table showing how the sounds on this page correspond to English spellings, see English orthography § Sound-to-spelling correspondences. For assistance in converting spellings to pronunciations, refer to English orthography § Spelling-to-sound correspondences.
+In some cases, words given as examples for different symbols may sound the same to you. For instance, you might pronounce cot and caught, do and dew, or marry and merry the same. This typically results from dialect variation (see our articles English phonology and International Phonetic Alphabet chart for English dialects). If so, you will likely pronounce those symbols the same in other words as well.[1] Whether this applies to all words or only in certain contexts depends on the specific sound merger.[2] The footnotes provide further explanation of these cases.
+Consonants
+IPA Examples
+b  buy, cab
+d  dye, cad, ladder[3]
+dj  dew[4]
+dʒ  jive, badge
+ð  thy, breathe, father
+f  find, leaf
+ɡ  guy, bag
+h  high, ahead
+hw  whine[5]
+j[6]  yes, hallelujah
+k  kind, sky, crack
+l  lie, ply, gal[7]
+lj  lute[4]
+m  my, smile, cam
+n  nigh, snide, can
+nj  new[4]
+ŋ  sang, sink, singer
+p  pie, spy, cap
+r[8]  rye, try, very
+s  sigh, mass
+sj  consume[4]
+ʃ  shy, cash, emotion
+t  tie, sty, cat, latter[3]
+tj  tune[4]
+tʃ  China, catch
+θ  thigh, path
+θj  enthuse[4]
+v  vie, leave
+w  wine, swine
+z  zoo, has
+zj  Zeus, resume[4]
+ʒ  pleasure, beige[9]
+Vowels
+Strong vowels ...followed by R[10]
+IPA Examples IPA Examples
+ɑː  PALM, bra, father  ɑːr  START
+ɒ  LOT, bother, cot, blockade[11]  ɒr  moral[12]
+æ[13]  TRAP, bag, sang, tattoo[14]  ær  marry[15]
+aɪ  PRICE, pie[16]  aɪər  hire[17]
+aʊ  MOUTH, how[16]  aʊər  flour[17]
+ɛ[18]  DRESS, beg, length, prestige  ɛr  merry[15]
+eɪ  FACE, vague  ɛər  SQUARE, Mary[15][19]
+ɪ  KIT, big, sing, historic[20]  ɪr  mirror, Sirius
+iː  FLEECE, league, pedigree, idea[21]  ɪər  NEAR, serious[19]
+oʊ[22]  GOAT[20]  ɔːr  FORCE, hoarse[23]
+ɔː  THOUGHT, caught, audacious[24]  NORTH, horse[23]
+ɔɪ  CHOICE  ɔɪər  coir[17]
+ʊ  FOOT  ʊr  courier
+uː  GOOSE, cruel[21]  ʊər  tour, CURE (/ˈkjʊər/)[25][19]
+ʌ[26]  STRUT, sung, untidy, trustee[27]  ɜːr  NURSE, blurry, urbane, foreword[28]
+ʌr  hurry[29]
+Weak vowels
+IPA Examples IPA Examples
+ə  commA, abbot, bazaar  ər  lettER, forward, history[28][30]
+ɪ  rabbit, bizarre, Latin[20][31]  oʊ  motto, retroactive, follower[20][32]
+i  happY, mediocre[33]  iə  California[34]
+u  fruition[32][33]  uə  influence[35]
+Syllabic consonants[30]
+IPA Examples IPA Examples
+əl  bottle, doubling ([əl], [l̩], or [l])  ən  button, fastener ([ən], [n̩], or [n])
+əm  rhythm, blossoming ([əm], [m̩], or [m])
+Marginal segments
+IPA Examples IPA Examples
+x  loch, Chanukah[36]  ʔ  uh-oh /ˈʔʌʔoʊ/
+ɒ̃  bon vivant[37]  æ̃  fin de siècle[37]
+ɜː  Möbius (some dialects only)[38]
+Stress[39]  Syllabification
+IPA Examples  IPA Examples
+ˈ  intonation /ˌɪntəˈneɪʃən/[40]  .  /ˈhaɪər/ hire, /ˈhaɪ.ər/ higher[41]
+/ˈtæks.peɪər/ taxpayer
+ˌ
+Notes
+Words in SMALL CAPITALS are the standard lexical sets. Not all of the sets are used here. In particular, we excluded words in the lexical sets BATH and CLOTH, which may be given two transcriptions, the former either with /ɑː/ or /æ/, the latter with /ɒ/ or /ɔː/.
+The length mark ⟨ː⟩ does not mean that the vowels transcribed with it are always longer than those without it. When unstressed, followed by a voiceless consonant, or in a polysyllabic word, a vowel in the former group is frequently shorter than the latter in other environments (see Clipping (phonetics) § English). /i, u/ likewise do not mean shorter versions of /iː, uː/ but represent a situation in which some speakers have /iː, uː/ and others /ɪ, ʊ/ (see Happy tensing).
+Dialect variation
+Further information: English phonology and Sound correspondences between English accents
+This key represents diaphonemes, abstractions of speech sounds that accommodate General American, British Received Pronunciation (RP) and to a large extent also Australian, Canadian, Irish (including Ulster), New Zealand, Scottish, South African and Welsh English pronunciations. Therefore, not all of the distinctions shown here are relevant to a particular dialect.
+Fewer distinctions
+These are cases where the diaphonemes express a distinction that is not present in some accents. Most of these are historical mergers, but some are notational conventions (e.g. /i/), some represent accents which do not exhibit splits into the sets defined here (e.g. those without a /ʊ/–/ʌ/ distinction), and some represent significant deviations from the broad transcription symbols used here (e.g. square & dayroom in some rhotic accents).
+⟨i⟩ (happY): this symbol does not represent a phoneme but a variation between /iː/ and /ɪ/ in unstressed positions. Speakers of dialects with happy tensing (Australian English, General American, modern RP) should read it as an unstressed /iː/, whereas speakers of other dialects (e.g. some Northern England English) should treat it the same as /ɪ/. In Scotland, this vowel can be considered the same as the short allophone of /eɪ/, as in take. Before /ə/ within the same word, another possible pronunciation is /j/ as in yet.
+Speakers of some rhotic dialects, for instance in Ireland and Scotland, may not distinguish between the relevant vowels in near /ˈnɪər/ & freerunning /ˈfriːrʌnɪŋ/, cure /ˈkjʊər/ & Q-rating /ˈkjuːreɪtɪŋ/, and square /ˈskwɛər/ & dayroom /ˈdeɪruːm/. If you speak such a dialect, read /ɪər, ʊər, ɛər/ as /iːr, uːr, eɪr/.
+Cot–caught merger: Many speakers of American, Canadian, Scottish and Irish English pronounce cot /ˈkɒt/ and caught /ˈkɔːt/ the same.[k] You may simply ignore the difference between the symbols /ɒ/ and /ɔː/, just as you ignore the distinction between the written vowels o and au when pronouncing them.
+Father–bother merger: Most speakers of North American English (with the exception of Eastern New England) do not distinguish between the vowels in father /'fɑːðər/ and bother /'bɒðər/, pronouncing the two words as rhymes. If you speak such a dialect, ignore the difference between the symbols /ɑː/ and /ɒ/.
+In Northern Ireland, Scotland and many North American dialects the distinction between /ʊr/ as in courier and the aforementioned /ʊər/ and /uːr/ does not exist. If you speak such a dialect, ignore the difference between /ʊr/, /ʊər/ and /uːr/.
+Foot–goose merger: in Northern Ireland and Scotland this merger occurs in all environments, which means that foot /ˈfʊt/ and goose /ˈɡuːs/ also have the same vowel.[l][m] If you speak such a dialect, ignore the difference between /ʊ/ and /uː/ in all contexts.
+Cure–north merger & cure–nurse merger: in North America, the /ʊr/ of courier and the /ʊər/ of cure may instead merge with /ɔːr/ as in north or /ɜːr/ as in nurse. No such merger is possible in the case of the sequence which we transcribe as /uːr/ as there is an implied morpheme boundary after the length mark.
+Mirror–nearer merger: in North American dialects that do not distinguish between /ʊr/, /ʊər/ and /uːr/ there is also no distinction between the /ɪr/ of mirror and the aforementioned /ɪər/ and /iːr/. If you speak such a dialect, ignore the difference between /ɪr/, /ɪər/ and /iːr/.
+Merry–marry–Mary merger: In many North American dialects there is also no distinction between the vowels in merry /ˈmɛri/, marry /ˈmæri/, and Mary /ˈmɛəri/. If you speak such a dialect, ignore the difference between /ɛr/, /ær/, and /ɛər/. Some speakers keep marry and/or merry separate from the rest, but in the General American accent all three vowels are the same and may not be distinct from /eɪr/ as in dayroom /ˈdeɪruːm/.
+Nurse–letter merger: in rhotic North American English there is no distinction between the vowels in nurse /ˈnɜːrs/ and letter /ˈlɛtər/. If you speak such a dialect, read /ɜːr/ as /ər/. The /ʌr/ of hurry often joins this neutralization; if you have it in your speech, read /ɜːr/, /ər/ and /ʌr/ as /ər/.
+SQUARE–NURSE merger: some speakers from Northern England do not distinguish the vowel of square /ˈskwɛər/ and nurse /ˈnɜːrs/.[n] If you speak such a dialect, ignore the difference between the symbols /ɛər/ and /ɜːr/.
+KIT–commA merger: In New Zealand English, the vowels of kit /ˈkɪt/ and focus /ˈfoʊkəs/ have the same schwa-like quality.[o][p] If you are from New Zealand, ignore the difference between the symbols /ɪ/ and /ə/.
+NEAR–SQUARE merger: in contemporary New Zealand English and some other dialects, the vowels of near /ˈnɪər/ and square /ˈskwɛər/ are not distinguished.[q] If you speak such a dialect, ignore the difference between the symbols /ɪər/ and /ɛər/.
+Lack of FOOT–STRUT split: In Northern England English and some varieties of Irish and Welsh English, the vowels of foot /ˈfʊt/ and strut /ˈstrʌt/ are not distinguished.[r] If you speak such a dialect, ignore the difference between the symbols /ʊ/ and /ʌ/.
+Sam–psalm merger: In some varieties of Scottish English and in Northern Irish English, the vowels of trap /ˈtræp/ and palm /ˈpɑːm/ are not distinguished.[s] If you speak such a dialect, ignore the difference between the symbols /æ/ and /ɑː/.
+STRUT–commA merger: in Welsh English and some other dialects, the vowels of unorthodoxy /ʌnˈɔːrθədɒksi/ and an orthodoxy /ən ˈɔːrθədɒksi/ are not distinguished.[t] If you speak such a dialect, ignore the difference between the symbols /ʌ/ and /ə/.
+Changes before historic /l/: depending on the dialect, vowels can be subject to various mergers before /l/, so that e.g. fill /ˈfɪl/ and feel /ˈfiːl/ or pull /ˈpʊl/ and pool /ˈpuːl/ may not be distinguished. L-vocalization may trigger even more mergers, so that e.g. cord /ˈkɔːrd/ and called /ˈkɔːld/ may be homophonous as /ˈkɔːd/ in non-rhotic dialects of South East England.
+Rhoticity: In many dialects, /r/ occurs only before a vowel; if you speak such a dialect, simply ignore /r/ in the pronunciation guides where you would not pronounce it, as in cart /kɑːrt/.
+Yod-dropping: in other dialects, /j/ (yes) cannot occur after /t, d, n/, etc., within the same syllable; if you speak such a dialect, then ignore the /j/ in transcriptions such as new /njuː/. For example, New York is transcribed /njuː ˈjɔːrk/. For most people from England and for some New Yorkers, the /r/ in /jɔːrk/ is not pronounced; for most people from the United States, including some New Yorkers, the /j/ in /njuː/ is not pronounced and may be ignored.
+More distinctions
+On the other hand, there are some distinctions which you might make but which this key does not encode, as they are seldom reflected in the dictionaries used as sources for Wikipedia articles:
+The vowels of kit and bit, distinguished in South Africa.[u] Both of them are transcribed as /ɪ/ in stressed syllables and as /ɪ/ or /ə/ in unstressed syllables.
+The difference between the vowels of fir, fur and fern, maintained in some Scottish and Irish English but lost elsewhere.[v] All of them are transcribed as /ɜːr/.
+The vowels of north and force, distinguished in Scottish English, Irish English and by a minority of American speakers.[v] Both of them are transcribed as /ɔːr/.
+The vowels of pause and paws, distinguished in Cockney and by some Estuary English speakers.[w] Both of them are transcribed as /ɔː/ when the spelling does not contain ⟨r⟩ and /ɔːr/ or /ʊər/ (depending on the word) when it does.
+The vowels of manning and Manning, distinguished in some parts of the United States (see /æ/ raising). Both of them are transcribed as /æ/.
+The difference between the vowels of pain and pane found in some English, Welsh, and Newfoundland dialects. Both of them are transcribed as /eɪ/.
+The difference between the vowels of toe and tow found in some English, Welsh, and Newfoundland dialects. Both of them are transcribed as /oʊ/.
+The difference between the vowels of holy and wholly found in Cockney and many Estuary English speakers.[x] Both of them are transcribed as /oʊ/.
+Any allophonic distinctions, such as:
+The vowels of bad and lad, distinguished in many parts of Australia and Southern England. Both of them are transcribed as /æ/.
+The vowels of spider and spied her, distinguished in many parts of Scotland,[y] plus many parts of North America. Both of them are transcribed as /aɪ/.
+The vowels of rider and writer, distinguished in most parts of Canada and many parts of the United States. Both of them are transcribed as /aɪ/.
+The vowels of powder and pouter distinguished in most parts of Canada and some parts of the United States. Both of them are transcribed as /aʊ/.
+Allophonic vowel length (including the Scottish vowel length rule), as in knife /ˈnaɪf/ vs. knives /ˈnaɪvz/. Phonemic vowel length, which exists in some dialects and involves pairs such as /ɛ/ vs. /ɛər/ and /ə/ vs. /ɜːr/ is also not marked explicitly. /i/ and /u/ do not represent phonemes; see above.
+Flapping in words such as better, which we write /ˈbɛtər/, rather than /ˈbɛdər/.
+Glottalization in words such as jetlag and, in some accents, daughter, which we write /ˈdʒɛtlæɡ/ and /ˈdɔːtər/, rather than /ˈdʒɛʔlæɡ/ and /ˈdɔːʔər/. In this system, /ʔ/ is used only for paralanguage or in loanwords where it occurs phonemically in the original language.
+L-vocalization in words such as bottle and Alps, which we write /ˈbɒtəl/ and /ˈælps/, rather than /ˈbɒtʊ/ and /ˈæwps/.
+The difference between allophones of /ə/ in balance ([ə]) vs. the ones in about and Russia (and, in non-rhotic dialects, better), both of which may be closer to /ʌ/ in dialects with the foot–strut split (that is, [ɐ]) vs. the one in button (the syllabicity of the following consonant). All are transcribed as /ə/ in our system.
+The difference between the phonetic realization of English sounds (mostly vowels) in various dialects. Let's pick some grapes for Betty should be transcribed /lɛts ˈpɪk səm ˈɡreɪps fər ˈbɛti/ regardless of the variety of English and everyone should interpret that transcription according to their own dialect. Thus, a person from South East England will read it as something like [lɛʔs ˈpʰɪk səm ˈɡɹɛɪps fə ˈbɛtˢɪi], a Scot as [ɫɛts ˈpʰɪk səm ˈɡɾeps fɚ ˈbɛte], whereas someone from New Zealand will interpret that transcription as [ɫɪts ˈpʰək səm ˈɡɹæɪps fə ˈbɪɾi]. Because we are transcribing diaphonemes rather than phones (actual sounds), it is irrelevant that, for example, the vowel in let's as pronounced by someone from New Zealand overlaps with how people with England and Scotland typically pronounce the first vowel in pick, or that the Scottish realization of /r/ after /ɡ/ overlaps with the New Zealand realization of /t/ between vowels. In other words, the symbol ⟨ɛ⟩ does not stand specifically for the open-mid front unrounded vowel in our system but any vowel that can be identified as the vowel in let's, depending on the accent. This is also why we use the simple symbol ⟨r⟩ for the second sound in grapes.
+Other words may have different vowels depending on the speaker.
+For more extensive information on dialect variations, you may wish to see the IPA chart for English dialects.
+Note that place names are not generally exempted from being transcribed in this abstracted system, so rules such as the above must be applied in order to recover the local pronunciation. Examples include place names in much of England ending -‍ford, which although locally pronounced [-fəd] are transcribed /-fərd/. This is best practice for editors. However, readers should be aware that not all editors may have followed this consistently, so for example if /-fəd/ is encountered for such a place name, it should not be interpreted as a claim that the /r/ would be absent even in a rhotic dialect.
+Other transcriptions
+If you feel it is necessary to add a pronunciation respelling using another convention, then please use the conventions of Wikipedia's pronunciation respelling key.
+To compare the following IPA symbols with non-IPA American dictionary conventions that may be more familiar, see Pronunciation respelling for English, which lists the pronunciation guides of fourteen English dictionaries published in the United States.
+To compare the following IPA symbols with other IPA conventions that may be more familiar, see Help:IPA/Conventions for English, which lists the conventions of eight English dictionaries published in Britain, Australia, and the United States.
+See also
+If your browser does not display IPA symbols, you probably need to install a font that includes the IPA (for good, free IPA fonts, see the download links in the articles for Gentium, and the more complete Charis SIL; for a monospaced font, see the complete Everson Mono).
+For a guide to adding IPA characters to Wikipedia articles, see Wikipedia:Manual of Style/Pronunciation § Entering IPA characters.
+Help:IPA/Conventions for English
+Help:Pronunciation respelling key
+Pronunciation respelling for English
+Category:Pages with English IPA (579)
+Notes
+↑ This rule is generally employed in the pronunciation guide of our articles, even for local terms such as place names. However, be aware that not all editors may have followed this consistently, so for example if a pronunciation of an English town ending in ‑ford reads /‑fəd/, it doesn't mean that the /r/ would be absent in a rhotic dialect.
+↑ For example, if you have the marry–merry merger, you probably only merge /æ/ and /ɛ/ before /r/. You would still distinguish man and men.
+1 2 In varieties with flapping, /t/ and sometimes also /d/ between a vowel and a weak or word-initial vowel may be pronounced with a voiced tap [ɾ], making latter sound similar or identical to ladder. Some dictionaries transcribe /t/ subject to this process as ⟨d⟩ or ⟨t̬⟩, but they are not distinguished in this transcription system. In those varieties, the sequence /nt/ in the same environment may also be realized as a nasalized tap [ɾ̃], making winter sound similar or identical to winner. This is also not distinguished in this system.
+1 2 3 4 5 6 7 In dialects with yod dropping, /j/ in /juː/, /ju/, or /jʊər/ is not pronounced after coronal consonants (/t/, /d/, /s/, /z/, /n/, /θ/, and /l/) in the same syllable, so that dew /djuː/ is pronounced the same as do /duː/. In dialects with yod coalescence, /tj/ and /dj/ mostly merge with /tʃ/ and /dʒ/, so that dew /djuː/ is pronounced the same as Jew /dʒuː/. In some dialects /sj/ and /zj/ are also affected and frequently merge with /ʃ/ and /ʒ/. Where /j/ in /juː/, /ju/, or /jʊər/ following a coronal is still pronounced in yod-dropping accents, place a syllable break before it: menu /ˈmɛn.juː/.
+↑ The phoneme /hw/ is not distinguished from /w/ in the many dialects with the wine–whine merger, such as RP and most varieties of General American. For more information on this sound, see voiceless labialized velar approximant.
+↑ The IPA value of the letter ⟨j⟩ may be counterintuitive to English speakers, but the spelling is found even in some common English words like hallelujah and fjord. Some dictionaries use ⟨y⟩ instead, although it represents a close front rounded vowel in official IPA.
+↑ /l/ in the syllable coda, as in the words all, cold, or bottle, is pronounced as [o], [u], [w] or a similar sound in many dialects through L-vocalization.
+↑ In most varieties of English, /r/ is pronounced as a voiced postalveolar approximant ⟨ɹ̠⟩. Although the IPA symbol ⟨r⟩ represents the alveolar trill, ⟨r⟩ is widely used instead of ⟨ɹ̠⟩ in broad transcriptions of English for convenience.
+↑ A number of English words, such as genre and garage, may be pronounced with either /ʒ/ or /dʒ/.
+↑ In non-rhotic accents like RP, /r/ is not pronounced unless followed by a vowel.
+↑ In dialects with the father–bother merger such as General American, /ɒ/ is not distinguished from /ɑː/.
+↑ In most of the United States, /ɒr/ is merged with /ɔːr/, except for a handful of words such as borrow, tomorrow and sorry, which instead have /ɑːr/. In some parts of the Southern and Northeastern US, it is always merged with /ɑːr/. In Canada, it is always merged with /ɔːr/.
+↑ Some British sources, such as the Oxford English Dictionary, use ⟨a⟩ instead of /æ/ to transcribe this vowel. This more closely reflects the actual vowel quality in contemporary Received Pronunciation.[a]
+↑ In North America, /æ/ is often pronounced like a diphthong [eə~ɛə] before nasal consonants and, in some particular regional dialects, other environments. See /æ/ raising.
+1 2 3 Many North American accents have the Mary–marry–merry merger and therefore don't distinguish between the corresponding sounds /ɛər/, /ær/, and /ɛr/. Some speakers merge only two of the sounds (most typically /ɛər/ with one of the short vowels), and less than a fifth of speakers of American English make a full three-way distinction like in RP and similar accents.[b]
+1 2 In much of North America, /aɪ/ or /aʊ/ may have a slightly different quality when it precedes a voiceless consonant, as in price or mouth, from that in ride/pie or loud/how, a phenomenon known as Canadian raising. Since this occurs in a predictable fashion, it is not distinguished in this transcription system.
+1 2 3 Some speakers pronounce higher, flower and coyer ("more coy") with two syllables, and hire, flour and coir with one. Most pronounce them the same. For the former group of words, make use of syllable breaks, as in /ˈhaɪ.ər/, /ˈflaʊ.ər/, /ˈkɔɪ.ər/, to differentiate from the latter. Before vowels, the distinction between /aɪər, aʊər, ɔɪər/ and /aɪr, aʊr, ɔɪr/ is not always clear; choose the former if the second element may be omitted (as in [ˈdaəri] diary).
+↑ /ɛ/ is transcribed with ⟨e⟩ in many dictionaries. However, /eɪ/ is also sometimes transcribed with ⟨e⟩, especially in North American literature, so ⟨ɛ⟩ is chosen here.
+1 2 3 /ɛə/, /ɪə/, or /ʊə/ may be separated from /r/ only when a stress follows it. The IPAc-en template supports /ɛəˈr/, /ɪəˈr/, /ʊəˈr/, /ɛəˌr/, /ɪəˌr/, and /ʊəˌr/ as distinct diaphonemes for such occasions.
+1 2 3 4 ⟨ɪ⟩ and ⟨oʊ⟩ represent strong vowels in some words and weak vowels in others. It will not always be clear which they are.[c][d]
+1 2 Words like idea, real, and theatre may be pronounced with /ɪə/ and cruel with /ʊə/ in non-rhotic accents such as Received Pronunciation, and some dictionaries transcribe them with /ɪə, ʊə/,[e] but since they are not pronounced with /r/ in rhotic accents, they are transcribed with /iːə, uːə/, not with /ɪə, ʊə/, in this transcription system.
+↑ /oʊ/ is often transcribed with ⟨əʊ⟩, particularly in British literature, based on its modern realization in Received Pronunciation. It is also transcribed with ⟨o⟩, particularly in North American literature.
+1 2 Some accents, such as Scottish English, many forms of Irish English and some conservative American accents, make a distinction between the vowels in horse and hoarse (i.e. they lack the horse–hoarse merger). Since most modern dictionaries do not differentiate between them, neither does this key.
+↑ /ɔː/ is not distinguished from /ɒ/ in dialects with the cot–caught merger such as Scottish English, Canadian English and many varieties of General American. In North America, the two vowels most often fall together with /ɑː/.
+↑ /ʊər/ is not distinguished from /ɔːr/ in dialects with the cure–force merger, including many younger speakers. In England, the merger may not be fully consistent and may only apply to more common words. In conservative RP and Northern England English /ʊər/ is much more commonly preserved than in modern RP and Southern England English. In Australia and New Zealand, /ʊər/ does not exist as a separate phoneme and is replaced either by the sequence /uːər/ (/uːr/ before vowels within the same word, save for some compounds) or the monophthong /ɔːr/.
+↑ Some, particularly North American, dictionaries notate /ʌ/ with the same symbol as /ə/, which is found only in unstressed syllables, and distinguish it from /ə/ by marking the syllable as stressed. Also note that although ⟨ʌ⟩, the IPA symbol for the open-mid back vowel, is used, the typical modern pronunciation is rather close to the near-open central vowel [ɐ] in some dialects, including Received Pronunciation.
+↑ /ʌ/ is not used in the dialects of the northern half of England and some parts of Ireland and Wales. These words would take the /ʊ/ vowel: there is no foot–strut split.
+1 2 In Received Pronunciation, /ɜːr/ is pronounced as a lengthened schwa, [əː]. In General American, it is phonetically identical to /ər/ (both being r-colored vowels dominated by the /r/ quality). Some dictionaries therefore use ⟨əː, ər⟩ instead of the conventional notations ⟨ɜː, ɜr⟩. When ⟨ər⟩ is used for /ɜːr/, it is distinguished from /ər/ by marking the syllable as stressed. This is likewise the case for the notations ⟨ɝ⟩ and ⟨ɚ⟩, which are conventionally distinguished as stressed versus unstressed, respectively.
+↑ /ʌr/ is not distinguished from /ɜːr/ in dialects with the hurry–furry merger such as General American.
+1 2 In a number of contexts, /ə/ in /ər/, /əl/, /ən/, or /əm/ is often omitted, resulting in a syllable with no vowel. Some dictionaries show /ə/ in those contexts in parentheses, superscript, or italics to indicate this possibility, or simply omit /ə/. When followed by a weak vowel, the syllable may be lost altogether, with the consonant moving to the next syllable, so that doubling /ˈdʌb.əl.ɪŋ/ may alternatively be pronounced as [ˈdʌb.lɪŋ], and Edinburgh /ˈɛd.ɪn.bər.ə/ as [ˈɛd.ɪn.brə].[i] When not followed by a vowel, /ər/ merges with /ə/ in non-rhotic accents.
+↑ ⟨ɪ⟩ represents a strong vowel in some contexts and a weak vowel in others. In accents with the weak vowel merger such as most Australian and American accents, weak /ɪ/ is not distinguished from schwa /ə/, making rabbit and abbot rhyme and Lenin and Lennon homophonous. (Pairs like roses and Rosa's are kept distinct in American accents because of the difference in morphological structure,[f] but may be homophonous in Australian.[g]) In these accents, weak /ɪl, ɪn, ɪm/ merge with /əl, ən, əm/, so that the second vowel in Latin may be lost and cabinet may be disyllabic (see the previous note).
+1 2 /oʊ/ and /u/ in unstressed, prevocalic positions are transcribed as /əw/ by Merriam-Webster, but no other dictionary uniformly follows this practice.[h] Hence the difference between /əw/ in Merriam-Webster and /oʊ/ or /u/ in another source is most likely one in notation, not in pronunciation, so /əw/ in such cases may be better replaced with /oʊ/ or /u/ accordingly, to minimize confusion: /ˌsɪtʃəˈweɪʃən/ → /ˌsɪtʃuˈeɪʃən/, /ˈfɒləwər/ → /ˈfɒloʊər/.
+1 2 ⟨i⟩ represents variation between /iː/ and /ɪ/ in unstressed prevocalic or morpheme-final positions. It is realized with a quality closer to /iː/ in accents with happy tensing, such as Australian English, General American, and modern RP, and to /ɪ/ in others. ⟨u⟩ likewise represents variation between /uː/ and /ʊ/ in unstressed prevocalic positions.
+↑ The sequence ⟨iə⟩ may be pronounced as two syllables, [i.ə] or [ɪ.ə], or as one, [jə] or [ɪə̯]. When pronounced as one syllable in a non-rhotic accent, it may be indistinguishable from, and identified as, the NEAR vowel (/ɪər/).[e] This transcription system uses ⟨iə⟩, not ⟨i.ə⟩, ⟨jə⟩, ⟨ɪə⟩, etc., to cover all these possibilities.
+↑ The sequence ⟨uə⟩ may be pronounced as two syllables, [u.ə] or [ʊ.ə], or as one, [wə] or [ʊə̯]. When pronounced as one syllable in a non-rhotic accent, it may be indistinguishable from, and identified as, the CURE vowel (/ʊər/).[e] This transcription system uses ⟨uə⟩, not ⟨u.ə⟩, ⟨wə⟩, ⟨ʊə⟩, etc., to cover all these possibilities.
+↑ In most dialects, /x/ can also be replaced by /k/ in most words, including loch. It is also replaced with /h/ in some words, particularly of Yiddish origin, such as Chanukah.
+1 2 /ɒ̃, æ̃/ are only found in French loanwords and often replaced by another vowel and a nasal consonant: bon vivant /ˌbɒn viːˈvɒnt/, ensemble /ɒnˈsɒmbəl/, fin de siècle /ˌfæn də siˈɛklə/, vin blanc /væn ˈblɒŋk/, etc.[j]
+↑ /ɜː/ is only found in loanwords. It most often occurs in (but is not limited to) some British and Southern Hemisphere r-less (non-rhotic) accents, where it is the same vowel as in NURSE, but appears in words without orthographic ⟨r⟩. In dialects that do not have this vowel, there is no one-to-one corresponding sound used, being highly dependent on each individual word. Some speakers may use more unassimilated sounds compared to the languages being loaned from, while others may use sounds that closer align with orthographic convention, and yet others may use an r-ful (rhotic) equivalent for this vowel; again, these variations are also dependent on the specific word. Therefore, a transcription that includes /ɜː/ must always be prefaced with a label indicating the variety of English.
+↑ The IPA stress marks, ⟨ˈ⟩ and ⟨ˌ⟩, come before the syllable that has the stress, in contrast to stress marking in pronunciation keys of some dictionaries published in the United States.
+↑ Scholars disagree on how to analyze degrees of stress in English. A particular unstressed syllable with phonetic prominence or a full (unreduced) vowel is analyzed by some scholars as having secondary stress. For simplicity, we follow British rather than American English conventions, only marking secondary stress when it occurs before, not after, the primary stress.
+↑ Syllable divisions are not usually marked, but the IPA dot ⟨.⟩ may be used when it is wished to make explicit where a division between syllables is (or may be) made.
+References
+↑ "British English Pronunciations". Oxford English Dictionary. Retrieved 4 September 2023.
+↑ Vaux, Bert; Golder, Scott (2003). "How do you pronounce Mary/merry/marry?". Harvard Dialect Survey. Harvard University Linguistics Department.
+↑ Flemming & Johnson (2007), pp. 91–2.
+↑ Wells, John (25 March 2011). "strong and weak". John Wells's phonetic blog.
+1 2 3 Wells (1982), p. 240.
+↑ Flemming & Johnson (2007), pp. 94–5.
+↑ Wells (1982), p. 601.
+↑ Windsor Lewis, Jack (10 April 2009). "The Elephant in the Room". PhonetiBlog. Archived from the original on 6 March 2025.
+↑ Wells (2008), pp. 173, 799.
+↑ Jones (2011).
+↑ Wells (1982), pp. 473–6, 493, 499.
+↑ Stuart-Smith (2004), p. 58.
+↑ Corrigan (2010), pp. 33–5.
+↑ Wells (1982), pp. 361, 372.
+↑ Wells (1982), pp. 605–7.
+↑ Bauer et al. (2007), pp. 98–9.
+↑ Bauer et al. (2007), p. 98.
+↑ Wells (1982), pp. 351–3, 363–4.
+↑ Wells (1982), pp. 400, 439.
+↑ Wells (1982), pp. 380–1.
+↑ Wells (1982), pp. 612–3.
+1 2 Stuart-Smith (2004), p. 56.
+↑ Wells (1982), pp. 304, 310–1.
+↑ Wells (1982), pp. 304, 312–3.
+↑ Stuart-Smith (2004), p. 57.
+Bibliography
+Bauer, Laurie; Warren, Paul; Bardsley, Dianne; Kennedy, Marianna; Major, George (2007). "New Zealand English". Journal of the International Phonetic Association. 37 (1): 97–102. doi:10.1017/S0025100306002830. S2CID 145584883.
+Corrigan, Karen P. (2010). Irish English, volume 1 – Northern Ireland. Edinburgh University Press. ISBN 978-0-7486-3429-3.
+Flemming, Edward; Johnson, Stephanie (2007). "Rosa's roses: reduced vowels in American English" (PDF). Journal of the International Phonetic Association. 37 (1): 83–96. doi:10.1017/S0025100306002817. S2CID 145535175. Archived (PDF) from the original on 2018-09-19. Retrieved 2019-06-23.
+Jones, Daniel (2011). Roach, Peter; Setter, Jane; Esling, John (eds.). Cambridge English Pronouncing Dictionary (18th ed.). Cambridge University Press. ISBN 978-0-521-15255-6.
+Stuart-Smith, Jane (2004). "Scottish English: phonology". In Schneider, Edgar W.; Burridge, Kate; Kortmann, Bernd; Mesthrie, Rajend; Upton, Clive (eds.). A Handbook of Varieties of English. Vol. 1: Phonology. Mouton de Gruyter. pp. 47–67. doi:10.1515/9783110175325.1.47. ISBN 3-11-017532-0.
+Wells, John C. (1982). Accents of English. Vol. 1: An Introduction (pp. i–xx, 1–278), Vol. 2: The British Isles (pp. i–xx, 279–466), Vol. 3: Beyond the British Isles (pp. i–xx, 467–674). Cambridge University Press. doi:10.1017/CBO9780511611759, doi:10.1017/CBO9780511611766. ISBN 0-52129719-2 , 0-52128540-2 , 0-52128541-0 .
+Wells, John C. (2008). Longman Pronunciation Dictionary (3rd ed.). Longman. ISBN 978-1-4058-8118-0.
+External links
+Getting JAWS 6.1 to recognize "exotic" Unicode symbols Archived 2015-06-17 at the Wayback Machine – for help on getting the screen reader JAWS to read IPA symbols
+IPA Reader – web-based IPA synthesizer using Amazon Polly
+Phoneme Synthesis – web-based IPA synthesizer using eSpeak
+v
+t
+e
+International Phonetic Alphabet keys
+Abkhaz
+Acehnese
+Adyghe
+Afrikaans
+Albanian
+Altai
+Amharic
+Arabic
+Modern Standard
+Egyptian
+Hejazi
+Lebanese
+Tunisian
+Armenian
+Assamese
+Asturian
+Australian languages
+Aymara
+Azerbaijani
+Bashkir
+Basque
+Belarusian
+Bengali
+Berber
+Bislama
+Bosnian
+Breton
+Bulgarian
+Burmese
+Catalan
+Standard
+Insular
+Chamorro
+Chinese
+Mandarin
+Cantonese
+Hokkien
+Jin
+Wu
+Xiang
+Corsican
+Croatian
+Czech
+Danish
+Dari
+Dutch
+Dzongkha
+English
+Old English
+Emilian-Romagnol
+Esperanto
+Estonian
+Extremaduran
+Fijian
+Finnish
+Franco-Provençal
+French
+Galician
+Georgian
+German
+Standard
+Alemannic
+Colognian
+Greek
+Greenlandic
+Gujarati
+Guadeloupean Creole
+Haitian Creole
+Hawaiian
+Hebrew
+Hindi
+Hmong
+Hungarian
+Icelandic
+Igbo
+Indonesian
+Inuktitut
+Inupiaq
+Irish
+Isan
+Italian
+Central
+Japanese
+Kannada
+Kazakh
+Khmer
+Korean
+Kurdish
+Kyrgyz
+Lakota
+Lao
+Latin
+Latvian
+Laz
+Ligurian
+Lithuanian
+Lombard
+Luxembourgish
+Macedonian
+Maithili
+Malagasy
+Malay
+Malayalam
+Maldivian
+Maltese
+Manx
+Māori
+Marathi
+Marshallese
+Mauritian Creole
+Mayan
+Mongolian
+Montenegrin
+Mirandese
+Nahuatl
+Navajo
+Neapolitan
+Nepali
+Northern Thai
+Norwegian
+Occitan
+Odia
+Okinawan
+Old Church Slavonic
+Ossetian
+Pashto
+Persian
+Piedmontese
+Polish
+Portuguese
+Punjabi
+Quechua
+Romanian
+Romansh
+Russian
+Samoan
+Sanskrit
+Sardinian
+Scottish Gaelic
+Serbo-Croatian
+Shan
+Sicilian
+Sinhala
+Slovak
+Slovene
+Somali
+Sorbian
+Spanish
+Swahili
+Swazi
+Swedish
+Sylheti
+Tagalog
+Tahitian
+Tai Lue
+Tajik
+Tamil
+Tatar
+Telugu
+Thai
+Tibetan
+Tigrinya
+Tok Pisin
+Tongan
+Turkish
+Turkmen
+Tuvaluan
+Tuvan
+Ukrainian
+Urdu
+Uzbek
+Uyghur
+Venetian
+Vietnamese
+Walloon
+Welsh
+West Frisian
+Xhosa
+Yiddish
+Yoruba
+Zhuang
+Zulu
+Comparisons
+IPA conventions for English
+English dialects
+Wikipedia pronunciation respelling
+Other English pronunciation respellings
+Introductory guides
+Symbols
+For English speakers
+Manual of Style: Pronunciation
+v
+t
+e
+Wikipedia help pages
+Visit the Teahouse or the Help desk for an interactive Q & A forum.
+FAQs (?)
+Reference desks (?)
+Noticeboards (?)
+Cheatsheet (?)
+Directories (?)
+Village pumps (?)
+About Wikipedia (?)
+Administration
+Purpose
+Principles
+Policies and guidelines
+What Wikipedia is not
+Disclaimer (parental advice)
+Making requests
+Who writes Wikipedia?
+Help for readers (?)
+FAQ
+Copyright
+Glossary
+Mobile access
+Navigation
+Other languages
+Saved pages
+Searching
+Students
+Viewing media
+Contributing
+to Wikipedia (?)
+Advice for young editors
+Avoiding common mistakes
+Etiquette
+Simplified Manual of Style
+Simplified rule-set
+"Ignore all rules"
+"The rules are principles"
+Style-tips
+Tip of the day
+Your first article (article wizard)
+Getting started (?)
+Why create an account?
+Introductions by topic
+Graphics tutorials
+Picture tutorial
+IRC (live chat) tutorial
+VisualEditor user guide
+Dos and don'ts (?)
+Accessibility
+Biographies
+Biographies (living)
+Categorization
+Consensus
+Discussions
+Disambiguation
+Images
+Leads
+Links
+Lists
+References
+Tables
+Titles (of articles)
+How-to pages and
+information pages (?)
+Appealing blocks
+Article deletion
+Categories
+Citations/references
+Referencing for beginners
+Citation Style 1
+Cite errors
+References and page numbers
+Convert
+Diff
+Editing
+Minor edit
+toolbar
+edit conflict
+Find sources
+Files
+Footnotes
+Image deletion
+Infoboxes
+Linking (link color)
+Logging in
+Merging
+New page review
+Page name
+Renaming pages
+Redirect
+Passwords
+Email confirmation
+Reverting
+Simple vandalism cleanup
+Talk pages (archiving
+simple archiving)
+User contributions
+WP search protocol
+Coding (?)
+Wiki markup
+Barcharts
+Calculations
+Characters
+Columns
+Elevation
+Hidden text
+HTML
+Lists
+Magic words
+Music symbols
+Sections
+Sounds
+Tables
+Templates
+Transclusion
+URL
+Visual files
+Directories (?)
+Abbreviations
+AI
+Departments
+Editor's index
+Essays
+FAQs
+Glossary
+Guidelines
+Manual of Style
+Policies
+Tasks
+Tips
+Tools
+Missing Manual  Ask for help on your talk page (?)
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:IPA/English&oldid=1377187385"
+Category:
+International Phonetic Alphabet help
+Hidden categories:
+Wikipedia semi-protected project pages
+Pages with plain IPA
+CS1: long volume value
+Webarchive template wayback links
+Search
+Search
+Help:IPA/English
+49 languages   Add topic

@@ -8,10 +8,8 @@ Why Choose the MS in Business Analytics at Carnegie Mellon?
 Here, our top-ranked Master of Science in Business Analytics (MSBA) degree program gives you exclusive industry access, unparalleled career coaching, and a curriculum designed to give you a competitive edge from day one
 The MSBA program builds your analytics understanding and strategic skills to make you a leader who can future-proof business decisions across industries. Apply machine learning and other technologies to power a competitive advantage. Work with industry leaders and faculty who originate new methodologies. Make a seamless transition into your target role with a renowned credential from Carnegie Mellon University Tepper School of Business.
 Key Features of the MSBA Degree Program
-Top-ranked:
-U.S. News & World Report ranked the Tepper School as the #1 Business School for Business Analytics.
-Two formats:
-Both the 20-month online option and the nine-month full-time option offer on-campus experiences and allow you to tailor the program to fit your schedule and career goals.
+Top-ranked: U.S. News & World Report ranked the Tepper School as the #1 Business School for Business Analytics.
+Two formats: Both the 20-month online option and the nine-month full-time option offer on-campus experiences and allow you to tailor the program to fit your schedule and career goals.
 Get More Information
 There’s more than one way to build a career in analytics. Learn more about the full-time and part-time MSBA formats, the skills you’ll develop, and how each experience can fit your background, timeline, and career goals.
 Join Our Mailing List
@@ -22,32 +20,11 @@ On Carnegie Mellon’s campus in Pittsburgh, Pennsylvania
 Ideal for recent college graduates with little or no work experience
 Explore the Full-Time MSBA Program
 Full-Time MS in Business Analytics Admissions Deadlines
-Round 1
-Round 2
-Round 3
-Round 4 - Priority
-Round 4 - Final
-Deadline
-October 14, 2026
-January 13, 2027
-March 3, 2027
-May 5, 2027
-June 16, 2027
-Decision
-December 10, 2026
-March 11, 2027
-April 22, 2027
-Rolling
-Rolling
-Deposit Deadline
-February 9, 2027
-April 20, 2027
-May 13, 2027
-Rolling
-Rolling
-Note for international applicants:
-Round 3
-is the final round that you can apply for the full-time program.
+Round 1 Round 2 Round 3 Round 4 - Priority Round 4 - Final
+Deadline October 14, 2026 January 13, 2027 March 3, 2027 May 5, 2027 June 16, 2027
+Decision December 10, 2026 March 11, 2027 April 22, 2027 Rolling Rolling
+Deposit Deadline February 9, 2027 April 20, 2027 May 13, 2027 Rolling Rolling
+Note for international applicants: Round 3 is the final round that you can apply for the full-time program.
 Part-Time Online Master’s in Business Analytics Program
 With a flexible online learning environment and optional on-campus experiences, you don’t have to choose between community and convenience as a part-time MSBA student.
 20-month program
@@ -55,29 +32,10 @@ Online program with optional on-campus experiences
 For working professionals with varying levels of work experience
 Learn About the Part-Time Online MSBA
 Part-Time MS in Business Analytics Admissions Deadlines
-Round 1
-Round 2
-Round 3
-Round 4
-Round 5
-Deadline
-October 14, 2026
-January 13, 2027
-March 3, 2027
-May 5, 2027
-Rolling
-Decision
-December 10, 2026
-March 11, 2027
-April 22, 2027
-Rolling
-Rolling
-Deposit
-February 9, 2027
-April 20, 2027
-May 13, 2027
-Rolling
-Rolling
+Round 1 Round 2 Round 3 Round 4 Round 5
+Deadline October 14, 2026 January 13, 2027 March 3, 2027 May 5, 2027 Rolling
+Decision December 10, 2026 March 11, 2027 April 22, 2027 Rolling Rolling
+Deposit February 9, 2027 April 20, 2027 May 13, 2027 Rolling Rolling
 Master’s in Business Analytics Program Details
 When we say we prepare you to lead with precise, data-informed problem-solving skills, we mean it.
 Industry-Leading, STEM-Designated Curriculum
@@ -87,9 +45,8 @@ Corporate communication with stakeholders
 Cross-functional team management
 Large-scale data management and programming in R and Python
 Machine learning and predictive modeling methodologies
-Graduate equipped to address the business challenges and opportunities that artificial intelligence (AI) poses through courses like “Business Value for Integrative Analytics” and “Ethics in AI.”  Experiential learning courses pair you with a company and give you the chance to manage one of their large data sets, develop models and analytical insights, and communicate findings to company executives and faculty.
-Learn more about the MSBA curriculum
-.
+Graduate equipped to address the business challenges and opportunities that artificial intelligence (AI) poses through courses like “Business Value for Integrative Analytics” and “Ethics in AI.” Experiential learning courses pair you with a company and give you the chance to manage one of their large data sets, develop models and analytical insights, and communicate findings to company executives and faculty.
+Learn more about the MSBA curriculum.
 Career Opportunities in Business Analytics
 Professionals who hold a master’s in business analytics have a strong advantage in a world where analytical, data-backed decision-making rules the marketplace.
 Employers want team members with a refined ability to interpret complex data and make quick and accurate decisions — and then execute those decisions with the soft skills needed to motivate a team. Employers know they can find that kind of high-caliber candidate at CMU. That’s why they recruit from the Tepper School, year after year.
@@ -112,28 +69,19 @@ Project Controls Manager
 Senior Associate Data Analyst
 Senior Consultant
 Strategic Pricing Leadership Development Associate
-One exceptional feature of a Tepper School degree that you won’t find elsewhere is our
-ecosystem of support
-. We provide exclusive one-on-one coaching, tailored to your field and path, with a career counselor who has direct experience in your industry. Your counselor will design a job search plan just for you, and we will make sure you have all the polish, skill, and confidence you need to land your target role.
-Explore our alumni career outcomes
-.
+One exceptional feature of a Tepper School degree that you won’t find elsewhere is our ecosystem of support. We provide exclusive one-on-one coaching, tailored to your field and path, with a career counselor who has direct experience in your industry. Your counselor will design a job search plan just for you, and we will make sure you have all the polish, skill, and confidence you need to land your target role.
+Explore our alumni career outcomes.
 Master’s in Business Analytics Program Admissions and Financial Aid
-We admit students from a range of academic and professional backgrounds. If you’re wondering whether the Tepper School’s MSBA program is aligned with your experience and goals, do not hesitate to contact the MSBA admissions team. We can also provide support as you review the
-MSBA program tuition and financial aid opportunities
-.
-Learn more about the MSBA admissions process
-.
+We admit students from a range of academic and professional backgrounds. If you’re wondering whether the Tepper School’s MSBA program is aligned with your experience and goals, do not hesitate to contact the MSBA admissions team. We can also provide support as you review the MSBA program tuition and financial aid opportunities.
+Learn more about the MSBA admissions process.
 MSBA by the Numbers
-#
-1
+# 1
 Best Online Master's in Business (Non-MBA)
 U.S. News & World Report (2026)
-#
-2
+# 2
 Business Analytics
 U.S. News & World Report (2026)
-#
-4
+# 4
 Online MSBA Program
 Fortune
 Want More Information? Join Our Mailing List

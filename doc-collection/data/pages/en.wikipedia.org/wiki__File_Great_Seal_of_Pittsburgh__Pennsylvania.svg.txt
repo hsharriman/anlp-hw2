@@ -1,0 +1,73 @@
+URL: https://en.wikipedia.org/wiki/File:Great_Seal_of_Pittsburgh,_Pennsylvania.svg
+
+File:Great Seal of Pittsburgh, Pennsylvania.svg - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Size of the above preview of this SVG file: 330 × 330 pixels. Other resolutions: 250 × 250 pixels | 500 × 500 pixels | 960 × 960 pixels | 1,280 × 1,280 pixels | 3,840 × 3,840 pixels.
+Original file (SVG file, nominally 316 × 316 pixels, file size: 111 KB)
+✓ The source code of this SVG is valid.
+Summary
+[edit]
+Non-free media information and use rationale – non-free logo true for Pittsburgh
+Description
+This is the logo for Pittsburgh. Further details: The Great Seal of Pittsburgh, Pennsylvania.
+While the seal itself has a description dating back to at least 1845, this SVG rendering is only seen on their website recently (older rendering was still in use on their website in 2016, maybe later). To play it safe, I am uploading the SVG to Wikipedia instead of Commons, but if someone else can find a proof that the seal SVG falls in public domain, feel free to transfer the file to Commons.
+Source
+https://www.pittsburghpa.gov/Home
+Article
+Pittsburgh
+Portion used
+The entire logo is used to convey the meaning intended and avoid tarnishing or misrepresenting the intended image.
+Low resolution?
+This is an SVG vector image of a registered trademark or a copyright-protected logo, seal or computer icon. This image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. The default rendering of this image is of a size and resolution sufficient to maintain the quality intended by the company or organization, without being unnecessarily high resolution.
+Purpose of use
+The image is placed in the infobox at the top of the article discussing Pittsburgh, a subject of public interest. The significance of the logo is to help the reader identify the organization, assure the readers that they have reached the right article containing critical commentary about the organization, and illustrate the organization's intended branding message in a way that words alone could not convey.
+Replaceable?
+Because it is a non-free logo, there is almost certainly no free representation. Any substitute that is not a derivative work would fail to convey the meaning intended, would tarnish or misrepresent its image, or would fail its purpose of identification or commentary.
+Other information
+Use of the logo in the article complies with Wikipedia non-free content policy, logo guidelines, and fair use under United States copyright law as described above.
+Fair useFair use of copyrighted material in the context of Pittsburgh//en.wikipedia.org/wiki/File:Great_Seal_of_Pittsburgh,_Pennsylvania.svgtrue
+Licensing
+[edit]
+This logo is an official seal of a governmental entity or one of its government agencies, and may be subject to copyright, trademark, and/or other restrictions on its reproduction, especially in commercial contexts. The copyright is likely held by the government or agency in question. It is believed that the use of images of seals
+to illustrate the government or agency in question
+on the English-language Wikipedia, hosted on servers in the United States by the non-profit Wikimedia Foundation,
+qualifies as fair use under the Copyright law of the United States. Any other uses of this image, on Wikipedia or elsewhere, may be copyright infringement.
+Use of this seal here does not imply endorsement by Wikipedia or the Wikimedia Foundation, nor does it imply endorsement of Wikipedia or the Wikimedia Foundation by the organization. See Wikipedia:Non-free content and Wikipedia:Logos for more information.
+Fair use //en.wikipedia.org/wiki/File:Great_Seal_of_Pittsburgh,_Pennsylvania.svg
+true
+Fair use
+true
+This is a Scalable Vector Graphics (SVG) image of a registered trademark or copyrighted logo. If non-free content restrictions apply, this image should not be rendered any larger than is required for the purposes of identification and/or critical commentary. See Wikipedia:Logos.
+File history
+Click on a date/time to view the file as it appeared at that time.
+Date/Time Thumbnail Dimensions User Comment
+current 07:17, 15 February 2025  316 × 316 (111 KB) Minorax (talk | contribs) fix // Editing SVG source code using c:User:Rillke/SVGedit.js
+00:06, 15 February 2025 No thumbnail 316 × 316 (114 KB) DatBot (talk | contribs) Reduce size of non-free image (BOT - disable)
+07:26, 14 February 2025 No thumbnail 512 × 512 (114 KB) 痛 (talk | contribs) Uploading a non-free logo using File Upload Wizard
+You cannot overwrite this file.
+File usage
+The following page uses this file:
+Pittsburgh
+Metadata
+This file contains additional information, probably added from the digital camera or scanner used to create or digitize it.
+If the file has been modified from its original state, some details may not fully reflect the modified file.
+Width 316.22776601683796
+Height 316.22776601683796
+Retrieved from "https://en.wikipedia.org/w/index.php?title=File:Great_Seal_of_Pittsburgh,_Pennsylvania.svg&oldid=1277514689"
+Categories:
+SVG images of trademarks
+Images of official seals
+Hidden categories:
+Wikipedia images in SVG format
+Wikipedia non-free files with valid backlink
+All non-free media
+Completed non-free use rationale logo transclusions
+Wikipedia non-free files with NFUR stated
+Noindexed pages
+Files with no machine-readable description
+Files with no machine-readable author
+Search
+Search
+File:Great Seal of Pittsburgh, Pennsylvania.svg
+Add languages   Add topic

@@ -1,0 +1,244 @@
+URL: https://en.wikipedia.org/wiki/National_Robotics_Engineering_Center
+
+National Robotics Engineering Center - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Operating unit within the Robotics Institute of Carnegie Mellon University
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+This article needs more citations. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "National Robotics Engineering Center" – news · newspapers · books · scholar · JSTOR (February 2015) (Learn how and when to remove this message)
+This article contains promotional content. Please help improve it by removing promotional language and inappropriate external links, and by adding encyclopedic text written from a neutral point of view.
+See our advice if the article is about you and read our scam warning in case someone asks for money to edit this article. (March 2020) (Learn how and when to remove this message)
+(Learn how and when to remove this message)
+Carnegie Mellon's National Robotics Engineering Center
+Established May 1, 1994 (1994-05-01)
+Budget $35 million (2020)
+Field of research
+Robotics
+Director Dr. Herman Herman
+Staff 182
+Location Ten 40th Street, Pittsburgh, Pennsylvania, 15201, United States
+Operating agency
+Carnegie Mellon University
+Website www.nrec.ri.cmu.edu
+The National Robotics Engineering Center (NREC) is an operating unit within the Robotics Institute (RI) of Carnegie Mellon University. NREC works closely with government and industry clients to apply robotic technologies to real-world processes and products, including unmanned vehicle and platform design, autonomy, sensing and image processing, machine learning, manipulation, and human–robot interaction.
+NREC is led by Dr. Herman Herman, who has served as director since 2015.[1]
+NREC research objectives and approach
+[edit]
+NREC applies robotics technologies to build functional prototype systems from concept to commercialization.[2] A typical NREC project includes a rapid proof-of-concept demonstration followed by an in-depth development and testing phase that produces a robust prototype with intellectual property for licensing and commercialization. Throughout this process, NREC applies best practices for software development, system integration, and field testing. Sponsors and partners include industrial companies, technology startups, and federal agencies such as DARPA, the Department of Transportation, NASA, the Air Force Research Laboratory, and the U.S. Army Corps of Engineers.
+NREC's research model is based on
+Creative design and engineering on all levels and across all disciplines
+Rapid prototyping using in-house fabrication capabilities
+Collaboration with sponsors to commercialize technology
+NREC history
+[edit]
+National Robotics Engineering Consortium (NREC) at Carnegie Mellon was established in 1994 with help from a $2.5 million grant from NASA.[3]
+In 1994, scientists at the Carnegie Mellon Field Robotics Center realized that the mobile robotics field was mature enough for commercial application in agriculture, construction, mining, utilities, and other markets. Consequently, the National Robotics Engineering Consortium (NREC) was chartered to develop and transition robotic technology to industry and federal agencies. Original funding for the center included $2.5 million in seed funding from NASA.[2]
+In 1996, the organization moved to its current facility in Pittsburgh’s Lawrenceville neighborhood and was renamed the National Robotics Engineering Center. The NREC is housed in a renovated, 100,000-square-foot foundry building on a reclaimed industrial brownfield site.
+The NREC provided technical support to RedZone's development of Pioneer, an autonomous mapping and reconnaissance robot developed in 1997 to explore, map, and assess the Chernobyl Sarcophagus.[4]
+The Robotics Academy was launched in 2000 and designed to help K-1 teachers use robots to teach science and mathematics.[5] That same year, the NREC developed the Crusher, and autonomous off-road unmanned ground combat vehicle (UGCV), funded by DARPA and the United States Army.[6]
+In February 2019, the NREC hosted the activation of the U.S. Army AI Task Force (A-AI TF).[7][8]
+Tartan Rescue's CHIMP cuts wallboard at the 2013 DARPA Robotics Challenge Trials
+Tartan Racing wins the DARPA Urban Challenge
+President Barack Obama with NREC's Sensabot robot
+NREC timeline
+[edit]
+Year Key milestone
+1994 NASA funds the creation of NREC
+1996 NREC moves into current facility
+1997 Pioneer system developed for Chernobyl disaster response
+1997 Demeter project leads to the development of an automated, self-propelled harvester
+2000 Robotics Academy is launched to nurture STEM[clarification needed](Science, Technology, Engineering, Mathematics) and robotics education for students and teachers
+2000 NREC wins DARPA's UGCV and PerceptOR programs,[clarification needed] leading to the development of the Crusher unmanned ground combat vehicle[9]
+2001 M-2000 Robotic Hydro-blasting System, providing an environmentally safe and cost-effective solution to stripping ship hulls. The system is now in commercial production as the ENVIROBOT.[10]
+2005 Gladiator tactical unmanned ground vehicle, developed for the US Marine Corps.[11][12]
+2006 Crusher unmanned ground vehicle begins 2 years of field trials for off-road autonomous navigation
+2007 CMU's Tartan Racing team wins the DARPA Urban Challenge unmanned vehicle competition[13][14]
+2008 Development of high-speed machine vision system, to monitor conveyor belts in coal mines, improving productivity and worker safety
+2009 Implementation of autonomous agricultural equipment for harvesting, spraying, and mowing
+2010 Sensabot robot delivers inspection capabilities for gas and oil facilities
+2011 President Obama visits NREC to launch the National Robotics Initiative[15]
+2012 DARPA selects NREC's Tartan Rescue Team to compete in the DARPA Robotics Challenge[16]
+2013 Tartan Rescue's CHIMP robot (CMU Highly Intelligent Mobile Platform) takes 3rd place in the DARPA Robotics Challenge Trials[17] and qualifies for the finals[18]
+2015  Dr. Herman Herman becomes NREC's new Director
+2016  NREC celebrates its 20th Anniversary[citation needed]
+2017  Initial robotic prototyping to support mat sinking operations on the Mississippi River with the U.S. Army Corps of Engineers
+2018  Honeywell, CMU Develop Advanced Supply Chain Robotics and AI Solutions for Connected Distribution Centers
+2019  Activation of U.S. Army AI Task Force, hosted at NREC
+2019  Advanced Robotics for Manufacturing (ARM) partners with Carnegie Mellon University's NREC and Robotics Academy to grow a skilled, technical workforce
+2020  Demonstration of ARMOR 1 Prototype for U.S. Army Corps of Engineers
+2021  CMU Releases Impact Report on NREC's 25 Years
+Project case studies
+[edit]
+DARPA robotics challenge
+[edit]
+CHIMP is a human-sized robot that, when standing, is 5-foot-2-inches tall and weighs about 400 pounds. Tartan Rescue Team engineers designed CHIMP to work in dangerous, degraded environments that were built for people, not robots. CHIMP operates semi-autonomously and can plan and carry out high-level instructions given by its operator. Its near-human form, strength, precision, and dexterity enable it to perform complex, human-level tasks. CHIMP is not a dynamically balanced walking robot. Instead, it is designed to move on stable, tank-like treads incorporated into its four limbs.
+CHIMP ranked third in the DARPA Robotics Challenge Trials in December 2013.[17][19] Scoring 18 out of a possible 32 points during the two-day trials, the team demonstrated the system's ability to perform such tasks as removing debris, opening doors, cutting a hole in a wall, and closing a series of valves. The system was selected as one of nine eligible for DARPA funding to prepare for the DARPA Robotics Challenge Finals in 2015.[18]
+Urban challenge
+[edit]
+Carnegie Mellon University's Tartan Racing team[14] and General Motors built an autonomous SUV that won first place in the 2007 DARPA Urban Challenge.[13] The Urban Challenge race was held on November 3, 2007, at the Victorville training facility in California. Eleven teams competed against each other to finish a 60-mile city course in less than six hours. Their vehicles had to execute simulated missions in a mock urban area while obeying traffic laws, safely merging into moving traffic, navigating traffic circles, negotiating busy intersections, and avoiding other vehicles – all without human intervention.
+Automation and machine learning for agriculture
+[edit]
+Vehicle safeguarding: Being able to detect obstacles and terrain hazards significantly increases the safety of both manned and unmanned agricultural vehicles. The project uses machine learning techniques to build a robust obstacle detection system that can be easily adapted to different environments and operating conditions. NREC integrated its add-on perception packages onto a team of three computer-controlled tractors developed by John Deere. These autonomous tractors were used in harvesting operations in a peat bog. The robotic peat harvesting team was tested for a full season, completing over 100 harvesting missions in a working peat bog. Their behavior imitated manual peat harvesting operations while maintaining a safe operating environment.
+Strawberry Plant Sorter: Building upon expertise in vision, mechanisms, and manipulation, NREC built an automated strawberry plant sorter that streamlines the harvesting process, improves efficiency, and ensures consistent plant quality. The machine vision system is trained to sort strawberry plants using samples harvested by a human, sorting plants of different varieties and levels of maturity while operating under realistic conditions, where rain and frost change plants' appearance and roots may contain mud and debris. Lassen Canyon Nursery and other growers, representing approximately 85% of California's strawberry plant nursery market, supported this project and plan to use the technology in their operations.
+Orchard Spraying: NREC developed a retrofit kit that allows a tractor to operate without a driver. Its software accurately estimated the vehicle’s location and enabled it to autonomously follow a predetermined path. The autonomous tractor sprayed water while following a seven-kilometer-long path through an orange orchard without any human intervention. To achieve the path teach/playback capability, NREC developed a positioning system that uses an extended Kalman filter for fusing the odometry, the GPS information, and the IMU measurements. The path following system is based on the Pure Pursuit algorithm.[clarification needed]
+Defense robotics for convoy safety
+[edit]
+NREC and Oshkosh Defense are developing autonomous unmanned ground vehicle technologies for logistics tactical wheeled vehicles used by the US Marine Corps. CARGO Unmanned Ground Vehicles (CARGO UGVs or CUGVs) are designed for autonomous use in convoys that combine manned and unmanned vehicles. An operator in another vehicle supervises one or more unmanned vehicles, which drive autonomously in convoy formation day and night, in all weather, and when dust and smoke limit visibility.
+Technologies developed under this project are part of Oshkosh Defense’s TerraMax™ UGV kit, which supports unmanned convoy operations.[20]
+Sensabot
+[edit]
+Sensabot is a rugged robot designed to safely carry out on-site inspections in hazardous environments, isolated facilities, and other places that are difficult or dangerous for personnel to access. Benefits include reduced risk and improved efficiency of operation.[21]
+The system consists of a mobile robotic base equipped with a sensor boom that is fitted with inspection sensors. It is capable of operating in extreme temperatures, as well as explosive and toxic atmospheres. The robot is remotely controlled by a human operator who utilizes the sensors to conduct inspections on pipes, fittings, and valves. Sensabot has been designed to conform to the IECEx Zone 1 standards for explosive environments, as well as the ANSI safety standards for guided industrial vehicles.[22]
+Advanced Robotic Laser Coating Removal System (ARLCRS)
+[edit]
+The Air Force Research Laboratory (AFRL), Concurrent Technologies Corporation (CTC), and NREC are developing an environmentally friendly system to remove coatings from U.S. Air Force aircraft through funding from Air Force Materiel Command (AFMC).
+The Advanced Robotic Laser Coating Removal System (ARLCRS) uses a powerful laser stripping tool and state-of-the-art mobile robots to automatically remove paint and coatings from aircraft. The complete system is scalable for use from fighters to cargo and tanker aircraft. ARLCRS will reduce hazardous waste, air emissions, maintenance costs, and processing time. CTC is developing the laser coatings removal and particle capture systems. NREC is developing the mobile robots, sensors, and autonomy system.
+Operator assistance for underground coal mining
+[edit]
+NREC has worked with coal mining industry partners to develop operator assistance technology for longwall mining. This includes a complete navigation system for a continuous mining machine, laser rangefinder-based perception for robot localization, planning for cluttered spaces, and integration and simulation tools. This system was successfully demonstrated in a working mine in West Virginia.[citation needed] Related research and objectives include automated mine surveying, haulage, and multiple-machine interaction.
+ARMOR 1: mat sinking system
+[edit]
+ARMOR 1 is an automated robotic system for the U.S. Army Corps of Engineers to perform revetment operations along the Mississippi River. Once deployed, ARMOR 1 will replace the old Mat Sinking Unit, originally built in 1948. The goal is to increase the speed of revetment operations and improve the safety and working conditions of the employees who perform this vital work.
+When completed, ARMOR 1 will include six, independent robotic cranes. These cranes will pick up the large concrete squares from the supply barge and place them on the "mat deck" of ARMOR 1's manufacturing barge. There, the individual squares will be tied together into one 140 ft wide (and up to 900 ft long) flexible "mat" by an automated tie system. The completed mat will be launched from the barge and will be submerged along the banks of the Mississippi River, while more mats are continuously being assembled on the deck.
+Contribution to education
+[edit]
+The Carnegie Mellon Robotics Academy (CMRA) is an educational outreach of Carnegie Mellon University and part of the university's world-renowned Robotics Institute. In 2000, CMRA's administrative staff and development team became housed at NREC's facilities.
+The Computer Science STEM Network (CS2N) is a collaborative research project between Carnegie Mellon University, including the Robotics Academy, and the Defense Advanced Research Projects Agency (DARPA) designed to increase the number of students pursuing advanced Computer Science and Science, Technology, Engineering, and Mathematics (CS-STEM) degrees.
+See also
+[edit]
+Engineering portal
+Robotics
+References
+[edit]
+↑ "New Leadership for Carnegie Mellon's National Robotics Engineering Center". www.cs.cmu.edu. Retrieved 13 July 2026.
+1 2 "Pittsburgh's autonomy sector: A history of partnerships and investment". www.bizjournals.com. Retrieved 5 October 2022.
+↑ "CMU gets NASA grant for robitics - UPI Archives". UPI. Retrieved 31 July 2026.
+↑ "Robot Headed for Rendezvous With Chernobyl". archive.nytimes.com. Retrieved 12 September 2026.
+↑ "Robotics Academy Launches $7 Million Educational Initiative". Robotics Institute Carnegie Mellon University. 13 July 2010. Retrieved 12 September 2026.
+↑ Turner, Lt. Col. A. C. (2019). "Trailblazers of Unmanned Ground Vehicles" (PDF).
+↑ "AI Task Force taking giant leaps forward". www.army.mil. 7 October 2019. Retrieved 8 August 2026.
+↑ University, Carnegie Mellon. "Carnegie Mellon Hosts Activation of U.S. Army AI Task Force - News - Carnegie Mellon University". www.cmu.edu. Retrieved 8 August 2026.
+↑ "Crusher Unmanned Ground Combat Vehicle Unveiled" (PDF) (Press release). Defense Advanced Research Projects Agency. 28 April 2006. Archived from the original (PDF) on 12 January 2011. Retrieved 18 November 2010.
+↑ Chariot Robotics, official web site
+↑ Gladiator Tactical Unmanned Ground Vehicle, Globalsecurity.org web site
+↑ Hanlon, Mike (28 August 2005). "The Gladiator: US Marines' Unmanned Ground Vehicle". New Atlas. Retrieved 13 July 2026.
+1 2 DARPA Urban Challenge Archived 2014-03-05 at the Wayback Machine, archived web site
+1 2 Carnegie Mellon Tartan Racing, official web site
+↑ Obama Commanding Robot Revolution, Announces Major Robotics Initiative, IEEE Spectrum.
+↑ Carnegie Mellon Four-Limbed Robot Will Compete In DARPA Robotic Challenge Trials This December, Carnegie Mellon University press release, July, 2013
+1 2 DARPA Robotics Challenge Trials Archived 14 July 2014 at the Wayback Machine, archived web site.
+1 2 DARPA Robotics Challenge Archived 2016-04-28 at the Wayback Machine, official web site.
+↑ "DARPA Robotics Challenge: Meet the contenders (pictures)". CNET. Retrieved 5 October 2022.
+↑ Unmanned Ground Vehicle, Oshkosh Defense official web site
+↑ "Carnegie Mellon/NREC's President Obama signed Sensabot outfitted with specialty tires to lower the risk of catastrophic consequence" (PDF).
+↑ Sensabot: A Safe and Cost-Effective Inspection Solution, Journal of Petroleum Technology, October 2012
+Fenton, Edwin (2000). Carnegie Mellon 1900-2000: A Centennial History. Pittsburgh: Carnegie Mellon University Press. ISBN 0-88748-323-2.
+Wikimedia Commons has media related to National Robotics Engineering Center.
+v
+t
+e
+Carnegie Mellon University
+Schools
+Business
+Computer Science
+Engineering
+Information Networking
+Fine Arts
+Architecture
+Art
+Design
+Drama
+Music
+Humanities and Social Sciences
+Social and Decision Sciences
+Information Systems and Public Policy
+Science
+MMCC (defunct)
+Branches
+Qatar
+Rwanda
+Silicon Valley
+Australia (defunct)
+Students
+Greek Life
+Scotch'n'Soda Theatre
+The Tartan
+Traditions
+WRCT
+Research
+Pittsburgh Supercomputing Center
+Software Engineering Institute
+CERT Coordination Center
+Carnegie Mellon CyLab
+Robotics Institute
+National Robotics Engineering Center
+Human Computer Interaction Institute
+Hunt Institute for Botanical Documentation
+Carnegie Mellon University Computational Biology Department
+Language Technologies Institute
+Pittsburgh Life Sciences Greenhouse
+Carnegie School
+Ames Research Center
+Carnegie Mellon University Usable Privacy and Security Laboratory
+Pittsburgh Science of Learning Center
+Integrated Innovation Institute
+Carnegie Mellon University Press
+Campus
+Bellefield Boiler Plant
+Gesling Stadium
+ICA Pittsburgh
+Kraus Campo
+Main Building, U.S. Bureau of Mines
+Mellon Institute of Industrial Research
+Newell Simon Hall
+Pittsburgh Technology Center
+Walking to the Sky
+People
+Andrew Carnegie
+Mellon family
+Alumni and faculty
+Related
+Alice
+Andrew Project
+BLISS
+CMMI
+Mach
+3M computer
+Center for PostNatural History
+Conflict Kitchen
+Robot Hall of Fame
+Swartz Center for Entrepreneurship
+Waffle Shop: A Reality Show
+YinzCam
+Category
+Retrieved from "https://en.wikipedia.org/w/index.php?title=National_Robotics_Engineering_Center&oldid=1378341901"
+Categories:
+Software engineering organizations
+Carnegie Mellon University
+Computer science institutes in the United States
+Robotics in the United States
+Lawrenceville (Pittsburgh)
+Research institutes in Pennsylvania
+Organizations based in Pittsburgh
+Robotics laboratories
+Hidden categories:
+Articles with short description
+Short description matches Wikidata
+Use American English from January 2025
+All Wikipedia articles written in American English
+Use dmy dates from September 2023
+Articles needing additional references from February 2015
+All articles needing additional references
+Articles with a promotional tone from March 2020
+All articles with a promotional tone
+Articles with multiple maintenance issues
+Wikipedia articles needing clarification from February 2015
+Webarchive template wayback links
+All articles with unsourced statements
+Articles with unsourced statements from March 2023
+Commons category link from Wikidata
+Search
+Search
+National Robotics Engineering Center
+5 languages   Add topic

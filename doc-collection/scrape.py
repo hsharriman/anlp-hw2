@@ -7,7 +7,7 @@ from urllib.parse import urldefrag, urljoin, urlparse
 
 import pdfplumber
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (CMU ANLP course project crawler)"}
 
@@ -40,13 +40,53 @@ def filename_for(url, is_pdf):
     return Path(p.netloc) / (name + ".txt")
 
 
-def html_to_text(html):
+BLOCK_TAGS = ["p", "div", "section", "article", "main", "aside", "li", "ul", "ol", "table", "tr",
+              "h1", "h2", "h3", "h4", "h5", "h6", "dt", "dd", "blockquote", "figure", "figcaption", "title"]
+
+
+def html_to_text(html, selector=None):
+    """Visible text, one line per block element; inline tags (links, bold) stay in their sentence.
+    `selector` (CSS) limits the text to the largest matching element, e.g. the article body."""
     soup = BeautifulSoup(html, "html.parser")
     # not <form>: ASP.NET sites (e.g. pittsburghpa.gov) wrap the whole page in one
     for tag in soup(["script", "style", "noscript", "nav", "header", "footer", "svg"]):
         tag.decompose()
-    lines = (line.strip() for line in soup.get_text("\n").splitlines())
+    root = soup
+    if selector:
+        matches = soup.select(selector)
+        if matches:
+            root = max(matches, key=lambda el: len(el.get_text(" ").split()))
+    # newlines in the HTML source are just spaces; line breaks come from block elements
+    for s in root.find_all(string=True):
+        if type(s) is NavigableString and s.find_parent("pre") is None:  # not doctype or comments
+            s.replace_with(re.sub(r"\s+", " ", s))
+    for br in root.find_all("br"):
+        br.replace_with("\n")
+    for tag in root.find_all(BLOCK_TAGS):
+        tag.insert_before("\n")
+        tag.insert_after("\n")
+    for cell in root.find_all(["td", "th"]):
+        cell.insert_after(" ")
+    lines = (line.strip() for line in root.get_text().splitlines())
     return "\n".join(line for line in lines if line), soup
+
+
+def convert_saved_html(in_dir, out_dir, selector=None):
+    """Convert pages saved from a browser (for sites that block scripts) into the same
+    <host>/<path>.txt files that scrape() writes. The URL comes from the page's canonical link."""
+    out_dir = Path(out_dir)
+    for f in sorted(Path(in_dir).glob("*.htm*")):
+        raw = f.read_bytes()
+        head = BeautifulSoup(raw, "html.parser")
+        canonical = head.find("link", rel="canonical") or head.find("meta", property="og:url")
+        url = (canonical.get("href") or canonical.get("content")) if canonical else f"file://{f.name}"
+        text, _ = html_to_text(raw, selector)
+        text = re.sub(r" *\[[A-Z][A-Z0-9-]*\] *", " ", text)  # ad-slot markers, e.g. Britannica's [MOD7]
+        text = "\n".join(line.strip() for line in text.splitlines() if line.strip())
+        path = out_dir / filename_for(url, False)
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(f"URL: {url}\n\n{text}", encoding="utf-8")
+        print(f"saved   {path.relative_to(out_dir)} ({len(text.split())} words) <- {f.name}")
 
 
 def pdf_to_text(data):
@@ -115,6 +155,6 @@ def scrape(start_url, out_dir, max_depth=1, max_pages=50, same_domain=True, dela
 
 
 if __name__ == "__main__":
-    start_url = "https://www.pittsburghpa.gov/files/assets/city/v/4/omb/documents/operating-budgets/2025-operating-budget.pdf"
+    start_url = "https://www.pittsburghpa.gov/files/assets/city/v/1/finance/documents/tax-forms/9626_payroll_tax_regulations.pdf"
     out_dir = "data/pages"
     scrape(start_url, out_dir, max_depth=1, max_pages=100, sports=False)  # sports=True for team sites

@@ -1,0 +1,630 @@
+URL: https://en.wikipedia.org/wiki/Metropolitan_statistical_area
+
+Metropolitan statistical area - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Type of geographical region in the United States
+Population tables
+of U.S. cities
+The skyline of New York City, the most populous city in the United States
+Cities
+Population
+Area
+Density
+Ethnic identity
+Foreign-born
+Income
+Spanish speakers
+Capitals
+By decade
+By state
+By decade/state
+Urban areas
+Populous cities and metropolitan areas
+Metropolitan areas
+184 combined statistical areas
+935 core-based statistical areas
+393 metropolitan statistical areas
+542 micropolitan statistical areas
+Megaregions
+Related population lists
+North American metro areas
+World cities
+States and territories
+v
+t
+e
+In the United States, a metropolitan statistical area (MSA) is a geographical region based on a county or a group of counties with at least one urbanized area with a population of at least 50,000 and adjacent counties with economic ties to the central area.[1][2] Such regions are not legally incorporated as a city or town would be and are not legal administrative divisions like counties or separate entities such as states. As a result, sometimes the precise definition of a given metropolitan area will vary between sources. The statistical criteria for a standard metropolitan area were defined in 1949 and later redefined as those for a metropolitan statistical area in 1983.[3]
+Due to suburbanization, the typical metropolitan area is polycentric rather than being centered around a large historic core city such as New York City or Chicago.[4] Some metropolitan areas include more than one large historic core city; examples include the Dallas–Fort Worth metroplex, Virginia Beach–Norfolk–Newport News (Hampton Roads), Riverside–San Bernardino (Inland Empire), and Minneapolis–St. Paul (Twin Cities).
+MSAs are defined by the Office of Management and Budget (OMB), which is part of the Executive Office of the President, and are used by the U.S. Census Bureau and other U.S. federal government agencies for statistical purposes.[5]
+Definitions
+[edit]
+An enlargeable map of the 935 core-based statistical areas (CBSAs) of the United States and Puerto Rico as of 2023; the 393 MSAs are shown in green.[6]
+Metro area populations
+The U.S. Office of Management and Budget defines a set of core-based statistical areas (CBSAs) throughout the country, which are composed of counties and county equivalents.[7]
+CBSAs are delineated on the basis of a central contiguous area of relatively high population density, known as an urban area. The counties containing the core urban area are known as the "central counties" of the CBSA; these are defined as having at least 50% of their population living in urban areas with at least 10,000 residents.[8] Additional surrounding counties, known as "outlying counties", can be included in the CBSA if these counties have strong social and economic ties to the central county or counties as measured by commuting and employment. Outlying counties are included in the CBSA if 25% of the workers living in the county work in the central county or counties, or if 25% of the employment in the county is held by workers who live in the central county or counties.
+Adjacent CBSAs are merged into a single CBSA when the central county or counties of one CBSA qualify as an outlying county or counties to the other CBSAs.[8] One or more CBSAs may be grouped together or combined to form a larger statistical entity known as a combined statistical area (CSA) when the employment interchange measure (EIM) reaches 15% or more.
+CBSAs are subdivided into MSAs (formed around urban areas with at least 50,000 in population) and micropolitan statistical areas (μSAs), which are CBSAs built around urban areas with at least 10,000 but fewer than 50,000 in population. Some metropolitan areas may include multiple cities with populations below 50,000, but combined have over 50,000 people.[8] Previous terms that were used to describe these regions include "standard metropolitan statistical area" (SMSA) and "primary metropolitan statistical area" (PMSA).[9] Metropolitan statistical areas containing over 2.5 million people can also be further divided into metropolitan divisions.[10]
+On January 19, 2021, OMB submitted a proposed regulation for public comment to increase the minimum population required for an urban area to be designated as a metropolitan statistical area from 50,000 to 100,000.[11] It ultimately decided to keep the minimum at 50,000 for the 2020 cycle.[12]
+On July 21, 2023, the Office of Management and Budget released revised delineations of the various CBSAs in the United States.[6]
+History
+[edit]
+The Census Bureau created the metropolitan district for the 1910 census as a standardized classification for large urban centers and their surrounding areas. The original threshold for a metropolitan district was 200,000, but was lowered to 100,000 in 1930, and lowered again to 50,000 in 1940.[13] The metropolitan districts were replaced by standard metropolitan areas (SMAs) in the 1950 census, which were defined by the Bureau of the Budget (now the Office of Management and Budget) and later renamed to standard metropolitan statistical areas (SMAs) in 1959.[13][14] The modern metropolitan statistical area was created in 1983 amid a large increase in the number of eligible markets, which grew from 172 in 1950 to 288 in 1980;[13][15] the core based statistical area (CBSA) was introduced in 2000 and defined in 2003 with a minimum population of 10,000 required for micropolitan areas and 50,000 for urban areas.[13][14]
+United States
+[edit]
+1. New York
+2. Los Angeles
+3. Chicago
+4. Dallas–Fort Worth
+5. Houston
+6. Atlanta
+7. Washington
+8. Miami
+9. Philadelphia
+10. Phoenix
+11. Boston
+12. Inland Empire
+13. San Francisco
+14. Detroit
+15. Seattle
+16. Minneapolis–Saint Paul
+17. Tampa Bay
+18. San Diego
+19. Denver
+20. Orlando
+Location of the 20 largest MSAs in the United States, based on U.S. Census Bureau estimates for July 1, 2025
+The 387 MSAs in the United States, including those in all 50 states and the national capital of Washington, D.C. are ranked, including:
+The MSA rank by population as of July 1, 2025, as estimated by the United States Census Bureau[16]
+The MSA name as designated by the United States Office of Management and Budget[6]
+The MSA population as of July 1, 2025, as estimated by the United States Census Bureau[16]
+The MSA population as of April 1, 2020, as enumerated by the 2020 United States census[16][a]
+The percent MSA population change from April 1, 2020, to July 1, 2025[16]
+The combined statistical area (CSA)[b] if it is designated and the MSA is a component[17]
+The 387 metropolitan statistical areas of the United States[16]
+Metropolitan statistical area  2025
+estimate  2020
+census[a]  %
+change  Pop.
+change  Encompassing combined statistical area
+New York–Newark–Jersey City, NY-NJ MSA  20,112,448 20,081,935 +0.15%  +30,513  New York–Newark, NY-NJ-CT-PA CSA
+Los Angeles–Long Beach–Anaheim, CA MSA  12,844,441 13,200,998 −2.70%  -356,557  Los Angeles–Long Beach, CA CSA
+Chicago–Naperville–Elgin, IL-IN MSA  9,434,123 9,449,351 −0.16%  -15,228  Chicago–Naperville, IL-IN-WI CSA
+Dallas–Fort Worth–Arlington, TX MSA  8,477,157 7,637,387 +11.00%  +839,770  Dallas–Fort Worth, TX-OK CSA
+Houston–Pasadena–The Woodlands, TX MSA  7,904,627 7,149,642 +10.56%  +754,985  Houston–Pasadena, TX CSA
+Atlanta–Sandy Springs–Roswell, GA MSA  6,482,182 6,104,803 +6.18%  +377,379  Atlanta–Athens-Clarke County–Sandy Springs, GA-AL CSA
+Washington–Arlington–Alexandria, DC-VA-MD-WV MSA  6,465,724 6,278,542 +2.98%  +187,182  Washington–Baltimore–Arlington, DC-MD-VA-WV-PA CSA
+Miami–Fort Lauderdale–West Palm Beach, FL MSA  6,391,072 6,138,333 +4.12%  +252,739  Miami–Port St. Lucie–Fort Lauderdale, FL CSA
+Philadelphia–Camden–Wilmington, PA-NJ-DE-MD MSA  6,329,118 6,245,051 +1.35%  +84,067  Philadelphia–Reading–Camden, PA-NJ-DE-MD CSA
+Phoenix–Mesa–Chandler, AZ MSA  5,228,938 4,845,832 +7.91%  +383,106  Phoenix–Mesa, AZ CSA
+Boston–Cambridge–Newton, MA-NH MSA  5,034,221 4,941,632 +1.87%  +92,589  Boston–Worcester–Providence, MA-RI-NH CSA
+Riverside–San Bernardino–Ontario, CA MSA  4,769,007 4,599,839 +3.68%  +169,168  Los Angeles–Long Beach, CA CSA
+San Francisco–Oakland–Fremont, CA MSA  4,630,041 4,749,008 −2.51%  -118,967  San Jose–San Francisco–Oakland, CA CSA
+Detroit–Warren–Dearborn, MI MSA  4,390,913 4,392,041 −0.03%  -1,128  Detroit–Warren–Ann Arbor, MI CSA
+Seattle–Tacoma–Bellevue, WA MSA  4,161,883 4,018,762 +3.56%  +143,121  Seattle–Tacoma, WA CSA
+Minneapolis–St. Paul–Bloomington, MN-WI MSA  3,790,295 3,690,261 +2.71%  +100,034  Minneapolis–St. Paul, MN-WI CSA
+Tampa–St. Petersburg–Clearwater, FL MSA  3,418,895 3,175,275 +7.67%  +243,620
+San Diego–Chula Vista–Carlsbad, CA MSA  3,282,248 3,298,634 −0.50%  -16,386
+Denver–Aurora–Centennial, CO MSA  3,092,037 2,963,821 +4.33%  +128,216  Denver–Aurora–Greeley, CO CSA
+Orlando–Kissimmee–Sanford, FL MSA  2,957,672 2,673,376 +10.63%  +284,296  Orlando–Lakeland–Deltona, FL CSA
+Charlotte–Concord–Gastonia, NC-SC MSA  2,938,830 2,660,329 +10.47%  +278,501  Charlotte–Concord, NC-SC CSA
+Baltimore–Columbia–Towson, MD MSA  2,857,781 2,844,510 +0.47%  +13,271  Washington–Baltimore–Arlington, DC-MD-VA-WV-PA CSA
+St. Louis, MO-IL MSA  2,814,421 2,820,253 −0.21%  -5,832  St. Louis–St. Charles–Farmington, MO-IL CSA
+San Antonio–New Braunfels, TX MSA  2,813,140 2,558,143 +9.97%  +254,997  San Antonio–New Braunfels–Kerrville, TX CSA
+Austin–Round Rock–San Marcos, TX MSA  2,620,945 2,283,371 +14.78%  +337,574
+Portland–Vancouver–Hillsboro, OR-WA MSA  2,542,282 2,512,859 +1.17%  +29,423  Portland–Vancouver–Salem, OR-WA CSA
+Sacramento–Roseville–Folsom, CA MSA  2,477,274 2,397,382 +3.33%  +79,892  Sacramento–Roseville, CA CSA
+Pittsburgh, PA MSA  2,421,992 2,457,000 −1.42%  -35,008  Pittsburgh–Weirton–Steubenville, PA-OH-WV CSA
+Las Vegas–Henderson–North Las Vegas, NV MSA  2,407,226 2,265,461 +6.26%  +141,765  Las Vegas–Henderson, NV CSA
+Cincinnati, OH-KY-IN MSA  2,312,858 2,249,797 +2.80%  +63,061  Cincinnati–Wilmington, OH-KY-IN CSA
+Kansas City, MO-KS MSA  2,270,682 2,192,035 +3.59%  +78,647  Kansas City–Overland Park–Kansas City, MO-KS CSA
+Columbus, OH MSA  2,242,028 2,138,926 +4.82%  +103,102  Columbus–Marion–Zanesville, OH CSA
+Indianapolis–Carmel–Greenwood, IN MSA  2,205,695 2,089,653 +5.55%  +116,042  Indianapolis–Carmel–Muncie, IN CSA
+Nashville-Davidson–Murfreesboro–Franklin, TN MSA  2,197,416 2,014,444 +9.08%  +182,972  Nashville-Davidson–Murfreesboro, TN CSA
+Cleveland, OH MSA  2,165,775 2,185,825 −0.92%  -20,050  Cleveland–Akron–Canton, OH CSA
+San Jose–Sunnyvale–Santa Clara, CA MSA  1,984,473 2,000,468 −0.80%  -15,995  San Jose–San Francisco–Oakland, CA CSA
+Virginia Beach–Norfolk–Newport News, VA-NC, MSA  1,797,213 1,780,059 +0.96%  +17,154  Virginia Beach–Norfolk, VA-NC CSA
+Jacksonville, FL MSA  1,785,500 1,605,848 +11.19%  +179,652  Jacksonville–Kingsland–Palatka, FL-GA CSA
+Providence–Warwick, RI-MA MSA  1,708,161 1,676,579 +1.88%  +31,582  Boston–Worcester–Providence, MA-RI-NH CSA
+Raleigh–Cary, NC MSA  1,595,720 1,413,982 +12.85%  +181,738  Raleigh–Durham–Cary, NC CSA
+Milwaukee–Waukesha, WI MSA  1,575,010 1,574,731 +0.02%  +279  Milwaukee–Racine–Waukesha, WI CSA
+Oklahoma City, OK MSA  1,512,813 1,425,695 +6.11%  +87,118  Oklahoma City–Shawnee, OK CSA
+Louisville/Jefferson County, KY-IN MSA  1,402,509 1,362,180 +2.96%  +40,329  Louisville/Jefferson County–Elizabethtown, KY-IN CSA
+Richmond, VA MSA  1,389,338 1,314,434 +5.70%  +74,904
+Memphis, TN-MS-AR MSA  1,341,412 1,345,425 −0.30%  -4,013  Memphis–Clarksdale–Forrest City, TN-MS-AR CSA
+Salt Lake City–Murray, UT MSA  1,308,377 1,257,936 +4.01%  +50,441  Salt Lake City–Provo–Orem, UT CSA
+Fresno, CA MSA  1,203,383 1,164,909 +3.30%  +38,474  Fresno–Hanford–Corcoran, CA CSA
+Birmingham, AL MSA  1,197,766 1,180,631 +1.45%  +17,135  Birmingham–Cullman–Talladega, AL CSA
+Grand Rapids–Wyoming–Kentwood, MI MSA  1,183,645 1,150,015 +2.92%  +33,630  Grand Rapids–Wyoming, MI CSA
+Hartford–West Hartford–East Hartford, CT MSA  1,171,426 1,150,473 +1.82%  +20,953  New Haven–Hartford–Waterbury, CT CSA
+Buffalo–Cheektowaga, NY MSA  1,155,653 1,166,902 −0.96%  -11,249  Buffalo–Cheektowaga–Olean, NY CSA
+Tucson, AZ MSA  1,074,685 1,043,433 +3.00%  +31,252  Tucson–Nogales, AZ CSA
+Tulsa, OK MSA  1,069,273 1,015,331 +5.31%  +53,942  Tulsa–Bartlesville–Muskogee, OK CSA
+Rochester, NY MSA  1,056,149 1,065,361 −0.86%  -9,212  Rochester–Batavia–Seneca Falls, NY CSA
+Greenville–Anderson–Greer, SC MSA  1,014,101 928,195 +9.26%  +85,906  Greenville–Spartanburg–Anderson, SC CSA
+Omaha, NE-IA MSA  1,009,836 967,604 +4.36%  +42,232  Omaha–Fremont, NE-IA CSA
+Urban Honolulu, HI MSA  988,703 1,016,508 −2.74%  -27,805
+Bridgeport–Stamford–Danbury, CT MSA  978,179 946,327 +3.37%  +31,852  New York–Newark, NY-NJ-CT-PA CSA
+New Orleans–Metairie, LA MSA  970,849 1,007,275 −3.62%  -36,426  New Orleans–Metairie–Slidell, LA-MS CSA
+Knoxville, TN MSA  968,137 903,300 +7.18%  +64,837  Knoxville–Morristown–Sevierville, TN CSA
+North Port–Bradenton–Sarasota, FL MSA  948,158 833,716 +13.73%  +114,442  North Port–Bradenton, FL CSA
+Bakersfield–Delano, CA MSA  927,068 909,235 +1.96%  +17,833
+Albuquerque, NM MSA  925,279 916,528 +0.95%  +8,751  Albuquerque–Santa Fe–Los Alamos, NM CSA
+McAllen–Edinburg–Mission, TX MSA  921,549 870,781 +5.83%  +50,768  McAllen–Edinburg, TX CSA
+Albany–Schenectady–Troy, NY MSA  915,835 899,262 +1.84%  +16,573  Albany–Schenectady, NY CSA
+Charleston–North Charleston, SC MSA  889,263 799,636 +11.21%  +89,627
+Baton Rouge, LA MSA  888,699 870,569 +2.08%  +18,130  Baton Rouge–Hammond, LA CSA
+Worcester, MA MSA  888,502 862,111 +3.06%  +26,391  Boston–Worcester–Providence, MA-RI-NH CSA
+Allentown–Bethlehem–Easton, PA-NJ MSA  887,615 861,889 +2.98%  +25,726  Allentown–Bethlehem–East Stroudsburg, PA-NJ CSA
+El Paso, TX MSA  881,291 868,859 +1.43%  +12,432  El Paso–Las Cruces, TX-NM CSA
+Columbia, SC MSA  879,918 829,470 +6.08%  +50,448  Columbia–Sumter–Orangeburg, SC CSA
+Cape Coral–Fort Myers, FL MSA  875,607 760,822 +15.09%  +114,785  Cape Coral–Fort Myers–Naples, FL CSA
+Lakeland–Winter Haven, FL MSA  874,790 725,046 +20.65%  +149,744  Orlando–Lakeland–Deltona, FL CSA
+Boise City, ID MSA  864,243 764,718 +13.01%  +99,525  Boise City–Mountain Home–Ontario, ID-OR CSA
+Oxnard–Thousand Oaks–Ventura, CA MSA  830,851 843,843 −1.54%  -12,992  Los Angeles–Long Beach, CA CSA
+Dayton–Kettering–Beavercreek, OH MSA  826,554 814,049 +1.54%  +12,505  Dayton–Springfield–Kettering, OH CSA
+Stockton–Lodi, CA MSA  823,815 779,233 +5.72%  +44,582  San Jose–San Francisco–Oakland, CA CSA
+Greensboro–High Point, NC MSA  805,945 776,566 +3.78%  +29,379  Greensboro–Winston-Salem–High Point, NC CSA
+Colorado Springs, CO MSA  781,796 755,105 +3.53%  +26,691
+Little Rock–North Little Rock–Conway, AR MSA  777,607 748,031 +3.95%  +29,576  Little Rock–North Little Rock, AR CSA
+Provo–Orem–Lehi, UT MSA  773,426 671,185 +15.23%  +102,241  Salt Lake City–Provo–Orem, UT CSA
+Des Moines–West Des Moines, IA MSA  758,539 709,466 +6.92%  +49,073  Des Moines–West Des Moines–Ames, IA CSA
+Deltona–Daytona Beach–Ormond Beach, FL MSA  746,933 668,921 +11.66%  +78,012  Orlando–Lakeland–Deltona, FL CSA
+Kiryas Joel–Poughkeepsie–Newburgh, NY MSA  718,377 697,221 +3.03%  +21,156  New York–Newark, NY-NJ-CT-PA CSA
+Winston-Salem, NC MSA  712,206 675,966 +5.36%  +36,240  Greensboro–Winston-Salem–High Point, NC CSA
+Madison, WI MSA  709,685 680,796 +4.24%  +28,889  Madison–Janesville–Beloit, WI CSA
+Akron, OH MSA  701,780 702,219 −0.06%  -439  Cleveland–Akron–Canton, OH CSA
+Ogden, UT MSA  672,784 637,197 +5.58%  +35,587  Salt Lake City–Provo–Orem, UT CSA
+Palm Bay–Melbourne–Titusville, FL MSA  663,982 606,612 +9.46%  +57,370
+Wichita, KS MSA  663,809 647,610 +2.50%  +16,199  Wichita–Arkansas City–Winfield, KS CSA
+Syracuse, NY MSA  652,273 662,057 −1.48%  -9,784  Syracuse–Auburn, NY CSA
+Augusta-Richmond County, GA-SC MSA  641,231 611,000 +4.95%  +30,231
+Durham–Chapel Hill, NC MSA  625,485 588,911 +6.21%  +36,574  Raleigh–Durham–Cary, NC CSA
+Fayetteville–Springdale–Rogers, AR MSA  622,177 546,725 +13.80%  +75,452
+Harrisburg–Carlisle, PA MSA  617,427 591,712 +4.35%  +25,715  Harrisburg–York–Lebanon, PA CSA
+Jackson, MS MSA  609,847 619,968 −1.63%  -10,121  Jackson–Vicksburg–Brookhaven, MS CSA
+Spokane–Spokane Valley, WA MSA  608,012 585,784 +3.79%  +22,228  Spokane–Spokane Valley–Coeur d'Alene, WA-ID CSA
+Toledo, OH MSA  599,376 606,240 −1.13%  -6,864
+Chattanooga, TN-GA MSA  594,530 562,647 +5.67%  +31,883  Chattanooga–Cleveland–Dalton, TN-GA-AL CSA
+New Haven, CT MSA  578,741 570,487 +1.45%  +8,254  New Haven–Hartford–Waterbury, CT CSA
+Reno, NV MSA  578,734 549,831 +5.26%  +28,903  Reno–Carson City–Gardnerville Ranchos, NV-CA CSA
+Portland–South Portland, ME MSA  577,635 551,740 +4.69%  +25,895  Portland–Lewiston–South Portland, ME CSA
+Scranton–Wilkes-Barre, PA MSA  574,418 567,559 +1.21%  +6,859
+Port St. Lucie, FL MSA  568,721 487,657 +16.62%  +81,064  Miami–Port St. Lucie–Fort Lauderdale, FL CSA
+Lancaster, PA MSA  563,159 552,984 +1.84%  +10,175
+Modesto, CA MSA  557,719 552,878 +0.88%  +4,841  San Jose–San Francisco–Oakland, CA CSA
+Huntsville, AL MSA  556,444 491,723 +13.16%  +64,721  Huntsville–Decatur–Albertville, AL-TN CSA
+Pensacola–Ferry Pass–Brent, FL MSA  544,949 509,905 +6.87%  +35,044
+Lexington-Fayette, KY MSA  535,174 516,811 +3.55%  +18,363  Lexington-Fayette–Richmond–Frankfort, KY CSA
+Killeen–Temple, TX MSA  511,497 475,367 +7.60%  +36,130
+Springfield, MO MSA  500,694 475,432 +5.31%  +25,262
+Wilmington, NC MSA  492,772 422,598 +16.61%  +70,174
+Santa Rosa–Petaluma, CA MSA  486,444 488,863 −0.49%  -2,419
+Visalia, CA MSA  485,146 473,117 +2.54%  +12,029
+Lansing–East Lansing, MI MSA  479,722 473,203 +1.38%  +6,519  Lansing–East Lansing–Owosso, MI CSA
+York–Hanover, PA MSA  473,197 456,438 +3.67%  +16,759  Harrisburg–York–Lebanon, PA CSA
+Fort Wayne, IN MSA  466,258 447,781 +4.13%  +18,477  Fort Wayne–Huntington–Auburn, IN CSA
+Springfield, MA MSA  464,338 465,825 −0.32%  -1,487  Springfield–Amherst Town–Northampton, MA CSA
+Waterbury–Shelton, CT MSA  463,349 450,376 +2.88%  +12,973  New Haven–Hartford–Waterbury, CT CSA
+Vallejo, CA MSA  455,376 453,491 +0.42%  +1,885  San Jose–San Francisco–Oakland, CA CSA
+Corpus Christi, TX MSA  451,191 445,763 +1.22%  +5,428  Corpus Christi–Kingsville–Alice, TX CSA
+Salem, OR MSA  445,814 433,353 +2.88%  +12,461  Portland–Vancouver–Salem, OR-WA CSA
+Ocala, FL MSA  442,660 375,908 +17.76%  +66,752
+Santa Maria–Santa Barbara, CA MSA  442,065 448,229 −1.38%  -6,164
+Reading, PA MSA  440,072 428,849 +2.62%  +11,223  Philadelphia–Reading–Camden, PA-NJ-DE-MD CSA
+Savannah, GA MSA  438,314 404,798 +8.28%  +33,516  Savannah–Hinesville–Statesboro, GA CSA
+Brownsville–Harlingen, TX MSA  433,946 421,017 +3.07%  +12,929  Brownsville–Harlingen–Raymondville, TX CSA
+Salinas, CA MSA  433,729 439,035 −1.21%  -5,306
+Manchester–Nashua, NH MSA  433,415 422,937 +2.48%  +10,478  Boston–Worcester–Providence, MA-RI-NH CSA
+Gulfport–Biloxi, MS MSA  431,329 416,259 +3.62%  +15,070
+Myrtle Beach–Conway–North Myrtle Beach, SC MSA  427,551 351,029 +21.80%  +76,522  Myrtle Beach–Conway, SC CSA
+Lafayette, LA MSA  423,758 408,455 +3.75%  +15,303  Lafayette–New Iberia–Opelousas, LA CSA
+Youngstown–Warren, OH MSA  423,678 430,591 −1.61%  -6,913  Youngstown–Warren–Salem, OH CSA
+Asheville, NC MSA  422,345 406,926 +3.79%  +15,419  Asheville–Waynesville–Brevard, NC CSA
+Naples–Marco Island, FL MSA  417,131 375,752 +11.01%  +41,379  Cape Coral–Fort Myers–Naples, FL CSA
+Mobile, AL MSA  411,658 414,809 −0.76%  -3,151  Mobile–Daphne–Fairhope, AL CSA
+Spartanburg, SC MSA  407,656 355,241 +14.75%  +52,415  Greenville–Spartanburg–Anderson, SC CSA
+Anchorage, AK MSA  405,821 398,328 +1.88%  +7,493
+Flint, MI MSA  401,093 406,211 −1.26%  -5,118  Detroit–Warren–Ann Arbor, MI CSA
+Canton–Massillon, OH MSA  400,246 401,574 −0.33%  -1,328  Cleveland–Akron–Canton, OH CSA
+Beaumont–Port Arthur, TX MSA  399,310 397,565 +0.44%  +1,745
+Trenton–Princeton, NJ MSA  399,289 387,340 +3.08%  +11,949  New York–Newark, NY-NJ-CT-PA CSA
+Tallahassee, FL MSA  397,442 384,298 +3.42%  +13,144  Tallahassee–Bainbridge, FL-GA CSA
+Fayetteville, NC MSA  395,412 386,810 +2.22%  +8,602  Fayetteville–Lumberton–Pinehurst, NC CSA
+Montgomery, AL MSA  388,747 386,047 +0.70%  +2,700  Montgomery–Selma, AL CSA
+Shreveport–Bossier City, LA MSA  383,474 393,406 −2.52%  -9,932  Shreveport–Bossier City–Minden, LA CSA
+Eugene–Springfield, OR MSA  381,584 382,971 −0.36%  -1,387
+Davenport–Moline–Rock Island, IA-IL MSA  380,452 384,324 −1.01%  -3,872  Davenport–Moline, IA-IL CSA
+Greeley, CO MSA  378,426 328,981 +15.03%  +49,445  Denver–Aurora–Greeley, CO CSA
+Fort Collins–Loveland, CO MSA  377,292 359,066 +5.08%  +18,226
+Hickory–Lenoir–Morganton, NC MSA  376,890 365,276 +3.18%  +11,614  Charlotte–Concord, NC-SC CSA
+Atlantic City–Hammonton, NJ MSA  372,047 369,797 +0.61%  +2,250  Philadelphia–Reading–Camden, PA-NJ-DE-MD CSA
+Ann Arbor, MI MSA  370,214 372,258 −0.55%  -2,044  Detroit–Warren–Ann Arbor, MI CSA
+Lubbock, TX MSA  368,431 351,268 +4.89%  +17,163  Lubbock–Plainview, TX CSA
+Huntington–Ashland, WV-KY-OH MSA  365,965 376,155 −2.71%  -10,190  Charleston–Huntington–Ashland, WV-OH-KY CSA
+Peoria, IL MSA  363,505 368,782 −1.43%  -5,277  Peoria–Canton, IL CSA
+Gainesville, FL MSA  359,036 339,247 +5.83%  +19,789  Gainesville–Lake City, FL CSA
+Lincoln, NE MSA  352,081 340,217 +3.49%  +11,864  Lincoln–Beatrice, NE CSA
+Clarksville, TN-KY MSA  349,001 320,535 +8.88%  +28,466
+Rockford, IL MSA  337,242 338,798 −0.46%  -1,556  Rockford–Freeport–Rochelle, IL CSA
+Green Bay, WI MSA  336,756 328,268 +2.59%  +8,488  Green Bay–Shawano, WI CSA
+Boulder, CO MSA  328,560 330,758 −0.66%  -2,198  Denver–Aurora–Greeley, CO CSA
+Columbus, GA-AL MSA  324,830 328,883 −1.23%  -4,053  Columbus–Auburn–Opelika, GA-AL CSA
+South Bend–Mishawaka, IN-MI MSA  324,538 324,501 +0.01%  +37  South Bend–Elkhart–Mishawaka, IN-MI CSA
+Kennewick–Richland, WA MSA  324,334 303,622 +6.82%  +20,712  Kennewick–Richland–Walla Walla, WA CSA
+Roanoke, VA MSA  316,547 315,251 +0.41%  +1,296
+Hagerstown–Martinsburg, MD-WV MSA  315,280 293,844 +7.30%  +21,436  Washington–Baltimore–Arlington, DC-MD-VA-WV-PA CSA
+Crestview–Fort Walton Beach–Destin, FL MSA  315,098 286,973 +9.80%  +28,125
+Kingsport–Bristol, TN-VA MSA  314,834 307,614 +2.35%  +7,220  Johnson City–Kingsport–Bristol, TN-VA CSA
+Sioux Falls, SD-MN MSA  314,638 286,434 +9.85%  +28,204
+Waco, TX MSA  308,807 295,782 +4.40%  +13,025
+Olympia–Lacey–Tumwater, WA MSA  304,261 294,793 +3.21%  +9,468  Seattle–Tacoma, WA CSA
+Longview, TX MSA  297,315 286,184 +3.89%  +11,131
+Merced, CA MSA  297,260 281,202 +5.71%  +16,058  San Jose–San Francisco–Oakland, CA CSA
+College Station–Bryan, TX MSA  287,476 268,248 +7.17%  +19,228
+Utica–Rome, NY MSA  285,611 292,264 −2.28%  -6,653
+Norwich–New London–Willimantic, CT MSA  284,015 280,430 +1.28%  +3,585  New Haven–Hartford–Waterbury, CT CSA
+Bremerton–Silverdale–Port Orchard, WA MSA  283,374 275,611 +2.82%  +7,763  Seattle–Tacoma, WA CSA
+San Luis Obispo–Paso Robles, CA MSA  282,367 282,424 −0.02%  -57
+Tuscaloosa, AL MSA  281,850 268,674 +4.90%  +13,176
+Laredo, TX MSA  281,224 267,114 +5.28%  +14,110
+Duluth, MN-WI MSA  281,219 280,733 +0.17%  +486  Duluth–Grand Rapids, MN-WI CSA
+Cedar Rapids, IA MSA  279,285 276,520 +1.00%  +2,765  Cedar Rapids–Iowa City, IA CSA
+Slidell–Mandeville–Covington, LA MSA  279,108 264,570 +5.49%  +14,538  New Orleans–Metairie–Slidell, LA-MS CSA
+Amarillo, TX MSA  276,235 268,691 +2.81%  +7,544  Amarillo–Borger, TX CSA
+Evansville, IN MSA  273,786 269,256 +1.68%  +4,530  Evansville–Henderson, IN-KY CSA
+Fargo, ND-MN MSA  269,528 249,843 +7.88%  +19,685  Fargo–Wahpeton, ND-MN CSA
+Lynchburg, VA MSA  269,169 261,593 +2.90%  +7,576
+Daphne–Fairhope–Foley, AL MSA  267,761 231,767 +15.53%  +35,994  Mobile–Daphne–Fairhope, AL CSA
+Bend, OR MSA  266,376 247,493 +7.63%  +18,883
+Erie, PA MSA  265,832 270,876 −1.86%  -5,044  Erie–Meadville, PA CSA
+Kalamazoo–Portage, MI MSA  263,795 261,670 +0.81%  +2,125  Kalamazoo–Battle Creek–Portage, MI CSA
+Yakima, WA MSA  259,185 256,728 +0.96%  +2,457
+Santa Cruz–Watsonville, CA MSA  258,852 270,861 −4.43%  -12,009  San Jose–San Francisco–Oakland, CA CSA
+Prescott Valley–Prescott, AZ MSA  252,552 236,209 +6.92%  +16,343
+Tyler, TX MSA  252,549 233,479 +8.17%  +19,070  Tyler–Jacksonville, TX CSA
+Appleton, WI MSA  249,876 243,147 +2.77%  +6,729  Appleton–Oshkosh–Neenah, WI CSA
+Lake Charles, LA MSA  244,655 254,652 −3.93%  -9,997  Lake Charles–DeRidder, LA CSA
+Binghamton, NY MSA  243,189 247,138 −1.60%  -3,949
+Hilton Head Island–Bluffton–Port Royal, SC MSA  242,966 215,908 +12.53%  +27,058
+Champaign–Urbana, IL MSA  239,979 236,072 +1.66%  +3,907  Champaign–Urbana–Danville, IL CSA
+Macon-Bibb County, GA MSA  238,553 233,802 +2.03%  +4,751  Macon-Bibb County–Warner Robins, GA CSA
+Bellingham, WA MSA  236,392 226,847 +4.21%  +9,545
+Fort Smith, AR-OK MSA  234,140 227,213 +3.05%  +6,927
+Barnstable Town, MA MSA  233,539 228,996 +1.98%  +4,543  Boston–Worcester–Providence, MA-RI-NH CSA
+Topeka, KS MSA  233,052 233,152 −0.04%  -100
+Rochester, MN MSA  231,184 226,329 +2.15%  +4,855  Rochester–Austin–Winona, MN CSA
+Panama City–Panama City Beach, FL MSA  231,174 200,534 +15.28%  +30,640
+Las Cruces, NM MSA  229,091 219,561 +4.34%  +9,530  El Paso–Las Cruces, TX-NM CSA
+Charlottesville, VA MSA  228,597 221,524 +3.19%  +7,073
+Lafayette–West Lafayette, IN MSA  228,468 223,716 +2.12%  +4,752  Lafayette–West Lafayette–Frankfort, IN CSA
+Lake Havasu City–Kingman, AZ MSA  228,102 213,267 +6.96%  +14,835
+Burlington–South Burlington, VT MSA  227,803 225,562 +0.99%  +2,241  Burlington–South Burlington–Barre, VT CSA
+Gainesville, GA MSA  226,568 203,136 +11.54%  +23,432  Atlanta–Athens-Clarke County–Sandy Springs, GA-AL CSA
+Yuma, AZ MSA  224,449 203,881 +10.09%  +20,568
+Athens-Clarke County, GA MSA  224,148 215,415 +4.05%  +8,733  Atlanta–Athens-Clarke County–Sandy Springs, GA-AL CSA
+Monroe, LA MSA  222,390 227,147 −2.09%  -4,757  Monroe–Ruston, LA CSA
+Medford, OR MSA  221,795 223,259 −0.66%  -1,464  Medford–Grants Pass, OR CSA
+Columbia, MO MSA  219,062 210,864 +3.89%  +8,198  Columbia–Jefferson City–Moberly, MO CSA
+Punta Gorda, FL MSA  217,212 186,847 +16.25%  +30,365  North Port–Bradenton, FL CSA
+Jacksonville, NC MSA  217,175 204,576 +6.16%  +12,599
+Johnson City, TN MSA  216,416 207,285 +4.41%  +9,131  Johnson City–Kingsport–Bristol, TN-VA CSA
+St. George, UT MSA  213,670 180,279 +18.52%  +33,391
+Lexington Park, MD MSA  211,176 206,560 +2.23%  +4,616  Washington–Baltimore–Arlington, DC-MD-VA-WV-PA CSA
+Chico, CA MSA  209,211 211,632 −1.14%  -2,421
+Joplin, MO-KS MSA  208,796 200,771 +4.00%  +8,025  Joplin–Miami, MO-OK-KS CSA
+Elkhart–Goshen, IN MSA  208,774 207,047 +0.83%  +1,727  South Bend–Elkhart–Mishawaka, IN-MI CSA
+Warner Robins, GA MSA  208,091 191,614 +8.60%  +16,477  Macon-Bibb County–Warner Robins, GA CSA
+Auburn–Opelika, AL MSA  208,013 193,773 +7.35%  +14,240  Columbus–Auburn–Opelika, GA-AL CSA
+Springfield, IL MSA  206,033 208,640 −1.25%  -2,607  Springfield–Jacksonville–Lincoln, IL CSA
+St. Cloud, MN MSA  205,854 199,671 +3.10%  +6,183  Minneapolis–St. Paul, MN-WI CSA
+Florence, SC MSA  201,392 199,964 +0.71%  +1,428
+Charleston, WV MSA  200,170 210,605 −4.95%  -10,435  Charleston–Huntington–Ashland, WV-OH-KY CSA
+Houma–Bayou Cane–Thibodaux, LA MSA  199,668 207,137 −3.61%  -7,469
+Racine–Mount Pleasant, WI MSA  198,919 197,727 +0.60%  +1,192  Milwaukee–Racine–Waukesha, WI CSA
+Bowling Green, KY MSA  197,180 179,639 +9.76%  +17,541  Bowling Green–Glasgow–Franklin, KY CSA
+Dover, DE MSA  194,786 181,851 +7.11%  +12,935  Philadelphia–Reading–Camden, PA-NJ-DE-MD CSA
+Billings, MT MSA  193,603 184,167 +5.12%  +9,436
+Midland, TX MSA  193,139 175,220 +10.23%  +17,919  Midland–Odessa–Andrews, TX CSA
+Coeur d'Alene, ID MSA  191,864 171,362 +11.96%  +20,502  Spokane–Spokane Valley–Coeur d'Alene, WA-ID CSA
+Saginaw, MI MSA  187,688 190,124 −1.28%  -2,436  Saginaw–Midland–Bay City, MI CSA
+Yuba City, CA MSA  187,478 181,208 +3.46%  +6,270  Sacramento–Roseville, CA CSA
+Burlington, NC MSA  186,177 171,415 +8.61%  +14,762  Greensboro–Winston-Salem–High Point, NC CSA
+Abilene, TX MSA  185,429 176,579 +5.01%  +8,850  Abilene–Sweetwater, TX CSA
+Jackson, TN MSA  184,569 180,504 +2.25%  +4,065
+Kingston, NY MSA  183,330 181,851 +0.81%  +1,479  New York–Newark, NY-NJ-CT-PA CSA
+Greenville, NC MSA  182,936 170,243 +7.46%  +12,693  Greenville–Washington, NC CSA
+Iowa City, IA MSA  182,711 175,419 +4.16%  +7,292  Cedar Rapids–Iowa City, IA CSA
+Redding, CA MSA  181,648 182,155 −0.28%  -507  Redding–Red Bluff, CA CSA
+Blacksburg–Christiansburg–Radford, VA MSA  181,616 181,854 −0.13%  -238
+El Centro, CA MSA  181,411 179,702 +0.95%  +1,709
+Muskegon–Norton Shores, MI MSA  177,901 175,824 +1.18%  +2,077  Grand Rapids–Wyoming, MI CSA
+Eau Claire, WI MSA  176,647 172,007 +2.70%  +4,640  Eau Claire–Menomonie, WI CSA
+Oshkosh–Neenah, WI MSA  174,218 171,730 +1.45%  +2,488  Appleton–Oshkosh–Neenah, WI CSA
+Idaho Falls, ID MSA  173,851 157,429 +10.43%  +16,422  Idaho Falls–Rexburg–Blackfoot, ID CSA
+Odessa, TX MSA  173,801 165,171 +5.22%  +8,630  Midland–Odessa–Andrews, TX CSA
+Sebastian–Vero Beach–West Vero Corridor, FL MSA  172,799 159,788 +8.14%  +13,011  Miami–Port St. Lucie–Fort Lauderdale, FL CSA
+Homosassa Springs, FL MSA  171,666 153,843 +11.59%  +17,823
+Bloomington, IL MSA  171,419 170,954 +0.27%  +465  Bloomington–Pontiac, IL CSA
+La Crosse–Onalaska, WI-MN MSA  171,182 170,341 +0.49%  +841  La Crosse–Onalaska–Sparta, WI-MN CSA
+Pueblo, CO MSA  169,277 168,162 +0.66%  +1,115  Pueblo–Cañon City, CO CSA
+Terre Haute, IN MSA  169,241 168,875 +0.22%  +366
+Waterloo–Cedar Falls, IA MSA  169,189 168,461 +0.43%  +728
+Kenosha, WI MSA  168,448 169,151 −0.42%  -703  Chicago–Naperville, IL-IN-WI CSA
+Janesville–Beloit, WI MSA  166,472 163,687 +1.70%  +2,785  Madison–Janesville–Beloit, WI CSA
+Bloomington, IN MSA  165,231 161,039 +2.60%  +4,192  Bloomington–Bedford, IN CSA
+Amherst Town–Northampton, MA MSA  164,065 162,308 +1.08%  +1,757  Springfield–Amherst Town–Northampton, MA CSA
+Grand Junction, CO MSA  162,845 155,703 +4.59%  +7,142
+Logan, UT-ID MSA  160,889 147,348 +9.19%  +13,541
+Kahului–Wailuku, HI MSA  160,674 164,836 −2.52%  -4,162
+Chambersburg, PA MSA  160,652 155,932 +3.03%  +4,720  Washington–Baltimore–Arlington, DC-MD-VA-WV-PA CSA
+Decatur, AL MSA  160,326 156,494 +2.45%  +3,832  Huntsville–Decatur–Albertville, AL-TN CSA
+Jackson, MI MSA  159,552 160,366 −0.51%  -814
+Hattiesburg, MS MSA  158,014 153,891 +2.68%  +4,123  Hattiesburg–Laurel, MS CSA
+Bangor, ME MSA  157,967 152,199 +3.79%  +5,768
+Wildwood–The Villages, FL MSA  157,772 129,752 +21.60%  +28,020  Orlando–Lakeland–Deltona, FL CSA
+State College, PA MSA  157,393 158,172 −0.49%  -779  State College–DuBois, PA CSA
+Vineland, NJ MSA  157,148 154,152 +1.94%  +2,996  Philadelphia–Reading–Camden, PA-NJ-DE-MD CSA
+Traverse City, MI MSA  156,972 153,448 +2.30%  +3,524
+Rapid City, SD MSA  156,934 147,392 +6.47%  +9,542  Rapid City–Spearfish, SD CSA
+Santa Fe, NM MSA  156,907 154,823 +1.35%  +2,084  Albuquerque–Santa Fe–Los Alamos, NM CSA
+Florence–Muscle Shoals, AL MSA  156,609 150,791 +3.86%  +5,818  Florence–Muscle Shoals–Russellville, AL CSA
+Dothan, AL MSA  156,266 151,007 +3.48%  +5,259  Dothan–Enterprise–Ozark, AL CSA
+Monroe, MI MSA  156,004 154,809 +0.77%  +1,195  Detroit–Warren–Ann Arbor, MI CSA
+Hanford–Corcoran, CA MSA  154,327 152,486 +1.21%  +1,841  Fresno–Hanford–Corcoran, CA CSA
+Sherman–Denison, TX MSA  153,613 135,543 +13.33%  +18,070  Dallas–Fort Worth, TX-OK CSA
+Valdosta, GA MSA  153,276 148,126 +3.48%  +5,150
+Jefferson City, MO MSA  152,712 150,309 +1.60%  +2,403  Columbia–Jefferson City–Moberly, MO CSA
+Niles, MI MSA  152,444 154,316 −1.21%  -1,872  South Bend–Elkhart–Mishawaka, IN-MI CSA
+Winchester, VA-WV MSA  152,332 142,632 +6.80%  +9,700  Washington–Baltimore–Arlington, DC-MD-VA-WV-PA CSA
+Wichita Falls, TX MSA  149,448 148,128 +0.89%  +1,320
+Rocky Mount, NC MSA  148,486 143,870 +3.21%  +4,616  Rocky Mount–Wilson–Roanoke Rapids, NC CSA
+Alexandria, LA MSA  147,952 152,192 −2.79%  -4,240
+Dalton, GA MSA  147,819 142,837 +3.49%  +4,982  Chattanooga–Cleveland–Dalton, TN-GA-AL CSA
+Texarkana, TX-AR MSA  146,816 147,519 −0.48%  -703
+Lebanon, PA MSA  146,380 143,257 +2.18%  +3,123  Harrisburg–York–Lebanon, PA CSA
+Sioux City, IA-NE-SD MSA  145,738 144,334 +0.97%  +1,404  Sioux City–Le Mars, IA-NE-SD CSA
+Albany, GA MSA  145,510 148,922 −2.29%  -3,412
+Flagstaff, AZ MSA  144,368 145,101 −0.51%  -733
+Morgantown, WV MSA  141,995 140,038 +1.40%  +1,957
+Hammond, LA MSA  141,346 133,157 +6.15%  +8,189  Baton Rouge–Hammond, LA CSA
+Harrisonburg, VA MSA  140,155 135,571 +3.38%  +4,584  Harrisonburg–Staunton–Stuarts Draft, VA CSA
+Bismarck, ND MSA  139,750 133,626 +4.58%  +6,124
+Jonesboro, AR MSA  139,440 134,196 +3.91%  +5,244  Jonesboro–Paragould, AR CSA
+Wausau, WI MSA  139,432 138,013 +1.03%  +1,419  Wausau–Stevens Point–Wisconsin Rapids, WI CSA
+Manhattan, KS MSA  136,122 134,046 +1.55%  +2,076
+Springfield, OH MSA  135,340 136,001 −0.49%  -661  Dayton–Springfield–Kettering, OH CSA
+Wheeling, WV-OH MSA  134,089 139,513 −3.89%  -5,424
+Cleveland, TN MSA  134,057 126,164 +6.26%  +7,893  Chattanooga–Cleveland–Dalton, TN-GA-AL CSA
+Battle Creek, MI MSA  133,408 134,310 −0.67%  -902  Kalamazoo–Battle Creek–Portage, MI CSA
+Mount Vernon–Anacortes, WA MSA  132,975 129,523 +2.67%  +3,452  Seattle–Tacoma, WA CSA
+Napa, CA MSA  132,949 138,019 −3.67%  -5,070  San Jose–San Francisco–Oakland, CA CSA
+Albany, OR MSA  132,843 128,610 +3.29%  +4,233  Portland–Vancouver–Salem, OR-WA CSA
+Salisbury, MD MSA  131,872 128,208 +2.86%  +3,664  Salisbury–Ocean Pines, MD CSA
+Staunton–Stuarts Draft, VA MSA  129,692 125,433 +3.40%  +4,259  Harrisonburg–Staunton–Stuarts Draft, VA CSA
+Johnstown, PA MSA  128,968 133,472 −3.37%  -4,504  Johnstown–Somerset, PA CSA
+Morristown, TN MSA  128,867 119,182 +8.13%  +9,685  Knoxville–Morristown–Sevierville, TN CSA
+Bozeman, MT MSA  128,740 118,960 +8.22%  +9,780
+Missoula, MT MSA  128,698 122,457 +5.10%  +6,241
+Elizabethtown, KY MSA  128,666 125,569 +2.47%  +3,097  Louisville/Jefferson County–Elizabethtown, KY-IN CSA
+Wenatchee–East Wenatchee, WA MSA  128,414 122,012 +5.25%  +6,402
+Pittsfield, MA MSA  128,224 129,026 −0.62%  -802
+Ames, IA MSA  128,090 125,252 +2.27%  +2,838  Des Moines–West Des Moines–Ames, IA CSA
+Lawton, OK MSA  127,590 126,652 +0.74%  +938  Lawton–Duncan, OK CSA
+Sierra Vista–Douglas, AZ MSA  126,332 125,447 +0.71%  +885
+Mansfield, OH MSA  124,893 124,936 −0.03%  -43  Mansfield–Ashland–Bucyrus, OH CSA
+Glens Falls, NY MSA  124,373 127,039 −2.10%  -2,666  Albany–Schenectady, NY CSA
+Twin Falls, ID MSA  123,901 114,283 +8.42%  +9,618
+Goldsboro, NC MSA  122,278 117,333 +4.21%  +4,945
+San Angelo, TX MSA  122,065 121,516 +0.45%  +549
+Lawrence, KS MSA  120,920 118,785 +1.80%  +2,135  Kansas City–Overland Park–Kansas City, MO-KS CSA
+Farmington, NM MSA  120,340 121,661 −1.09%  -1,321
+Altoona, PA MSA  119,541 122,822 −2.67%  -3,281  Altoona–Huntingdon, PA CSA
+St. Joseph, MO-KS MSA  119,170 121,467 −1.89%  -2,297  Kansas City–Overland Park–Kansas City, MO-KS CSA
+Brunswick–St. Simons, GA MSA  118,524 113,495 +4.43%  +5,029
+Sheboygan, WI MSA  118,047 118,034 +0.01%  +13
+Lewiston–Auburn, ME MSA  116,487 111,139 +4.81%  +5,348  Portland–Lewiston–South Portland, ME CSA
+Anniston–Oxford, AL MSA  115,834 116,441 −0.52%  -607
+Longview–Kelso, WA MSA  114,885 110,730 +3.75%  +4,155  Portland–Vancouver–Salem, OR-WA CSA
+Owensboro, KY MSA  113,962 112,464 +1.33%  +1,498
+Muncie, IN MSA  113,106 111,903 +1.08%  +1,203  Indianapolis–Carmel–Muncie, IN CSA
+Sandusky, OH MSA  112,777 115,986 −2.77%  -3,209  Cleveland–Akron–Canton, OH CSA
+Williamsport, PA MSA  112,587 114,188 −1.40%  -1,601  Williamsport–Lock Haven, PA CSA
+Weirton–Steubenville, WV-OH MSA  112,468 116,903 −3.79%  -4,435  Pittsburgh–Weirton–Steubenville, PA-OH-WV CSA
+Watertown–Fort Drum, NY MSA  111,540 116,721 −4.44%  -5,181
+Michigan City–La Porte, IN MSA  111,294 112,417 −1.00%  -1,123  Chicago–Naperville, IL-IN-WI CSA
+Sebring, FL MSA  111,122 101,235 +9.77%  +9,887
+Pinehurst–Southern Pines, NC MSA  110,619 99,727 +10.92%  +10,892  Fayetteville–Lumberton–Pinehurst, NC CSA
+Beckley, WV MSA  109,940 115,079 −4.47%  -5,139
+Gettysburg, PA MSA  107,594 103,852 +3.60%  +3,742  Harrisburg–York–Lebanon, PA CSA
+Kankakee, IL MSA  105,525 107,502 −1.84%  -1,977  Chicago–Naperville, IL-IN-WI CSA
+Sumter, SC MSA  105,067 105,556 −0.46%  -489  Columbia–Sumter–Orangeburg, SC CSA
+Grand Forks, ND-MN MSA  105,046 104,362 +0.66%  +684
+Mankato, MN MSA  104,907 103,566 +1.29%  +1,341  Mankato–New Ulm, MN CSA
+Fond du Lac, WI MSA  104,669 104,154 +0.49%  +515
+Ithaca, NY MSA  104,047 105,740 −1.60%  -1,693  Ithaca–Cortland, NY CSA
+Gadsden, AL MSA  103,886 103,436 +0.44%  +450
+Cheyenne, WY MSA  102,938 100,512 +2.41%  +2,426
+Paducah, KY-IL MSA  102,259 103,486 −1.19%  -1,227  Paducah–Mayfield, KY-IL CSA
+Bay City, MI MSA  102,123 103,856 −1.67%  -1,733  Saginaw–Midland–Bay City, MI CSA
+Rome, GA MSA  101,378 98,584 +2.83%  +2,794  Atlanta–Athens-Clarke County–Sandy Springs, GA-AL CSA
+Lima, OH MSA  100,881 102,206 −1.30%  -1,325  Lima–Van Wert–Celina, OH CSA
+Victoria, TX MSA  99,864 98,331 +1.56%  +1,533  Victoria–Port Lavaca, TX CSA
+Hot Springs, AR MSA  99,695 100,180 −0.48%  -485  Hot Springs–Malvern, AR CSA
+Dubuque, IA MSA  99,381 99,266 +0.12%  +115
+Decatur, IL MSA  99,300 103,998 −4.52%  -4,698
+Cape Girardeau, MO-IL MSA  99,215 97,517 +1.74%  +1,698  Cape Girardeau–Sikeston, MO-IL CSA
+Corvallis, OR MSA  97,728 95,184 +2.67%  +2,544  Portland–Vancouver–Salem, OR-WA CSA
+Helena, MT MSA  97,153 89,832 +8.15%  +7,321
+Fairbanks–College, AK MSA  93,972 95,655 −1.76%  -1,683
+Hinesville, GA MSA  91,870 81,424 +12.83%  +10,446  Savannah–Hinesville–Statesboro, GA CSA
+Pocatello, ID MSA  91,591 87,018 +5.26%  +4,573
+Grants Pass, OR MSA  87,867 88,090 −0.25%  -223  Medford–Grants Pass, OR CSA
+Parkersburg–Vienna, WV MSA  87,264 89,490 −2.49%  -2,226  Parkersburg–Marietta–Vienna, WV-OH CSA
+Columbus, IN MSA  85,729 82,208 +4.28%  +3,521  Indianapolis–Carmel–Muncie, IN CSA
+Great Falls, MT MSA  85,029 84,414 +0.73%  +615
+Kokomo, IN MSA  83,904 83,658 +0.29%  +246  Indianapolis–Carmel–Muncie, IN CSA
+Midland, MI MSA  83,754 83,494 +0.31%  +260  Saginaw–Midland–Bay City, MI CSA
+Casper, WY MSA  80,526 79,955 +0.71%  +571
+Elmira, NY MSA  80,415 84,148 −4.44%  -3,733  Elmira–Corning, NY CSA
+Grand Island, NE MSA  78,076 77,038 +1.35%  +1,038
+Minot, ND MSA  75,694 77,546 −2.39%  -1,852
+Lewiston, ID-WA MSA  65,450 64,375 +1.67%  +1,075
+Walla Walla, WA MSA  62,361 62,584 −0.36%  -223  Kennewick–Richland-Walla Walla, WA CSA
+Enid, OK MSA  61,779 62,846 −1.70%  -1,067
+Eagle Pass, TX MSA  58,823 57,887 +1.62%  +936
+Carson City, NV MSA  58,571 58,639 −0.12%  -68  Reno–Carson City–Gardnerville Ranchos, NV-CA CSA
+Puerto Rico
+[edit]
+This sortable table lists the six metropolitan statistical areas (MSAs) of Puerto Rico including:
+The MSA rank by population as of July 1, 2025, as estimated by the United States Census Bureau[16]
+The MSA name as designated by the United States Office of Management and Budget[6]
+The MSA population as of July 1, 2025, as estimated by the United States Census Bureau[16]
+The MSA population as of April 1, 2020, as enumerated by the 2020 United States census[16][a]
+The percent MSA population change from April 1, 2020, to July 1, 2025[16]
+The combined statistical area (CSA)[b] if the MSA is a component[17]
+The six metropolitan statistical areas of the Commonwealth of Puerto Rico
+Rank  Metropolitan statistical area  2025 estimate  2020 census[a]  Change  Encompassing combined statistical area
+1  San Juan–Bayamón–Caguas, PR MSA  2,024,195 2,081,265 −2.74%  San Juan–Bayamón, PR Combined Statistical Area
+2  Ponce, PR MSA  262,792 278,477 −5.63%  Ponce–Coamo, PR Combined Statistical Area
+3  Aguadilla, PR MSA  250,088 253,768 −1.45%  Mayagüez–Aguadilla, PR Combined Statistical Area
+4  Mayagüez, PR MSA  206,355 213,831 −3.50%  Mayagüez–Aguadilla, PR Combined Statistical Area
+5  Arecibo, PR MSA  179,229 182,705 −1.90%  San Juan–Bayamón, PR Combined Statistical Area
+6  Guayama, PR MSA  63,864 68,442 −6.69%  San Juan–Bayamón, PR Combined Statistical Area
+See also
+[edit]
+Geography portal
+United States portal
+Puerto Rico portal
+United States of America
+Outline of the United States
+Demographics of the United States
+United States Census Bureau
+List of U.S. states and territories by population
+List of United States cities by population
+List of United States counties and county equivalents
+United States Office of Management and Budget
+Statistical area (United States)
+Combined statistical area
+Core-based statistical area (list)
+Micropolitan statistical area
+Footnotes
+[edit]
+1 2 3 4 Populations retroactively adjusted to account for new MSA delineations as redefined in 2023. This number reflects what the 2020 Census would have shown the population to be had the current delineated boundaries been in effect at the time of the 2020 Census.
+1 2 The U.S.Office of Management and Budget (OMB) defines a CSA (CSA) as an aggregate of adjacent core-based statistical areas that are linked by commuting ties.
+References
+[edit]
+↑ "Glossary". United States Census Bureau. Archived from the original on July 10, 2023. Retrieved August 26, 2026.
+↑ "Metropolitan statistical area (MSA)". CDC. August 12, 2024. Retrieved August 26, 2026.
+↑ Caves, R. W. (2004). Encyclopedia of the City. Routledge. pp. 459. ISBN 9780415252256.
+↑ Cox, Wendell (August 1, 2014). "Urban Cores, Core Cities and Principal Cities". newgeography.com. Archived from the original on July 10, 2023. Retrieved July 10, 2023.
+↑ Nussle, Jim (November 20, 2008). "Update of Statistical Area Definitions and Guidance on Their Uses" (PDF). Office of Management and Budget. pp. 1–2. Archived (PDF) from the original on January 21, 2017.
+1 2 3 4 Executive Office of the President (July 21, 2023). "Revised Delineations of Metropolitan Statistical Areas, Micropolitan Statistical Areas, and Combined Statistical Areas, and Guidance on Uses of the Delineations of These Areas" (PDF) (Press release). Archived (PDF) from the original on July 21, 2023. Retrieved July 21, 2023.
+↑ Census Geographic Glossary Archived September 27, 2012, at the Wayback Machine, U.S. Census Bureau
+1 2 3 "2020 Standards for Delineating Core Based Statistical Areas". Federal Register. National Archives and Records Administration. July 16, 2021. Retrieved February 6, 2024.
+↑ "Metropolitan and Micropolitan Statistical Areas". U.S. Census Bureau. Archived from the original on September 23, 2011. Retrieved February 16, 2010.
+↑ "Glossary". US Census Bureau. Retrieved October 11, 2025.
+↑ "Recommendations From the Metropolitan and Micropolitan Statistical Area Standards Review Committee to the Office of Management and Budget Concerning Changes to the 2010 Standards for Delineating Metropolitan and Micropolitan Statistical Areas". Federal Register. January 19, 2021. Archived from the original on January 20, 2021. Retrieved January 21, 2021.
+↑ The White House (July 13, 2021). "Office of Management and Budget Announces 2020 Standards for Delineating Core Based Statistical Areas" (Press release). Archived from the original on July 16, 2021. Retrieved July 17, 2021.
+1 2 3 4 Gardner, Todd (February 2021). Changes in Metropolitan Area Definition, 1910–2010 (PDF). Center for Economic Studies (Report). United States Census Bureau. pp. 5–6, 12. Retrieved January 26, 2024.
+1 2 "History: Metropolitan Areas". United States Census Bureau. Retrieved January 26, 2024.
+↑ "Census Makes a 'Metropolis'". Seattle Post-Intelligencer. December 28, 1980. p. E2.
+1 2 3 4 5 6 7 8 9 "Metropolitan and Micropolitan Statistical Areas Population Totals: 2020-2025". United States Census Bureau, Population Division. March 26, 2026. Retrieved March 26, 2026.
+1 2 "OMB Bulletin No. 20-01: Revised Delineations of Metropolitan Statistical Areas, Micropolitan Statistical Areas, and Combined Statistical Areas, and Guidance on Uses of the Delineations of These Areas" (PDF). United States Office of Management and Budget. March 6, 2020. Archived (PDF) from the original on June 12, 2021. Retrieved April 24, 2020.
+External links
+[edit]
+the United States at Wikipedia's sister projects
+Definitions from Wiktionary
+Media from Commons
+Quotations from Wikiquote
+Texts from Wikisource
+Textbooks from Wikibooks
+Resources from Wikiversity
+US Census Metropolitan Statistical Area Delineations
+United States Government
+United States Census Bureau
+USCB population estimates
+United States Office of Management and Budget
+Federal Financial Institutions Examination Council
+v
+t
+e
+United States census topics
+Regions
+Division
+State
+Federal District
+Insular area
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+United States Virgin Islands
+ZIP Code Tabulation Area
+Native areas
+Alaska Native corporation
+Indian colony
+Indian reservation
+list
+Hawaiian home land
+Off-reservation trust land
+Oklahoma Tribal Statistical Area
+Metropolitan
+Statistical area
+Combined statistical area
+Core-based statistical area
+list
+Metropolitan statistical area
+Micropolitan statistical area
+New England city and town area
+Urban area
+State-level
+Congressional district
+County
+list
+Alaska census area
+Independent city
+Municipio
+Place
+Census-designated
+Public use microdata area
+School district
+lists
+State legislative district
+Urban growth area
+County-level
+Census county division
+Minor civil division
+Traffic analysis zone
+Voting district
+Local
+Block
+Block group
+Tract
+History
+Race and ethnicity in the United States census
+State censuses in the United States of America
+List of U.S. states by historical population
+Census Bureau
+Office of Management and Budget
+Authority control databases
+FAST
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Metropolitan_statistical_area&oldid=1376372672"
+Categories:
+Metropolitan areas of the United States
+1949 establishments in the United States
+1983 establishments in the United States
+1983 introductions
+Core-based statistical areas of the United States
+Demographics of the United States
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Use American English from January 2026
+All Wikipedia articles written in American English
+Use mdy dates from January 2024
+Webarchive template wayback links
+Pages using Sister project links with default search
+Search
+Search
+Metropolitan statistical area
+27 languages   Add topic

@@ -1,0 +1,249 @@
+URL: https://en.wikipedia.org/wiki/File:Usa_edcp_relief_location_map.png
+
+File:Usa edcp relief location map.png - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Size of this preview: 960 × 594 pixels. Other resolutions: 330 × 204 pixels | 1,181 × 731 pixels.
+Original file (1,181 × 731 pixels, file size: 1.56 MB, MIME type: image/png)
+This is a file from the Wikimedia Commons. Information from its description page there is shown below.
+Commons is a freely licensed media file repository. You can help.
+Any autoconfirmed user can overwrite this file from the same source. Please ensure that overwrites comply with the guideline.
+Summary
+DescriptionUsa edcp relief location map.png
+English:  Relief location map of the USA (without Hawaii and Alaska).
+EquiDistantConicProjection : Central parallel :
+* N: 37.0° N
+Central meridian :
+* E: 96.0° W
+Standard parallels:
+* 1: 32.0° N
+* 2: 42.0° N
+Made with Natural Earth. Free vector and raster map data @ naturalearthdata.com.
+Formulas for x and y:
+x = 50.0 + 124.03149777329222 * ((1.9694462586094064-({{{2}}}* pi / 180))
+* sin(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))
+y = 50.0 + 1.6155950752393982 * 124.03149777329222 * 0.02613325650382181
+- 1.6155950752393982  * 124.03149777329222 *
+(1.3236744353715044  - (1.9694462586094064-({{{2}}}* pi / 180))
+* cos(0.6010514667026994 * ({{{3}}} + 96) * pi / 180))
+Date   24 August 2010
+Source   Own work
+Author   Uwe Dedering
+Other versions
+Equivalent political map
+Licensing
+I, the copyright holder of this work, hereby publish it under the following licenses:
+This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+You are free:
+to share – to copy, distribute and transmit the work
+to remix – to adapt the work
+Under the following conditions:
+attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.
+https://creativecommons.org/licenses/by-sa/3.0CC BY-SA 3.0 Creative Commons Attribution-Share Alike 3.0 truetrue
+Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue
+You may select the license of your choice.
+Captions
+English
+Relief location map of the United States of America (without Hawaii and Alaska visible)
+Items portrayed in this file
+depicts
+United States
+relief map
+creator
+some value
+author name string: Uwe Dedering
+Wikimedia username: Uwe Dedering
+URL: https://commons.wikimedia.org/wiki/User:Uwe_Dedering
+copyright status
+copyrighted
+copyright license
+Creative Commons Attribution-ShareAlike 3.0 Unported
+GNU Free Documentation License, version 1.2 or later
+source of file
+original creation by uploader
+inception
+24 August 2010
+media type
+image/png
+File history
+Click on a date/time to view the file as it appeared at that time.
+Date/Time Thumbnail Dimensions User Comment
+current 20:50, 2 April 2024  1,181 × 731 (1.56 MB) Spesh531 correction to Rhode Island border. Little Compton and Tiverton was previously shown to be in Massachusetts
+16:32, 23 December 2016  1,181 × 731 (1.47 MB) Jeanjung212 Lossless Compressed/optimized png decreasing file size by 193731 bytes
+10:37, 24 August 2010  1,181 × 731 (1.66 MB) Uwe Dedering {{Information |Description={{en|1=Relief location map of the USA (without Hawaii and Alaska). EquiDistantConicProjection : Central parallel : * N: 37.0° N Central meridian : * E: 96.0° W Standard parallels: * 1: 32.0° N * 2: 42.0° N Made with Nat
+File usage
+More than 100 pages use this file. The following list shows the first 100 pages that use this file only. A full list is available.
+Aberdeen, South Dakota
+Albany, New York
+Albuquerque, New Mexico
+Alexandria, Louisiana
+Ames, Iowa
+Ann Arbor, Michigan
+Astoria, Oregon
+Atlanta
+Augusta, Maine
+Austin, Texas
+Battle of Bennington
+Bellingham, Washington
+Berkeley, California
+Boca Raton, Florida
+Boone, North Carolina
+Buffalo, New York
+Cambridge, Massachusetts
+Carson City, Nevada
+Cayuga Lake
+Cedar Falls, Iowa
+Chicago
+Cleveland
+Columbia, Maryland
+Columbia, Missouri
+Columbus, Indiana
+Columbus, Ohio
+Corvallis, Oregon
+Davenport, Iowa
+Dayton, Ohio
+Denver
+Des Moines, Iowa
+Detroit
+Detroit River
+Eugene, Oregon
+Fenway Park
+Fort Wayne, Indiana
+Frederick, Maryland
+Gaithersburg, Maryland
+Gary, Indiana
+Gettysburg, Pennsylvania
+Grand Teton National Park
+Great Salt Lake
+Harlingen, Texas
+Hartford, Connecticut
+Houston
+Isle Royale National Park
+Ithaca, New York
+Jackson, Michigan
+Jackson, Mississippi
+Kansas City, Missouri
+Lake Kickapoo
+Lancaster, Ohio
+Lansing, Michigan
+Las Vegas
+Lewiston, Idaho
+Lexington, Kentucky
+Lincoln, Nebraska
+London, Ohio
+Los Angeles
+Marquette, Michigan
+Memphis, Tennessee
+Merced, California
+Milwaukee
+Mobile, Alabama
+Monterey, California
+Nashville, Tennessee
+Oakland, California
+Omaha, Nebraska
+Orem, Utah
+Palo Alto, California
+Philadelphia
+Phoenix, Arizona
+Pittsburgh
+Portland, Maine
+Portland, Oregon
+Provincetown, Massachusetts
+Puget Sound
+Reno, Nevada
+Richmond, Virginia
+Rock Creek Park
+Rockville, Maryland
+Roswell, New Mexico
+Sacramento, California
+Saint Paul, Minnesota
+Salem, Oregon
+San Diego
+San Francisco
+San Jose, California
+Seneca Lake (New York)
+Shea Stadium
+Silver Spring, Maryland
+St. Louis
+Syracuse, New York
+Toledo, Ohio
+Vietnam Veterans Memorial
+Warren, Michigan
+Waterloo, Iowa
+Woodstock
+Wrigley Field
+Yankee Stadium (1923)
+View more links to this file.
+Global file usage
+The following other wikis use this file:
+Usage on ab.wikipedia.org
+Ашаблон:Location map
+Ашаблон:Location map/doc
+Амодуль:Location map/data/USA
+Амодуль:Location map/data/USA/doc
+Usage on ace.wikipedia.org
+Pola:Location map USA2
+Usage on af.wikipedia.org
+International Falls
+Bellingham Internasionale Lughawe
+Usage on als.wikipedia.org
+Vorlage:Positionskarte USA 48
+Usage on ar.wikipedia.org
+قالب:خريطة مواقع
+قالب:خريطة مواقع/شرح
+قالب:خريطة مواقع الولايات المتحدة
+قالب:خريطة مواقع الولايات المتحدة2
+قالب:خريطة مواقع/ملعب
+وحدة:خريطة موقع/بيانات/الولايات المتحدة
+وحدة:Location map/data/United States
+وحدة:خريطة موقع/بيانات/الولايات المتحدة/شرح
+وحدة:Location map/data/United States of America
+كلية مونماوث
+وحدة:Location map/data/United States/شرح
+وحدة:Location map/data/United States of America/شرح
+قائمة الجامعات الأمريكية حسب عدد الطلاب الجامعيين المسجلين
+جامعات الولايات المتحدة حسب عدد المسجلين
+فورتشن 1000
+تكوين هيل كريك
+انفجار صاروخ تيتان في داماسكيوس 1980
+قالب:صندوق معلومات منشأة غولف
+تحطم طائرة بوينغ بي-52 في قاعدة فيرتشايلد الجوية
+حملة جيتيسبيرغ
+نادي أوغوستا الوطني للغولف
+محمية بيغ ليك الوطنية للحياة البرية
+قالب:صندوق معلومات منشأة غولف/شرح
+جرائم قتل طلاب جامعة إيداهو 2022
+مستخدم:Mohammed Qays/خرائط
+وحدة:Location map/data/USA
+ترمب ناشيونال غولف كلوب بيدمنستر
+ديلي بلازا
+Usage on ast.wikipedia.org
+Módulu:Mapa de llocalización/datos/Estaos Xuníos
+Módulu:Mapa de llocalización/datos/Estaos Xuníos/usu
+Módulu:Mapa de llocalización/datos/EEXX
+Usage on as.wikipedia.org
+সাঁচ:Location map
+সাঁচ:Location map/doc
+সাঁচ:Location map+
+সাঁচ:Location map+/doc
+সাঁচ:Location map USA2
+সাঁচ:Location map USA relief
+সাঁচ:Infobox protected area
+সাঁচ:Infobox protected area/doc
+Usage on av.wikipedia.org
+Халип:БакӀКарта Цолъарал Штатал
+Usage on awa.wikipedia.org
+खाँचा:Location map
+खाँचा:Location map+
+View more global usage of this file.
+Metadata
+This file contains additional information, probably added from the digital camera or scanner used to create or digitize it.
+If the file has been modified from its original state, some details may not fully reflect the modified file.
+Horizontal resolution 37.79 dpc
+Vertical resolution 37.79 dpc
+Retrieved from "https://en.wikipedia.org/wiki/File:Usa_edcp_relief_location_map.png"
+Search
+Search
+File:Usa edcp relief location map.png
+Add topic

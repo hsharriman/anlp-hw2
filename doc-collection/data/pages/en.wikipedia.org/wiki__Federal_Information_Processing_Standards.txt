@@ -1,0 +1,135 @@
+URL: https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards
+
+Federal Information Processing Standards - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Technical standard
+The Federal Information Processing Standards (FIPS) of the United States are a set of publicly announced standards that the National Institute of Standards and Technology (NIST) has developed for use in computer systems of non-military United States government agencies and contractors.[1] FIPS standards establish requirements for ensuring computer security and interoperability, and are intended for cases in which suitable industry standards do not already exist.[1] Many FIPS specifications are modified versions of standards the technical communities use, such as the American National Standards Institute (ANSI), the Institute of Electrical and Electronics Engineers (IEEE), and the International Organization for Standardization (ISO).
+Specific areas of FIPS standardization
+[edit]
+The U.S. government has developed various FIPS specifications to standardize a number of topics including:
+Codes, e.g., FIPS county codes or codes to indicate weather conditions or emergency indications. In 1994, National Oceanic and Atmospheric Administration (NOAA) began broadcasting FIPS codes along with their standard weather broadcasts from local stations. These codes identify the type of emergency and the specific geographic area, such as a county, affected by the emergency.
+Encryption standards, such as AES (FIPS 197),[2] and its predecessor, the withdrawn 56-bit DES (FIPS 46-3).[3]
+Data security standards
+[edit]
+Some FIPS standards are related to the security of data processing systems.[4] Some of these include the use of key escrow systems.[5][6]
+Withdrawal of geographic codes
+[edit]
+Some examples of FIPS Codes for geographical areas include FIPS 10-4 for country codes or region codes and FIPS 5-2 for state codes. These codes were similar to or comparable with, but not the same as, ISO 3166, or the NUTS standard of the European Union. In 2002, the National Institute of Standards and Technology (NIST) withdrew several geographic FIPS code standards, including those for countries (FIPS 10-4), U.S. states (FIPS 5-2), and counties (FIPS 6-4).[7][8] These are to be replaced by ISO 3166 and INCITS standards 38 and 31, respectively.[9] Some of the codes maintain the previous numerical system, particularly for states.[10]
+In 2008, NIST withdrew the FIPS 55-3 database.[7] This database included 5-digit numeric place codes for cities, towns, and villages, or other centers of population in the United States. The codes were assigned alphabetically to places within each state, and as a result changed frequently in order to maintain the alphabetical sorting. NIST replaced these codes with the more permanent GNIS Feature ID, maintained by the U.S. Board on Geographic Names. The GNIS database is the official geographic names repository database for the United States, and is designated the only source of geographic names and locative attributes for use by the agencies of the Federal Government.[11] FIPS 8-6 "Metropolitan Areas" and 9-1 "Congressional Districts of the U.S." were also withdrawn in 2008, to be replaced with INCITS standards 454 and 455, respectively.[9]
+The U.S. Census Bureau used FIPS place codes database to identify legal and statistical entities for county subdivisions, places, and American Indian areas, Alaska Native areas, or Hawaiian home lands when they needed to present census data for these areas.[12]
+In response to the NIST decision, the Census Bureau is in the process of transitioning over to the GNIS Feature ID, which will be completed after the 2010 census.[needs update] Until then, previously issued FIPS place codes, renamed "Census Code", will continue to be used, with the Census bureau assigning new codes as needed for their internal use during the transition.[10][13]
+See also
+[edit]
+Federal Information Security Management Act of 2002 (FISMA)
+FIPS 137 (Federal Standard for Linear Predictive Coding)
+FIPS 140 (Security requirements for cryptography modules)
+FIPS 153 (3D graphics)
+FIPS 197 (Rijndael / AES cipher)
+FIPS 199 (Standards for Security Categorization of Federal Information and Information Systems)
+FIPS 201 (Personal Identity Verification for Federal Employees and Contractors)
+List of FIPS region codes
+List of FIPS state codes
+References
+[edit]
+1 2 "FIPS General Information". NIST. September 9, 2013. Retrieved November 17, 2023.
+↑ "FIPS 197" (PDF). Archived from the original (PDF) on April 7, 2015. Retrieved June 15, 2012.
+↑ "FIPS 46-3" (PDF). Archived from the original (PDF) on November 18, 2017. Retrieved June 15, 2012.
+↑ "Minimum Security Requirements for Federal Information and Information Systems" (PDF). March 1, 2007. Archived from the original (PDF) on May 9, 2006. Retrieved April 1, 2015.
+↑ "87-20-20 Key Escrow Encryption Policies and Technologies" (PDF). June 1, 1998. Archived from the original (PDF) on February 14, 2015. Retrieved February 14, 2015.
+↑ "FIPS-185 Escrowed Encryption Standard" (PDF). February 1, 1994. Retrieved April 1, 2015.
+1 2 National Institute of Standards and Technology (December 15, 2016). "Withdrawn FIPS Listed by Number". National Institute of Standards and Technology. Archived (PDF) from the original on May 6, 2023. Retrieved May 6, 2023.
+↑ Turner, James M. (September 2, 2008). "Announcing Approval of the Withdrawal of Ten Federal Information Processing Standards (FIPS)". NIST. 73. Federal Register: 51276. Retrieved November 2, 2017.
+1 2 "FIPS Code Replacement Chart 2012" (PDF). National Institute of Standards and Technology. June 28, 2012. Archived (PDF) from the original on May 20, 2012. Retrieved March 6, 2013.
+1 2 "American National Standards Institute (ANSI) Codes". United States Census Bureau. February 24, 2010. Retrieved August 3, 2010.
+↑ "FIPS 55 Change Notice" (PDF). United States Geological Survey. January 1, 2006. Archived (PDF) from the original on April 14, 2006. Retrieved August 3, 2010.
+↑ "Federal Information Processing Standard (FIPS)". United States Census Bureau. Archived from the original on February 7, 2014. Retrieved August 3, 2010.
+↑ "2009 TIGER/Line Shapefiles Technical Documentation" (PDF). United States Census Bureau. 2009. Archived (PDF) from the original on March 6, 2015. Retrieved August 3, 2010.
+External links
+[edit]
+Official website
+v
+t
+e
+Geocode systems
+Country codes
+IANA country code
+ISO 3166-1
+alpha-2
+alpha-3
+numeric
+Aircraft prefixes
+IOC country code
+FIFA country code
+Vehicle country codes
+FIPS country code (FIPS 10-4)
+FIPS 6-4
+Administrative codes
+and country subdivisions
+ISO 3166-2
+FIPS place code (FIPS 55)
+FIPS state code (FIPS 5-2)
+NUTS (EU)
+GSS codes (United Kingdom)
+SGC codes (Canada)
+UN M.49 (UN)
+Airport codes
+IATA airport code
+ICAO airport code
+Geodesic
+place codes
+Global
+C-squares
+Geohash
+Geohash-36
+GEOREF
+International Map of the World indexing system
+Mapcode
+Marsden square
+Military Grid Reference System
+Natural Area Code
+Open Location Code
+QDGC
+UN/LOCODE
+UTM
+WMO squares
+Regional
+ICES Statistical Rectangles (north-east Atlantic region)
+Irish grid reference system
+National Topographic System (Canada)
+Ordnance Survey National Grid (UK)
+National Level Addressing Grid (India)
+Postal codes
+Australian post codes
+CEP (Brazil)
+Eircodes (Republic of Ireland)
+New Zealand post codes
+Postal Index Number (India)
+United Kingdom post codes
+ZIP Code (United States)
+Telephony
+ITU-R country codes
+ITU-T telephone country codes
+ITU-T mobile country codes
+Amateur radio
+Maidenhead Locator System
+Historical : QRA locator
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Federal_Information_Processing_Standards&oldid=1371474969"
+Categories:
+National Institute of Standards and Technology
+Security compliance
+Standards of the United States
+Statistical data coding
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Use American English from August 2026
+All Wikipedia articles written in American English
+Use mdy dates from August 2026
+Wikipedia articles in need of updating from January 2024
+All Wikipedia articles in need of updating
+Official website different in Wikidata and Wikipedia
+Search
+Search
+Federal Information Processing Standards
+36 languages   Add topic

@@ -1,0 +1,481 @@
+URL: https://en.wikipedia.org/wiki/ZIP_Code
+
+ZIP Code - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Numeric postal code used in the US and its territories
+For other uses, see Zip code (disambiguation).
+ZIP code
+Zone Improvement Plan
+The first digit of a United States ZIP code allocates it to a specific geographic zone.
+Status Active
+Year started 1962
+Organization United States Postal Service (USPS)
+Authors Robert Moon and the United States Post Office Department
+Domain Logistics, postal routing, and address verification
+Website usps.com
+The ZIP Code system (an acronym for Zone Improvement Plan[1]) is the system of postal codes used by the United States Postal Service (USPS). The term ZIP was chosen to suggest that the mail travels more efficiently and quickly[2] (zipping along) when senders include the code in the postal address. ZIP+4 is a registered trademark of the United States Postal Service, which also registered ZIP Code as a service mark until 1997,[3] and which claims "ZIP Code" as a trademark though it is not registered.[4]
+Introduced on July 1, 1963, the basic format was five digits, the first designating a region of the country and subsequent digits localizing the destination further.[5][6][7] In 1983, an extended code was introduced named ZIP+4; it included the five digits of the ZIP Code, followed by a hyphen and four digits that designated a location even more specific than the original five.
+Private carriers and the USPS use ZIP Codes to route deliveries. In addition, ZIP Codes have become a basis for breaking down demographic, marketing, and sales data for analytical purposes.
+A 1974 postage stamp encouraging people to use the ZIP Code on letters and parcels
+History
+[edit]
+Early postal zones
+[edit]
+A 1963 U.S. Post Office sign featuring Mr. ZIP
+A label inside a stamp booklet promoting the ZIP Code
+A Swingin' Six video used by the post office to promote the ZIP Code
+The early history and context of postal codes began with postal district/zone numbers. The United States Post Office Department (USPOD) implemented postal zones for 124 large cities in May 1943.[8] Postmaster General Frank C. Walker explained that many experienced postal clerks were going into the army, and the zone system would enable inexperienced clerks to sort mail without having to learn the delivery area of each city carrier.[9]
+For example:
+Mr. John Smith
+3256 Epiphenomenal Avenue
+Minneapolis 16, Minnesota
+The "16" is the number of the postal zone in a specific city.[10]
+Establishment
+[edit]
+By the early 1960s, a more organized system was needed. Robert A. Moon, who is considered the father of the ZIP Code, proposed it in 1944 while working as a postal inspector.[11][12] Non-mandatory five-digit ZIP Codes were introduced nationwide on July 1, 1963,[5][6] and less than three months later Moon estimated that there were already ZIP Codes on as much as 30% of mail.[13] The USPOD issued its Publication 59: Abbreviations for Use with ZIP Code on October 1, 1963, with the list of two-letter state abbreviations which are generally written with both letters capitalized.[14] An earlier list, publicized in June 1963, had proposed capitalized abbreviations ranging from two to five letters.[14] According to Publication 59, the two-letter standard was "based on a maximum 23-position line, because this has been found to be the most universally acceptable line capacity basis for major addressing systems",[14] which would be exceeded by a long city name combined with a multi-letter state abbreviation, such as "Sacramento, Calif." along with the ZIP Code. The abbreviations have remained unchanged, except for Nebraska, which was changed from NB to NE in 1969 at the request of the Canadian Post Office, to avoid confusion with New Brunswick.[14]
+The phrase "zone improvement plan" is credited to D. Jamison Cain, a Postal Service executive.[15] The post office credits Moon with only the first three digits of the ZIP Code, which describe the sectional center facility (SCF) or "sec center". An SCF is a central mail processing facility with those three digits. The fourth and fifth digits, which give a more precise locale within the SCF, were proposed by Henry Bentley Hahn Sr.[16]
+The SCF sorts mail to all post offices with those first three digits in their ZIP Codes. The mail is sorted according to the final two digits of the ZIP Code and sent to the corresponding post offices in the early morning. Sectional centers do not deliver mail and are not open to the public, although the building may include a post office that is open to the public, and most of their employees work the night shift. Items of mail picked up at post offices are sent to their SCFs in the afternoon, where the mail is sorted overnight. In the case of large cities, the last two digits as assigned generally coincided with the older postal zone number.[10]
+For example:
+John Smith
+3256 Epiphenomenal Ave Apt 601
+Minneapolis, MN 55416
+In 1967, these became mandatory for second- and third-class bulk mailers, and the system was soon adopted generally. The United States Post Office used a cartoon character, which it called Mr. ZIP, to promote the use of the ZIP Code.[17] The name "Mr. ZIP" was coined by D. Jamison Cain.[15] Mr. ZIP was often depicted with a legend such as "USE ZIP CODE" in the selvage of panes of postage stamps or on the covers of booklet panes of stamps.[17] Mr. ZIP was featured prominently alongside musical group "The Swingin' Six" in a variety show that the post office used to explain the importance of using ZIP Codes.[18]
+ZIP+4
+[edit]
+In 1983, the U.S. Postal Service introduced an expanded ZIP Code system that it named ZIP+4, often known as "plus-four codes", "add-on codes", or "add-ons". A ZIP+4 Code uses the basic five-digit code plus four additional digits to identify a geographic segment within the five-digit delivery area, such as a city block, a group of apartments, an individual high-volume receiver of mail, a post office box, or any other unit that could use an extra identifier to aid in efficient mail sorting and delivery. However, the new format was not adopted universally by the public.[19]
+For example:
+John Smith
+3256 Epiphenomenal Ave Apt 601
+Minneapolis, MN 55416-2931
+Commercial customers generally apply a ZIP+4 or a delivery point code (i.e., ZIP+6) to mail as part of address normalization. They may need to do so to receive discounted postage rates.[20] The public does not need to write the ZIP+4 code, as mail is read by a multiline optical character reader (MLOCR) that determines the correct ZIP+4 Code from the address—along with the even more specific delivery point—and prints an Intelligent Mail barcode (IMb) on the face of the mail piece that corresponds to 11 digits—nine for the ZIP+4 Code and two for the delivery point.
+For post office boxes, the general but not invariable rule is that each box has its own ZIP+4 Code. The add-on code is often one of the following: the last four digits of the box number (e.g. PO Box 107050, Albany, NY 12201-7050), zero plus the last three digits of the box number (e.g., PO Box 17727, Eagle River, AK 99577-0727), or, if the box number consists of fewer than four digits, enough zeros are attached to the front of the box number to produce a four-digit number (e.g., PO Box 77, Kivalina, AK 99750-0077). However, there is no uniform rule, so the ZIP+4 Code must be looked up individually for each box (e.g. using the USPS's official ZIP Code Lookup tool, and being sure to enter just city and state, not the 5-digit ZIP).[21]
+Postal barcode
+[edit]
+Main article: Intelligent Mail barcode
+The ZIP Code is often translated into an Intelligent Mail barcode printed on the mailpiece to make it easier for automated machines to sort. A barcode can be printed by the sender (some word-processing programs such as WordPerfect[22] include the feature), but this is not recommended, as the address-to-ZIP lookup tables can be significantly out of date.
+Customers who send bulk mail can get a discount on postage if they have printed the barcode and have presorted the mail. This requires more than just a simple font; mailing lists must be standardized with up-to-date Coding Accuracy Support System (CASS)-certified software that adds and verifies a full, correct ZIP+4 Code and an additional two digits representing the exact delivery point.[citation needed] Furthermore, mail must be sorted in a specific manner to an 11-digit code with at least 150 mailpieces for each qualifying ZIP Code. It must be accompanied by documentation confirming this. These steps are usually done with PAVE-certified software that prints the barcoded address labels and the barcoded sack or tray tags.[citation needed]
+The assignment of delivery point digits (the 10th and 11th digits) ensures that every mailable point in the country has an 11-digit number. The delivery-point digits are calculated based on the primary or secondary number of the address. The USPS publishes the rules for calculating the delivery point in a document called the CASS Technical Guide.[23]
+Relationship with local government boundaries
+[edit]
+Each ZIP Code has one or more "postal city" names assigned to it. Since a ZIP Code is a collection of delivery points served by a specific physical post office, ZIP Codes often do not coincide with the boundaries of local government units. For example, suburban and unincorporated areas may share a postal city name with a neighboring municipality, even if no part of its ZIP Code is actually within that city.[24]
+Structure and allocation
+[edit]
+This section needs more citations. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2026) (Learn how and when to remove this message)
+USPS Postal Cities
+[edit]
+The USPS postal delivery zone is the place name assigned by the USPS to the last two digits of a 5-digit ZIP Code, coded to a corresponding post office physical location.[25][26][27] While ZIP Codes designate delivery points within the United States (and its territories) the associated USPS postal city names may not be the names residents of states serviced by the Post Offices identify as where they legally reside.[28] The resulting structure of the ZIP Code does not necessarily follow administrative or political boundaries and may cross state lines.[29][30][31] When the 5-digit ZIP Code is followed by +4 digits the four digits can in practice, determine a specific USPS Post Office box number and alternatively, a sector, segment, several blocks or side of the street parcel is delivered from a USPS route. Parcel addressed to a ZIP Code without the corresponding USPS postal delivery zone name is often stamped with a request to update the address or marked return to sender.
+The local or state government entity assigning street numbers linked to emergency services, not the USPS, determines legal, physical, addressing.[32] When legal and mailing addresses are not disambiguated on registration forms by separate fields, a USPS postal city often replaces a municipal name.[33][34][35] Registration form field restrictions like 'PO BOX not allowed' exist as an internal control on forms without source to standards or regulation.[36] Corporate registration form designers operating in identity collection commerce such as government, immigration, healthcare, real estate, mortgage, utilities and registered agency, tend to utilize zip codes but do not always recognize distinctions in address types.
+In certain circumstances where digital forms requesting a legal or physical address use autocomplete formatting for ZIP Code fields; customer applications with valid, deed registered legal physical addresses located within surveyed, incorporated state-chartered municipalities and counties are rejected by corporate registration databases as 'unable to be verified' because the street name and number is associated with the USPS postal city name, not the municipal or county name. As a geographic metric in public health research, USPS postal cities are an arbitrary and unsurveyed geographic designation and remain flawed when applied outside their intended use as became evident in the Flint, MI water crisis.[37]
+As a result of the disconnect in application between legal, delivery or mailing addressing many US states opt in to modernized point based, geocoded, address data standards like NENA,[38][39] ANSI[40] and collection platforms like the USDOT National Address Database (NAD)[41] to provide reference to legal addresses for essential and emergency services as an alternative to a traditional USPS ZIP Code Boundary Review Process.[42][43]
+Types
+[edit]
+There are four types of ZIP Codes:
+Unique: assigned to a single high-volume address
+Post office box-only: used only for PO boxes at a given facility, not for any other type of delivery
+Military: used to route mail for the U.S. military
+Standard: all other ZIP Codes.
+Unique ZIP Codes are used for governmental agencies, universities, businesses, prisons, or buildings receiving sufficiently high volumes of mail to justify the assignment to them of exclusive ZIP Codes. Government examples include 20505 for the Central Intelligence Agency in Washington, D.C., and 81009 for the Federal Citizen Information Center of the U.S. General Services Administration (GSA)[44] in Pueblo, Colorado. An example of a university-specific ZIP Code is 21252, which serves Towson University. An example of a unique ZIP Code assigned to a prison is 81290 for the Federal Correctional Complex near Florence, Colorado. An example of a private address with a unique ZIP Code is that assigned to the headquarters of Walmart (72716). They may also be assigned to a single individual, such as Smokey Bear "20252", or a program, such as the Postal Service's Operation Santa Claus program, under which children are invited to write to Santa Claus at "North Pole 88888".[45]
+An example of a PO box-only ZIP Code is 22313, used for boxes at the main post office in Alexandria, Virginia, including those used by the United States Patent and Trademark Office. In the area surrounding that post office, home and business mail delivery addresses use ZIP Code 22314, a standard ZIP Code.
+Geographic hierarchy
+[edit]
+Primary state prefixes
+[edit]
+ZIP Code zones in the United States
+ZIP Codes are numbered with the first digit representing a certain group of U.S. states, the second and third digits together representing a region in that group (or perhaps a large city), and the fourth and fifth digits representing a group of delivery addresses within that region. The main town in a region (if applicable) often gets the first ZIP Codes for that region; afterward, the numerical order often follows the alphabetical order.[citation needed] Because ZIP Codes are intended for efficient postal delivery, there are unusual cases where a ZIP Code crosses state boundaries, such as a military facility spanning multiple states or remote areas of one state most easily serviced from a bordering state. For example, ZIP Code 42223 serves Fort Campbell, which spans Christian County, Kentucky, and Montgomery County, Tennessee, and ZIP Code 97635 includes portions of Lake County, Oregon, and Modoc County, California.
+The first three digits generally designate a sectional center facility, the area's mail sorting and distribution center. A sectional center facility may have more than one three-digit code assigned to it. For example, the Northern Virginia sectional center facility in Merrifield is assigned codes 220, 221, 222, and 223. In some cases, a sectional center facility may serve an area in an adjacent state, usually due to the lack of a proper location for a center in that region. For example, 739 in Oklahoma is assigned to Amarillo, Texas; 297 in South Carolina is assigned to Charlotte, North Carolina; 865 in Arizona is assigned to Albuquerque, New Mexico; and 961 in California to Reno, Nevada.
+Many of the lowest ZIP Codes, which begin with '0', are in the New England region. In the '0' region are New Jersey (non-contiguous with the remainder of the '0' area), Puerto Rico, the U.S. Virgin Islands, and APO/FPO military addresses for personnel stationed in Europe, Africa, Southwest Asia, and onboard vessels based in the waters adjoining those lands. The lowest ZIP Code is in Holtsville, New York (00501, a ZIP Code exclusively for the U.S. Internal Revenue Service center there).[46] Other low ZIP Codes are 00601 for Adjuntas, Puerto Rico; 01001 for Agawam, Massachusetts, and the ZIP Codes 01002 and 01003 for Amherst, Massachusetts; 01002 is used for mail in town, while the University of Massachusetts Amherst primarily uses 01003. Until 2001, there were six ZIP Codes lower than 00501 that were numbered from 00210 to 00215 (located in Portsmouth, New Hampshire) and were used by the Diversity Immigrant Visa program to receive applications from non-U.S. citizens.[citation needed]
+The numbers increase southward along the East Coast, such as 02115 (Boston), 10001 (New York City), 19103 (Philadelphia), 21201 (Baltimore), 20008 (Washington, D.C.), 30303 (Atlanta), and 33130 (Miami) (these are only examples, as each of these cities contains several ZIP Codes in the same range). From there, the numbers increase heading westward and northward east of the Mississippi River, southward west of the Mississippi River, and northward on the West Coast. For example, 40202 is in Louisville, 50309 in Des Moines, 60601 in Chicago, 63101 in St. Louis, 77036 in Houston, 80202 in Denver, 94111 in San Francisco, 98101 in Seattle, and 99950 in Ketchikan, Alaska (the highest ZIP Code).
+The first digit of the ZIP Code is allocated as follows:
+0 = Connecticut (CT), Massachusetts (MA), Maine (ME), New Hampshire (NH), New Jersey (NJ), New York (NY, Fishers Island only), Puerto Rico (PR), Rhode Island (RI), Vermont (VT), Virgin Islands (VI), Army Post Office Europe, Central Asia, and the Middle East (APO AE); Fleet Post Office Europe and the Middle East (FPO AE)
+1 = Delaware (DE), New York (NY), Pennsylvania (PA)
+2 = District of Columbia (DC), Maryland (MD), North Carolina (NC), South Carolina (SC), Virginia (VA), West Virginia (WV)
+3 = Alabama (AL), Florida (FL), Georgia (GA), Mississippi (MS), Tennessee (TN), Army Post Office Americas (APO AA), Fleet Post Office Americas (FPO AA)
+4 = Indiana (IN), Kentucky (KY), Michigan (MI), Ohio (OH)
+5 = Iowa (IA), Minnesota (MN), Montana (MT), North Dakota (ND), South Dakota (SD), Wisconsin (WI)
+6 = Illinois (IL), Kansas (KS), Missouri (MO), Nebraska (NE)
+7 = Arkansas (AR), Louisiana (LA), Oklahoma (OK), Texas (TX)
+8 = Arizona (AZ), Colorado (CO), Idaho (ID), New Mexico (NM), Nevada (NV), Utah (UT), Wyoming (WY)
+9 = Alaska (AK), American Samoa (AS), California (CA), Guam (GU), Hawaii (HI), Marshall Islands (MH), Federated States of Micronesia (FM), Northern Mariana Islands (MP), Oregon (OR), Palau (PW), Washington (WA), Army Post Office Pacific (APO AP), Fleet Post Office Pacific (FPO AP)
+Secondary regional prefixes (123xx) and local ZIP Codes (12345)
+[edit]
+See also: Sectional center facility
+Early advertisement for ZIP Code 10005
+The second and third digits represent the sectional center facility (SCF) (e.g., 477xx = Vanderburgh County, Indiana). The fourth and fifth digits represent the area of the city (if in a metropolitan area), or a village/town (outside metro areas), e.g., 47722 (4=Indiana, 77=Vanderburgh County, 22=University of Evansville area). When a sectional center facility's area crosses state lines, it is assigned separate three-digit prefixes for the states it serves.
+In some urban areas, like 462 for Marion County, Indiana, the three-digit prefix will often exist in one county, while, in rural and most suburban areas, the prefix will exist in multiple counties; for example, the neighboring 476 prefix is found in part or entirely in six counties: Gibson, Pike, Posey, Spencer, Vanderburgh, and Warrick. In some cases, an urban county may have more than one prefix. This is the case with Allen (467, 468), Lake (464, 463), St. Joseph (465, 466), and Vanderburgh (476, 477) counties. Cities like Chicago, Houston, Los Angeles, and New York City have multiple prefixes within their city limits. In some cases, these may be served from the same SCF, such as in San Diego County, California, where the three-digit prefixes 919 and 920 are used for suburban and rural communities, and 921 for the city of San Diego itself, although all three are processed through the same SCF.[citation needed]
+Despite the geographic derivation of most ZIP Codes, the codes do not represent geographic regions; generally, they correspond to address groups or delivery routes.[47] Consequently, ZIP Code "areas" can overlap, be subsets of each other, or be artificial constructs with no geographic area (such as 095 for mail to the Navy, which is not geographically fixed).[47] Similarly, in areas without regular postal routes (rural route areas) or no mail delivery (undeveloped areas), ZIP Codes are not assigned or are based on sparse delivery routes, and hence the boundary between ZIP Code areas is undefined.[47] For example, some residents in or near Haubstadt, Indiana, which has the ZIP Code 47639, have mailing addresses with 47648, the ZIP Code for neighboring Fort Branch, Indiana, while others living in or near Fort Branch have addresses with 47639. Many rural counties have similar logistical inconsistencies caused by the sparse delivery routes, often called Rural Routes or other similar designations.
+International mail
+[edit]
+There are generally no ZIP Codes for deliveries to other countries, except for the independent countries of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau, each of which is integrated into the U.S. postal system under a Compact of Free Association.[48][failed verification] Another exception is ZIP Codes used for overseas stations of U.S. armed forces.[49]
+Mail to U.S. diplomatic missions overseas is addressed as if it were addressed to a street address in Washington, D.C. The four-digit diplomatic pouch number is used as a building number, while the city in which the embassy or consulate is located is combined with the word "Place" to form a fictional street name. Each mission uses a ZIP+4 Code consisting of 20521 and the diplomatic pouch number.[50][51]
+For example, the U.S. Embassy in India has this address in India's postal system:[52]
+Embassy of the United States of America
+Shantipath, Chanakyapuri,
+New Delhi,
+National Capital Territory of Delhi, 110021
+as well as this U.S. address for official diplomatic mail:[51]
+Embassy of the United States of America
+9000 New Delhi Place
+Washington, DC
+20521-9000
+Individuals posted at diplomatic missions overseas are now assigned a Diplomatic Post Office address and a unique box number. The ZIP Code identifies the diplomatic mission destination and differs from the diplomatic pouch number in the example above. While delivered through the pouch system, mail to such addresses is not considered "Diplomatic Pouch" material and must adhere to the mailing regulations of the host country. An example address is:[53]
+JOHN ADAMS
+UNIT 8400 BOX 0000
+DPO AE
+09498-0048
+Division and reallocation
+[edit]
+Like area codes, ZIP Codes are sometimes divided and changed, especially when a rural area becomes suburban. Typically, the new codes become effective once announced, and a grace period (e.g., six months) is provided in which the new and old codes are used concurrently so that postal patrons in the affected area can notify correspondents, order new stationery, etc.[54]
+Opening a new sectional center facility is sometimes necessary in rapidly growing communities, which must then be allocated three-digit ZIP Code prefixes. Such allocation can be done in various ways. For example, when a new sectional center facility was opened at Dulles Airport in Virginia, the prefix 201 was allocated to that facility; therefore, for all post offices to be served by that sectional center facility the ZIP Code changed from an old code beginning with 220 or 221 to a new code or codes starting with 201. However, no new prefix was assigned when a new sectional center facility was opened to serve Montgomery County, Maryland. Instead, ZIP Codes in the 207 and 208 ranges, which had previously been assigned alphabetically, were reshuffled so that 207xx ZIP Codes in the county were changed to 208xx codes, while 208xx codes outside that county were changed to 207xx codes. Because Silver Spring (whose postal area includes Wheaton) has its own prefix, 209, there was no need to apply the reshuffling to Silver Spring; instead, all mail going to 209xx ZIP Codes was simply rerouted to the new sectional center facility.
+On the other hand, depopulation may cause a post office to close and its associated ZIP Code to be deallocated. For example, Centralia, Pennsylvania's ZIP Code, 17927, was retired in 2002,[55] and ZIP Codes for Onoville (14764), Quaker Bridge (14771) and Red House (14773) in New York were prevented from going into use in 1964 in preparation for the Kinzua Dam's completion.[56][57]
+Other uses
+[edit]
+Delivery services
+[edit]
+Delivery services other than the USPS, such as FedEx, United Parcel Service, and DHL, require a ZIP Code for optimal internal routing of a package.[58]
+Statistics
+[edit]
+As of October 14, 2025[update], there are 41,557 ZIP Codes in the United States.[59] Due to convenience, ZIP Codes are used not only for tracking of mail, but also commonly for gathering geographical statistics in the United States by some researchers.[60][61] ZIP Codes are not created for statistical analysis, and thus their use for statistical analysis is heavily criticized for numerous reasons and advised against as a cartographic practice.[61][62] As ZIP Codes are not polygons, but collections of mail routes and points, they are unsuitable for publication or distribution of most data.[63] Polygons for ZIP Codes are not released by the USPS and instead interpolated by 3rd party vendors.[60] These interpolations introduce topological errors and are not standard between vendors.[60] The USPS often discontinues, splits, or otherwise modifies ZIP Codes, making continuous space-time analysis challenging, leading to issues with both the modifiable areal unit problem (MAUP) and modifiable temporal unit problem (MTUP).[60][62] As the ZIP Codes are postal routing numbers, individuals and organizations without concrete spatial locations may be given a number, making it impossible to associate demographic data with them.[60] Demographic data is inconsistent between ZIP Codes, and no effort is made to ensure they are proper enumeration units for analysis.[60] As ZIP Codes are not made with the same considerations as other enumeration units, and is not possible without committing the ecological fallacy.[60][61] This again becomes an issue with the MAUP. They have been found not to have significant correlations with health indicators, which can lead to poor conclusions.[61] Despite these issues, ZIP Codes remain popular among researchers in fields such as public health due to their convenience, public familiarity with them, ability to anonymize subject addresses through aggregation, and possible ignorance of more appropriate enumeration units on the part of researchers.[60][62]
+In an attempt to satisfy demand "by data users for statistical data by ZIP Code area", the U.S. Census Bureau calculates approximate boundaries of ZIP Code areas, which it calls ZIP Code Tabulation Areas (ZCTAs).[63][60] Statistical census data is then provided for these approximate areas. The geographic data provided for these areas includes the latitude and longitude of the center-point of the ZCTAs. ZIP Codes are inherently discrete or point-based data, as they are assigned only at the point of delivery, not for the spaces between the delivery points. The United States Census Bureau then interpolates this discrete data set to create polygons by attempting to match ZIP Code extents with Census blocks.[60] The resulting aereal units represent the approximate extent of the ZIP Code, which are combined to use for mapping and data presentation.[64] The process of creating ZCTAs and their use for statistical analysis is heavily criticized in the literature. First, the creation of ZCTAs from Census blocks encounters issues when a Census block straddles multiple ZIP Codes.[60][64] Addressing this is another instance of the MAUP, and the solution of dividing aggregate units between ZIP Codes causes some individuals to fall into ZCTAs that do not match their ZIP Code.[60] The creation of these units is therefore committing the ecological fallacy by attempting to disaggregate aggregate data. As ZIP Codes are not continuous, not everyone in the United States has one; there are ZIP Codes for non-populated or geographic areas, resulting in there not being one ZCTA for every ZIP Code.[60] ZCTAs are not updated as frequently as the USPS updates ZIP Codes, resulting in further temporal analysis issues when ZIP Codes change during a study period.[60] Datasets providing a similar approximate geographic extent to ZCTA are commercially available. Despite these issues, ZCTAs are still very popular with researchers in fields like epidemiology, and among government agencies, with some states employing them to publish and distribute public health data during the COVID-19 pandemic.[62]
+Marketing
+[edit]
+The data is often used in direct mail marketing campaigns in ZIP-code marketing. Point-of-sale cashiers sometimes ask consumers for their home ZIP Codes. Besides providing purchasing-pattern data useful in determining the location of new business establishments, retailers can use directories to correlate this ZIP Code with the name on a credit card to obtain a consumer's full address and telephone number. ZIP-Coded data are also used in analyzing geographic risk factors, an insurance and banking industry practice pejoratively known as redlining. This can cause problems, e.g., expensive insurance, for people living near a town with a high crime rate and sharing its ZIP Code, while they live in a relatively crime-free town.
+California outlawed this practice in 2011.[65][clarification needed]
+Legislative districts
+[edit]
+ZIP Codes may not currently be used to identify existing legislative districts. Although the website of the United States House of Representatives has a "Find Your Representative" feature that looks up congressional districts based on ZIP Codes alone, it often returns multiple districts corresponding to a single ZIP Code.[66][67] This is because different parts of one ZIP Code can be in different districts.[68] One proposal to eliminate the possibility of extreme partisan gerrymandering calls on using ZIP Codes as the basic units for redistricting.[69]
+Internet
+[edit]
+A 1978 proposal for a nationwide system of community networks suggested using ZIP Codes for routing.[70]
+ZIP Code data is an integral part of dealer/store locator software on many websites, especially brick-and-click websites. This software processes a user-input ZIP Code and returns a list of store or business locations, usually in the order of increasing distance from the center of the input ZIP Code. As the ZIP Code system is confined to the U.S. Postal network, websites that require ZIP Codes cannot register customers outside the United States. Many sites will purchase postal code data of other countries or make allowances in cases where the ZIP Code is not recognized.[citation needed]
+ZIP Codes are regularly used on the Internet to provide a location where an exact address is not necessary (or desirable) but the user's municipality or general location is needed. Examples (in addition to the store locator example listed above) include weather forecasts, television listings, local news, and online dating (most general-purpose sites, by default, search within a specified radius of a given ZIP Code, based on other users' entered ZIP Codes).
+Credit card security
+[edit]
+Main article: Address Verification System
+ZIP Codes are used in credit card authorization, specifically Address Verification System (AVS). When a merchant collects the entire address, the ZIP Code is an important part of AVS. In some cases, the ZIP Code is the only thing used for AVS, specifically where collecting a signature or other information is infeasible, such as pay at the pump or vending machines.[citation needed]
+See also
+[edit]
+Philately portal
+United States portal
+J. W. Westcott II – Mail boat and floating ZIP Code
+Postal codes in Canada
+ZIP codes in the Philippines
+References
+[edit]
+↑ Curtin, Abby. "Flashing Across the Country: Mr. Zip and the ZIP Code Promotional Campaign". Smithsonian National Postal Museum. Archived from the original on May 30, 2023. Retrieved May 30, 2023.
+↑ "The Untold Story of the ZIP Code" (PDF). U.S. Postal Service Office of Inspector General. April 1, 2013. Archived from the original (PDF) on December 29, 2016. Retrieved March 11, 2020. When Day unveiled the nationwide 5-digit ZIP Code at a postmasters' convention in October of 1962, he simultaneously introduced the world to 'Mr. ZIP'—the cartoon character whose body language symbolizes speedy delivery.
+↑ "Latest Status Info". United States Patent and Trademark Office. Archived from the original on June 30, 2012. Retrieved December 22, 2019.
+↑ "USPS Trademarks". Retrieved May 26, 2025.
+1 2 "Post office readies new area mailing code". Spokesman-Review. Spokane, Washington. Associated Press. June 30, 1963. p. 9.
+1 2 "ZIP Code is labeled a success". Spokesman-Review. Spokane, Washington. Associated Press. October 4, 1963. p. 6.
+↑ Terrell, Ellen (June 28, 2013). "This Month in Business History: ZIP Code Introduced". Library of Congress Research Guides. Archived from the original on October 29, 2021. Retrieved July 31, 2022.
+↑ "A Zoning System in Development". Smithsonian National Postal Museum. Archived from the original on January 4, 2012. Retrieved December 22, 2019.
+↑ "Home Folks to Have P.O. Numbers Like Army Boys". Minneapolis Morning Tribune. May 6, 1943. Archived from the original on February 1, 2023. Retrieved January 31, 2023.
+1 2 Chokshi, Niraj (April 23, 2013). "The Bounty ZIP Codes Brought America". The Atlantic. Archived from the original on October 26, 2020. Retrieved March 12, 2020. ...Postmaster General Edward Day in the early 1960s suggested combining Moon's three-digit code with the existing two-digit system.
+↑ Bullamore, Tim (2001). Robert Moon Obituary. Retrieved from https://www.independent.co.uk/news/obituaries/robert-moon-729034.html [dead link].
+↑ Martin, Douglas (April 14, 2001). "Robert Moon, an Inventor of the ZIP Code, Dies at 83". New York Times. Archived from the original on February 17, 2020. Retrieved September 23, 2017.
+↑ "Postal Officials Explain How the [ZIP Code] System Works, Asbury Park Press Oct 18 1964". Asbury Park Press. October 18, 1964. p. 3. Retrieved June 22, 2026.
+1 2 3 4 "State Abbreviations", USPS.com Archived 2017-01-16 at the Wayback Machine.
+1 2 Kelly, John (September 29, 2018). "Virginia resident pushed the envelope when Zip code was born in 1963". The Washington Post. Archived from the original on October 10, 2018. Retrieved August 13, 2022.
+↑ Wallace, Lauren (May 15, 2015). "Papers of H. Bentley Hahn: The Man Who Invented the 5-Digit ZIP Code". Archivally Speaking. John F. Kennedy Presidential Library Archives. Archived from the original on May 1, 2018. Retrieved April 30, 2018.
+1 2 "Mr. ZIP- The nation's original 'digital' icon" (PDF). Archived from the original (PDF) on May 8, 2009.
+↑ "The US Postal Service's zip code system turns 50". Southern California Public Radio. July 1, 2013. Archived from the original on June 16, 2020. Retrieved June 16, 2020.
+↑ "Organizing America: A History of the ZIP Code". RandomHistory.com. Random History. July 25, 2014. Archived from the original on August 12, 2014. Retrieved June 19, 2017.
+↑ "New Standards to Enhance Package Visibility" (PDF). Federal Register. 78 (133): 41721–41731. July 11, 2013.
+↑ "ZIP Code™ Lookup | USPS". tools.usps.com. Archived from the original on December 22, 2016. Retrieved January 23, 2020.
+↑ "Archived: How can I print routing barcodes on envelopes? – Knowledge Base". The Trustees of Indiana University. Archived from the original on March 10, 2012. Retrieved July 10, 2009.
+↑ "CASS Technical Guide" (PDF). United States Postal Service. p. 40. Archived from the original (PDF) on April 19, 2009. Retrieved July 10, 2009.
+↑ Stevens, Nye (June 23, 2006). "Changing Postal ZIP Code Boundaries" (PDF). Congressional Research Service. p. 2. Retrieved September 9, 2024.
+↑ "USPS ZIP Code - The Basics". USPS.
+↑ "USPS Location Lookup Tool". USPS.
+↑ "Welcome Back to the Neighboorhood Mister Rogers". USPS.
+↑ "USPS Postal City versus Census Geography". US Census Bureau.
+↑ "Do ZIP Codes Cross State Lines?". GeoPostCodes.
+↑ "ZIP Codes and ZCTAS that Cross State Boundaries". Peter Horton.
+↑ "Welcome to Shell Beach". Dark City.
+↑ "USPS Where Can I Find New Construction and Street Address Information". USPS.
+↑ "Understanding differences between City Name and Preferred City Name when Geocoding". Precisely.
+↑ "Conflicts Between Postal and Municipal Boundaries" (PDF). GAO.
+↑ "Last Line of the Address". USPS.
+↑ "Physical address vs PO BOX: What's Allowed?". SAM.gov.
+↑ "Misalignment Between ZIP Codes and Municipal Boundaries: A Problem for Public Health" (PDF). Richard C. Sadler.
+↑ "NENA Who we are". NENA.
+↑ "20/20 Escape from a House of Horror: A Diane Sawyer Special Event". 20/20 Diane Sawyer.
+↑ "American National Standards Institute (ANSI), Federal Information Processing Series (FIPS), and Other Standardized Geographic Codes". US Census Bureau.
+↑ "Getting to Know the National Address Database (NAD)". US Department of Transportation.
+↑ "Postal ZIP Code Boundaries" (PDF). USPS.
+↑ "Postal Primer: ZIP Codes and Boundary Review Process" (PDF). Congressional Research Service.
+↑ "FCIC – About Us". Federal Citizen Information Center of the U.S. General Services Administration. Archived from the original on July 14, 2009. Retrieved July 10, 2009. For years, consumers have written to Pueblo, Colorado 81009 for timely, practical information they trust.
+↑ Miller, Susan. "'Don't forget about me': USPS' Operation Santa looking for donors to make magic this year". USA TODAY. Archived from the original on November 24, 2022. Retrieved December 2, 2022.
+↑ "USPS Postal Facts". facts.usps.com. February 15, 2018. Archived from the original on August 19, 2018. Retrieved May 31, 2018.
+1 2 3 "Case Studies". www.nku.edu. Archived from the original on January 19, 2003. Retrieved January 12, 2026.
+↑ "Freely Associated States". www.doi.gov. July 24, 2019. Archived from the original on May 20, 2022. Retrieved April 20, 2022.
+↑ "Military Addresses". United States Postal Service. Archived from the original on December 15, 2018. Retrieved December 15, 2018.
+↑ "Key Topics – Global Operations". United States Department of State. Retrieved December 19, 2025.
+1 2 "Official Addresses". United States Department of State. Retrieved December 19, 2025.
+↑ "U.S. Embassy and Consulates in India". Archived from the original on January 28, 2022. Retrieved September 23, 2022.
+↑ "Military & Diplomatic Mail | USPS". www.usps.com. Archived from the original on August 19, 2019. Retrieved August 8, 2019.
+↑ Roberts, Sam (March 21, 2007). "An Elite ZIP Code Becomes Harder to Crack". The New York Times. p. C15. Archived from the original on January 26, 2021. Retrieved July 10, 2009.
+↑ Wheary, Rob. "Centralia loses its ZIP". Archived from the original on March 24, 2012. Retrieved May 2, 2010.
+↑ "Post Offices to Close". The Bradford Era. April 22, 1964.
+↑ "Final Check-Out". Salamanca Republican-Press. July 1, 1964.
+↑ "USPS.com FAQs". faq.usps.com. Archived from the original on February 22, 2019. Retrieved February 21, 2019.
+↑ "Area District 5-digit ZIP Codes". United States Postal Service. Retrieved October 19, 2025.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 Grubesic, Tony H; Matisziw, Timothy C (2006). "On the use of ZIP codes and ZIP code tabulation areas (ZCTAs) for the spatial analysis of epidemiological data". International Journal of Health Geographics. 58 (5): 58. doi:10.1186/1476-072X-5-58. PMC 1762013. PMID 17166283.
+1 2 3 4 Xiang, Chen; Ye, Xinyue; Widener, Michael J.; Delmelle, Eric; Kwan, Mei-Po; Shannon, Jerry; Racine, Elizabeth F.; Adams, Aaron; Liang, Lu; Jia, Peng (December 27, 2022). "A systematic review of the modifiable areal unit problem (MAUP) in community food environmental research". Urban Informatics. 22 (1) 22. Bibcode:2022UrbIn...1...22C. doi:10.1007/s44212-022-00021-1.
+1 2 3 4 Adams, Aaron; Chen, Xiang; Li, Weidong; Zhang, Chuanrong (July 27, 2023). "Normalizing the pandemic: exploring the cartographic issues in state government COVID-19 dashboards". Journal of Maps. 19 (3): 1–9. Bibcode:2023JMaps..19Q...1A. doi:10.1080/17445647.2023.2235385.
+1 2 "ZIP Code Tabulation Areas (ZCTAs)". U.S. Census Bureau. Archived from the original on August 26, 2023. Retrieved August 26, 2023.
+1 2 Hogan, Alexander H.; Adams, Aaron; Brugge, Doug; Beck, Andrew F.; Ghosh, Debarchana (December 28, 2025). "Mapping Bronchiolitis in Connecticut Before and After the COVID-19 Pandemic". Pediatric pulmonology. 61 (1). doi:10.1002/ppul.71450. Retrieved January 12, 2026.
+↑ Botelho, Greg (February 10, 2011). "California high court: Retailers can not request cardholders' ZIP Code". CNN. Archived from the original on November 10, 2012. Retrieved February 11, 2011.
+↑ "The United States House of Representatives · House.gov". Archived from the original on September 24, 2010. Retrieved January 26, 2010.
+↑ "Find Your Representative · House.gov". Archived from the original on July 8, 2014. Retrieved July 8, 2014.
+↑ "Sunlight Foundation". January 19, 2012. Archived from the original on August 13, 2014. Retrieved August 6, 2014.
+↑ Steelman, Tyler; Curiel, John (October 22, 2018). "Here's one way to end partisan gerrymandering: Don't break up Zip codes". Monkey Cage blog. Washington Post. Archived from the original on November 5, 2018. Retrieved November 4, 2018.
+↑ Wilber, Mike (February 1978). "CIE Net: A Design for a Network of Community Information Exchanges". BYTE. p. 12. Retrieved October 17, 2013.
+External links
+[edit]
+Wikimedia Commons has media related to ZIP Codes.
+Look up zip code in Wiktionary, the free dictionary.
+USPS Postal 101: ZIP Code Boundaries
+The Untold Story of the ZIP Code
+v
+t
+e
+United States Postal Code
+Lists
+Highest-income ZIP Code Tabulation Areas in the United States
+Areas
+ZIP Code Tabulation Area
+Tools
+Intelligent Mail barcode
+POSTNET
+PLANET
+Media
+Mr. ZIP
+People
+J. Edward Day
+Related
+United States Postal Service
+10048 (ZIP code)
+Beverly Hills Post Office
+v
+t
+e
+United States Postal Service
+Organizations
+American Letter Mail Company
+American Postal Workers Union
+Board of Governors of the United States Postal Service
+Bureau of Transportation
+Citizens' Stamp Advisory Committee
+National Alliance of Postal and Federal Employees
+National Association of Letter Carriers
+National Association of Presort Mailers
+National Postal Mail Handlers Union
+National Rural Letter Carriers' Association
+Postal Regulatory Commission
+Postal Transportation Service
+PostalWatch Incorporated
+United States Postal Inspection Service
+United States Postal Service Office of Inspector General
+Systems
+Address Management System
+Advanced Facer-Canceler System
+Coding Accuracy Support System
+Delivery Bar Code Sorter
+Flats Sequencing System
+Locatable Address Conversion System
+United States Postal Savings System
+Services
+Click-N-Ship
+Express mail in the United States
+National Change Of Address
+Permit mail
+Permit Reply Mail
+Postal notes
+Railway Mail Service
+Registered mail
+Special Delivery
+Special handling
+Facilities
+Air mail facility
+Boat railway post office
+Community post office
+Dead letter office
+Highway post office
+J. W. Westcott II
+List of United States post offices
+National Postal Museum
+Network distribution center
+Railway mail service library
+Red Brick Roads
+Sectional center facility
+Streetcar railway post office
+Terminal railway post office
+Legal
+Comstock Act of 1873
+Post Office Consolidation Act of 1872
+Postal Accountability and Enhancement Act of 2006
+Postal Reorganization Act of 1970
+Postal Service Act of 1792
+Postal Service Reform Act of 2022
+Private Express Statutes
+Rural Post Roads Act of 1916
+Title 39 of the United States Code
+Related
+2020 United States Postal Service crisis
+United States airmail service
+CAR-RT SORT
+Catcher pouch
+Cimarron Redoubt
+Domestic Mail Manual
+Facing Identification Mark
+Flats
+Ford-Utilimaster FFV
+Grumman LLV
+Information-Based Indicia
+The Inspectors
+Intelligent Mail barcode
+Jeep DJ
+Label 228
+List of postal killings
+List of U.S. state abbreviations
+List of United States airmail stamps
+Mail bag
+Mail cover
+Mail hook
+Mail Isolation Control and Tracking
+Mail jumping
+Mail pouch
+Mail sack
+Mail satchel
+Nixie
+ORM-D
+Owney (dog)
+Pony Express mochila
+Postage stamps and postal history of the United States
+Postal Alpha Numeric Encoding Technique
+Postal Clause
+Postal voting in the United States
+Postal worker
+Postmaster General
+Prohibitory Order
+Remote Bar Coding System
+Rural Free Delivery
+Rural letter carrier
+STD-4C
+United States post office murals
+List of murals
+USPS Post Office Box Lobby Recycling program
+United States Postal Service creed
+v
+t
+e
+Postal codes in the Americas
+Sovereign
+states
+Antigua and Barbuda
+Argentina
+Bahamas
+Barbados
+Belize
+Bolivia
+Brazil
+Canada
+Chile
+Colombia
+Costa Rica
+Cuba
+Dominica
+Dominican Republic
+Ecuador
+El Salvador
+Grenada
+Guatemala
+Guyana
+Haiti
+Honduras
+Jamaica
+Mexico
+Nicaragua
+Panama
+Paraguay
+Peru
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Suriname
+Trinidad and Tobago
+United States
+Uruguay
+Venezuela
+Dependencies
+and territories
+Anguilla
+Aruba
+Bermuda
+Bonaire
+British Virgin Islands
+Cayman Islands
+Curaçao
+Falkland Islands
+French Guiana
+Greenland
+Guadeloupe
+Martinique
+Montserrat
+Puerto Rico
+Saba
+Saint Barthélemy
+Saint Martin
+Saint Pierre and Miquelon
+Sint Eustatius
+Sint Maarten
+South Georgia and the South Sandwich Islands
+Turks and Caicos Islands
+U.S. Virgin Islands
+North America
+Central America
+Caribbean
+South America
+Authority control databases
+National
+United States
+Israel
+Other
+NARA
+Yale LUX
+Retrieved from "https://en.wikipedia.org/w/index.php?title=ZIP_Code&oldid=1379045380"
+Categories:
+ZIP Code
+1963 establishments in the United States
+1963 introductions
+Philatelic terminology
+Software
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Use American English from July 2022
+All Wikipedia articles written in American English
+Use mdy dates from July 2022
+All articles with dead external links
+Articles with dead external links from December 2019
+Webarchive template wayback links
+All articles with unsourced statements
+Articles with unsourced statements from April 2010
+Articles with unsourced statements from November 2018
+Articles needing additional references from January 2026
+All articles needing additional references
+Articles with unsourced statements from December 2007
+All articles with failed verification
+Articles with failed verification from December 2025
+Articles containing potentially dated statements from October 2025
+All articles containing potentially dated statements
+Wikipedia articles needing clarification from January 2026
+Articles with unsourced statements from March 2022
+Commons category link is on Wikidata
+Articles containing video clips
+Search
+Search
+ZIP Code
+40 languages   Add topic

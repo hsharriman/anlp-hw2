@@ -9,9 +9,7 @@ Share on X (opens in new window)
 Share on LinkedIn (opens in new window)
 Print this page
 Share by email
-By:
-Alexander Johnson
-Email
+By: Alexander Johnson  Email
 Media Inquiries
 Name
 Cassia Crogan
@@ -20,38 +18,13 @@ University Communications & Marketing
 Email
 Phone
 412-268-9295
-As the
-Rales Fellows Program
-(opens in new window)
-at Carnegie Mellon University carries out its second year, members of the inaugural cohort like Erick Cohen are already making an impact in their chosen industries.
-Cohen set out to use data for
-positive social impact.
-Today, as a data engineer for fitness company Solidcore, he is combining a passion for health and wellness with data engineering expertise, helping the organization improve its technological infrastructure.
-Through CMU’s Rales Fellows Program, Cohen earned a
-Master of Science in Data Analytics For Science
-(opens in new window)
-degree (MS-DAS). The program was established in 2023 to support the world's next generation of science, technology, engineering and math (STEM) leaders.
-The Rales Fellows Program offers students full tuition, a stipend to cover living expenses, and mentorship and career guidance opportunities, made possible through the university’s partnership with the
-Norman and Ruth Rales Foundation
-. As the
-second cohort of Rales Fellows
-(opens in new window)
-prepares to address a variety of challenges in STEM, Cohen is among the first group of Rales alumni who are rooting for the next class while taking their own next steps into industry.
+As the Rales Fellows Program(opens in new window) at Carnegie Mellon University carries out its second year, members of the inaugural cohort like Erick Cohen are already making an impact in their chosen industries.
+Cohen set out to use data for positive social impact. Today, as a data engineer for fitness company Solidcore, he is combining a passion for health and wellness with data engineering expertise, helping the organization improve its technological infrastructure.
+Through CMU’s Rales Fellows Program, Cohen earned a Master of Science in Data Analytics For Science(opens in new window) degree (MS-DAS). The program was established in 2023 to support the world's next generation of science, technology, engineering and math (STEM) leaders.
+The Rales Fellows Program offers students full tuition, a stipend to cover living expenses, and mentorship and career guidance opportunities, made possible through the university’s partnership with the Norman and Ruth Rales Foundation. As the second cohort of Rales Fellows(opens in new window) prepares to address a variety of challenges in STEM, Cohen is among the first group of Rales alumni who are rooting for the next class while taking their own next steps into industry.
 Improving quality of life through data
 Cohen first arrived at CMU with a bachelor’s degree in economics and international affairs from George Washington University, along with years of professional experience at companies like Deloitte.
-Through the Rales Fellows Program, Cohen enrolled in MS-DAS, a joint effort between the
-Mellon College of Science
-(opens in new window)
-, the
-Department of Statistics
-(opens in new window)
-within the
-Dietrich College of Humanities and Social Sciences
-(opens in new window)
-, and the
-Pittsburgh Supercomputing Center
-(opens in new window)
-(PSC). The one-year program provides students with the skills they need to thrive in high-impact, data-driven environments.
+Through the Rales Fellows Program, Cohen enrolled in MS-DAS, a joint effort between the Mellon College of Science(opens in new window), the Department of Statistics(opens in new window) within the Dietrich College of Humanities and Social Sciences(opens in new window), and the Pittsburgh Supercomputing Center(opens in new window) (PSC). The one-year program provides students with the skills they need to thrive in high-impact, data-driven environments.
 “The MS-DAS program was such a great fit, because of its focus on scientific applications coupled with a well-rounded curriculum that exposed us to the broad nature of data science, software engineering and statistics,” Cohen said.
 For Cohen, engaging with his field beyond the tech industry at Solidcore has created a unique and fulfilling opportunity. Every day, data is used to support the activities of organizations and professionals across industries. But the way in which it’s gathered, structured and presented, he said, can make the difference between success and failure.
 “It's really about the basics,” he said. “Data often comes in very raw, unclean and in a format that's less than suitable for analysis. I'm making the pipelines, the automation, the steps that make it more efficient for that analysis to happen,” he said.
@@ -61,13 +34,7 @@ A cohort and a community
 While professional environments present different challenges than academic ones, he said, his time at Carnegie Mellon in the Rales Fellows Program helped him understand the importance of camaraderie.
 Rales Fellows are provided housing and access to staff support during their time at CMU. “The fact that you're able to go to the Rales community space, even if it’s just poke your head in to ask a quick question, made an immeasurable difference. Everyone gets to know you and makes you feel welcomed in the community. I felt like it was a home away from home,” he said.
 Communicating with other fellows, he said, was another part of the program he appreciated. While fellows often pursue courses of study in different fields, living and working in the same space lets them share personal experiences and advice beyond individual areas of expertise.
-“It’s incredible, just because you feel that you're a part of something way bigger than yourself, and how much knowledge everybody has,” Cohen said. “I would look at other fellows from my year like
-Ola Owodunni
-(opens in new window)
-and
-Maxwell Jones
-(opens in new window)
-, people who are so talented in their fields. You hear them talk about their research and their curiosity, and you can bounce questions off of them to really initiate that curiosity and help each other out,” Cohen said.
+“It’s incredible, just because you feel that you're a part of something way bigger than yourself, and how much knowledge everybody has,” Cohen said. “I would look at other fellows from my year like Ola Owodunni(opens in new window) and Maxwell Jones(opens in new window), people who are so talented in their fields. You hear them talk about their research and their curiosity, and you can bounce questions off of them to really initiate that curiosity and help each other out,” Cohen said.
 An elevated experience
 Erick Cohen stands in the Tepper Building following his graduation from CMU in 2025.
 All of this, he said, gave him a comprehensive and secure experience in his education.
@@ -76,15 +43,11 @@ Cohen said he didn’t think it would be possible to ever pursue a master’s de
 “I had such a positive experience at CMU, which was only elevated because of Rales,” Cohen said. “I think the ability to interact with people that aren't just doing your master's program, but even students in undergrad, seeing and being surrounded by people who don’t just want to succeed, but they want to see you succeed — you're really transformed.”
 2026 Rales Fellows Program Candidacy Application
 The priority deadline for the Rales Candidacy Application is December 15, 2025. Applications received following the priority deadline will be reviewed on a rolling basis.
-Apply now
-(opens in new window)
+Apply now(opens in new window)
 — Related Content —
 Rales Fellows Program Empowers Alum to Tackle Mobility Challenges and Support Caregivers
 Carnegie Mellon University Welcomes Second Cohort of Rales Fellows
 Social Good Inspires Rales Fellows Studying Computer Science
-The Piper: Campus & Community News
-(opens in new window)
-Official Events Calendar
-(opens in new window)
-▴
-scroll to top
+The Piper: Campus & Community News  (opens in new window)
+Official Events Calendar  (opens in new window)
+▴ scroll to top

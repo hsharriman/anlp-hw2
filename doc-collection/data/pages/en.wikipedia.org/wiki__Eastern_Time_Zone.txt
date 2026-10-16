@@ -1,0 +1,158 @@
+URL: https://en.wikipedia.org/wiki/Eastern_Time_Zone
+
+Eastern Time Zone - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Time zone in North America
+This article is about the time zone in the Americas. For the time zone in Australia, see Australian Eastern Time.
+"New York Time" redirects here. For the newspaper, see The New York Times.
+Eastern Time Zone
+Time zone
+Eastern Time Zone
+UTC offset
+EST UTC−05:00
+EDT UTC−04:00
+Current time
+02:37, 14 October 2026 EST [refresh]
+03:37, 14 October 2026 EDT [refresh]
+Observance of DST
+DST is observed in parts of this time zone.
+The Eastern Time Zone (ET)[1] is a time zone encompassing part or all of 23 states in the eastern United States, parts of central and eastern Canada, some Caribbean islands and the state of Quintana Roo in Mexico. Most areas in the time zone observe daylight saving time and thus alternate between:
+Eastern Standard Time (EST), which is five hours behind Coordinated Universal Time (UTC−05:00) and observed during late autumn and winter, and
+Eastern Daylight Time (EDT), which is four hours behind Coordinated Universal Time (UTC−04:00) and observed during spring, summer, and early autumn.
+Areas in the Eastern Time Zone which do not observe daylight saving time use Eastern Standard Time, which is based on the 75th meridian west of Greenwich. Observation of daylight saving time starts on the second Sunday in March; at 2:00 a.m. EST, clocks are advanced to 3:00 a.m. EDT, creating a 23-hour day. On the first Sunday in November, at 2:00 a.m. EDT, clocks are moved back to 1:00 a.m. EST, which results in a 25-hour day.[2][3]
+The time in this zone is based on the mean solar time of the 75th meridian west of the Royal Observatory, Greenwich.
+History
+[edit]
+The boundaries of the Eastern Time Zone have moved westward since the Interstate Commerce Commission (ICC) took over time-zone management from railroads in 1938. The easternmost and northernmost counties in Kentucky were added to the zone in the 1940s, and in 1961, most of the state went Eastern. In 2000, Wayne County, on the Tennessee border, switched from Central to Eastern Time.[4] Within the United States, the Eastern Time Zone is the most populous region, with nearly half of the country's population.
+In March 2019, the Florida Legislature passed a bill requesting authorization from Congress for year-round daylight saving time, which would effectively put Florida on Eastern Daylight Time year-round (except for west of the Apalachicola River, which would be on Central Daylight Time year-round).[5] A similar bill was proposed for the Canadian province of Ontario by its legislative assembly in late 2020,[6] which passed though was placed on hold until Quebec and New York agreed to make the same change, which had not happened as of 2024.[7]
+On September 17, 2026, Manitoba premier Wab Kinew announced that Manitoba would be adopting permanent Central Daylight Time, effectively moving the province onto year-round Eastern Standard Time.[8]
+Daylight saving time
+[edit]
+For those in the United States, daylight saving time for the Eastern Time Zone was introduced by the Uniform Time Act of 1966, which specified that it would run from the last Sunday of April until the last Sunday in October.[9] The act was amended to make the first Sunday in April the beginning of daylight saving time beginning in 1987.[9] Later, the Energy Policy Act of 2005 extended daylight saving time in the United States, beginning in 2007.[9]
+Canada
+[edit]
+Main article: Time in Canada
+In Canada, the following provinces and territories are part of the Eastern Time Zone:[10]
+Manitoba[8]
+Ontario
+Quebec, excluding the Magdalen Islands and Le Golfe-du-Saint-Laurent Regional County Municipality
+Eastern regions of Nunavut
+All of these regions observe daylight saving time with the exception of Manitoba, western Ontario, and Southampton Island in Nunavut, which observe Central Daylight Time (equivalent to Eastern Standard Time) year-round.[10] It is officially called is officially called Manitoba Standard Time (MBT) in Manitoba.[11]
+Within Canada, as with the United States, the Eastern Time Zone is the most populous time zone. Most of Eastern Canada and Nunavut (with exceptions) observes daylight saving time synchronously with the United States, while the rest of the country does not.
+United States
+[edit]
+Main article: Time in the United States
+The boundary between time zones is set forth in Title 49 of the Code of Federal Regulations with the boundary between the Eastern and Central Time Zones being specifically detailed in Part 71.[12]
+Washington, D.C., and 17 states are located entirely within the Eastern Time Zone. They are:
+Connecticut
+Delaware
+Georgia
+Maine
+Maryland
+Massachusetts
+New Hampshire
+New Jersey
+New York
+North Carolina
+Ohio
+Pennsylvania
+Rhode Island
+South Carolina
+Vermont
+Virginia
+West Virginia
+Five states are divided between the Eastern Time Zone and the Central Time Zone. The following locations observe Eastern Time:
+Florida: The majority of the state, except the western half of the panhandle. The eastern half of the panhandle, including Big Bend regions east of the Apalachicola River and portions of Gulf County south of the Intracoastal Waterway observe Eastern Time.
+Indiana: The majority of the state, except Northwest Indiana and the Evansville metropolitan area.
+Kentucky: The eastern half of the state, including its three largest metropolitan areas: Louisville, Lexington, and Northern Kentucky.
+Michigan: The entire state except for the four Upper Peninsula counties that border Wisconsin: Gogebic, Iron, Dickinson, and Menominee.
+Tennessee: All of East Tennessee including the major cities of Chattanooga, Knoxville and the Tri-Cities region, with the exception of Bledsoe, Cumberland, and Marion counties.[13]
+Additionally, Phenix City, Alabama, and several nearby communities in Russell County, Alabama, unofficially observe Eastern Time.[14] This is due to their close proximity to Columbus, Georgia, which is on Eastern Time. In addition Smiths Station in Lee County along with Valley and Lanett in Chambers County observe Eastern Time.[15]
+Mexico
+[edit]
+Main article: Time in Mexico
+Quintana Roo is the only Mexican state to observe Eastern Standard Time, called Zona Sureste (lit. 'Southeast Zone') in Mexico, after successful lobbying effort by tourism interests to move from Central Time.[16] Quintana Roo does not observe daylight saving time.
+Caribbean islands
+[edit]
+The Bahamas and Haiti officially observe Eastern Time with daylight saving time. Cuba generally follows the U.S. with Eastern Standard Time in the winter, and Eastern Daylight Time in the summer, but the exact day of change varies year to year. The Cayman Islands, Jamaica, and Navassa Island use Eastern Standard Time year-round.
+The Turks and Caicos Islands followed Eastern Time with daylight saving until 2015, when the territory switched to the Atlantic Time Zone. The Turks and Caicos Islands switched back to the pre-2015 schedule in March 2018.[17] A 2017 consultation paper highlighted the advantage for business and tourism of being in the same time zone as the eastern United States as an important factor in the decision.[18]
+See also
+[edit]
+Central Time Zone
+Effects of time zones on North American broadcasting
+Mountain Time Zone
+Pacific Time Zone
+References
+[edit]
+↑ "Time Zone Abbreviations - Worldwide List". timeanddate.com. Retrieved July 29, 2025.
+↑ Law, Gwillim (September 21, 2007). "United States Time Zones".
+↑ "Daylight Saving Time Starts Sunday". Government of Ontario. March 7, 2008. Retrieved September 21, 2010.
+↑ "Why Louisville?". Louisville magazine. Archived from the original on July 20, 2018. Retrieved February 10, 2018.
+↑ Klas, Mary Ellen (March 6, 2018). "Legislature approves year-round daylight saving time—but it's not a done deal yet". Miami Herald. Retrieved March 30, 2018.
+↑ Patton, Jessica (October 7, 2020). "Ontario MPP puts forward bill to make Daylight Saving Time standard time". Global News. Retrieved October 9, 2020.
+↑ Dutt, Suzanna (November 2, 2024). "Daylight saving time ends in Ontario". INsauga. Retrieved October 17, 2025.
+1 2 "Manitoba Will Move to Permanent Daylight Saving Time". Province of Manitoba. Retrieved September 18, 2026.
+1 2 3 Prerau, David (2006). "Early adoption and U.S. Law". Daylight Saving Time. Web Exhibit. Retrieved April 23, 2007.
+1 2 "Time zones and daylight saving time". nrc.canada.ca. National Research Council Canada. October 25, 2022. Retrieved January 24, 2025.
+↑ Justice, Manitoba. "S.M. 2023, c. 4". web2.gov.mb.ca. King's Printer of Manitoba. Retrieved October 2, 2026.
+↑ The specification for the Eastern Time Zone is set forth at 49 C.F.R. § 71.4, and is listed in text Archived January 13, 2012, at the Wayback Machine and PDF Archived January 14, 2012, at the Wayback Machine formats. The boundary between Eastern and Central is set forth at 49 C.F.R. § 71.5, and is listed in text and PDF formats.
+↑ McDearman, Brian (August 13, 2006). "Parts of Eastern Alabama split between 2 time zones". Decatur Daily. AP. Archived from the original on March 10, 2016. Retrieved March 22, 2009.
+↑ Emily. "Our Community". Phenix City, Alabama. Retrieved January 10, 2022.
+↑ "Do you know which Alabama towns are in a different time zone?". February 6, 2017.
+↑ "On Mexican Time: Changing Time Zones To Accommodate Tourism". Forbes. Retrieved January 29, 2015.
+↑ "DST Dates Confirmed". Timeanddate.com. July 25, 2017. Retrieved January 10, 2019.
+↑ "Consultation paper Daylight Saving" (PDF). April 2017. pp. 6–7. Archived from the original (PDF) on January 10, 2019. Retrieved January 10, 2019.
+External links
+[edit]
+Official U.S. time, including for the Eastern Time Zone
+North American Time Zone border data and images
+World time zone map; Archived December 24, 2015, at the Wayback Machine
+U.S. time zone map; Archived February 15, 2009, at the Wayback Machine
+History of U.S. time zones and UTC conversion; Archived August 8, 2011, at the Wayback Machine
+Canada time zone map
+Federal Regulations defining time zones (archived May 28, 2010)
+v
+t
+e
+Time zones in North America
+Time zone Hours from UTC: Standard time Hours from UTC: Daylight saving time
+Hawaii–Aleutian (in Hawaii)  −10  −10
+Hawaii–Aleutian (parts of Alaska)  −10  −9
+Alaska (most of Alaska)  −9  −8
+Pacific (US and Mexico)  −8  −7
+British Columbia
+Yukon
+Mountain (Arizona, Sonora)
+−7  −7
+Mountain (other states/provinces)  −7  −6
+Alberta and Saskatchewan  −6  −6
+Central (other states/provinces)  −6  −5
+Eastern (all of Manitoba and parts of Nunavut, Ontario, and the Caribbean)  −5  −5
+Eastern (other states/provinces)  −5  −4
+Atlantic (Natashquan River)  −4  −4
+Atlantic (other provinces)  −4  −3
+Newfoundland  −3:30  −2:30
+Saint Pierre and Miquelon  −3  −2
+Most of Greenland  −2  −1
+See also
+Time in Canada
+Time in the Danish Realm
+Time in Mexico
+Time in the United States
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Eastern_Time_Zone&oldid=1380183905"
+Categories:
+Time in Canada
+Time in Mexico
+Time zones
+Time zones in the United States
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Use mdy dates from September 2026
+Webarchive template wayback links
+Articles containing Spanish-language text
+Search
+Search
+Eastern Time Zone
+48 languages   Add topic

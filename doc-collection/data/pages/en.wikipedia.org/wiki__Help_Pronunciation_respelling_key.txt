@@ -1,0 +1,458 @@
+URL: https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key
+
+Help:Pronunciation respelling key - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Wikipedia information page
+Wikipedia information page
+This is an information page.
+It is not a Wikipedia policy or guideline; rather, its purpose is to explain certain aspects of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus.
+Shortcuts
+H:RESPELLH:RESPELL
+H:PRKH:PRK
+This page contains phonetic transcriptions in the International Phonetic Alphabet (IPA). For an introductory guide on IPA symbols, see Help:IPA. For the distinction between [ ], / / and ⟨ ⟩, see IPA § Brackets and transcription delimiters.
+The following pronunciation respelling key is used in some Wikipedia articles to respell the pronunciations of English words. It does not use special symbols or diacritics apart from the schwa (ə), which is used for the first sound in the word "about". See documentation for {{Respell}} for examples and instructions on using the template.
+Key
+Both the IPA and respelling for English on Wikipedia are designed to record all distinctive sounds found in major varieties of English. That is, we record differences found in some varieties but not in others, such as those between "father" and "farther", "wine" and "whine", and "cot" and "caught". This does not mean these differences are, or must be, always distinguished; if you speak a dialect that does not distinguish "father" and "farther", for example, simply ignore the difference between FAH-dhər and FAR-dhər.
+For a more thorough discussion of the sounds and dialectal variation, see Help:IPA/English.
+Vowels
+Rspl.  Example(s)  IPA
+a [1]
+bat
+/æ/
+ah
+father
+/ɑː/
+air
+bear, Mary
+/ɛər/
+ar
+farther
+/ɑːr/
+arr
+marry
+/ær/
+aw
+bought
+/ɔː/
+ay
+bait
+/eɪ/
+e [1]
+bet
+/ɛ/
+eh [2]
+prestige
+ee
+beat
+/iː/
+happy, serious
+/i/
+eer
+beer, nearer
+/ɪər/
+err
+merry
+/ɛr/
+ew [3]
+cute, beauty, dew
+/juː/
+intuition, Lithuania
+/ju/
+eye [4]
+item, yikes
+/aɪ/
+y [4]
+bite, bide, sky
+i [1]
+bit
+/ɪ/
+ih [5]
+historic
+ire
+hire
+/aɪər/
+irr
+mirror
+/ɪr/
+o [1]
+bot
+/ɒ/
+oh
+boat
+/oʊ/
+oir
+coir
+/ɔɪər/
+oo
+boot, you
+/uː/
+influence, fruition
+/u/
+oor
+poor, tourist
+/ʊər/
+or
+horse, hoarse, pour, forum
+/ɔːr/
+orr
+moral
+/ɒr/
+our
+flour
+/aʊər/
+ow
+bout, vow
+/aʊ/
+oy
+choice, boy
+/ɔɪ/
+u [1]
+but
+/ʌ/
+uh [6]
+frustration
+ur
+bird, furry
+/ɜːr/
+ure [3]
+cure, neural
+/jʊər/
+urr
+hurry
+/ʌr/
+uu [1]
+book
+/ʊ/
+uurr
+courier
+/ʊr/
+ə
+about, comma
+/ə/
+ər
+letter
+/ər/
+Consonants
+Rspl.  Example(s)  IPA
+b
+buy
+/b/
+ch [7]
+church, nature
+/tʃ/
+tch [7]
+church, natural
+d
+dye, ladder
+/d/
+dh
+thy, this
+/ð/
+f
+fight
+/f/
+g
+go
+/ɡ/
+gh [8]
+guess, guitar
+h
+high
+/h/
+j
+jive
+/dʒ/
+k
+kite, sky, lock
+/k/
+kh
+loch, Chanukah
+/x/
+l
+lie, sly
+/l/
+m
+my
+/m/
+n
+nigh
+/n/
+ng
+ring, singer
+/ŋ/
+nk [9]
+sink
+/ŋk/
+p
+pie, spy
+/p/
+r
+rye, try
+/r/
+s
+sigh
+/s/
+ss [10]
+ice, tense
+sh
+shy
+/ʃ/
+t
+tie, sty, latter
+/t/
+th
+thigh
+/θ/
+v
+vine
+/v/
+w
+wine
+/w/
+wh
+whine
+/hw/
+y
+you
+/j/
+z
+zoo
+/z/
+zh
+pleasure
+/ʒ/
+Syllables and stress
+Respelled syllables are visually separated by hyphens ("-"), and the stress on a syllable is indicated by capital letters.
+For example, the word "pronunciation" (/prəˌnʌnsiˈeɪʃən/) is respelled prə-NUN-see-AY-shən. In this example, the primary and secondary stress are not distinguished because the difference is automatic.
+In both IPA and respelling, a word should not have secondary stress following primary stress (contrary to some, particularly North American, sources).
+When to use and when not to
+Shortcut
+WP:RESPELLNOTWP:RESPELLNOT
+As designated in Wikipedia:Manual of Style/Pronunciation, the standard set of symbols used to show the pronunciation of English words on Wikipedia is the International Phonetic Alphabet (IPA). The IPA has significant advantages over this respelling system, as it can be used to accurately represent pronunciations from any language in the world, and (being an international standard) is often more familiar to those outside North America and non-native speakers of English. On the other hand, the IPA (being designed to represent sounds from any language in the world) is not as intuitive for those chiefly familiar with English orthography, for whom this respelling system is likely to be easier for English words and names. So, while the IPA is the required form of representing pronunciation, respelling remains optional. It should not be used for representing non-English words or an approximation thereof.
+Sometimes another means of indicating a pronunciation is more desirable than this respelling system, such as when a name is intended to be a homonym of an existing English word or phrase, or in case of an initialism or a name composed of numbers or symbols. When citing a homonym, it should not be enclosed in the {{respell}} template. In such cases, an IPA notation is usually nevertheless needed, but not necessarily so; see Wikipedia:Manual of Style/Pronunciation § Other transcription systems for further discussion.
+Respelling should also be avoided when a respelled syllable would be the same as an existing word that is pronounced differently. For example, "Maui" /ˈmaʊi/ respelled as MOW-ee, "metonymy" /mɛˈtɒnɪmi/ as meh-TON-im-ee, and "cobalt" /ˈkoʊbɒlt/ as KOH-bolt are susceptible to being misinterpreted as /ˈmoʊi/, /mɛˈtʌnɪmi/, and /ˈkoʊboʊlt/, because of the words "mow", "ton", and "bolt", so only IPA should be provided for such words.
+Particularly, respelling /aʊ/ could prove problematic as there are a variety of monosyllabic words spelled with "ow" and pronounced with /oʊ/: blow, blown, bow, bowl, flow, flown, glow, grow, grown, growth, low, mow, mown, own, row, show, slow, snow, sow, sown, stow, strow, throw, tow, and trow. There is no universal solution to this problem ("ou" also varies as in loud, soup, soul, and touch), so respelling a word including /aʊ/ may be best avoided altogether; however, sometimes the benefit of respelling may outweigh the disadvantage, especially for longer words, so exercise discretion.
+See also
+Help:IPA/Conventions for English
+Help:IPA/English
+{{Respell}}: the template and instructions for adding pronunciation respelling
+Pronunciation respelling for English
+Wikipedia:Manual of Style/Pronunciation
+Notes
+1 2 3 4 5 6 /æ, ɛ, ɪ, ɒ, ʌ, ʊ/ (a, e(h), i(h), o, u(h), uu) are checked vowels, meaning never occurring at the end of a word or before a vowel. When a checked vowel is followed by a consonant and a stressed vowel, which is rare nonetheless, it is acceptable in some cases to attribute the following consonant to the same syllable as the checked vowel, as in bal-AY, even though in IPA it is customary to attribute it to the following syllable, as in /bæˈleɪ/. However, when the following consonant is a voiceless plosive (/p, t, k/) pronounced with aspiration (a slight delay in the voicing of the following vowel), it must be attributed to the same syllable as the following vowel, as in ta-TOO, because tat-OO may result in a different pronunciation than intended (compare "whatever" whot-EV-ər, whut-, wherein /t/ is not aspirated and may be glottalized or flapped). Similarly, when a vowel is followed by /s/, one or more consonants, and a stressed vowel, the syllabification must be retained, as in fruh-STRAY-shən, because frus-TRAY-shən may result in a different pronunciation than intended.
+↑ /ɛ/ in syllable-final positions may be respelled eh instead of e when otherwise it may be misinterpreted as another sound such as /i(ː)/ or /eɪ/.
+1 2 ew and ure are for when /ju(ː)/ or /jʊər/ takes place right after a consonant within the same syllable. When /ju(ː)/ or /jʊər/ begins a syllable (e.g. "youth", "Europe", "value"), use yoo(r), unless it is subject to yod-dropping or yod-coalescence: "Lithuania" LITH-ew-AY-nee-ə.
+1 2 /aɪ/ is respelled eye when it begins a syllable or is preceded by /j/ and otherwise y. When y is placed between consonants within the same syllable, place an e at the end of the syllable as necessary: "tight" TYTE.
+↑ /ɪ/ in syllable-final positions may be respelled ih instead of i when otherwise it may be misinterpreted as another sound such as /aɪ/.
+↑ /ʌ/ in syllable-final positions is respelled uh instead of u to better distinguish it from /u(ː), ʊ/.
+1 2 /tʃ/ after a vowel in the same syllable is respelled tch instead of ch to better distinguish it from /k, x/.
+↑ /ɡ/ may be respelled gh instead of g when otherwise it may be misinterpreted as /dʒ/.
+↑ /ŋk/ is respelled nk rather than ngk, since the assimilation is mandatory, except beyond a syllable boundary: "tinker" TING-kər.
+↑ /s/ may be respelled ss instead of s when otherwise it may be misinterpreted as /z/: "ice" EYESS, "tense" TENSS (compare eyes, tens).
+v
+t
+e
+International Phonetic Alphabet keys
+Abkhaz
+Acehnese
+Adyghe
+Afrikaans
+Albanian
+Altai
+Amharic
+Arabic
+Modern Standard
+Egyptian
+Hejazi
+Lebanese
+Tunisian
+Armenian
+Assamese
+Asturian
+Australian languages
+Aymara
+Azerbaijani
+Bashkir
+Basque
+Belarusian
+Bengali
+Berber
+Bislama
+Bosnian
+Breton
+Bulgarian
+Burmese
+Catalan
+Standard
+Insular
+Chamorro
+Chinese
+Mandarin
+Cantonese
+Hokkien
+Jin
+Wu
+Xiang
+Corsican
+Croatian
+Czech
+Danish
+Dari
+Dutch
+Dzongkha
+English
+Old English
+Emilian-Romagnol
+Esperanto
+Estonian
+Extremaduran
+Fijian
+Finnish
+Franco-Provençal
+French
+Galician
+Georgian
+German
+Standard
+Alemannic
+Colognian
+Greek
+Greenlandic
+Gujarati
+Guadeloupean Creole
+Haitian Creole
+Hawaiian
+Hebrew
+Hindi
+Hmong
+Hungarian
+Icelandic
+Igbo
+Indonesian
+Inuktitut
+Inupiaq
+Irish
+Isan
+Italian
+Central
+Japanese
+Kannada
+Kazakh
+Khmer
+Korean
+Kurdish
+Kyrgyz
+Lakota
+Lao
+Latin
+Latvian
+Laz
+Ligurian
+Lithuanian
+Lombard
+Luxembourgish
+Macedonian
+Maithili
+Malagasy
+Malay
+Malayalam
+Maldivian
+Maltese
+Manx
+Māori
+Marathi
+Marshallese
+Mauritian Creole
+Mayan
+Mongolian
+Montenegrin
+Mirandese
+Nahuatl
+Navajo
+Neapolitan
+Nepali
+Northern Thai
+Norwegian
+Occitan
+Odia
+Okinawan
+Old Church Slavonic
+Ossetian
+Pashto
+Persian
+Piedmontese
+Polish
+Portuguese
+Punjabi
+Quechua
+Romanian
+Romansh
+Russian
+Samoan
+Sanskrit
+Sardinian
+Scottish Gaelic
+Serbo-Croatian
+Shan
+Sicilian
+Sinhala
+Slovak
+Slovene
+Somali
+Sorbian
+Spanish
+Swahili
+Swazi
+Swedish
+Sylheti
+Tagalog
+Tahitian
+Tai Lue
+Tajik
+Tamil
+Tatar
+Telugu
+Thai
+Tibetan
+Tigrinya
+Tok Pisin
+Tongan
+Turkish
+Turkmen
+Tuvaluan
+Tuvan
+Ukrainian
+Urdu
+Uzbek
+Uyghur
+Venetian
+Vietnamese
+Walloon
+Welsh
+West Frisian
+Xhosa
+Yiddish
+Yoruba
+Zhuang
+Zulu
+Comparisons
+IPA conventions for English
+English dialects
+Wikipedia pronunciation respelling
+Other English pronunciation respellings
+Introductory guides
+Symbols
+For English speakers
+Manual of Style: Pronunciation
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Help:Pronunciation_respelling_key&oldid=1371631330"
+Categories:
+Wikipedia information pages
+Wikipedia pronunciation
+Hidden categories:
+Wikipedia semi-protected project pages
+Pages with plain IPA
+Search
+Search
+Help:Pronunciation respelling key
+14 languages   Add topic

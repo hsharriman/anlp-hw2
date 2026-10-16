@@ -1,0 +1,1617 @@
+URL: https://en.wikipedia.org/wiki/Whiskey_Rebellion
+
+Whiskey Rebellion - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Tax revolt in the United States from 1791 to 1794
+Not to be confused with Whisky War.
+Whiskey Rebellion
+George Washington reviews the troops near Fort Cumberland, Maryland, before their march to suppress the Whiskey Rebellion in western Pennsylvania.
+Date 1791–1794
+Location
+Primarily Western Pennsylvania
+Result  Government victory
+Belligerents
+United States government  Frontier tax protesters
+Commanders and leaders
+George Washington
+Alexander Hamilton
+Henry Lee III
+Thomas Sim Lee  James McFarlane †
+Units involved
+Regular army
+State militia from:
+Virginia
+Maryland
+New Jersey
+Pennsylvania
+Rebels
+Strength
+13,000 Virginia, Maryland, New Jersey and Pennsylvania militia
+10 regular army troops  600 Pennsylvania rebels
+Casualties and losses
+None; about 12 died from illness or in accidents[1]  3–4 killed
+150 captured
+2 civilian casualties
+v
+t
+e
+Whiskey Rebellion
+Johnson Incident
+Battle of Bower Hill
+Pittsburgh Expedition
+Western Pennsylvania Expedition
+Hagerstown Riot
+The Whiskey Rebellion (also known as the Whiskey Insurrection) was a violent tax protest in the United States beginning in 1791 and ending in 1794 during the presidency of George Washington. The so-called "whiskey tax" was the first tax imposed on a domestic product by the newly formed federal government. The "whiskey tax" became law in 1791, and was intended to generate revenue to pay the war debt incurred during the American Revolutionary War. Farmers of the western frontier were accustomed to distilling their surplus rye, barley, wheat, corn, or fermented grain mixtures to make whiskey. These farmers resisted the tax.
+Throughout western Pennsylvania counties, protesters used violence and intimidation to prevent federal officials from collecting the tax. Resistance came to a climax in July 1794, when a US marshal arrived in western Pennsylvania to serve writs to distillers who had not paid the excise. The alarm was raised, and more than 500 armed men attacked the fortified home of tax inspector John Neville. Washington responded by sending peace commissioners to western Pennsylvania to negotiate with the rebels, while at the same time calling on governors to send a militia force to enforce the tax. Washington himself rode at the head of an army to suppress the insurgency, with 13,000 militiamen provided by the governors of Virginia, Maryland, New Jersey, and Pennsylvania. The leaders of the rebels all fled before the arrival of the army, and there was no confrontation. About 150 men were arrested, but only 20 held for trial in Philadelphia, and only two were convicted (eventually pardoned).
+The Whiskey Rebellion demonstrated that the new national government had the will and ability to suppress violent resistance to its laws, though the whiskey excise remained difficult to collect. The events contributed to the formation of political parties in the United States, a process already under way. The whiskey tax was repealed in 1802 during the Jefferson administration.
+Whiskey tax
+Alexander Hamilton in a 1792 portrait by John Trumbull
+A new U.S. federal government began operating in 1789, following the ratification of the United States Constitution. The previous central government under the Articles of Confederation had been unable to levy taxes; it had borrowed money to meet expenses and fund the Revolutionary War, accumulating $54 million in debt. The state governments had amassed an additional $25 million in debt.[2] Secretary of the Treasury Alexander Hamilton sought to use this debt to create a financial system that would promote American prosperity and national unity. In his Report on Public Credit, he urged Congress to consolidate the state and national debts into a single debt that would be funded by the federal government. Congress approved these measures in June and July 1790.[3]
+A source of government revenue was needed to pay the respectable amount due to the previous bondholders to whom the debt was owed. By December 1790, Hamilton believed that import duties, which were the government's primary source of revenue, had been raised as high as feasible.[4] He therefore promoted passage of an excise tax on domestically produced distilled spirits. This was to be the first tax levied by the national government on a domestic product.[5] The transportation costs per gallon were higher for farmers removed from eastern urban centers, so the per-gallon profit was reduced disproportionately by the per-gallon tax on distillation of domestic alcohol such as whiskey. The tax applied to all distilled spirits, but consumption of American whiskey was rapidly expanding in the late 18th century, so the excise became widely known as a "whiskey tax".[6] Taxes were politically unpopular, and Hamilton believed that the whiskey excise was a luxury tax and would be the least objectionable tax that the government could levy.[7] In this, he had the support of some social reformers, who hoped that a "sin tax" would raise public awareness about the harmful effects of alcohol.[8] The Whiskey Excise Act sometimes known as the "Whiskey Act", became law in March 1791.[9][10] George Washington defined the revenue districts, appointed the revenue supervisors and inspectors, and set their pay in November 1791.[11]
+Western grievances
+Artist's conception of an American whiskey still in the 1790s, as illustrated in an 1887 history book (Scribner's Popular History of the United States).
+The population of Western Pennsylvania was 75,000 in 1790.[12] Among the farmers in the region, the whiskey excise was immediately controversial, with many people on the frontier arguing that it unfairly targeted westerners.[13] Whiskey was a popular drink, and farmers often supplemented their incomes by operating small stills.[14] Farmers living west of the Appalachian Mountains distilled their excess grain into whiskey, which was easier and more profitable to transport over the mountains than the more cumbersome grain. A whiskey tax would make western farmers less competitive with eastern grain producers.[15] Additionally, cash, which at this time consisted of specie (gold and silver coins), was always in short supply on the frontier, nevertheless the law explicitly stipulated the tax could only be paid in specie. In lieu of specie, whiskey often served as a medium of exchange, which for poorer people who were paid in whiskey meant the excise was essentially an income tax that wealthier easterners did not have to pay.[16] Many of the resisters were war veterans who believed that they were fighting for the principles of the American Revolution, in particular against taxation without local representation, while the federal government maintained that the taxes were the legal expression of Congressional taxation powers.
+Small-scale farmers also protested that Hamilton's excise effectively gave unfair tax breaks to large distillers, most of whom were based in the east. There were two methods of paying the whiskey excise: paying a flat fee (per still) or paying by the gallon. Large distilleries produced whiskey in volume and could afford the flat fee. The more efficient they became, the less tax per gallon they would pay (as low as 6 cents, according to Hamilton). Western farmers who owned small stills did not typically have either enough time nor enough surplus grain to operate them year-round at full capacity, so they ended up paying a higher tax per gallon (9 cents), which made them less competitive.[17] The regressive nature of the tax was further compounded by an additional factor: whiskey sold for considerably less on the cash-poor Western frontier than in the wealthier and more populous East. This meant that, even if all distillers had been required to pay the same amount of tax per gallon, the small-scale frontier distillers would still have to remit a considerably larger proportion of their product's value than larger Eastern distillers. Less-educated farmers, who in this era were often illiterate, also feared they would be cheated by corrupt tax collectors. Small-scale distillers believed that Hamilton deliberately designed the tax to ruin them and promote big business, a view endorsed by some historians.[18] However, historian Thomas Slaughter argued that a "conspiracy of this sort is difficult to document".[19] Whether by design or not, large distillers recognized the advantage that the excise gave them and they supported it.[20]
+Other aspects of the excise law also caused concern. The law required all stills to be registered, and those cited for failure to pay the tax had to appear in distant federal courts, rather than local courts. The only federal courthouse was in Philadelphia, some 300 miles (480 km) away from the small frontier settlement of Pittsburgh. From the beginning, the federal government had little success in collecting the whiskey tax along the frontier. Many small western distillers simply refused to pay the tax. Federal revenue officers and local residents who assisted them bore the brunt of the protesters' ire. Tax rebels harassed several whiskey tax collectors and threatened or beat those who offered them office space or housing. As a result, many western counties never had a resident federal tax official.[21]
+Pittsburgh in 1790, engraving from a watercolor by Lewis Brantz (University of Pittsburgh Archives & Special Collections)
+In addition to the whiskey tax, westerners had a number of other grievances with the national government, chief among which was the perception that the government was not adequately protecting the residents living in the western frontier.[21] The Northwest Indian War was going badly for the United States, with major losses in 1791. Furthermore, westerners were prohibited by Spain (which then owned Louisiana) from using the Mississippi River for commercial navigation. Until these issues were addressed, westerners felt that the government was ignoring their security and economic welfare. Adding the whiskey excise to these existing grievances only increased tensions on the frontier.[22]
+Resistance
+Many residents of the western frontier petitioned against passage of the whiskey excise. When that failed, some western Pennsylvanians organized extralegal conventions to advocate repeal of the law.[23] Opposition to the tax was particularly prevalent in four southwestern counties: Allegheny, Fayette, Washington, and Westmoreland.[24] A preliminary meeting held on July 27, 1791, at Redstone Old Fort in Fayette County called for the selection of delegates to a more formal assembly, which convened in Pittsburgh in early September 1791. The Pittsburgh convention was dominated by moderates such as Hugh Henry Brackenridge, who hoped to prevent the outbreak of violence.[25] The convention sent a petition for redress of grievances to the Pennsylvania Assembly and the U.S. House of Representatives, both located in Philadelphia.[26] As a result of this and other petitions, the excise law was modified in May 1792. Changes included a 1-cent reduction in the tax that was advocated by William Findley, a congressman from western Pennsylvania, but the new excise law was still unsatisfactory to many westerners.[27]
+"Famous Whiskey Insurrection in Pennsylvania", an 1880 artist's impression of a crowd forcing a tarred and feathered tax collector to "ride the rail".
+Appeals to nonviolent resistance were unsuccessful. On September 6, 1791, a recently appointed tax collector named Robert Johnson was tarred and feathered by a disguised gang in Washington County.[28] A man sent by officials to serve court warrants to Johnson's attackers was whipped, tarred, and feathered.[29] Because of these and other violent attacks, the tax went uncollected in 1791 and early 1792.[30] The attackers modeled their actions on the protests of the American Revolution. Supporters of the excise argued that there was a difference between taxation without representation in colonial America, and a tax laid by the elected representatives of the American people.[31]
+Older accounts of the Whiskey Rebellion portrayed it as being confined to western Pennsylvania, yet there was opposition to the whiskey tax in the western counties of every other state in Appalachia (Maryland, Virginia, North Carolina, South Carolina, and Georgia).[32] The whiskey tax went uncollected throughout the frontier state of Kentucky, where no one could be convinced to enforce the law or prosecute evaders.[33][34] In 1792, Hamilton advocated military action to suppress violent resistance in western North Carolina, but Attorney General Edmund Randolph argued that there was insufficient evidence to legally justify such a reaction.[35]
+In August 1792, a second convention was held in Pittsburgh to discuss resistance to the whiskey tax. This meeting was more radical than the first convention; moderates such as Brackenridge and Findley were not in attendance. Future Secretary of the Treasury Albert Gallatin was one moderate who did attend, to his later regret.[36] A militant group known as the Mingo Creek Association dominated the convention and issued radical demands. As some of them had done in the American Revolution, they raised liberty poles, formed committees of correspondence, and took control of the local militia. They created an extralegal court and discouraged lawsuits for debt collection and foreclosures.[37]
+Hamilton regarded the second Pittsburgh convention as a serious threat to the operation of the laws of the federal government. In September 1792, he sent Pennsylvania tax official George Clymer to western Pennsylvania to investigate. Clymer only increased tensions with a clumsy attempt at traveling in disguise and attempting to intimidate local officials. His somewhat exaggerated report greatly influenced the decisions made by the Washington administration.[38] Washington and Hamilton viewed resistance to federal laws in Pennsylvania as particularly embarrassing, since the national capital was then located in the same state. On his own initiative, Hamilton drafted a presidential proclamation denouncing resistance to the excise laws and submitted it to Attorney General Randolph, who toned down some of the language. Washington signed the proclamation on September 15, 1792, and it was published as a broadsheet and printed in many newspapers.[39]
+Federal tax inspector for western Pennsylvania General John Neville was determined to enforce the excise law.[40] He was a prominent politician and wealthy planter—and also a large-scale distiller. He had initially opposed the whiskey tax, but subsequently changed his mind, a reversal that angered some western Pennsylvanians.[41] In August 1792, Neville rented a room in Pittsburgh for his tax office, but the landlord turned him out after being threatened with violence by the Mingo Creek Association.[42] From this point on, tax collectors were not the only people targeted in Pennsylvania; those who cooperated with federal tax officials also faced harassment. Anonymous notes and newspaper articles signed by "Tom the Tinker" threatened those who complied with the whiskey tax.[43] Those who failed to heed the warnings might have their barns burned or their stills destroyed.[44]
+Resistance to the excise tax continued through 1793 in the frontier counties of Appalachia. Opposition remained especially strident in western Pennsylvania.[45] In June, Neville was burned in effigy by a crowd of about 100 people in Washington County.[46] On the night of November 22, 1793, men broke into the home of tax collector Benjamin Wells in Fayette County. Wells was, like Neville, one of the wealthier men in the region.[47] At gunpoint, the intruders forced him to surrender his commission.[45] President Washington offered a reward for the arrest of the assailants, to no avail.[48]
+In addition to the unrest in Fayette county, on August 9, 1794, 30 men surrounded the house of William McCleery, the local tax collector in Morgantown, Virginia, as retaliation for the new whiskey taxes. McCleery felt threatened enough by the angry mob to disguise himself as a slave, flee from his home and swim across the river to safety. The subsequent three-day siege of Morgantown by outsiders and townspeople led state authorities to fear that the events would influence other frontier counties to join the anti-tax movement.[49]
+Insurrection
+Portrait of Congressman William Findley in 1805, by Rembrandt Peale. Findlay accused Alexander Hamilton of provoking the Whiskey Rebellion while Congress was already enacting tax reform.
+The resistance came to a climax in 1794. In May of that year, federal district attorney William Rawle issued subpoenas for more than 60 distillers in Pennsylvania who had not paid the excise tax.[50] Under the law then in effect, distillers who received these writs would be obligated to travel to Philadelphia to appear in federal court. For farmers on the western frontier, such a journey was expensive, time-consuming, and beyond their means.[51] At the urging of William Findley, Congress modified this law on June 5, 1794, allowing excise trials to be held in local state courts.[52] But by that time, U.S. marshal David Lenox had already been sent to serve the writs summoning delinquent distillers to Philadelphia. Attorney General William Bradford later maintained that the writs were meant to compel compliance with the law, and that the government did not actually intend to hold trials in Philadelphia.[53]
+The timing of these events later proved to be controversial. Findley was a bitter political foe of Hamilton, and he maintained in his book on the insurrection that the treasury secretary had deliberately provoked the uprising by issuing the subpoenas just before the law was made less onerous.[54] In 1963, historian Jacob Cooke, an editor of Hamilton's papers, regarded this charge as "preposterous", calling it a "conspiracy thesis" that overstated Hamilton's control of the federal government.[55] In 1986, historian Thomas Slaughter argued that the outbreak of the insurrection at this moment was due to "a string of ironic coincidences", although "the question about motives must always remain".[56] In 2006, William Hogeland, who is generally critical of Hamilton's role in American history, argued that Hamilton, Bradford, and Rawle intentionally pursued a course of action that would provoke "the kind of violence that would justify federal military suppression".[57] Hogeland claimed that Hamilton had been working towards this moment since the Newburgh Crisis in 1783, where he conceived of using military force to crush popular resistance to direct taxation in the same vein as the Whiskey Rebellion.[58] Historian S. E. Morison believed that Hamilton, in general, wished to enforce the excise law "more as a measure of social discipline than as a source of revenue".[59]
+Battle of Bower Hill
+Federal Marshal Lenox delivered most of the writs without incident. On July 15, he was joined on his rounds by General Neville, who had offered to act as his guide in Allegheny County.[60] That evening, warning shots were fired at the men at the Miller farm, about 10 mi (16 km) south of Pittsburgh. Neville returned home while Lenox retreated to Pittsburgh.[61]
+On July 16, at least 30 Mingo Creek militiamen surrounded Neville's fortified home of Bower Hill.[62] They demanded the surrender of the federal marshal, whom they believed to be inside. Neville responded by firing a gunshot that mortally wounded Oliver Miller, one of the rebels.[63] The rebels opened fire but were unable to dislodge Neville, who had his slaves' help to defend the house.[64] The rebels retreated to nearby Couch's Fort to gather reinforcements.[65]
+The next day, the rebels returned to Bower Hill. Their force had swelled to nearly 600 men, now commanded by Major James McFarlane, a veteran of the Revolutionary War.[66] Neville had also received reinforcements: 10 U.S. Army soldiers from Pittsburgh under the command of Major Abraham Kirkpatrick, Neville's brother-in-law.[67] Before the rebel force arrived, Kirkpatrick had Neville leave the house and hide in a nearby ravine. David Lenox and General Neville's son Presley Neville also returned to the area, though they could not get into the house and were captured by the rebels.[68]
+Following some fruitless negotiations, the women and children were allowed to leave the house, and then both sides began firing. After about an hour, McFarlane called a ceasefire; according to some, a white flag had been waved in the house. As McFarlane stepped into the open, a shot rang out from the house, and he fell mortally wounded. The enraged rebels then set fire to the house, including the slave quarters, and Kirkpatrick surrendered.[69] The number of casualties at Bower Hill is unclear; McFarlane and one or two other militiamen were killed; one U.S. soldier may have died from wounds received in the fight.[70] The rebels sent the U.S. soldiers away. Kirkpatrick, Lenox, and Presley Neville were kept as prisoners, but they later escaped.[71]
+March on Pittsburgh
+Portrait of Hugh Henry Brackenridge, a western opponent of the whiskey tax who tried to prevent violent resistance
+McFarlane was given a hero's funeral on July 18. His "murder", as the rebels saw it, further radicalized the countryside.[72] Moderates such as Brackenridge were hard-pressed to restrain the populace. Radical leaders emerged, such as David Bradford, urging violent resistance. On July 26, a group headed by Bradford robbed the U.S. mail as it left Pittsburgh, hoping to discover who in that town opposed them and finding several letters that condemned the rebels. Bradford and his band called for a military assembly to meet at Braddock's Field, about 8 mi (13 km) east of Pittsburgh.[73]
+On August 1, about 7,000 people gathered at Braddock's Field.[74] The crowd consisted primarily of poor people who owned no land, and most did not own whiskey stills. The furor over the whiskey excise had unleashed anger about other economic grievances. By this time, the victims of violence were often wealthy property owners who had no connection to the whiskey tax.[75] Some of the most radical protesters wanted to march on Pittsburgh, which they called "Sodom", loot the homes of the wealthy, and then burn the town to the ground.[76] Others wanted to attack Fort Fayette. There was praise for the French Revolution and calls for bringing the guillotine to America. David Bradford, it was said, was comparing himself to Robespierre, a leader of the French Reign of Terror.[77]
+At Braddock's Field, there was talk of declaring independence from the United States and of joining with Spain or Great Britain. Radicals flew a specially designed flag that proclaimed their independence. The flag had six stripes, one for each county represented at the gathering: the Pennsylvania counties of Allegheny, Bedford, Fayette, Washington, and Westmoreland, and Virginia's Ohio County.[78]
+Pittsburgh citizens helped to defuse the threat by banishing three men whose intercepted letters had given offense to the rebels, and by sending a delegation to Braddock's Field that expressed support for the gathering.[79] Brackenridge prevailed upon the crowd to limit the protest to a defiant march through the town. In Pittsburgh, Major Kirkpatrick's barns were burned, but nothing else.[80]
+Meeting at Whiskey Point
+Whiskey Point
+Interactive map of Whiskey Point
+40°12′01″N 79°55′21″W﻿ / ﻿40.2002°N 79.9226°W﻿ / 40.2002; -79.9226
+Location Main Street between First Street & Park Avenue
+Monongahela
+A convention was held on August 14, with 226 whiskey rebels from the six counties, at Parkinson's Ferry (now known as Whiskey Point) in present-day Monongahela. The convention considered resolutions that were drafted by Brackenridge, Gallatin, David Bradford, and an eccentric preacher named Herman Husband, a delegate from Bedford County. Husband was a well-known local figure and a radical champion of democracy who had taken part in the Regulator movement in North Carolina 25 years earlier.[81] The Parkinson's Ferry convention also appointed a committee to meet with the peace commissioners who had been sent west by President Washington.[82] There, Gallatin presented an eloquent speech in favor of peace and against proposals from Bradford to further revolt.[83]
+Federal response
+President Washington was confronted with what appeared to be an armed insurrection in western Pennsylvania, and he proceeded cautiously while determined to maintain governmental authority. He did not want to alienate public opinion, so he asked his cabinet for written opinions about how to deal with the crisis. The cabinet recommended the use of force, except for Secretary of State Edmund Randolph who urged reconciliation.[84] Washington did both: he sent commissioners to meet with the rebels while raising a militia army. Washington privately doubted that the commissioners could accomplish anything, and believed that a military expedition would be needed to suppress further violence.[85] For this reason, historians have sometimes charged that the peace commission was sent only for the sake of appearances, and that the use of force was never in doubt.[86] Historians Stanley Elkins and Eric McKitrick argued that the military expedition was "itself a part of the reconciliation process", since a show of overwhelming force would make further violence less likely.[87]
+Meanwhile, Hamilton began publishing essays under the name of "Tully" in Philadelphia newspapers, denouncing mob violence in western Pennsylvania and advocating military action. Democratic-Republican Societies had been formed throughout the country, and Washington and Hamilton believed that they were the source of civic unrest. "Historians are not yet agreed on the exact role of the societies" in the Whiskey Rebellion, wrote historian Mark Spencer in 2003, "but there was a degree of overlap between society membership and the Whiskey Rebels".[88]
+Before troops could be raised, the Militia Act of 1792 required a justice of the United States Supreme Court to certify that law enforcement was beyond the control of local authorities. On August 4, 1794, Justice James Wilson delivered his opinion that western Pennsylvania was in a state of rebellion.[89] On August 7, Washington issued a presidential proclamation announcing, with "the deepest regret", that the militia would be called out to suppress the rebellion. He commanded insurgents in western Pennsylvania to disperse by September 1.[90]
+Negotiations
+In early August 1794, Washington dispatched three commissioners to the west, all of them Pennsylvanians: Attorney General William Bradford, Justice Jasper Yeates of the Pennsylvania Supreme Court, and Senator James Ross. Beginning on August 21, the commissioners met with a committee of westerners that included Brackenridge and Gallatin. The government commissioners told the committee that it must unanimously agree to renounce violence and submit to U.S. laws and that a popular referendum must be held to determine if the local people supported the decision. Those who agreed to these terms would be given amnesty from further prosecution.[91]
+The committee was divided between radicals and moderates, and narrowly passed a resolution agreeing to submit to the government's terms. The popular referendum was held on September 11 and also produced mixed results. Some townships overwhelmingly supported submitting to U.S. law, but opposition to the government remained strong in areas where poor and landless people predominated.[92] On September 24, 1794, Washington received a recommendation from the commissioners that in their judgment, "(it was) ... necessary that the civil authority should be aided by a military force in order to secure a due execution of the laws..."[93] On September 25, Washington issued a proclamation summoning the New Jersey, Pennsylvania, Maryland and Virginia militias into service and warned that anyone who aided the insurgents did so at their own peril.[93][94] The trend was towards submission, however, and westerners dispatched representatives William Findley and David Redick to meet with Washington and to halt the progress of the oncoming army. Washington and Hamilton declined, arguing that violence was likely to re-emerge if the army turned back.[92]
+Militia expedition
+Under the authority of the recently passed federal militia law, the state militias were called up by the governors of New Jersey, Maryland, Virginia, and Pennsylvania. The federalized militia force of 12,950 men was a large army by American standards of the time, comparable to Washington's armies during the Revolution.[95] Relatively few men volunteered for militia service, so a draft was used to fill out the ranks. Draft evasion was widespread, and conscription efforts resulted in protests and riots, even in eastern areas. Three counties in eastern Virginia were the scenes of armed draft resistance. In Maryland, Governor Thomas Sim Lee sent 800 men to quash an anti-draft riot in Hagerstown; about 150 people were arrested.[96]
+Photo of Albert Gallatin, who spoke publicly to rebel groups about the need for moderation
+Liberty poles were raised in various places as the militia was recruited, worrying federal officials. A liberty pole was raised in Carlisle, Pennsylvania on September 11, 1794.[97] The federalized militia arrived in that town later that month and rounded up suspected pole-raisers. Two civilians were killed in these operations. On September 29, an unarmed boy was shot by an officer whose pistol accidentally fired. Two days later, an "Itinerant Person" was "Bayoneted" to death by a soldier while resisting arrest (the man had tried to wrest the rifle from the soldier he confronted; it is possible he had been a member of a 500-strong Irish work crew nearby who were "digging, a canal into the Sculkill"  [sic]; at least one of that work gang's members protested the killing so vigorously that he was "put under guard").[98] President Washington ordered the arrest of the two soldiers and had them turned over to civilian authorities. A state judge determined that the deaths had been accidental, and the soldiers were released.[99]
+Washington left Philadelphia (which at that time was the capital of the United States) on September 30 to review the progress of the military expedition.[93] According to historian Joseph Ellis, this was "the first and only time a sitting American president led troops in the field".[100]
+Along the way he traveled to Reading, Pennsylvania on his way to meet up with the rest of the militia he ordered mobilized at Carlisle.[93] On the second of October, Washington left Reading, Pennsylvania heading west to Womelsdorf in order to "view the (Schuylkill and Susquehanna Navigation Company) canal...".[93] Revolutionary war and Siege of Yorktown veteran, Colonel Jonathan Forman (1755–1809) led the Third Infantry Regiment of New Jersey troops against the Whiskey Rebellion and wrote about his encounter with Washington:[101]
+October 3d Marched early in the morning for Harrisburgh  [sic], where we arrived about 12 O'clock. About 1 O'Clock recd. information of the Presidents approach on which, I had the regiment paraded, timely for his reception, & considerably to my satisfaction. Being afterwards invited to his quarters he made enquiry into the circumstances of the man [an incident between an "Itinerant Person" and "an Old Soldier" mentioned earlier in the journal (p. 3)] & seemed satisfied with the information.[98]
+Washington met with the western representatives in Bedford, Pennsylvania on October 9 before going to Fort Cumberland in Maryland to review the southern wing of the army.[102] He was convinced that the federalized militia would meet little resistance, and he placed the army under the command of the Virginia Governor Henry "Lighthorse Harry" Lee, a hero of the Revolutionary War. Washington returned to Philadelphia; Hamilton remained with the army as civilian adviser.[103]
+Daniel Morgan, the victor of the Battle of Cowpens during the American Revolution, was called up to lead a force to suppress the protest. It was at this time (1794) that Morgan was promoted to Major General. Serving under General "Light-Horse Harry" Lee, Morgan led one wing of the militia army into Western Pennsylvania.[104] The massive show of force brought an end to the protests without a shot being fired. After the uprising had been suppressed, Morgan commanded the remnant of the army that remained until 1795 in Pennsylvania, some 1,200 militiamen, one of whom was Meriwether Lewis.[105]
+Aftermath
+The insurrection collapsed as the federal army marched west into western Pennsylvania in October 1794. The army encountered no resistance.[106]
+Upon arriving in western Pennsylvania, Lee prepared to arrest rebel leaders. With little regard for due process, troops carried out raids on the night of November 13, breaking into houses and rousing suspects from their beds. No distinction was made between rebels and witnesses.[107] Captives were driven, in their nightclothes and barefoot, over muddy roads and streams, to be held in floorless animal pens and basements. Some had their health ruined, and at least one died.[108][109] The night was remembered locally as "the Dreadful Night" for years.[110] About 150 persons were arrested.[111][108]
+Immediately before the arrests "... as many as 2,000 of [the rebels]...had fled into the mountains, beyond the reach of the militia. It was a great disappointment to Hamilton, who had hoped to bring rebel leaders such as David Bradford to trial in Philadelphia...and possibly see them hanged for treason. Instead, when the militia at last turned back, out of all the suspects they had seized a mere twenty were selected to serve as examples, They were at worst bit players in the uprising, but they were better than nothing."[112]
+The captured participants and the Federal militia arrived in Philadelphia on Christmas Day. Some artillery was fired and church bells were heard as "...  a huge throng lined Broad Street to cheer the troops and mock the rebels ... [Presley] Neville said he 'could not help feeling sorry for them. The captured rebels were paraded down Broad Street being 'humiliated, bedraggled, [and] half-starved  ...' "[112]
+Other accounts describe the indictment of 24 men for high treason.[113] Most of the accused had eluded capture, so only ten men stood trial for treason in federal court.[113] Of these, only Philip Wigle[116] and John Mitchell were convicted. Wigle had beaten up a tax collector and burned his house; Mitchell was a simpleton who had been convinced by David Bradford to rob the U.S. mail. These, the only two convicted of treason and sentenced to death by hanging, were later pardoned by President Washington.[112][117][118][119] Pennsylvania state courts were more successful in prosecuting lawbreakers, securing numerous convictions for assault and rioting.[120]
+In his seventh State of the Union Address, Washington explained his decision to pardon Mitchell and Wigle. Hamilton and John Jay drafted the address, as they had others, before Washington made the final edit:-
+"The misled have abandoned their errors," he stated. "For though I shall always think it a sacred duty to exercise with firmness and energy the constitutional powers with which I am vested, yet it appears to me no less consistent with the public good than it is with my personal feelings to mingle in the operations of Government every degree of moderation and tenderness which the national justice, dignity, and safety may permit."[121][122]
+While violent opposition to the whiskey tax ended, opposition to the tax continued. Most distillers in nearby Kentucky were found to be all but impossible to tax—in the next six years, over 175 distillers from Kentucky were convicted of violating the tax law.[123] Numerous examples of resistance are recorded in court documents and newspaper accounts.[124] Opponents of internal taxes rallied around the candidacy of Thomas Jefferson and helped him defeat President John Adams in the election of 1800. By 1802, Congress repealed the distilled spirits excise tax and all other internal Federal taxes. Until the War of 1812, the Federal government would rely solely on import tariffs for revenue, which quickly grew with the Nation's expanding foreign trade.[21]
+Legacy
+The James Miller House on the Oliver Miller Homestead located in South Park Township, Allegheny County, Pennsylvania. In 1794, the first fired gunshots of the Whiskey Rebellion occurred on the property when revenue officers served a writ on William Miller. Shots were fired but the officers were not injured. Later, William was pardoned.
+The Washington administration's suppression of the Whiskey Rebellion met with widespread popular approval.[125] The episode demonstrated that the new national government had the willingness and ability to suppress violent resistance to its laws. It was, therefore, viewed by the Washington administration as a success, a view that has generally been endorsed by historians.[126] The Washington administration and its supporters usually failed to mention, however, that the whiskey excise remained difficult to collect, and that many westerners continued to refuse to pay the tax.[32] The events contributed to the formation of political parties in the United States, a process already underway.[127] The whiskey tax was repealed after Thomas Jefferson's Republican Party came to power in 1801, which opposed the Federalist Party of Hamilton and Washington.[128]
+The Rebellion raised the question of what kinds of protests were permissible under the new Constitution. Legal historian Christian G. Fritz argued that there was not yet a consensus about sovereignty in the United States, even after ratification of the Constitution. Federalists believed that the government was sovereign because it had been established by the people; radical protest actions were permissible during the American Revolution but were no longer legitimate, in their thinking. But the Whiskey Rebels and their defenders believed that the Revolution had established the people as a "collective sovereign", and the people had the collective right to change or challenge the government through extra-constitutional means.[129]
+Historian Steven Boyd argued that the suppression of the Whiskey Rebellion prompted anti-Federalist westerners to finally accept the Constitution and to seek change by voting for Republicans rather than resisting the government. Federalists, for their part, came to accept the public's role in governance and no longer challenged the freedom of assembly and the right to petition.[130] Historian Carol Berkin argues that the episode, in the long run, strengthened US nationalism because the people appreciated how well Washington handled the rebels without resorting to tyranny.[131]
+In popular culture
+Susanna Rowson
+Soon after the Whiskey Rebellion, actress-playwright Susanna Rowson wrote a stage musical about the insurrection entitled The Volunteers, with music by composer Alexander Reinagle. The play is now lost, but the songs survive and suggest that Rowson's interpretation was pro-Federalist. The musical celebrates as American heroes the militiamen who put down the rebellion, the "volunteers" of the title.[132] President Washington and Martha Washington attended a performance of the play in Philadelphia in January 1795.[133]
+W. C. Fields recorded a comedy track in Les Paul's studio in 1946, shortly before his death, entitled "The Temperance Lecture" for the album W. C. Fields ... His Only Recording Plus 8 Songs by Mae West. The bit discussed Washington and his role in putting down the Whiskey Rebellion, and Fields wondered aloud whether "George put down a little of the vile stuff too."[134]
+L. Neil Smith wrote the alternate history novel The Probability Broach in 1980 as part of his North American Confederacy Series. In it, Albert Gallatin joins the rebellion in 1794 to benefit the farmers, rather than the fledgling US government as he did in reality. This results in the rebellion becoming a Second American Revolution. This eventually leads to George Washington being overthrown and executed for treason, the abrogation of the Constitution, and Gallatin being proclaimed the second president and serving as president until 1812.[135][136]
+David Liss' 2008 novel The Whiskey Rebels covers many of the circumstances during 1788–92 that led to the 1794 Rebellion. The fictional protagonists are cast against an array of historical persons, including Alexander Hamilton, William Duer, Anne Bingham, Hugh Henry Brackenridge, Aaron Burr, and Philip Freneau.
+In an earlier version of the Hamilton song, "One Last Time", there was a sequence in which Alexander Hamilton, George Washington and American troops rode into western Pennsylvania to end the Whiskey Rebellion.[137]
+In 2011, the Whiskey Rebellion Festival was started in Washington, Pennsylvania. This annual event is held the 2nd weekend in July and includes live music, food, and historic reenactments, featuring the "tar and feathering" of the tax collector.[138][139]
+"Whiskey Rebellion Flag" purported to have been used by the rebels
+A purported flag of the rebels, a blue banner with 13 white stars and an eagle holding a red and white ribbon, has become popular in Libertarian circles, and with those dissatisfied with the federal government in general. However, due to the design of the flag, having 13 stars when there were 15 states, and the lack of primary sources with an account of the flag's use, has led historians to speculate the flag might have either never have existed, was made in 1894 for the 100th anniversary, or was used by Federal forces.[140][141]
+Other works which include events of the Whiskey Rebellion:
+The Latimers: A Tale of the Western Insurrection of 1794 by clergyman Henry Christopher McCook (1898)
+The Delectable Country by Leland Baldwin (1939)
+"Copper Kettle" – Song composed by Albert Frank Beddoe and made popular by Joan Baez, also recorded by Chet Atkins, Bob Dylan, and Gillian Welch
+Margery Evendern's young adult novel Wilderness Boy (1955)
+See also
+Portals:
+History
+Liquor
+Pennsylvania
+American Whiskey Trail – Alcohol promotion program in the US
+Fort Gaddis – gathering spot in Fayette County, Pennsylvania during Rebellion and site of the raising of a liberty pole
+Fries's Rebellion – Tax revolt of Pennsylvania Dutch farmers in 1799
+Jean Bonnet Tavern
+List of incidents of civil unrest in the United States – List of incidents from 1783 to the present
+Moonshine – High-proof liquor, generally made illicitly
+Rum Rebellion – 1808 coup in Britain's New South Wales Colony
+Shays' Rebellion – Armed uprising in western Massachusetts (1786–1787)Pages displaying short descriptions of redirect targets
+Tax resistance in the United States – Refusal to pay taxes in the U.S.
+United States v. Hamilton – A rebel's habeas corpus petition to the United States Supreme Court.
+Notes
+↑ Robert W. Coakley, The Role of Federal Military Forces in Domestic Disorders, 1789–1878 (DIANE Publishing, 1996), 67.
+↑ Chernow 2004, p. 297.
+↑ Chernow 2004, pp. 327–30.
+↑ Chernow 2004, p. 341.
+↑ Hogeland 2006, p. 27.
+↑ Risen, Clay (December 6, 2013). "How America Learned to Love Whiskey". The Atlantic. Retrieved April 24, 2020.
+↑ Chernow 2004, pp. 342–43; Hogeland 2006, p. 63
+↑ Slaughter 1986, p. 100.
+↑ Slaughter 1986, p. 105; Hogeland 2006, p. 64
+↑ ch. 15, 1 Stat. 199
+↑ American State Papers [Finance: Volume 1], 110
+↑ "ExplorePAHistory.com – Stories from PA History". Retrieved February 11, 2017.
+↑ Slaughter 1986, p. 97.
+↑ Hogeland 2006, p. 66.
+↑ Hogeland 2006, p. 68.
+↑ Hogeland 2006, p. 67; Holt 2004, p. 30
+↑ Slaughter 1986, pp. 147–49; Hogeland 2006, pp. 68–70
+↑ Hogeland 2006, pp. 68–69; Holt 2004, p. 30
+↑ Slaughter 1986, p. 148.
+↑ Slaughter 1986, p. 148; Hogeland 2006, p. 69
+1 2 3 Hoover, Michael. "The Whiskey Rebellion". Regulations & Rulings Division, Alcohol and Tobacco Tax and Trade Bureau, US Department of the Treasury. Retrieved February 17, 2017. (no date)  This article incorporates text from this source, which is in the public domain.
+↑ Slaughter 1986, p. 108.
+↑ Slaughter 1986, p. 110.
+↑ Slaughter 1986, p. 206.
+↑ Hogeland 2006, pp. 23–25; Slaughter 1986, p. 113
+↑ Hogeland 2006, p. 24.
+↑ Hogeland 2006, pp. 114–15.
+↑ While Slaughter 1986, p. 113 dates the attack on Johnson as September 11, it is generally reported as occurring on September 6 (see: Crytzer 2023, p. 10; Clouse 1994, p. 19; and Baldwin 1968, p. 82).
+↑ Hogeland 2006, pp. 103–04.
+↑ Slaughter 1986, p. 114.
+↑ Slaughter 1986, p. 103.
+1 2 Tachau 1985, pp. 97–118.
+↑ Slaughter 1986, p. 117.
+↑ Gross, David M. (2014). 99 Tactics of Successful Tax Resistance Campaigns. Picket Line Press. pp. 77–78. ISBN 978-1-4905-7274-1.
+↑ Slaughter 1986, p. 119; Hogeland 2006, p. 124
+↑ Hogeland 2006, pp. 122–23.
+↑ Hogeland 2006, pp. 117–19, 122–23.
+↑ Slaughter 1986, pp. 125–27.
+↑ Slaughter 1986, pp. 119–23.
+↑ Slaughter 1986, pp. 151–53.
+↑ Hogeland 2006, pp. 97, 102.
+↑ Hogeland 2006, pp. 119–24.
+↑ Gross, David M. (2014). 99 Tactics of Successful Tax Resistance Campaigns. Picket Line Press. p. 72. ISBN 978-1-4905-7274-1.
+↑ Hogeland 2006, pp. 130–31.
+1 2 Slaughter 1986, p. 151.
+↑ Slaughter 1986, p. 150.
+↑ Slaughter 1986, p. 153.
+↑ Slaughter 1986, p. 165.
+↑ Barksdale, K. T., & Lee, H. (2003). Our Rebellious Neighbors: Virginia's Border Counties during Pennsylvania's Whiskey Rebellion. The Virginia Magazine of History and Biography, pages 17-18, 111(1), 5-32., JStor link
+↑ Slaughter 1986, p. 177; Cooke 1963, p. 328
+↑ Hogeland 2006, p. 142.
+↑ Slaughter 1986, p. 170.
+↑ Slaughter 1986, p. 182.
+↑ Cooke 1963, p. 321.
+↑ Cooke 1963, pp. 321–22.
+↑ Slaughter 1986, p. 183.
+↑ Hogeland 2006, p. 124.
+↑ Hogeland, William (July 3, 2006). "Why the Whiskey Rebellion Is Worth Recalling Now". History News Network. Archived from the original on August 10, 2010. Retrieved February 11, 2017.
+↑ S. E. Morison, The Oxford History of the United States 1783–1917 (London: Oxford University Press, 1927), 182.
+↑ Slaughter 1986, p. 177.
+↑ Hogeland 2006, p. 146.
+↑ The number of militiamen in the first attack on Bower Hill varies in contemporary accounts; Hogeland 2006, p. 268
+↑ Slaughter 1986, p. 179; Hogeland 2006, pp. 147–48.
+↑ Slaughter 1986, p. 3.
+↑ Tucker, Spencer C. (June 11, 2014). The Encyclopedia of the Wars of the Early American Republic, 1783–1812: A Political, Social, and Military History [3 volumes]: A Political, Social, and Military History. ABC-CLIO. p. 52. ISBN 978-1-59884-157-2. Retrieved February 10, 2017.
+↑ Hogeland 2006, pp. 150–51.
+↑ Slaughter 1986, p. 179; Hogeland 2006, p. 152
+↑ Hogeland 2006, p. 153.
+↑ Hogeland 2006, pp. 153–54; Slaughter 1986, pp. 3, 179–80.
+↑ Slaughter 1986, p. 180.
+↑ Hogeland 2006, pp. 155–56.
+↑ Slaughter 1986, pp. 181–83.
+↑ Slaughter 1986, pp. 183–85.
+↑ Slaughter 1986, p. 186; Hogeland, 172.
+↑ Slaughter 1986, pp. 186–87.
+↑ Slaughter 1986, p. 187.
+↑ Slaughter 1986, pp. 188–89; Hogeland, 169.
+↑ Holt 2004, p. 10 Holt writes that earlier historians had misidentified the six counties represented by the flag.
+↑ Slaughter 1986, p. 185.
+↑ Slaughter 1986, pp. 187–88; Hogeland, 170–77.
+↑ Holt 2004, pp. 54–57.
+↑ Slaughter 1986, pp. 188–89.
+↑ "Whiskey Point (Albert Gallatin) Historical Marker". Explore PA history. Retrieved January 9, 2017.
+↑ Elkins & McKitrick 1993, p. 480.
+↑ Slaughter 1986, pp. 197–99.
+↑ Slaughter 1986, p. 199; Holt 2004, p. 11
+↑ Elkins & McKitrick 1993, p. 481.
+↑ Mark G. Spencer, "Democratic-Republican Societies", in Peter Knight, ed., Conspiracy Theories in American History (Santa Barbara, CA: ABC-CLIO Press, 2003), 1:221.
+↑ Slaughter 1986, pp. 192–93, 196; Elkins & McKitrick 1993, p. 478
+↑ Slaughter 1986, p. 196.
+↑ Slaughter 1986, pp. 199–200; Hogeland 2006, p. 199
+1 2 Slaughter 1986, p. 203.
+1 2 3 4 5 Washington, G.; Jackson, D.; Twohig, D. (1976). The diaries of George Washington. Charlottesville: University Press of Virginia. Retrieved June 30, 2018.
+↑ Hogeland 2006, pp. 205–06.
+↑ Chernow 2004, pp. 475–76; Hogeland, 189.
+↑ Slaughter 1986, pp. 210–14.
+↑ Slaughter 1986, p. 208.
+1 2 Forman, Jonathan. "Journal of Jonathan Forman (7 pgs.), September 21, 1794 – October 25, 1794: Box 1, Folder 1 Jonathan Forman Papers, September 21, 1794 – October 25, 1794, DAR.1982.01, Darlington Collection, Special Collections Department, University of Pittsburgh" (PDF). Retrieved August 2, 2017.
+↑ Slaughter 1986, pp. 205–06; Hogeland, 213.
+↑ Ellis, His Excellency: George Washington, 225.
+↑ Manella, Angela. "Jonathan Forman Papers Finding Aid". Archive Service Center, University of Pittsburgh. Retrieved April 4, 2013.
+↑ Slaughter 1986, pp. 215–16.
+↑ Slaughter 1986, p. 216.
+↑ Higginbotham, pp. 189–91.
+↑ Higginbotham, pp. 193–98.
+↑ Crytzer 2023, p. 140.
+↑ Crytzer 2023, p. 150.
+1 2 Slaughter 1986, p. 218.
+↑ Crytzer 2023, pp. 150, 154.
+↑ Crytzer 2023, p. 149.
+↑ Crytzer 2023, p. 156.
+1 2 3 Craughwell & Phelps 2008.
+1 2 Ifft 1985, p. 172.
+↑ Slaughter 1986, pp. 290–91.
+↑ Craughwell, Thomas J.; Phelps, M. William (2008). Failures of the Presidents: From the Whiskey Rebellion and War of 1812 to the Bay of Pigs and War in Iraq. Fair Winds Press. p. 22. ISBN 978-1-61673-431-2.
+↑ Sources show a variety of spellings for his surname, including Vigol and Wigal.[114][115]
+↑ Slaughter 1986, p. 219.
+↑ Hogeland 2006, p. 238.
+↑ Ifft 1985, p. 176.
+↑ Ifft 1985, pp. 175–76.
+↑ Fitzpatrick, John C. (January 1939). The Writings of George Washington from the Original Manuscript Sources 1745-1799 Volume 34 October 11, 1794-March 29, 1796. Best Books on. ISBN 9781623764449. {{cite book}}: ISBN / Date incompatibility (help)
+↑ "The Writings of George Washington from the Original Manuscript Sources 1745"
+↑ Rorabaugh, W. J. (1979). The Alcoholic Republic: An American Tradition. Oxford University Press. p. 53.
+↑ Howlett, Leon (2012). The Kentucky Bourbon Experience: A Visual Tour of Kentucky's Bourbon Distilleries. p. 7.
+↑ Elkins & McKitrick 1993, pp. 481–84.
+↑ Boyd 1994, p. 78.
+↑ Slaughter 1986, p. 221; Boyd 1994, p. 80
+↑ Hogeland 2006, p. 242.
+↑ Fritz, Christian G. Fritz (April 27, 2009). American Sovereigns: the People and America's Constitutional Tradition Before the Civil War. Cambridge University Press. ISBN 978-0-521-12560-4.
+↑ Boyd 1994, pp. 80–83.
+↑ Carol Berkin (2017). A Sovereign People: The Crises of the 1790s and the Birth of American Nationalism. pp. 7–80.
+↑ Vickers, Anita (2009). The New Nation. American Popular Culture Through History. p. 213. ISBN 978-0-313-31264-9.
+↑ Branson, Susan (2001). These Fiery Frenchified Dames: Women and Political Culture in Early National Philadelphia. University of Pennsylvania Press. p. 181.
+↑ Smith, Ronald L. (1998). Comedy Stars at 78 RPM: Biographies and Discographies of 89 American and British Recording Artists, 1896–1946. McFarland. p. 59. ISBN 978-0-7864-0462-9.
+↑ John J. Pierce, When World Views Collide: A Study in Imagination and Evolution (Greenwood Press, 1989), 163.
+↑ Peter Josef Mühlbauer, "Frontiers and dystopias: Libertarian ideology in science fiction", in Dieter Plehwe et al., eds., Neoliberal Hegemony: A Global Critique (Taylor & Francis, 2006), 162.
+↑ Lin-Manuel Miranda (Ft. Isaiah Johnson) – One Last Ride, retrieved October 28, 2025
+↑ "Washington Co. Festival Marks Whiskey Rebellion". WPXI. August 1, 2011. Retrieved March 23, 2015.
+↑ "2015 Whiskey Rebellion Festival". Whiskey Rebellion Festival. Archived from the original on April 2, 2015. Retrieved February 11, 2017.
+↑ "The Whiskey Rebellion - History, Causes, & More - Gentlemen Ranters". www.gentlemenranters.com. March 10, 2023. Retrieved October 9, 2023.
+↑ "Whiskey Rebellion: Definition, Causes & Flag". History. June 21, 2023. Retrieved October 9, 2023.
+Bibliography
+Baldwin, Leland D. (1968) [1939]. Whiskey Rebels: The Story of a Frontier Uprising. illustrated by Ward Hunter. Pittsburgh: University of Pittsburgh Press. doi:10.2307/j.ctt5hjrsx. ISBN 978-0-8229-9053-6. OCLC 878136515.
+Boyd, Steven R. (1994). "The Whiskey Rebellion, Popular Rights, and the Meaning of the First Amendment.". In Porter, David (ed.). The Whiskey Rebellion and the trans-Appalachian frontier. Washington, Pa.: Washington and Jefferson College. pp. 73–84. OCLC 894777540.
+Chernow, Ron (2004). Alexander Hamilton. New York: Penguin Press. ISBN 978-1-59420-009-0. OCLC 53083988 – via Internet Archive.
+Clouse, Jerry Allan (1994). The Whiskey Rebellion: Southwestern Pennsylvania's Frontier People Test the American Constitution. Harrisburg [Pa.]: Bureau of Historic Preservation, Pennsylvania Historical and Museum Commission. ISBN 978-0-89271-057-7. OCLC 44167624.
+Cooke, Jacob E. (July 1963). "The Whiskey Insurrection: A Re-Evaluation". Pennsylvania History: A Journal of Mid-Atlantic Studies. 30 (3). Penn State University Press: 316–346. ISSN 0031-4528. JSTOR 27770195. OCLC 5542845793.
+Crytzer, Brady J. (2023). The Whiskey Rebellion: A Distilled History of an American Crisis. Yardley, Pennsylvania: Westholme Publishing, LLC. ISBN 978-1-59416-400-2. xxxiii + 196 pp.
+Elkins, Stanley M.; McKitrick, Eric L. (1993). "The Poplulist Impulse: 3. Popular Sovereignty and the End of the Rebellion". The Age of Federalism. New York: Oxford University Press. pp. 474–488. ISBN 978-0-19-506890-0. OCLC 26720733 – via Internet Archive. 1995 edition available at doi:10.1093/acprof:oso/9780195093810.003.0011
+Hogeland, William (2006). The whiskey rebellion : George Washington, Alexander Hamilton, and the frontier rebels who challenged America's newfound sovereignty. New York: Simon & Schuster. ISBN 978-0-7432-5491-5. OCLC 1036919582 – via Internet Archive.
+Holt, Wythe (January 6, 2004). "The Whiskey Rebellion of 1794: A Democratic Working-Class Insurrection" (PDF). University of Georgia. Archived from the original (PDF) on September 25, 2011. Presented on January 23, 2004, at the "Georgia Workshop in Early American History and Culture". Archived from the original on January 1, 2013.
+Ifft, Richard A. (1985). "Treason in the Early Republic: The Federal Courts, Popular Protest, and Federalism During the Whiskey Insurrection". In Boyd, Steven R. (ed.). The Whiskey Rebellion: Past and Present Perspectives. Westport, Conn.: Greenwood Press. ISBN 978-0-313-24534-3. OCLC 11291120.
+Slaughter, Thomas P. (1986). The Whiskey Rebellion: Frontier Epilogue to the American Revolution. New York: Oxford University Press. ISBN 978-0-19-977187-5. OCLC 770873834. Partial preview at The Whiskey Rebellion at Google Books
+Tachau, Mary K. Bonsteel (1985). "A New Look at the Whiskey Rebellion". In Boyd, Steven R. (ed.). The Whiskey Rebellion: Past and Present Perspectives. Westport, Conn.: Greenwood Press. ISBN 978-0-313-24534-3. OCLC 11291120.
+Further reading
+Berkin, Carol (2017). "Part I: The Whiskey Rebellion". A Sovereign People: The Crises of the 1790s and the Birth of American Nationalism. New York: Basic Books. pp. 7–80. ISBN 978-0-465-09493-6. OCLC 961388695. Preview of first four chapters at A Sovereign People at Google Books
+Bouton, Terry (2007). "The Pennsylvania Regulation of 1794: A Rebellion over Whiskey?". Taming Democracy: "The People," the Founders, and the Troubled Ending of the American Revolution. Oxford: Oxford University Press. pp. 216–243. ISBN 978-1-4356-0544-2. OCLC 252691795.
+Kohn, Richard H. (1972). "The Washington Administration's Decision to Crush the Whiskey Rebellion". The Journal of American History. 59 (3). Oxford University Press (OUP): 567–584. doi:10.2307/1900658. ISSN 0021-8723. JSTOR 1900658. OCLC 5545202179.
+Krom, Cynthia L.; Krom, Stephanie (2013). ""The Whiskey Tax of 1791 and The Consequent Insurrection: 'A Wicked and Happy Tumult'". The Accounting Historians Journal. 40 (2). The Academy of Accounting Historians: 91–113. ISSN 0148-4184. JSTOR 43486736. OCLC 7786247710.
+McClure, James P. (Summer 1991). "'Let Us Be Independent': David Bradford and the Whiskey Insurrection". Pittsburgh History. 74 (2): 72–86. ISSN 1525-4755 – via Western Pennsylvania History.
+Snyder, Jeffrey W.; Hammond, Thomas C. (2012). "'So That's What the Whiskey Rebellion Was!': Teaching Early U.S. History With GIS". The History Teacher. 45 (3). Society for History Education: 447–455. ISSN 0018-2745. JSTOR 23265898. OCLC 802921302.
+Thompson, Charles (May 9, 2011). "Whiskey and Geography". Southern Spaces. Atlanta, GA, US: Emory University. doi:10.18737/m7w02c. ISSN 1551-2754. OCLC 7291008180.
+Yoo, John (Fall 2010). "George Washington and the Executive Power". University of St. Thomas Journal of Law & Public Policy. 5 (1): 1–35. ISSN 2154-6436, 2154-6428.
+Contemporary sources
+Brackenridge, Henry Marie (1859). History of the Western Insurrection in Western Pennsylvania, commonly called the Whisky Insurrection, 1794. Pittsburgh: Printed by W.S. Haven. OCLC 11164920, 32351897.
+Brackenridge, Hugh Henry (1795). Incidents of the Insurrection in Western Pennsylvania in the Year 1794. Philadelphia: Printed and sold by John M'Culloch. OCLC 642781686. Also see Incidents of the Insurrection in Western Pennsylvania in the Year 1794 at the Internet Archive.
+Findley, William (1796). History of the Insurrection in the Four Western Counties of Pennsylvania. Philadelphia: Printed by S.H. Smith. OCLC 65336308, 1064603706.
+External links
+Wikimedia Commons has media related to Whiskey Rebellion.
+United States Congress (March 3, 1791). The Whiskey Act . Philadelphia: Printed by Francis Childs and John Swaine [Wikidata]. United States Statutes at Large, Volume 1, 1st Congress, 3rd Session, Chapter 15, pp. 199–214. OCLC 210086758 – via Wikisource.
+Washington, George (1979). Jackson, Donald; Twohig, Dorothy (eds.). The diaries of George Washington. Vol. 6. Charlottesville: University Press of Virginia. pp. 178–198. ISBN 0-8139-0807-8. OCLC 644873705 – via Internet Archive.
+"Whiskey Rebellion documents". Gilder Lehrman Institute of American History. Retrieved September 6, 2022. (primary sources)
+Washington's papers from the Avalon Project
+George, Washington. "The Papers of George Washington" [textual records]. The Avalon Project. Yale, CT: Lillian Goldman Law Library, Yale Law School. OCLC 37342540.
+"Proclamation of September 15, 1792". Retrieved September 6, 2022., warning against obstruction of the excise law
+"Proclamation of Proclamation of August 7, 1794". Retrieved September 6, 2022., announcing the preliminary raising of militia and commanding the insurgents in western Pennsylvania to disperse
+"Proclamation of September 25, 1794". Retrieved September 6, 2022., announcing the commencement of military operations
+"Sixth Annual Message". November 19, 1794. Retrieved September 6, 2022. Washington dedicated most of this annual message to the Whiskey Rebellion.
+v
+t
+e
+Whiskey Rebellion
+People
+Alexander Addison
+Hugh Henry Brackenridge
+David Bradford
+William Findley
+Thomas Gaddis
+Albert Gallatin
+Alexander Hamilton
+Herman Husband
+Henry Lee
+Daniel Morgan
+Robert Philson
+John Smilie
+George Washington
+John Wilkins, Jr.
+Places
+Western Pennsylvania
+Andrew Rabb House
+Bethel Presbyterian Church
+Black Horse Tavern
+David Bradford House
+Defibaugh Tavern
+Fort Gaddis
+Huffman Distillery and Chopping Mill
+John Corbley Farm
+Mingo Creek Presbyterian Church and Churchyard
+Oliver Miller Homestead
+Lobb's Cemetery and Yohogania County Courthouse Site
+Redstone Old Fort
+William Crawford House
+Whiskey Point
+Legacy
+Wigle Whiskey
+The Whiskey Rebels
+"Copper Kettle"
+Wilderness Boy
+The Delectable Country
+The Latimers
+United States v. Hamilton
+v
+t
+e
+George Washington
+1st President of the United States (1789–1797)
+Senior Officer of the Army (1798–1799)
+Commander-in-Chief of the Continental Army (1775–1783)
+Delegate to the Second Continental Congress (1775)
+Delegate to the First Continental Congress (1774)
+Military career
+Revolutionary War
+Military career
+French and Indian War
+Jumonville Glen
+Battle of Fort Necessity
+Battle of the Monongahela
+Forbes Expedition
+Washington in the American Revolution
+Commander-in-chief, Continental Army
+Aides-de-camp
+Washington's headquarters
+office and sleeping tent
+Boston campaign
+Siege of Boston
+Flag on Prospect Hill
+New York and New Jersey campaign
+Delaware River crossing
+Battle of Trenton
+Battle of the Assunpink Creek
+Battle of Princeton
+Philadelphia campaign
+Battle of Brandywine
+Battle of Germantown
+Battle of White Marsh
+Valley Forge
+Battle of Monmouth
+Battles of Saratoga
+Sullivan Expedition
+Yorktown campaign
+Siege of Yorktown
+Culper Spy Ring
+Newburgh Conspiracy
+Newburgh letter
+Asgill Affair
+Evacuation Day
+Springfield Armory
+Resignation as commander-in-chief
+Badge of Military Merit
+Purple Heart
+Washington Before Boston Medal
+Horses
+Nelson
+Blueskin
+Other U.S.
+founding events
+Initiated, co-wrote, 1769 Virginia Association
+Initiated, 1774 Fairfax Resolves
+Continental Association
+Court of Appeals in Cases of Capture
+1785 Mount Vernon Conference
+Chairman, 1787 Constitutional Convention
+George Washington's political evolution
+Presidency
+(timeline)
+1788–89 United States presidential election
+First inauguration
+inaugural bible
+1792 presidential election
+Second inauguration
+Reception at Trenton
+Title of "Mr. President"
+Cabinet of the United States
+Secretary of State
+Attorney General
+Secretary of the Treasury
+Secretary of War
+Judiciary Act of 1789
+Oath Administration Act
+Nonintercourse Act
+Park Watchmen
+Whiskey Rebellion
+Militia Acts of 1792
+Coinage Act of 1792
+United States Mint
+Presidential Succession Act of 1792
+United States Capitol cornerstone laying
+Proclamation of Neutrality
+Neutrality Act of 1794
+Jay Treaty
+Pinckney's Treaty
+Slave Trade Act of 1794
+Residence Act
+Thanksgiving Proclamation
+Farewell Address
+State of the Union Address January 1790
+December 1790
+1791
+1792
+1793
+1794
+1795
+1796
+Cabinet
+Federal judicial appointments
+John Rutledge Supreme Court nominations
+Views and
+public image
+Presidential library
+The Washington Papers
+Religious views
+Town Destroyer
+Legacy
+Life and homes
+Early life
+Birthplace
+Fashion
+Ferry Farm boyhood home
+Mount Vernon
+Fishery
+Gristmill
+Whiskey distillery
+Woodlawn Plantation
+Longfellow House–Washington's Headquarters National Historic Site
+Morris–Jumel Mansion
+Ford Mansion, Washington's headquarters
+Hasbrouck House
+First Presidential Mansion
+Second Presidential Mansion
+President's House, Philadelphia
+Germantown White House
+Custis estate
+Washington's relations with the Iroquois Confederacy
+Potomac Company
+James River and Kanawha Canal
+Mountain Road Lottery
+Congressional Gold Medal
+Thanks of Congress
+President General of the Society of the Cincinnati
+Washington College
+Washington and Lee University
+Electoral history of George Washington
+Post-presidency of George Washington
+Surveying career of George Washington
+Memorials
+Washington, D.C.
+Washington state
+Washington Monument
+Mount Rushmore
+Washington's Birthday
+Purple Heart
+The Apotheosis of Washington
+Washington Monument (Boonsboro, Maryland)
+Washington Monument (Baltimore)
+Washington Monument (Philadelphia)
+George Washington (Houdon)
+plaster copy
+George Washington (Ceracchi)
+George Washington (Canova)
+George Washington (Greenough)
+George Washington (Trumbull)
+George Washington (Stuart, Williamstown)
+Vaughan Portrait
+George Washington and the Revolutionary War Door
+Revolutionary War Door
+Washington Crossing the Delaware
+The Passage of the Delaware
+General George Washington at Trenton
+Washington at Verplanck's Point
+General George Washington Resigning His Commission
+Surrender of Lord Cornwallis
+Unfinished portrait
+Lansdowne portrait
+Gibbs-Channing-Avery Portrait
+The Washington Family portrait
+Washington at Princeton paintings
+George Washington Taking the Salute at Trenton
+Reception at Trenton painting
+Washington on His Deathbed
+Statues
+Paintings
+Trenton Battle Monument
+Princeton Battle Monument
+Point of View sculpture
+George Washington on Horseback
+Austin statue
+Baltimore statue
+Boston statue
+Boston relief
+Mexico City statue
+Morristown statue
+Newark statue
+New York City statue
+Wall Street statue
+Paris statue
+Perth Amboy statue
+Philadelphia statue
+Portland statue
+Richmond monument
+Trenton statue
+Washington, D.C. statue
+West Point monument
+George Washington University
+Washington University in St. Louis
+Washington Masonic National Memorial
+George Washington Memorial Parkway
+George Washington Bridge
+Washington Territory
+Washington Tree, Mariposa Grove
+Washington Tree, Sequoia National Park
+Washington and Jefferson National Forests
+Washington Square Park
+Arch
+U.S. Postage stamps
+Washington–Franklin Issues
+1932 bicentennial
+Currency
+Washington quarter
+50 State Quarters
+D.C. and territories quarters
+America the Beautiful quarters
+American Women quarters
+History Instructing Youth dollar
+Washington dollar
+Where's George?
+Lafayette dollar
+Silver bullion coins
+Washington nickel
+Washington half eagle
+250th Anniversary half dollar
+Mount Rushmore Anniversary coins
+Semiquincentennial coinage
+Mount Washington
+Cultural
+depictions
+Alexander Hamilton (1931 film)
+Sons of Liberty (1939 film)
+La Fayette (1961 film)
+George Washington (1984 miniseries
+1986 sequel)
+A More Perfect Union (1989 film)
+The Crossing (2000 film)
+We Fight to Be Free (2006 film)
+Turn: Washington's Spies (2014–2017 series)
+The Revolution (2006 miniseries)
+The War that Made America (2006 miniseries)
+Washington (2020 miniseries)
+Hamilton (2020 film)
+The American Revolution (2025 miniseries)
+Young Washington (2026 film)
+Related
+Bibliography
+Outline
+Founders Online
+Founding Fathers of the United States
+Republicanism
+Federalist Party
+Federalist Era
+Virginia dynasty
+Coat of arms
+Cherry-tree anecdote
+River Farm
+Rules of Civility and Decent Behaviour In Company and Conversation
+Washington's Crossing
+Washington–Rochambeau Revolutionary Route
+1751 Barbados trip
+Category
+Syng inkstand
+General of the Armies
+Conway Cabal
+American Foxhound
+American Philosophical Society
+American Revolution
+patriots
+Betsy Ross flag
+Mount Vernon Ladies' Association
+Mount Vernon replicas
+George Washington Memorial Building
+Attempted theft of Washington's skull
+Family
+Martha Washington (wife)
+John Parke Custis (stepson)
+George Washington Parke Custis (step-grandson, adopted son)
+Eleanor Parke Custis (step-granddaughter, adopted daughter)
+Augustine Washington (father)
+Mary Ball Washington (mother)
+Lawrence Washington (half-brother)
+Augustine Washington Jr. (half-brother)
+Elizabeth Washington Lewis (sister)
+Samuel Washington (brother)
+John A. Washington (brother)
+Charles Washington (brother)
+Lawrence Washington (grandfather)
+Mildred Gale (grandmother)
+John Washington (great-grandfather)
+George Reade (2nd great-grandfather)
+Bushrod Washington (nephew)
+Slavery
+George Washington and slavery
+list
+Betty
+Caroline Branham
+William Costin
+Sarah Johnson
+Oney Judge
+Philip Lee
+William Lee
+Hercules Posey
+Christopher Sheels
+Deborah Squash
+Harry Washington
+John Adams →
+Outline
+Category
+v
+t
+e
+Alexander Hamilton
+8th Senior Officer of the United States Army (1799–1800)
+1st Secretary of the Treasury (1789–1795)
+Delegate to the Congress of the Confederation (1782–1783, 1788–1789)
+United States
+founding events
+A Full Vindication of the Measures of Congress (1774)
+The Farmer Refuted (1775)
+Delegate, 1786 Annapolis Convention
+Delegate, 1787 Constitutional Convention
+The Federalist Papers
+New York Circular Letter
+Secretary of
+the Treasury
+First Bank of the United States
+Revenue Marine (U.S. Coast Guard)
+U.S. Customs Service
+Hamiltonian economic program
+Residence Act
+Compromise of 1790
+Assumption Bill
+Tariff of 1790
+Bank Bill of 1791
+Tariff of 1791
+Tariff of 1792
+Coinage Act of 1792
+U.S. Mint
+Whiskey Rebellion
+Jay Treaty
+Reports
+"First Report on the Public Credit"
+"Second Report on Public Credit"
+"Report On Manufactures"
+"Report on a Plan for the Further Support of Public Credit"
+Society for Establishing Useful Manufactures
+Military career
+New York Provincial Company of Artillery
+Washington's aide-de-camp
+Battles
+Harlem Heights
+White Plains
+Trenton
+Princeton
+Brandywine
+Germantown
+Monmouth
+Siege of Yorktown
+Other events
+Founder, Federalist Party
+Federalist Era
+Founder, Bank of New York
+Bank of North America
+Pacificus-Helvidius Debates
+Advisor, George Washington's Farewell Address
+President General of the Society of the Cincinnati
+Founder, New-York Evening Post
+Hamilton College
+Hamilton–Reynolds affair
+Rutgers v. Waddington
+Relationship with slavery
+Relationship with Thomas Jefferson
+Burr–Hamilton duel
+Depictions
+Trumbull portrait
+Ceracchi bust
+Central Park statue
+U.S. Treasury statue
+Columbia University statue
+Boston statue
+Chicago statue
+U.S. postage stamps
+Greenbacks
+U.S. $10 bill
+Memorials
+Boyhood home and museum
+Alexander Hamilton U.S. Custom House
+Alexander Hamilton Bridge
+Alexander Hamilton High School (Los Angeles)
+Fort Hamilton
+Hamilton Grange National Memorial
+Hamilton Hall (Columbia University)
+Hamilton Hall (Salem)
+Hamilton Heights, Manhattan
+Hamilton, Ohio
+Hamilton College
+USS Alexander Hamilton
+PS Alexander Hamilton
+Trinity Church Cemetery
+Popular culture
+Hamilton (1917 play)
+Alexander Hamilton (1931 film)
+Liberty! (1997 documentary series)
+Liberty's Kids (2002 animated series)
+Alexander Hamilton (2004 book)
+The Revolution (2006 miniseries)
+John Adams (2008 miniseries)
+Hamilton (2015 musical, 2020 film)
+Washington (2020 miniseries)
+A Great Awakening (2026 film)
+Related
+Founders Online
+Age of Enlightenment
+American Enlightenment
+American Philosophical Society
+Liberty Hall (New Jersey)
+New York Manumission Society
+African Free School
+"American System" economic plan
+American School
+American Revolution
+patriots
+Family
+Elizabeth Schuyler Hamilton (wife)
+Philip Hamilton (son)
+Angelica Hamilton (daughter)
+Alexander Hamilton Jr. (son)
+James Alexander Hamilton (son)
+John Church Hamilton (son)
+William S. Hamilton (son)
+Eliza Hamilton Holly (daughter)
+Philip Hamilton (son)
+Schuyler Hamilton (grandson)
+Alexander Hamilton Jr. (grandson)
+Allan McLane Hamilton (grandson)
+References
+Bibliography of Alexander Hamilton
+Category
+v
+t
+e
+History of the United States
+Timeline
+Outline
+Events
+Pre-Colonial
+Geological
+Pre-Columbian era
+Colonial
+Exploration of North America
+European colonization
+Native American epidemics
+Settlement of Jamestown
+Thirteen Colonies
+Atlantic slave trade
+King William's War
+Queen Anne's War
+Dummer's War
+First Great Awakening
+War of Jenkins' Ear
+King George's War
+Prelude to Revolution
+American Enlightenment
+French and Indian War
+Proclamation of 1763
+Sugar Act
+Stamp Act Congress
+Sons of Liberty
+Virginia Association
+Boston Massacre
+Boston Tea Party
+Intolerable Acts
+First Continental Congress
+Continental Association
+1776–1789
+American Revolution
+War
+Second Continental Congress
+Virginia Declaration of Rights
+Lee Resolution
+Declaration of Independence
+Treaty of Paris
+Confederation period
+Articles of Confederation and Perpetual Union
+Pennsylvania Mutiny
+Shays' Rebellion
+Northwest Ordinance
+Constitutional Convention
+Drafting and ratification of the Constitution
+1789–1815
+Bill of Rights
+Federalist Era
+Whiskey Rebellion
+Quasi-War
+Jeffersonian era
+Louisiana Purchase
+War of 1812
+1815–1849
+Era of Good Feelings
+Missouri Compromise
+Monroe Doctrine
+Jacksonian era
+Trail of Tears
+Nat Turner's slave rebellion
+Nullification crisis
+Westward expansion
+Mexican–American War
+Seneca Falls Convention
+First Industrial Revolution
+in the United States
+Second Great Awakening
+1849–1865
+Antebellum Era
+California Gold Rush
+Greater Reconstruction
+Prelude to War
+Compromise of 1850
+Fugitive Slave Act
+Kansas–Nebraska Act
+Bleeding Kansas
+Dred Scott decision
+Election of Lincoln
+Secession
+Civil War
+Emancipation Proclamation
+Assassination of Abraham Lincoln
+1865–1917
+Reconstruction era
+Amendments
+First transcontinental railroad
+Ku Klux Klan
+Enforcement Acts
+Compromise of 1877
+End
+Second Industrial Revolution
+Gilded Age
+The Gospel of Wealth
+Assassination of James A. Garfield
+Chinese Exclusion Act
+Pendleton Civil Service Reform Act
+Haymarket affair
+Sherman Antitrust Act
+Progressive Era
+Spanish–American War
+Imperialism
+Assassination of William McKinley
+Square Deal
+Nadir of American race relations
+1917–1945
+World War I
+Paris Peace Conference
+First Red Scare
+Roaring Twenties
+Prohibition
+Women's suffrage
+Tulsa race massacre
+Second Klan
+Bath School disaster
+Harlem Renaissance
+Great Depression
+Wall Street crash of 1929
+Dust Bowl
+New Deal
+World War II
+Pearl Harbor
+home front
+Manhattan Project
+Atomic bombings of Hiroshima and Nagasaki
+1945–1964
+Strike wave of 1945–1946
+Start of Cold War
+Truman Doctrine
+Early Cold War
+North Atlantic Treaty
+Korean War
+Ivy Mike
+McCarthyism
+Post-war boom
+Project Mercury
+Civil Rights Movement
+Early–mid Cold War
+Cuban Missile Crisis
+Assassination of John F. Kennedy
+1964–1980
+Great Society
+Space Race
+Project Gemini
+Apollo program
+Mid Cold War
+Détente
+Vietnam War
+Fall of Saigon
+Assassination of Malcolm X
+Assassination of Martin Luther King Jr.
+Assassination of Robert F. Kennedy
+Counterculture
+Second-wave feminism
+Gay liberation
+Stonewall riots
+Kent State massacre
+Roe v. Wade
+Watergate scandal
+Pardon of Richard Nixon
+Assassinations of George Moscone and Harvey Milk
+Iran hostage crisis
+Moral Majority
+1980–1991
+Reagan era
+Presidential elections
+1980
+1984
+1988
+Reaganomics
+Iran–Contra affair
+Second Gilded Age
+Crack epidemic
+Late Cold War
+Invasion of Grenada
+Reagan Doctrine
+End of the Cold War
+Space Shuttle program
+War on drugs
+Invasion of Panama
+1991–2016
+Gulf War
+NAFTA
+Los Angeles riots
+WTC bombing
+Waco siege
+Republican Revolution
+Oklahoma City bombing
+Columbine
+Bush v. Gore
+September 11 attacks
+War on terror
+War in Afghanistan
+Iraq War
+2005 Atlantic Hurricane Season
+Hurricane Katrina
+Virginia Tech shooting
+Great Recession
+Citizens United
+Killing of Osama bin Laden
+Occupy Wall Street
+2012 Benghazi attack
+Rise in mass shootings
+Tucson
+Aurora
+Sandy Hook
+Orlando
+Hurricane Sandy
+Edward Snowden NSA surveillance disclosures
+Black Lives Matter
+Obergefell v. Hodges
+2016–present
+2016 presidential election
+Trumpism
+Unite the Right rally
+Continued rise in mass shootings
+Las Vegas
+Parkland
+El Paso
+Uvalde
+2017 Atlantic Hurricane Season
+Harvey
+Irma
+Maria
+COVID-19 pandemic
+recession
+George Floyd protests
+Murder
+Attempts to overturn the 2020 United States presidential election
+January 6 attack
+Afghanistan withdrawal
+Dobbs v. Jackson Women's Health Organization
+Support of Ukraine
+2023 labor strikes
+2023 banking crisis
+Gaza war protests
+Indictments of Donald Trump
+Attempted assassination of Donald Trump in Pennsylvania
+2025 shootings of Minnesota legislators
+ICE mass deportation operations
+Mass protests after ICE killings
+Assassination of Charlie Kirk
+2026 Iran war
+Topics
+American Century
+Antisemitism
+Cultural
+Cinema
+Music
+Newspapers
+Sports
+Demography
+Immigration
+Economy
+Banking
+Education
+Higher education
+Flag
+Government
+Abortion
+Capital punishment
+Civil Rights
+Corruption
+The Constitution
+Debt ceiling
+Direct democracy
+Foreign policy
+Law enforcement
+Postal service
+Taxation
+Voting rights
+Journalism
+Merchant Marine
+Military
+Army
+Marine Corps
+Navy
+Air Force
+Space Force
+Coast Guard
+Party Systems
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+Seventh
+Religion
+Genocide
+Slavery
+Sexual slavery
+Technology and industry
+Agriculture
+Labor
+Lumber
+Medicine
+Railway
+Groups
+African American
+Asian American
+Chinese American
+Filipino American
+Indian American
+Japanese American
+Korean American
+Thai American
+Vietnamese American
+European American
+Albanian American
+English American
+Estonian American
+Finnish American
+Irish American
+Italian American
+Lithuanian American
+Polish American
+Serbian American
+Hispanic and Latino American
+Mexican American
+Jewish American
+Middle Eastern American
+Egyptian American
+Iranian American
+Iraqi American
+Lebanese American
+Palestinian American
+Saudi American
+Native Americans
+Cherokee
+Comanche
+Women
+LGBTQ
+Gay men
+Lesbians
+Transgender people
+Places
+Territorial evolution
+Admission to the Union
+Historical regions
+American frontier
+Manifest destiny
+Indian removal
+Regions
+New England
+The South
+The West Coast
+States
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Federal District
+Washington, D.C.
+Insular areas
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+Outlying islands
+Baker Island
+Howland Island
+Jarvis Island
+Johnston Atoll
+Kingman Reef
+Midway Atoll
+Navassa Island
+Palmyra Atoll
+Wake Island
+Cities
+Urban history
+Cities
+List of years
+Historiography
+Category
+Portal
+v
+t
+e
+Tax resistance
+Topics
+Conscientious objection to military taxation
+List of historical acts of tax resistance
+Tax resistance in the United States .
+List of tax resisters
+Methods
+Barter
+Gift economy
+Local currency
+Rebellion
+Self-sufficiency
+Simple living
+Tax avoidance
+Tax evasion
+Unreported employment
+Organizations
+Addiopizzo
+Aide-toi, le ciel t'aidera
+All Britain Anti-Poll Tax Federation
+Anti-Poll Tax Unions
+Association of Real Estate Taxpayers
+Catalunya Diu Prou
+Committee for Non-Violent Action
+Fasci Siciliani
+I Don't Pay Movement
+Irish National Land League
+National Campaign for a Peace Tax Fund
+National War Tax Resistance Coordinating Committee
+Northern California War Tax Resistance
+Pagal Panthis
+Peace churches
+Peacemakers
+Planka.nu
+Women's Tax Resistance League
+Zuism
+Media
+An Act of Conscience
+"Civil Disobedience"
+Clericis laicos
+The Cold War and the Income Tax: A Protest
+"Vyborg Manifesto"
+Campaigns
+by century
+14th
+Tuchin Revolt
+Harelle
+Peasants' Revolt
+15th
+Cornish rebellion of 1497
+16th
+Croquant rebellions
+Rappenkrieg
+Revolt of the Pitauds
+17th
+Angelets
+Revolt of the papier timbré
+Revolt of the va-nu-pieds
+Salt Tax Revolt in Spain
+Salt Riot in Moscow
+18th
+Boston Tea Party
+Edenton Tea Party
+Fries's Rebellion
+Gaspee affair
+No taxation without representation
+Philadelphia Tea Party
+Revolt of the Comuneros (New Granada)
+Regulator Movement in North Carolina
+Whiskey Rebellion
+White Lotus Rebellion
+19th
+Anti-Rent War
+Dog Tax War
+House Tax Hartal
+Hut Tax War of 1898
+Low Rebellion
+Mejba Revolt
+Rebecca Riots
+Saminism Movement
+Tancament de Caixes
+Tithe War
+Wallachian uprising
+20th
+Agbekoya
+Bambatha Rebellion
+Bardoli Satyagraha
+Beit Sahour
+Bondelswarts affair
+Champaran Satyagraha
+Gordon Kahl
+Kheda Satyagraha
+Irwin Schiff
+Johnson cult
+Mau movement
+Poll Tax Riots
+Poplar Rates Rebellion
+Tupper Saussy
+Turra Coo
+Salt March
+Vedaranyam March
+Women's poll tax repeal movement
+Women's War
+21st
+Anti-austerity movement in Greece
+Anti-Bin Tax Campaign
+Edward and Elaine Brown standoff
+Bonnets Rouges
+Campaign Against Home and Water Taxes
+Fuel protests in the United Kingdom
+Movimento Passe Livre
+Movimiento Pos Me Salto
+Yellow vests protests
+Related topics
+Income tax threshold
+Potentially dangerous taxpayer
+Render unto Caesar
+Sovereign citizen / Freeman on the land / Redemption movement
+Tax haven
+Tax inversion
+Tax noncompliance
+Tax protester (arguments / history in the United States)
+Tax riot
+Taxation as slavery
+Taxation as theft
+v
+t
+e
+City of Pittsburgh
+Government
+Airport
+Convention Center
+City Council
+City Hall
+Courthouse
+District Attorney
+Education
+Events
+Fire
+InterGov
+Libraries
+Mayor
+Parks
+Police
+Port
+Regional
+Sheriff
+Transit
+Water
+Economy
+Allegheny Conference
+Duquesne Club
+Chamber of Commerce
+Corporations
+Economic Club
+HYP Club
+Stock Exchange
+Other topics
+Colleges and universities
+Culture
+cookie table
+theatre
+Green Man
+Pittsburgh Parking Chair
+Picklesburgh
+Pittsburgh steak
+Dialect
+Jagoff
+Yinzer
+Flag
+Fictional settings
+Filming
+films
+television
+History
+name
+timeline
+Jewish history
+2018 synagogue shooting
+Pittsburgh toilet
+Hospitals
+Media
+Museums
+Neighborhoods
+Nicknames
+Notable Pittsburghers
+Region
+combined statistical area
+Skyscrapers
+Sports
+Transportation
+Category
+v
+t
+e
+Riots and civil unrest in the history of the United States (1607–1865)
+Colonial era &
+1776–1789
+Massachusetts
+1689 Boston revolt
+Boston bread riot (1710–1713)
+Knowles Riot (1747)
+Liberty affair (1768)
+Boston Massacre (1770)
+Shays' Rebellion (1786–1787)
+New York
+Leisler's Rebellion (1689–1691)
+New York Slave Revolt of 1712
+New York Conspiracy of 1741
+Battle of Golden Hill (1770)
+1788 doctors' riot
+North Carolina
+Culpeper's Rebellion (1677)
+Cary's Rebellion (1711)
+Regulator Movement (1765–1771)
+Pennsylvania
+Philadelphia Election riot (1742)
+Pennsylvania Mutiny of 1783
+Virginia
+Gloucester County Conspiracy (1663)
+Bacon's Rebellion (1677)
+Chesapeake rebellion (1730)
+Others
+Plundering Time (Maryland, 1644)
+Protestant Revolution (Maryland, 1689)
+Stono Rebellion (South Carolina, 1739)
+Gaspee affair (1772)
+Pine Tree Riot (1772)
+1789–1849
+Iowa
+Honey War (1839)
+Bellevue War (1840)
+Massachusetts
+Ursuline Convent riots (1834)
+Abolition Riot of 1836
+Broad Street Riot (1837)
+New York
+Eggnog riot (1826)
+New York anti-abolitionist riots (1834)
+Flour riot of 1837
+Anti-Rent War (1839–1845)
+Astor Place Riot (1849)
+Ohio
+1792 Cincinnati riot
+Cincinnati riots of 1829
+Cincinnati riots of 1836
+Cincinnati riots of 1841
+Pennsylvania
+Whiskey Rebellion (1791–1794)
+Fries's Rebellion (1799–1800)
+Philadelphia race riot (1834)
+Destruction of Pennsylvania Hall (1838)
+Buckshot War (1838)
+Lombard Street riot (1842)
+Muncy Abolition riot of 1842
+Philadelphia nativist riots (1844)
+Rhode Island
+1824 Hard Scrabble race riot
+1831 Snow Town race riot
+Dorr Rebellion (1841–1842)
+Others
+1811 German Coast uprising
+Nat Turner's Rebellion (1831)
+Blackburn Riots (1833)
+Baltimore bank riot (1835)
+Snow Riot (1835)
+1849–1865
+California
+Squatters' riot (1850)
+San Francisco Vigilance Movement (1851–1856)
+Illinois
+Lager Beer Riot (1855)
+Charleston riot (1864)
+Kansas
+Bleeding Kansas (1854–1861)
+Wakarusa War (1855)
+Sacking of Lawrence (1856)
+Pottawatomie massacre (1856)
+Battle of Black Jack (1856)
+Battle of Fort Titus (1856)
+Battle of Osawatomie (1856)
+Battles of Franklin's Fort (1856)
+Marais des Cygnes massacre (1856)
+Battle of the Spurs (1859)
+Maine
+Bath anti-Catholic riot of 1854
+Portland Rum Riot (1855)
+Maryland
+Know-Nothing Riots of 1856
+Baltimore riot of 1861
+Michigan
+1849 Detroit riot
+Detroit brothel riots (1855–1859)
+Detroit race riot of 1863
+New York
+New York City Police riot (1857)
+Dead Rabbits riot (1857)
+Brooklyn riot (1862)
+Buffalo riot of 1862
+New York City draft riots (1863)
+Ohio
+Cincinnati riot of 1853
+Cincinnati riots of 1855
+Battle of Fort Fizzle (1863)
+Others
+Erie Gauge War (1853–1854)
+Bloody Monday (1855)
+Washington D.C. Know-Nothing Riot (1857)
+New Orleans Know-Nothing Riot (1858)
+John Brown's raid on Harpers Ferry (1859)
+Morrisite War (1862)
+Southern bread riots (1863)
+Related
+List of incidents of civil unrest in Colonial North America
+Mass racial violence in the United States
+Authority control databases
+International
+GND
+National
+United States
+Israel
+Other
+Yale LUX
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Whiskey_Rebellion&oldid=1377157978"
+Categories:
+Whiskey Rebellion
+1790s crimes in the United States
+1790s in the United States
+1791 crimes in the United States
+1791 in the United States
+1792 crimes in the United States
+1792 in the United States
+1793 crimes in the United States
+1793 in the United States
+1794 crimes in the United States
+1794 in the United States
+1791 conflicts
+1792 conflicts
+1793 conflicts
+1794 conflicts
+18th-century rebellions
+3rd United States Congress
+Alcohol in the United States
+Alexander Hamilton
+1790s in Pennsylvania
+Presidency of George Washington
+Rebellions against the United States
+Tarring and feathering in the United States
+Tax resistance in the United States
+United States military killing of American civilians
+Military career of George Washington
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Wikipedia pages semi-protected against vandalism
+Use American English from January 2017
+All Wikipedia articles written in American English
+Use mdy dates from October 2023
+Pages using gadget WikiMiniAtlas
+CS1 errors: ISBN date
+Source attribution
+Pages displaying short descriptions of redirect targets via Module:Annotated link
+Articles with Internet Archive links
+Commons category link from Wikidata
+Pages using interlanguage link with the wikidata parameter
+Good articles
+Pages using the Kartographer extension
+Search
+Search
+Whiskey Rebellion
+24 languages   Add topic

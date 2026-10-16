@@ -32,52 +32,28 @@ Department Exchanges
 Dirham Tabaa ‘24
 B.S. Computer Science, Carnegie Mellon University Qatar
 Our Global Student Footprint
-Top 10 Student Countries
-# of Students
-United States
-8,994
-China
-3,370
-India
-1,953
-Taiwan
-303
-South Korea
-269
-Canada
-204
-Rwanda
-197
-Qatar
-175
-Singapore
-113
-Mexico
-37
+Top 10 Student Countries # of Students
+United States 8,994
+China 3,370
+India 1,953
+Taiwan 303
+South Korea 269
+Canada 204
+Rwanda 197
+Qatar 175
+Singapore 113
+Mexico 37
 Alumni Density
-Top 10 Alumni Countries
-# of Alumni
-United States
-98,315
-China
-2,445
-India
-2,090
-South Korea
-1,277
-Qatar
-753
-Taiwan
-702
-Japan
-638
-Canada
-574
-Singapore
-565
-Hong Kong
-447
-More data about Carnegie Mellon University students, faculty, staff and alumni is available from the
-Office of Institutional Research and Analysis
-.
+Top 10 Alumni Countries # of Alumni
+United States 98,315
+China 2,445
+India 2,090
+South Korea 1,277
+Qatar 753
+Taiwan 702
+Japan 638
+Canada 574
+Singapore 565
+Hong Kong 447
+More data about Carnegie Mellon University students, faculty, staff and alumni is available from the Office of Institutional Research and Analysis.
 Updated as of August 2023
