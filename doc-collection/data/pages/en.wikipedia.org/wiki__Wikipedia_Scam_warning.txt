@@ -1,0 +1,72 @@
+URL: https://en.wikipedia.org/wiki/Wikipedia:Scam_warning
+
+Wikipedia:Scam warning - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Wikipedia information page
+This is an information page.
+It is not a Wikipedia policy or guideline; rather, its purpose is to explain certain aspects of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus.
+Shortcut
+WP:SCAMWP:SCAM
+Scam warning: Scammers may contact you and offer Wikipedia services in exchange for payment.
+They may pretend to be Wikipedia volunteers, administrators, or claim to represent professional public relations firms and ask for payment in exchange for writing and publishing an article for you, getting a draft article accepted quickly, preventing or reversing the deletion of an article, or protecting an article from changes. These paid services are scams.
+Help from real Wikipedia volunteers is always free. We will never ask for money or other compensation.
+No one can guarantee that an article will be accepted or protected; any such guarantees are lies.
+If someone contacts you offering services in exchange for payment:
+Do not respond to them. Immediately stop all contact and block them from contacting you further.
+Do not share any personal information and never share your Wikipedia account password.
+Do not click on any links, download any files, or open any files that they send to you.
+Do not send any money or follow any of their instructions.
+What to do instead:
+Forward the entire conversation, including email headers, to paid-en-wpwikipedia.org.
+If you shared your Wikipedia account password, change your Wikipedia password immediately and consider enabling two-factor authentication.
+If you clicked on any links or opened any files they sent you, consider running a full malware scan on your device.
+Wikipedia cannot help you recover any money you may have already sent.
+Identifying and handling scams
+The following list describes common behaviors of most scammers:
+Scammers will look for declined draft articles, recently deleted articles, editors writing about themselves or about subjects in which they appear to have a connection or personal interest:
+When a suitable target is found, they will contact the user and offer them services in exchange for payment – such as writing and publishing an article for them, getting a draft article accepted quickly, preventing or reversing the deletion of an article, or protecting an article from changes.
+Scammers may claim to be Wikipedia administrators, Wikimedia Foundation staffers, or other influential people, or claim that they can pull strings with editors willing to circumvent Wikipedia rules in exchange for payment.
+Scammers will pressure you and insist that you communicate with them outside of Wikipedia:
+They may encourage or pressure you to use LinkedIn, Snapchat, Facebook, WhatsApp, WeChat, Discord, email, Instagram or the telephone to communicate with them instead, so that legitimate and security-aware Wikipedia editors won't be able to see what's going on and alert you to the scam.
+Scammers will offer "guarantees" as part of their services:
+Any "guarantees" they offer are lies. No one can guarantee anything about what will happen on Wikipedia.
+If someone contacts you and offers any kind of Wikipedia services in exchange for payment, it is a scam.
+Handling scams
+Stop all communication with them immediately and block them from contacting you further. Do not respond to the scammer, even to tell them that you are aware of the scam or that you are reporting their activity.
+Forward the entire conversation, including any email headers, to paid-en-wpwikipedia.org.
+Do not interact with any messages, links, or files they sent you.
+Keep a local copy of any messages or other correspondence that you may need to supplement a report to your bank, law enforcement, or another relevant authority. Do not otherwise interact with the material.
+If you clicked any links or downloaded or opened any files they sent you:
+Change your Wikipedia password immediately. You should also consider enabling two-factor authentication on your account.
+Run a full malware scan on your device.
+Wikipedia cannot help you recover money lost or stolen as a result of a scam, but reporting the activity can help prevent future scams and protect others from becoming victims. If you believe that you were defrauded, consider reporting the incident to your local authorities or a consumer protection agency in your jurisdiction.
+Paid editing
+See also: Wikipedia:Conflict of interest § Solicitations by paid editors
+Some people are paid to edit Wikipedia. Paid editors are:
+not employed by the Wikimedia Foundation or by the Wikipedia community; they have no authority beyond that of any other volunteer editor.
+required to follow Wikipedia's paid editing process of disclosure and policy.
+required to follow Wikipedia's conflict of interest process of disclosure and policy.
+required to comply with Wikipedia's usual policies and guidelines, and their edits will be reviewed by the community like any other edits.
+Some paid editors knowingly create "sockpuppets" – in violation of Wikipedia policy – to try to hide their paid edits; avoid having their paid edits flagged, subjected to further attention or higher scrutiny, or connected with their paid edits from other sockpuppet accounts; or bypass automated filters and deceive other editors that would draw attention to their paid edits. Edits by sockpuppet accounts, or users who are violating Wikipedia's sockpuppetry policy, can be reverted without discussion.
+If you receive a solicitation for paid editing services that contradicts any of the above, the paid editor is misleading you. Before employing a paid editor, you should read Wikipedia's paid editing disclosure and conflict of interest pages and verify that they are following these rules.
+Getting volunteer help
+For volunteer help, see:
+The Teahouse: Q&A for new editors.
+The Help Desk: for questions relating to Wikipedia.
+Articles for Creation Help Desk: for questions about article submissions via the Articles for Creation process.
+Conflict of interest noticeboard: for concerns about paid and conflict of interest editing.
+See also
+Wikipedia:The truth about paid Wikipedia editing
+Operation Orangemoody
+{{Scam warning}}
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Scam_warning&oldid=1377850870"
+Categories:
+Wikipedia information pages
+Wikipedia warning essays
+Hidden category:
+Wikipedia semi-protected project pages
+Search
+Search
+Wikipedia:Scam warning
+4 languages   Add topic

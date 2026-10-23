@@ -1,0 +1,332 @@
+URL: https://en.wikipedia.org/wiki/Virtual_museum
+
+Virtual museum - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Museum in a digital format
+The Frank Lloyd Wright virtual museum in Second Life, in 2010[1]
+A virtual museum is a digital entity that draws on the characteristics of a museum to complement, enhance, or augment the museum experience through personalized, interactive, and rich content. Virtual museums can act as the digital footprint of a physical museum, or act independently while maintaining the authoritative status as bestowed by the International Council of Museums (ICOM) in its definition of a museum. In tandem with the ICOM mission of physical museums, virtual museums provide public access to the knowledge systems embedded in their collections, systematically and coherently organize their display, and preserve their collections for the long term.
+As with traditional museums, virtual museums can be designed around specific topics (such as art or natural history), or can consist of online exhibitions created from primary or secondary resources (as, for example, in a science museum). Moreover, a virtual museum can refer to the mobile or online offerings of traditional museums (e.g., displaying digital representations of its collections or exhibits); or can be born digital content such as, 3D environments, net art, virtual reality and digital art. Often discussed in conjunction with other cultural institutions, museums, by definition, are essentially separate from their sister institutions, such as libraries or archives. Virtual museums are usually, but not exclusively, delivered electronically when they are denoted as online museums, hypermuseums, digital museums, cybermuseums, or web museums.
+Offline pioneers (CD-ROM and digital media before 2000)
+[edit]
+The following museums were created with digital technology before the web gained any form of popularity or mass usability. CD-ROM and postal mail distribution made these museums available worldwide, before web browsers, fast connections, and ubiquitous web usage.
+The Canadian new media artist collective named "La société de conservation du présent", created the world's first Virtual museum accessible from 1989 to 1993 by modem via Bell Canada's Alex (videotex service) system. Critical of rising neo-liberalism and the standardization of museum and art practices, "the Musée Standard proposes to consider the circulation of information, the inscription of the archive in public space and its energization through a process of anarchy as an activity intimately linked to the movements of life and art."[2][3]
+The Australian new media artist Jeffrey Shaw created a Virtual Museum [4][5] in 1991. As presented in 1992 at Ars Electronica, it also incorporated pioneering AR features.
+The Virtual Museum, Apple Computer. Released as a CD-ROM in 1992, and distributed free worldwide to 1000 schools, universities, and museums, The Virtual Museum was an interactive, electronic museum where users moved from room to room, and selected any exhibit in a room for more detailed examination. The exhibits in the museum were educational, encompassing topics such as medicine, plant growth, the environment, and space. To facilitate interaction with the museum, a new method for navigating through a prerendered 3D space and interacting with objects in that space was developed, called 'virtual navigation'. Virtual navigation employed real-time video decompression for the display of, and interaction with, high-quality computer animation. In addition, a representation for 3D objects in animated sequences was used, which permitted pixel-accurate, frame-accurate object picking, so that a viewer was able to select any 3D object to trigger movement within the 3D space, to examine an exhibit in animated form, or to play a digital movie or soundtrack. The use of precomputed video permitted 3D navigation in a realistic-looking space, without requiring special-purpose graphics hardware. This was designed as a project to showcase new techniques in computer graphics at the time, particularly to push the envelope of what QuickTime was capable of, as it was still in beta. This project was the grandfather of QuickTime VR, which made sense given Eric Chen's role in the project. The Virtual Museum was a product of Apple Computer, Inc.'s 3D graphics group and was created by Gavin Miller, Eric Hoffert, Shenchang Eric Chen, Elizabeth Patterson, Dean Blackketter, Steve Rubin, Sally Applin, Derrick Yim and Jim Hanan under the leadership of Frank Crow.[6][7][8] Apple's Virtual Museum was featured at SIGGRAPH 1992, CHI 1992, MacWorld, Tokyo 1992, Demo ’92, Palm Springs, CA; and Supercomm, Atlanta, GA in 1993.
+Guggenheim Virtual Museum. In 1999, the Solomon R. Guggenheim Foundation released an experimental interactive virtual museum, conceived by the American design office Asymptote Architecture and based on VRML technology, to provide a virtual hub for the various venues of the foundation around the world, as well as to host exhibitions of cyberart.[9]
+Online pioneers (web-based sites established before 2000)
+[edit]
+The following online museums were pioneers. In the period, web pages were simpler, bandwidth was slower, the concepts of the online museum were still developing, and there were limited multimedia technologies available within web browsers. Some online museums began in non-website electronic forms, and not all were established by existing physical museums. Many online museums have become significant sources of scholarly information, including extensive citations within Wikipedia.
+ibiblio – founded 1992. An online exhibition with the backing of the Library of Congress, ibiblio hosted EXPO Ticket Office[10] with exhibits including a Vatican Exhibit[11] and even a virtual "restaurant"[12] and "post office".[13] This looks very simplistic now, but was novel in 1991.
+Museum of Computer Art (MOCA) – founded in 1993. Directed by Don Archer, a non-profit corporation under charter from the Department of Education of New York State (US). MOCA was awarded .museum top-level domain (TLD) status by the Museum Domain Management Association (MuseDoma) in 2002 and is now hosted on the Web.
+WebMuseum, Paris – founded online in 1994 as the WebLouvre, before being required to change its name. A pioneering virtual or online museum, it was created by Nicholas Pioch with images digitized from books and other public-domain sources. It is now hosted by ibiblio.[14]
+The Lin Hsin Hsin Art Museum – online 1994. An early virtual art museum website by the Singaporean artist Lin Hsin Hsin.[15][16][17][18][19]
+The Israel Museum, Jerusalem – first launched in 1995, Hebrew pages 1996.[20]
+The Museum of the History of Science in Oxford – opened 1683, online 21 August 1995. Later renamed the History of Science Museum, it was the earliest physical museum to inaugurate a programme of virtual exhibitions with detailed collections-based content and high-resolution images of paintings, books, instruments, and other artworks and artefacts. Located in the oldest surviving purpose-built museum building in the world, it was able to initiate a website relatively early because of the networking facilities and expertise available in the university environment. Web pages were created by staff-member Giles Hudson.[21][22] The site was mounted on Oxford University's 'Sable' UNIX mainframe, occupied 150MB, and GIFs were used as not all browsers supported JPEGs at the time.[23]
+Virtual Museum of Computing – founded 1995.[24] This is an eclectic collection of links and online resources concerning the history of computers and computer science.
+The Natural History Museum, London, first United Kingdom national museum with a web server, online in 1995.[25]
+The Science Museum in London – founded 1857, online 1995.[26] One of the major science museums in the world was able to establish an early web presence partly due to the proximity of Imperial College, but was also spurred on by the fact that the Natural History Museum, which is next door, had recently established the first dedicated museum web server in the United Kingdom.
+Virtual Museum of New France – online 1997. Established by the Canadian Museum of Civilization Corporation.
+Asia Society Virtual Gallery – online 1998. Created for the exhibition "More Than Meets the Eye".[27]
+The Natural History Museum of Los Angeles County – founded 1910, online 1998. The museum is the largest natural and historical museum in the Western United States and an active research center.
+WebExhibits – founded 1999, online 1999. WebExhibits is an interactive, web-based museum that encourages visitors to think about and explore scientific and cultural phenomena in new ways.[28] Exhibits include "Investigating Bellini's Feast of the Gods," "Causes of Color," "Color Vision & Art," Pigments through the Ages," "Butter," "Van Gogh's Letters," "Poetry through the Ages," "Calendars through the Ages," and "Daylight Saving Time."
+Museo Nazionale Scienza e Tecnologia Leonardo da Vinci – founded 1954, online 1996. The National Museum of Science and Technology, online since 1996, launched in 1999 an online 3D virtual cooperative environment, the first of its kind in the museum world.[29]
+Ljubljana: Open-Air Museum – founded 1993, online 1996. Ljubljana, the capital of Slovenia, was presented as a huge museum where streets were the exhibitions of the architecture and building interiors were museum rooms. The method of the presentation was interactive maps and interactive virtual reality panoramas.[30] The aim of the project was to create "3D like" virtual visit of the museum and replacing and documenting the "reality" exhibition after it was discontinued in its original "reality form". After 1996, the project was extended to "Virtual museums of Slovenia", covering all museums in the country, totalling over 106 museum exhibitions.[31][32] Further development of the "Virtual museum"[33] developed to project City View documenting natural and cultural heritage of the country with over 10,000 locations added by 2006.
+The Thylacine Museum – online 1999. The Thylacine Museum[34] is an online scientific and educational resource aimed at promoting a greater awareness and understanding of the biology, behaviour, and history of the thylacine, or Tasmanian tiger (Thylacinus cynocephalus).
+Other online museums
+[edit]
+This section may lend undue weight to certain ideas, incidents, or controversies. Please help improve it by rewriting it to create a more balanced presentation. Discuss and resolve this issue before removing this message. (July 2023)
+Most physical museums now have an online presence with varying degrees of online information. At one end of the spectrum, museums may provide simple contact and background information plus a list of exhibitions (brochure museums). On the other end of the spectrum, there are museums that exist only online, or those that have a physical building but offer extensive online exhibits, interactive online features, multimedia, and searchable or browsable collections (content museums, learning museums, virtual museums).[35]
+The following are a few other museums online:
+Carnamah Historical Society is an Australian historical society whose Virtual Museum: to be known and distinguished as Carnamah won a Museums and Galleries National Award in 2014.[36]
+Central Illinois' On-Line Broadcast Museum is a virtual museum that documents, in detail, the history of television stations broadcasting in Central Illinois.[37]
+GLBT History Museum of Central Florida is an organization founded in 2005 that hosts a virtual museum and organizes mobile displays.[38]
+Google Arts & Culture is an online compilation of high-resolution images of artworks from galleries worldwide, as well as a virtual tour of the galleries in which they are housed. The project was launched on 1 February 2011 by Google, and includes works in the Tate Gallery, London; the Metropolitan Museum of Art, New York City; and the Uffizi, Florence.[39]
+International Museum of Women is an online-only museum that does not have a physical building and instead offers online exhibitions about women's issues globally as well as an online community. Online exhibitions include "Imagining Ourselves" (launched 2006) about women's identity, "Women, Power and Politics" (2008), and "Economica: Women and the Global Economy" (2009).[citation needed]
+International New Media Gallery (INMG) is an online museum specialising in moving image and screen-based art. The INMG is dedicated to exploring current debates and topics in art history: touching on areas such as migration, war, environmental activism, and the Internet itself. The gallery publishes extensive academic catalogues alongside its exhibitions. It also hosts spaces for discussion and debate, both online and offline.[citation needed]
+Internetmuseum is a Swedish digital museum that opened in 2014. The ambition of the museum is to spread knowledge of the Swedish history of Internet and to preserve the digital heritage.[40]
+Mobile Phone Museum is a virtual museum curating mobile phones and related telecommunication technology, founded in 2021.[citation needed]
+Museum With No Frontiers is a virtual museum set up by MWNF and launched in 2005. It is a real museum, including a Collection, Exhibitions and a Database, and is the result of international cooperation between museums and cultural heritage organisations, based on the MWNF methodology. So far, three thematic museums have been completed: Discover Islamic Art (www.discoverislamicart.org) (online since 2005, Database of 2,113 objects and monuments from 22 countries, 19 Virtual Exhibitions); Discover Baroque Art (discoverbaroqueart.org) (online since 2010, Database of 588 objects and monuments from 7 countries, 9 Virtual Exhibitions), and Sharing History (sharinghistory.org) (focusing on Arab-Ottoman-European relations between 1815 and 1918, online since 2015, Database of 2,636 objects and monuments from 22 countries, 10 Virtual Exhibitions).[citation needed]
+Museum of Art & Photography (MAP) in Bengaluru, India, launched its digital museum, one of the first in the country, in December 2020, taking its collection, exhibitions, and programming online. MAP's mission is to take art and culture into the heart of the community, making the arts accessible to all. Through the digital museum, MAP is reaching out to and educating audiences all over the world about Indian visual culture.[citation needed]
+National Portal and Digital Repository for Museums of India[41] is designed and developed by Human-Centred Design and Computing Group of Centre for Development of Advanced Computing (C-DAC), India[42] in collaboration and with funding support from Ministry of Culture, Government of India. The National Portal for Museums of India was formally launched on 21 October 2014.[43][44][45][46] The portal offers search & retrieval and integrated access to digitized collections of 10 national museums namely National Museum of India, New Delhi; Allahabad Museum, Allahabad; Indian Museum, Kolkata; National Gallery of Modern Arts (NGMA), New Delhi; National Gallery of Modern Arts (NGMA), Mumbai; National Gallery of Modern Arts (NGMA), Bengaluru; Archaeological Survey of India (ASI) Museum, Goa; Archaeological Survey of India (ASI) Museum, Nagarjunakonda; Salar Jung Museum, Hyderabad and Victoria Memorial Hall, Kolkata. All participating museums are using JATAN: Virtual Museum Builder, a software developed by C-DAC[47] for the purpose of standardization. The National Portal for Museums of India also won the Special Mention Grand Jury Manthan Award in e-Culture, Heritage & Tourism category in 2015.[48]
+St George's Museum, founded in Walkley near Sheffield in 1875 by the Victorian art critic John Ruskin and later dispersed, has been recreated as a virtual museum by the "Ruskin at Walkley" project.[49]
+Tucson Gay Museum is an online-only archives museum that, for security reasons as a minority group archives museum, does not use a publicly accessible physical building and instead offers online exhibitions about Arizona LGBTQIA+ history.[citation needed]
+UK's Culture24 is an online guide to public museums, galleries, libraries, archives, heritage sites, and science centres in the United Kingdom.[citation needed]
+Virtual Museum of Canada is Canada's national virtual museum. With over 2,500 Canadian museums, the VMC brings together Canada's museums regardless of size or geographical location.
+Virtual Museum of Modern Nigerian Art is the VMMNA is the first of its kind in Africa. Hosted by the Pan-African University, Lagos, Nigeria, this virtual museum offers a good view of the development of Nigerian Art over the past fifty years.[citation needed]
+Virtual Museum of Soviet Repression in Belarus presents recordings of audio- and video-recollections of witnesses of Soviet repression in Belarus. The museum is operated by historians and other scientists from Belarus, based on a private initiative. It started collecting materials in 2007 and has been operational since 2014.[50]
+Western Australian Museum is a CyberMuseum using social media sites of Twitter and Facebook to tell the history of Perth, Western Australia, through photographs, videos and news feeds.[51][52]
+The Fortnite Holocaust Museum, a virtual museum in the video game Fortnite Creative dedicated to the Holocaust, was launched in August 2023.[53]
+Research and scholarship
+[edit]
+The digitalization of museums is a task that has combined efforts, budgets, and research from many museums, cultural associations, and governments around the world. For the last few years, there have been projects related to Information Society Technologies dealing with: preservation of cultural heritage, restoration, and learning resources. Some examples of contributions in the field of digital and virtual museography: Euromuse.net (EU), DigiCULT (EU), Musings, and Digital Museums Projects. The European Community has founded various projects to support this field, like V-Must, the Virtual Museum Transnational Network that aims to provide the heritage sector with the tools and support to develop Virtual Museums that are educational, enjoyable, long-lasting, and easy to maintain.[54] A notable example of research work on digitizing information to replenish museum collections can be the conversion into digital format of information archived in display holograms.[55]
+In 2017, the Virtual Multimodal Museum continued to explore the core concept of the virtual museum, where Working Group 1.1 was working towards redefining the definition of the virtual museum in order to keep up with concurrent research.[citation needed]
+An international conference in the field of museums and their websites has been the annual Museums and the Web conference.
+In 2004, Roy Hawkey of King's College London reported that "Virtual visitors to museum websites already out-number physical (on-site) visitors, and many of these are engaged in dedicated learning".[56]
+In establishing virtuality and promoting cultural development, the goal is not merely to reproduce existing objects, but to actualize new ones. Information and communication technologies are not merely tools for processing data and making it available, but can be a force and stimulus for cultural development.[57]
+Interactive environments
+[edit]
+A user avatar moving around a 3D virtual museum
+There are several types of interactive environments. One is to re-create 3D space with visual representations of the museum by a 3D architectural metaphor, which provides a sense of place using various spatial references. They usually use 3D modelling, VRML (Virtual Reality Modelling Language) and now X3D(successor to VRML) for viewing. Various kinds of imaging techniques for building virtual museums, such as infrared reflectography, X-ray imaging, 3D laser scanning, IBMR (Image Based Rendering and Modeling) techniques. In the case of EU-funded projects, the ViHAP3D, a new virtual reality system for scanning museum artifacts, has been developed by EU researchers.[citation needed] Another interactive three-dimensional spatial environment is QTVR. Being a pre-rendered, fixed environment, it is more restricted in regard to moving freely around in 3D space, but the image quality can be superior to that of real-time rendered environments. This was especially the case in the mid-1990s when computing power and online speeds were limited.
+Mobile telepresence
+[edit]
+Mobile telepresence device
+In 2013, the National Museum of Australia and the Australian Commonwealth Scientific and Industrial Research Organisation (CSIRO) trialled a virtual museum tour system that uses mobile telepresence technology and requires a high-speed broadband connection. The technology allows remote visitors, for example, school students from regional and remote Australia, to interact with a museum facilitator through a robot equipped with an omnidirectional camera. Each remote visitor is able to control their own view of the museum gallery.[58][59][60]
+Domain names
+[edit]
+Museums have a variety of top-level domain names. In the United States, many are .org. Some are .gov, or governmental domains for other countries. A few are .edu in the US, either as part of a larger educational institution, or grandfathered in when .edu regulations changed (e.g., as with the Exploratorium). The .museum domain name is used by some museums, as organized by MuseDoma, but is not widely used.[61]
+Prospects of development
+[edit]
+Depending on the scientific position of the researchers, industry, or instrumental use, virtual museums are regarded and used in different ways. For example, as a kind of creative activity; an innovative educational tool; a fashion or advertising project; а room with multimedia capabilities; the representation of the traditional Museum on the Internet; a gadget; the publication; website; type of communication; the electronic catalogue, etc.[62]
+See also
+[edit]
+Virtual Library museums pages
+Museology
+References
+[edit]
+↑ "Frank Lloyd Wright Foundation Establishes Licensing Agreement with Frank Lloyd Wright Virtual Museum in Second Life". New World Notes. Retrieved 21 September 2022.
+↑ Létourneau, André Éric (2019). Des modes d'existence du premier musée numérique de (La société de conservation du présent), in L'art contemporain et le temps multiple, published par Anolga Rodionoff. Hermann, Paris, France. pp. 86–94. ISBN 9791037002136.
+↑ Létourneau, André Éric (2013). Musée Standard Culture légitime in (La Société de Conservation du Présent) 1985–1994. D'ailleurs, ceux qui viendront après ne s'en souviendront pas non plus, published par Sonia Pelletier with Michel Lefebvre and Bernard Schütze. Topo, Montreal, Canada. pp. 216–236. ISBN 9782981058010.
+↑ Duguet, Anne-Marie (2003). Jeffrey Shaw, Future Cinema. The Cinematic Imaginary after Film. ZKM Karlsruhe and MIT Press, Cambridge, Massachusetts. pp. 376–381. ISBN 9780262692861.
+↑ Duguet, Anne-Marie; Klotz, Heinrich; Weibel, Peter (1997). Jeffrey Shaw: A User's Manual. From Expanded Cinema to Virtual Reality. ZKM Cantz. pp. 9–20.
+↑ Miller, Gavin; Hoffert, Eric; Chen, Shenchang Eric; Patterson, Elizabeth; Blackketter, Dean; Rubin, Steve; Applin, Sally Ann; Yim, Derrick; Hanan, Jim (1992). "The virtual museum: Interactive 3D navigation of a multimedia database". The Journal of Visualization and Computer Animation. 3 (3): 183–197. doi:10.1002/vis.4340030305.
+↑ "Virtual Museum". Archived from the original on 2016-03-03.
+↑ "The Virtual Museum: Amazon.com: Books". Amazon. Archived from the original on 2016-03-05.
+↑ Bianchini, Riccardo. "When museums became virtual – Part 1: the origins". Inexhibit. Inexhibit magazine. Archived from the original on 2016-09-20.
+↑ "EXPO Ticket Office". Archived from the original on 2005-10-01.
+↑ "Vatican Exhibit". Archived from the original on 2005-09-16.
+↑ "EXPO Restaurant Le Cordon Bleu". Archived from the original on 2005-09-17.
+↑ "EXPO Post Office". Archived from the original on 2006-02-27.
+↑ Web Museum, Paris Archived 2005-10-01 at the Wayback Machine, ibiblio.org.
+↑ "Virtual Museum Tour – from Reality to Fantasy and Back", p.32, Mishkafayim Art Magazine No.28, The Israel Museum, Jerusalem, Israel, April 1996
+↑ 24 Hours in Cyberspace, p.150, Simon & Schuster, U.S.A., November 1996
+↑ "Lin Hsin Hsin Art Museum", Sightings!, Art, NetVoice October 1997, p.51
+↑ Museums Re-Examine Sites, With Frames, and Without, New York Times, U.S.A., 13 March 1997
+↑ "Museums of the Future Symposium", Co-ordinated and edited by Morten Hertzum, Interaction Design Centre, University of Limerick, Limerick, Ireland, 2 June 1998
+↑ "The Israel Museum, Jerusalem: Museum Tour". Archive.org. Israel Museum. 1 June 1995. Archived from the original on 1996-11-06. Retrieved 2 August 2023.
+↑ Jonathan P. Bowen, Jim Angus, Jim Bennett, Ann Borda, Alpay Beler, Andrew Hodges, and Silvia Filippini-Fantoni, The Development of Science Museum Websites: Case Studies. In Leo Tan Wee Hin and Ramanathan Subramaniam (eds.), E-learning and Virtual Science Centers, Section 3: Case Studies, Chapter XVIII, pages 366–392. Idea Group Publishing, Hershey, US, 2005.
+↑ Jonathan P. Bowen, Jim Bennett, and James Johnson, Virtual Visits to Virtual Museums Archived 2010-11-04 at the Wayback Machine. In Jennifer Trant and David Bearman (eds.), Proc. Museums and the Web 1998 Archived 2010-11-21 at the Wayback Machine, Toronto, Canada, 22–25 April 1998. CD-ROM, Archives & Museum Informatics, 5501 Walnut Street, Suite 203, Pittsburgh, Pennsylvania 15232-2311, US, 1998.
+↑ "The Museum on the Internet". Archived from the original on 1997-06-23.
+↑ Bowen, Jonathan P. (2010). "A Brief History of Early Museums Online". The Rutherford Journal. 3.
+↑ "The Natural History Museum". Archive.org. London: The Natural History Museum. 1995. Archived from the original on 1997-06-13. Retrieved 2 August 2023.
+↑ "Science Museum – London". Archive.org. London: The Science Museum. 1995. Archived from the original on 1997-06-05. Retrieved 2 August 2023.
+↑ "Asia Society: Japanese Art – Virtual Gallery (QuickTime)". Archived from the original on 2016-03-13.
+↑ Michael Douma (2000). Lessons learned from WebExhibits.org: Practical suggestions for good design Archived 2010-11-06 at the Wayback Machine. In: Museums and the Web 2000 Archived 2010-10-17 at the Wayback Machine. Proceedings. Ed. by David Bearman & Jennifer Trant.
+↑ Thimoty Barbieri, Paolo Loiudice, Paolo Paolini, Francesca Alonzo, Giuliano Gaia (2000). "Cooperative visits for Museums WWW Sites". Museums and the Web Conference. Retrieved 2 August 2023.{{cite web}}: CS1 maint: multiple names: authors list (link)
+↑ "City View of Ljubljana :: Virtualni sprehod po Ljubljani :: prostorski atlas". Archived from the original on 2011-09-16.
+↑ "Slovenski muzeji in galerije". Archived from the original on 2011-09-14.
+↑ "Archived copy" (PDF). Archived (PDF) from the original on 2012-04-13. Retrieved 2011-09-21.{{cite web}}: CS1 maint: archived copy as title (link)
+↑ "Virtual Guide to Slovene Museums and Galleries". Archived from the original on 2014-04-18.
+↑ "The Thylacine Museum – A Natural History of the Tasmanian Tiger".
+↑ Schweibenz, Werner. "The Development of Virtual Museums". ICOMNEWS. no. 3. 2004.
+↑ "MAGNA 2014 Winners". Museums Australia Archived 2014-10-30 at the Wayback Machine. Retrieved 8 November 2014
+↑ Tarter, Steve (19 September 2022). "Online museum recalls the history of central Illinois radio and TV stations". NPR Illinois. National Public Radio. Retrieved 19 August 2024.
+↑ "GLBT History Museum of Central Florida – RICHES™". riches.cah.ucf.edu. Retrieved 2024-05-17.
+↑ Kennicott, Philip (2011-02-01). "Google Art Project: 'Street view' technology added to museums". The Washington Post, Arts Post. Archived from the original on 2012-10-15. Retrieved 2011-08-25.
+↑ "Swedish "internet museum" investigates our digital past". Sveriges Radio. 8 December 2014. Archived from the original on 8 November 2017. Retrieved 7 November 2017.
+↑ "National Portal and Digital Repository". Archived from the original on 2017-06-25. Retrieved 2017-05-23.
+↑ "National Digital Repository and Portal for Museums of India". cdac.in. Archived from the original on 2018-02-21.
+↑ "Launch of National Portal of Museums of India – Ministry of Culture, Government of India". www.indiaculture.nic.in.
+↑ "Union Minister of State for Culture and Tourism, Shri Shripad Naik launches the National Portal for Museums". pib.nic.in. Archived from the original on 2018-02-21.
+↑ "Love visiting museums? They are just a click away – Latest News & Updates at Daily News & Analysis". 19 March 2014. Archived from the original on 21 February 2018.
+↑ "Take a virtual tour of 10 national museums – Times of India". The Times of India. 28 March 2014. Archived from the original on 2016-12-01.
+↑ "Jatan virtual museum builder". cdac.in. Archived from the original on 2018-02-21.
+↑ "E-Culture, Heritage & Tourism Winner". Archived from the original on 2017-03-18. Retrieved 2017-05-23.
+↑ "Ruskin at Walkley". www.ruskinatwalkley.org. Archived from the original on 2017-07-06.
+↑ "Музей савецкіх рэпрэсій". Archived from the original on 2015-05-24.
+↑ "Perth's online memory lane". 6PR. Archived from the original on 2014-07-14. Retrieved 2014-07-05.
+↑ "Uncovering old Perth through new networks". ABC Perth. 2013-04-08. Archived from the original on 2014-07-14.
+↑ "Fortnite Has A Museum Dedicated To Teaching About The Holocaust". Kotaku. 2023-08-04. Retrieved 2024-11-11.
+↑ "V-MUST: Virtual Museum Transnational Network; a EU FP7-funded Network of Excellence". Archived from the original on 2013-04-28. Retrieved 2013-03-21.
+↑ Rabosh, E. V.; Balbekin, N. S.; Petrov, N. V. (2023). "Technologies for analog-to-digital conversion of information archived in display holograms: I. discussion". Journal of the Optical Society of America A. 40 (4): B47–B56. doi:10.1364/JOSAA.478498. PMID 37132986. S2CID 257410008.
+↑ Hawkey, Roy (September 2004). "Learning with digital technologies in museums, science centres and galleries". Futurelab. Archived from the original on 2012-02-25. Retrieved 2011-08-25.
+↑ Elisa Giaccardi (2006). "Collective Storytelling and Social Creativity in the Virtual Museum: A Case Study". Design Issues. 22 (3): 29–41. doi:10.1162/desi.2006.22.3.29. S2CID 57563824.
+↑ "National Museum of Australia – Robot tours". Archived from the original on 2013-04-20.
+↑ "Museum Robot: CSIRO". Archived from the original on 2013-03-16. Retrieved 2013-04-15.
+↑ 'CSIRO telepresence robots connect students with National Museum', Computerworld, 21 March 2013 Archived 20 April 2013 at the Wayback Machine
+↑ "Search result in the .museum Registry". Archived from the original on 2005-08-02.
+↑ Maksimova, Tatiana (2015). "Virtual museums: an analytical review of foreign publications". Вестник Московского Государственного Университета Культуры И Искусств. 4 (66). Archived from the original on 2017-05-10.
+External links
+[edit]
+Media related to Virtual museums at Wikimedia Commons
+v
+t
+e
+Art world
+Art
+The arts
+Visual arts
+Artwork
+Appropriation
+Collage
+Conceptual art
+Cultural artifact
+Drawing
+Ephemeral art
+Fine art
+Fine-art photograph
+Found object
+Installation art
+Kinetic art
+Mixed media
+bricolage
+Mural
+fresco
+graffiti
+New media art
+history
+digital
+virtual
+Painting
+Performance art
+endurance art
+Plastic arts
+Portrait
+Printmaking
+Public art
+street art
+Sculpture
+carving
+relief
+statue
+tallest
+Site-specific art
+Social sculpture
+Soft sculpture
+Stained glass
+Artwork title
+Unfinished work
+Roles
+Artist
+Collector
+Conservator-restorer
+paintings
+frescos
+Critic
+Curator
+Dealer
+Model
+Patron
+Visual arts education
+Europe
+Places
+and events
+Art auction
+Art colony
+Art commune
+Art exhibition
+alternative exhibition space
+Art gallery
+Contemporary art gallery
+Art museum
+Single-artist museum
+Art school
+Europe
+Arts centre
+Arts festival
+Artist collective
+Artist cooperative
+Artist-in-residence program
+Artist-run initiative
+Artist-run space
+Biennale
+Commission
+Sculpture garden
+Sculpture trail
+Virtual museum
+History of art
+Timeline of art
+Art history (academic study)
+Art manifesto
+Art movements
+Criticism
+feminist
+History of painting
+outline
+Periods in Western art history
+Timeline of 20th century printmaking in America
+Concepts
+Catalogue raisonné
+Classificatory disputes
+Museum collection management
+Deaccessioning
+Conservation-restoration
+paintings
+Cultural policy
+Depiction
+Destination painting
+Eclecticism in art
+Economics of art
+art finance
+art market
+art valuation
+Elements of art
+Forgery
+Horror vacui
+Motif
+Provenance
+Sociology of art
+Style
+Lists
+Art magazines
+Art media
+Art techniques
+Art movements
+Art museums
+largest
+most visited
+sculpture parks
+single artist
+Art reference books
+Colossal sculptures in situ
+Contemporary artists
+Contemporary art galleries
+Modern artists
+Most expensive
+paintings
+sculptures
+works by living artists
+National galleries
+Painters
+by name
+by nationality
+Painting-related articles
+Photographers
+Sculptors
+female
+Stolen paintings
+Outline of the visual arts
+painting
+sculpture
+Painting portal
+Visual arts portal
+The arts portal
+Authority control databases
+International
+GND
+National
+France
+BnF data
+Spain
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Virtual_museum&oldid=1374045744"
+Categories:
+Types of art museums and galleries
+Types of museums
+Virtual museums
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Webarchive template wayback links
+CS1 maint: multiple names: authors list
+CS1 maint: archived copy as title
+Articles that lend undue weight to certain ideas from July 2023
+All articles that lend undue weight to certain ideas
+All articles with unsourced statements
+Articles with unsourced statements from August 2023
+Articles with unsourced statements from February 2026
+Articles with unsourced statements from November 2010
+Commons category link from Wikidata
+Search
+Search
+Virtual museum
+17 languages   Add topic

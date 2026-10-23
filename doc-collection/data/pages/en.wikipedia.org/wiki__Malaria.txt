@@ -1,0 +1,1012 @@
+URL: https://en.wikipedia.org/wiki/Malaria
+
+Malaria - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Mosquito-borne disease
+For other uses, see Malaria (disambiguation).
+Not to be confused with Miliaria.
+Medical condition
+Malaria
+Other names Ague, paludism, marsh fever
+Malaria parasite connecting to a red blood cell
+Pronunciation
+/məˈlɛəriə/
+Specialty Infectious disease
+Symptoms Mild malaria: fever, chills, vomiting, headache, diarrhoea.
+Severe malaria: anaemia, jaundice, coma
+Complications Seizures, coma,[1] organ failure, anaemia, cerebral malaria[2]
+Usual onset Usually 10–15 days post exposure[3]
+Duration Lifelong if not treated
+Causes Plasmodium transmitted by Anopheles mosquitoes[3]
+Risk factors Exposure to mosquitoes in endemic areas
+Diagnostic method Examination of the blood, antigen detection tests[1]
+Prevention Mosquito nets, insect repellent, mosquito control, prophylactic medication[1]
+Medication Antimalarial medication[3]
+Frequency 282 million (2024)[4]
+Deaths 610,000 (2024)[4]
+Malaria is a mosquito-borne infectious disease that is transmitted by the bite of Anopheles mosquitoes.[5][3] The symptoms of human malaria typically include fever, fatigue, vomiting and headaches.[1][6] In severe cases, the disease can cause jaundice, seizures, coma, or death.[1][7] Symptoms usually begin 10 to 15 days after being bitten by an infected Anopheles mosquito.[3][8] Those who survive an infection may develop partial immunity, being susceptible to reinfection although with milder symptoms.[1] This partial resistance disappears over months to years if the person has no continuing exposure to malaria.[1]
+Malaria is caused by single-celled parasites of the genus Plasmodium,[3] generally spread through the bites of an infected female Anopheles mosquito.[3][9] The mosquito bite introduces the parasites from the mosquito's saliva into the blood.[3] The parasites initially reproduce and mature in the liver without causing symptoms.[10] After a few days the mature parasites spread into the bloodstream, where they infect and destroy red blood cells, causing the symptoms of infection.[11] Five species of Plasmodium commonly infect humans.[3] The three species associated with more severe cases are P. falciparum (which is responsible for the vast majority of malaria deaths), P. vivax and P. knowlesi (a simian malaria that spills over into thousands of people a year).[3][12] P. ovale and P. malariae generally cause a milder form of malaria.[1][3] Malaria is typically diagnosed by the microscopic examination of blood using blood films, or with antigen-based rapid diagnostic tests.[1] Methods that use the polymerase chain reaction to detect the parasite's DNA have been developed, and are now considered the gold standard, but they are not widely available or used in areas where malaria is common, due to their cost and complexity.[13]
+The risk of disease can be reduced by preventing mosquito bites through the use of mosquito nets and insect repellents or with mosquito-control measures such as spraying insecticides and draining standing water.[1] Several prophylactic medications are available to prevent malaria in areas where the disease is common.[3] As of 2023, two malaria vaccines have been endorsed by the World Health Organization.[14] The parasites have evolved resistance to several antimalarial medications; for example, chloroquine-resistant P. falciparum has spread to most malaria-prone areas and resistance to artemisinin has become a problem in some parts of Southeast Asia.[3] Because of this, drug treatment for malaria infection should be tailored to best fit the Plasmodium species involved and the geographical location where the infection was acquired.[15]
+The disease is widespread in the tropical and subtropical regions that exist in a broad band around the equator.[16][1] This includes much of sub-Saharan Africa, Asia and Latin America.[3] In 2024, some 282 million cases of malaria worldwide resulted in an estimated 610,000 deaths.[4] Around 95% of the cases and deaths occurred in sub-Saharan Africa.[4][17] Malaria is commonly associated with poverty and has a significant negative effect on economic development;[18][19] in 2005 it was estimated that Africa loses US$12 billion a year due to increased healthcare costs, lost ability to work and adverse effects on tourism.[20]
+Video summary (script)
+Etymology
+[edit]
+The word malaria originates from Medieval Italian: mala aria, 'bad air', a part of miasma theory; the disease was formerly called ague, paludism or marsh fever due to its association with swamps and marshland.[21] The word appeared in English at least as early as 1768.[22] The scientific study of malaria is malariology.[23]
+Signs and symptoms
+[edit]
+Main symptoms of malaria[24]
+Symptoms during the early stages of malaria infection are fever, chills, headache, nausea and vomiting and diarrhoea; more serious cases may show enlarged spleen or liver and mild jaundice.[25][26] These symptoms can resemble other conditions such as sepsis, gastroenteritis, flu and other viral diseases.[13][27] Without treatment, symptoms - particularly the fever - can settle into a regular pattern, recurring every two or three days (paroxysmal attacks).[28][25]
+Symptoms typically begin 10–15 days after the initial mosquito bite, but can occur as late as several months after infection. Travellers taking preventative malaria medications may develop symptoms once they stop taking the drugs.[29]
+Severe malaria occurs when the Plasmodium infection causes damage to vital organs such as the kidney, liver, lungs or brain. Symptoms include severe anaemia, jaundice, convulsions, confusion, coma, kidney failure and eventually death.[29][28] Severe malaria is usually caused by P. falciparum;[25] it should be treated as a medical emergency.[30]
+Complications
+[edit]
+A unique feature of P. falciparum is its ability to generate adhesive proteins on the surface of infected red blood cells (RBC). Infected RBCs obstruct capillaries (causing hypoxia) and accumulate in vital organs, interfering with their function.[31] P. falciparum infection underlies most severe complications of malaria.[3]
+Cerebral malaria is a form of severe malaria affecting the brain. Infected RBCs blocking capillaries in the brain trigger an immune reaction, which in turn damages the blood-brain barrier.[32] Individuals with cerebral malaria exhibit neurological symptoms, such as confusion, seizures, or coma.[27] Cerebral malaria, if untreated, can lead to death within forty-eight hours of the first symptoms; survivors may have long-term neurological damage.[27][28]
+Severe anaemia is caused by a combination of the destruction of RBCs (both infected and uninfected) together with reduced RBC production in the bone marrow; it is a major cause of deaths in children under 5.[33]
+Malaria can lead to acute respiratory distress syndrome in up to 25% of cases. It is caused by damage to the capillary endothelium, in turn damaging the alveoli of the lung.[20][34] Symptoms are extreme shortness of breath and a bluish tinge to the lips (cyanosis) indicating lack of oxygen.[34] It is a leading killer of adults, with around 40% mortality once symptoms begin.[34][35]
+Coinfection of HIV with malaria increases mortality.[36]
+Other complications include an enlarged spleen, enlarged liver or both of these.[27] So-called blackwater fever occurs when haemoglobin from lysed red blood cells leaks into and discolours the urine; this often precedes kidney failure.[27]
+Malaria during pregnancy can cause stillbirths, infant mortality, miscarriage and low birth weight,[37] particularly in P. falciparum infection, but also with P. vivax.[38]
+Cause
+[edit]
+The life cycle of malaria parasites: Sporozoites are introduced by a mosquito bite. When they reach the liver, they multiply into thousands of merozoites. The merozoites infect red blood cells and replicate, infecting more and more red blood cells. Some parasites form gametocytes, which are taken up by a mosquito, continuing the life cycle.
+Malaria is caused by infection with parasites in the genus Plasmodium, which are transmitted between the human hosts by mosquitoes in the genus Anopheles.[39]
+Life cycle
+[edit]
+The plasmodium parasite has a complex life cycle involving human and mosquito hosts, taking a different form at each stage of the cycle.[40]
+The Anopheles mosquitoes initially get infected by Plasmodium by taking a blood meal from a previously infected person. The next time the mosquito feeds, its bite introduces Plasmodium—in a mobile form called sporozoites—into a new human host.[40]
+Within the human host, the sporozoites enter the bloodstream and travel to the liver, where they invade liver cells (hepatocytes).[41]
+They grow and divide in the liver, with each infected hepatocyte eventually harboring up to 40,000 parasites.[41] After 5 to 25 days the infected hepatocytes break down, releasing Plasmodium—in a smaller form called merozoites, into the bloodstream.[40]
+In the blood, the merozoites rapidly invade individual red blood cells, with each replicating over 24–72 hours to form 16–32 new merozoites.[41] The infected red blood cell bursts, releasing new merozoites which again infect red blood cells, resulting in a cycle that continuously amplifies the number of parasites in an infected person.[41]
+A small portion of parasites do not replicate, but instead develop into early sexual stage parasites called male and female gametocytes. These gametocytes develop in the bone marrow for 11 days, then return to the blood circulation to await uptake by the bite of another mosquito.[41]
+Once inside a mosquito, the gametocytes undergo sexual reproduction, and eventually form daughter sporozoites that migrate to the mosquito's salivary glands to be injected into a new host when the mosquito next bites.[41][40]
+The liver infection causes no symptoms; all symptoms of malaria result from the infection of red blood cells.[42] Symptoms develop once there are more than around 100,000 parasites per milliliter of blood.[42] Many of the symptoms associated with severe malaria are caused by the tendency of P. falciparum to bind to blood vessel walls, resulting in damage to the affected vessels and surrounding tissue. Parasites sequestered in the blood vessels of the lung contribute to respiratory failure. In the brain, they contribute to coma. During pregnancy they accumulate in the intervillous space and hinder the function of the placenta, contributing to low birthweight and preterm labor, and increasing the risk of abortion and stillbirth.[42] The destruction of red blood cells during infection often results in anaemia, exacerbated by reduced production of new red blood cells during infection.[42]
+Only female mosquitoes feed on blood; male mosquitoes feed on plant nectar and do not transmit the disease. Females of the mosquito genus Anopheles prefer to feed at night. They usually start searching for a meal at dusk, and continue through the night until they succeed.[40] However, they may be adapting to the extensive use of bed nets and beginning to bite earlier, before bed-nets are deployed.[43] Malaria parasites can also be transmitted by blood transfusions, although this is rare.[44]
+Plasmodium species
+[edit]
+In humans, malaria is caused by six Plasmodium species: P. falciparum, P. malariae, P. ovale curtisi, P. ovale wallikeri, P. vivax and P. knowlesi.[42] Among those infected, P. falciparum is the most common species identified (~75%) followed by P. vivax (~20%).[13] P. falciparum is prevalent in Africa and accounts for the majority of deaths,[45] while P. vivax is dominant outside Africa.[46][3] Some cases have been documented of human infections with several species of Plasmodium from higher apes, but except for P. knowlesi—a zoonotic species that causes malaria in macaques[47]—these are mostly of limited public health importance.[48]
+Two species—P. vivax and P. ovale—form a dormant stage called a hypnozoite which can persist in the liver, even after drug treatment has eliminated the infection from the blood. These can reactivate after weeks or months and cause relapse of the disease.[40]
+Recurrent malaria
+[edit]
+Symptoms of malaria can recur after varying symptom-free periods. Depending upon the cause, recurrence can be classified as either recrudescence, relapse, or reinfection. Recrudescence is when symptoms return after a symptom-free period due to failure to remove blood-stage parasites by adequate treatment.[49] Relapse is when symptoms reappear after the parasites have been eliminated from the blood but have persisted as dormant hypnozoites[50] in liver cells. Reinfection means that parasites were eliminated from the entire body but a new infection has established. Recurrence of infection within two weeks of treatment ending is typically attributed to treatment failure.[51]
+Pathophysiology
+[edit]
+Further information: Plasmodium falciparum § Pathogenesis
+Electron micrograph of a Plasmodium falciparum-infected red blood cell (center), illustrating adhesion protein "knobs"
+Malaria infection develops via two phases: one that involves the liver (exoerythrocytic phase), and one that involves red blood cells, or erythrocytes (erythrocytic phase). When an infected mosquito pierces a person's skin to take a blood meal, sporozoites in the mosquito's saliva enter the bloodstream and migrate to the liver where they infect hepatocytes, multiplying asexually and asymptomatically for a period of 8–30 days.[52] During this time, these organisms differentiate to yield thousands of merozoites, which, following rupture of their host cells, escape into the blood and infect red blood cells to begin the erythrocytic stage of the life cycle.[52]
+The first phase of infection is asymptomatic; the clinical symptoms of malaria are all associated with the merozoite stage of the life cycle.[29] In this, the parasites multiply asexually within red blood cells, periodically breaking out to infect new ones. Within each infected erythrocyte, the parasite multiplies, consuming the cytoplasm as it does. After a period of 2 or 3 days, the erythrocyte bursts, releasing a number (between 16 and 32) of new merozoites.[53] This release of merozoites into the bloodstream, together with their waste products and fragments of erythrocyte, triggers fever and other symptoms which can be periodic and intense.[52][29]
+In some species of Plasmodium, some sporozoites do not immediately develop into exoerythrocytic-phase merozoites, but instead, produce hypnozoites that remain dormant for periods ranging from several months (7–10 months is typical) to several years.[54] After a period of dormancy, they reactivate and produce merozoites. Hypnozoites are responsible for long incubation and late relapses in P. vivax and P. ovale infections.[54][55]
+Immune system evasion
+[edit]
+Immune evasion is a key feature of Plasmodium, underlying its success and persistence as a parasite.[56] Approximately 10% of the Plasmodium genome is dedicated to mechanisms which avoid or subvert the immune system.[57]
+Liver
+[edit]
+Illustration of a merosome budding off from an infected hepatocyte
+Specialised macrophages called Kupffer cells defend the liver; they identify alien material in the bloodstream and destroy it. Sporozoites attack Kupffer cells and neutralise them.[58] They transit through these impaired cells (which die after a few hours) to infect hepatocytes.[58] Within the hepatocyte, they generate thousands of merozoites within a vacuole which protects them from cellular defence mechanisms.[59] After a few days, the infected hepatocyte releases merozoites in batches called merosomes, which bud off from the hepatocyte's membrane. This membrane cloaks the merozoites, enabling them to sneak past the remaining Kupffer cells to exit the liver.[60][59][61]
+Circulation
+[edit]
+An illustration of infected erythrocytes (IE) clustering in the intervillous space around placental villi.
+Free merozoites in the blood circulation system are vulnerable to attack by leucocytes which target their surface antigens. The parasite defeats this defence by means of antigenic polymorphism;[62] at each stage of the life cycle it expresses a different variant of surface antigen, effectively a moving target which outpaces the adaptive immune system.[59] Once they penetrate a red blood cell (RBC) merozoites have a safe haven, masked from leucocytes and protected within a vacuole. Infected RBCs can nevertheless be detected and destroyed, either by the spleen or by phagocytes.[63] To avoid this fate, the merozoite generates adhesive proteins which appear as knobs on the surface of infected RBCs.[64] These work in two ways. They bind to uninfected RBCs forming clumps - nicknamed "rosettes" - in which the infected cell at the centre is shielded by the uninfected cells surrounding it; rosettes interfere with normal blood flow in capillaries.[63] Alternatively infected RBCs can avoid passage through the spleen by adhering (sequestering) to the walls of blood vessels in tissues such as the brain, lungs, and intervillous spaces (in pregnancy).[65] Both sequestered and rosetted types interfere with the normal organ functions, leading to complications such as cerebral malaria and pregnancy-associated malaria.[59]
+Genetic resistance
+[edit]
+Main article: Human genetic resistance to malaria
+Due to the high levels of mortality and morbidity caused by malaria—especially the P. falciparum species—it has placed the greatest selective pressure on the human genome in recent history. Several genetic factors provide some resistance to it including sickle cell trait, thalassaemia traits, glucose-6-phosphate dehydrogenase deficiency, and the absence of Duffy antigens on red blood cells.[66][67][68]
+The effect of sickle cell trait on malaria immunity illustrates some evolutionary trade-offs that have occurred because of endemic malaria. Sickle cell trait causes a change in the haemoglobin molecule in the blood. Normally, red blood cells have a very flexible, biconcave shape that allows them to move through narrow capillaries; however, when the modified haemoglobin S molecules are exposed to low amounts of oxygen, or crowd together due to dehydration, they can stick together forming strands that cause the cell to distort into a curved sickle shape. In these strands, the molecule is not as effective in taking or releasing oxygen, and the cell is not flexible enough to circulate freely. In the early stages of malaria, the parasite can cause infected red cells to sickle, and so they are removed from circulation sooner. This reduces the frequency with which malaria parasites complete their life cycle in the cell. Individuals who are homozygous (with two copies of the abnormal haemoglobin beta allele) have sickle-cell anaemia, while those who are heterozygous (with one abnormal allele and one normal allele) experience resistance to malaria without severe anaemia. Although the shorter life expectancy for those with the homozygous condition would tend to disfavour the trait's survival, the trait is preserved in malaria-prone regions because of the benefits provided by the heterozygous form.[68][69]
+Diagnosis
+[edit]
+Main article: Diagnosis of malaria
+The blood film is the gold standard for malaria diagnosis.
+Ring-forms and gametocytes of Plasmodium falciparum in human blood
+Due to the non-specific nature of malaria symptoms, diagnosis is typically suspected based on symptoms and travel history, then confirmed with a laboratory test to detect the presence of the parasite in the blood (parasitological test). In areas where malaria is common, the World Health Organization (WHO) recommends clinicians suspect malaria in any person who reports having fevers, or who has a current temperature above 37.5 °C without any other obvious cause.[70] Malaria should be suspected in children with signs of anaemia: pale palms or a laboratory test showing haemoglobin levels below 8 grams per deciliter of blood.[70] In areas of the world with little to no malaria, testing is only recommended for people with possible exposure to malaria (typically travel to a malaria-endemic area) and unexplained fever.[70][71]
+Malaria is usually confirmed by the microscopic examination of blood films or by antigen-based rapid diagnostic tests (RDT). Microscopy—i.e., examining Giemsa-stained blood with a light microscope—is the gold standard for malaria diagnosis.[42] Microscopists typically examine both a "thick film" of blood, allowing them to scan many blood cells in a short time, and a "thin film" of blood, allowing them to clearly see individual parasites and identify the infecting Plasmodium species.[42] Under typical field laboratory conditions, a microscopist can detect parasites when there are at least 100 parasites per microliter of blood, which is around the lower range of symptomatic infection.[70] Microscopic diagnosis is relatively resource intensive, requiring trained personnel, specific equipment and a consistent supply of microscopy slides and stains.[70]
+Rapid diagnostic tests (RDTs) can be used to confirm a microscopic diagnosis;[71] they are also used in places where microscopy is unavailable. RDTs are fast and easily deployed to places without full diagnostic laboratories.[70] The test detects parasite proteins in a fingerstick blood sample.[70] A variety of RDTs are available, targeting the parasite proteins lactate dehydrogenase, aldolase, or histidine rich protein 2 (HRP2, which is specific to P. falciparum only).[70] The HRP2 test is widely used in Africa, where P. falciparum predominates.[42] However, since HRP2 persists in the blood for up to five weeks after an infection is treated, an HRP2 test sometimes cannot distinguish whether someone currently has malaria or previously had it.[70] Additionally, some P. falciparum parasites lack the HRP2 gene, complicating detection.[72] Rapid tests also cannot quantify the parasite burden in a person, nor the species of Plasmodium involved.[73][71]
+A polymerase chain reaction (PCR) test is the most sensitive method for diagnosing malaria. The test amplifies parasite DNA in blood; it can detect Plasmodium and identify the species, even at very low levels in the blood.[74] It requires specialised laboratory equipment so is rarely available in developing countries; it is generally used in developed world to confirm diagnosis in returning travellers.[74][71]
+In April 2026, WHO prequalified three rapid diagnostic tests designed to detect P. falciparum strains with pfhrp2 deletions, which can evade commonly used HRP2-based tests and cause false-negative results. The new tests target the parasite protein pf-LDH and are recommended where more than 5% of malaria cases are missed because of pfhrp2 deletions.[75]
+Treatment
+[edit]
+An advertisement for quinine as a malaria treatment from 1927
+Artemisia annua, also known as sweet wormwood, the original source of artemisinin
+Malaria is treated with antimalarial medications. To ensure a complete cure and prevent the parasite from developing drug resistance, treatment guidelines since 2001 generally require two drugs in combination, with one of them being a derivative of artemisinin and the other a complementary drug.[76][77] The exact combination of drugs depends on the Plasmodium species involved, the probability of drug resistance, relevant facts from the patient's medical and travel history and any previous use of antimalarials.[78][79] Treatment regimens in national formularies[a] are generally based on guidelines issued by WHO which are updated regularly.[82][83]
+Several classes of drugs can be used as components of combination therapies. Artemisinin-based drugs include artemether and artesunate.[84] Quinoline derivatives include chloroquine, quinine and mefloquine. Antifolate compounds include pyrimethamine, proguanil and sulfadoxine.[84] Other drugs include lumefantrine, atovaquone, doxycycline and clindamycin.[85][86]
+Malaria is generally classified as either "severe" or "uncomplicated".[13][79] Symptoms which indicate severe malaria include the following (not a complete list):[79][87]
+Decreased consciousness, coma, convulsions
+Severe anaemia
+Acute respiratory distress syndrome
+Kidney failure or haemoglobin in the urine
+Jaundice
+Acidosis or lactate levels of greater than 5 mmol/L
+A high level of parasites visible in a blood smear.
+Uncomplicated malaria
+[edit]
+Uncomplicated malaria can be treated using oral medication taken for between 3 and 7 days.[86] The drug regimen should be selected according to Plasmodium species, location and patient's history. As an example, the most common first-line treatment for uncomplicated P. falciparum malaria is Artemether-lumefantrine taken orally over three days.[88][85] In 2026, WHO prequalified the first artemether-lumefantrine formulation specifically developed for newborns and young infants weighing between 2 and 5 kg.[75]
+This treatment is not always suitable, so other drug combinations are recommended.[86] Treatment should start as soon as possible after diagnosis, in order to prevent severe symptoms from developing.[89] In case of infection by P. vivax or P. ovale (which form dormant hypnozoites in the liver) treatment should continue for a further 7 to 14 days.[86]
+Severe and complicated malaria
+[edit]
+Severe malaria is generally caused by P. falciparum; it is almost always fatal if untreated.[90] Even with treatment, the fatality rate is estimated between 13% and 20%, with survivors often facing long term after-effects.[91] The standard treatment is intravenous artesunate, switching to oral medication once the patient is stable.[85][92] Patients may deteriorate rapidly, therefore making close monitoring, preferably in a high dependency unit, vital.[93]
+Pregnancy
+[edit]
+Malaria in pregnancy is more likely to be serious, possibly fatal, for both mother and child; pregnant women are three times more likely to develop severe malaria.[94] Some drugs could injure the developing embryo, especially during the first trimester. Special treatment regimens are recommended, which vary according to the trimester and pose minimal risk.[94][95]
+Drug resistance
+[edit]
+Drug resistance poses a growing problem in malaria treatment; Plasmodium populations have a high level of genetic diversity and a rapid reproduction rate which enable them to adapt and evade challenges from antimalarials.[96][97] P. falciparum parasites began to develop resistance to the first synthetic antimalarial, chloroquine, in the 1950s;[98] since then chloroquine resistance has spread to almost the entire range of this species.[99] Resistance to proguanil developed even more rapidly; the drug was introduced in 1948 and resistance began to be noted the next year, in 1949.[98] In 2001, malaria with partial resistance to artemisinin emerged in Southeast Asia; resistance has subsequently spread to parts of Africa.[98][100] In order to overcome resistance, drugs may be given in combination, in higher doses, or for longer periods; there is an urgent need for new drugs to be brought on line.[98][101]
+Prognosis
+[edit]
+When properly treated, people with uncomplicated malaria can usually expect a complete recovery.[102] However, severe malaria can progress extremely rapidly and cause death within hours or days.[103] In the most severe cases of the disease, fatality rates can reach 20%, even with intensive care and treatment.[13]
+Malaria has the potential to cause permanent damage to many organs, especially the brain, kidney, liver and spleen.[104] During childhood, malaria causes anaemia during a period of rapid brain development, and also direct brain damage resulting from cerebral malaria.[105] Survivors of cerebral malaria have an increased risk of neurological and cognitive deficits, behavioural disorders and epilepsy.[106]
+Prevention
+[edit]
+An Anopheles stephensi mosquito shortly after obtaining blood from a human (the droplet of blood is expelled as a surplus). This mosquito is a vector of malaria, and mosquito control is an effective way of reducing its incidence.
+Methods used to prevent malaria include vaccination, prophylactic medication, mosquito elimination and the prevention of bites.[3]
+Vaccines
+[edit]
+Main article: Malaria vaccine
+It has proved very difficult to develop an effective malaria vaccine. The parasite has evolved several strategies to evade the human immune response.[107] There are five species of plasmodium; each of these has three life stages in the human host—sporozoite, merozoite and gametocyte. Each stage has different antigens on its surface, meaning that an immune response against one stage is not effective against the others.[108] In addition, genetic variation in the parasites means that the antigens themselves can vary even within a single life stage.[108][109] As a consequence, natural immunity seems to develop slowly—acquired through multiple infections—is only partial, and is not long lasting.[25][110] The Malaria Vaccine Technology Roadmap has set a target for new malaria vaccines to have a protective efficacy of at least 75% against clinical malaria.[110]
+The first promising vaccine studies into a malaria vaccine were performed in 1967 by immunising mice with live, radiation-attenuated Plasmodium sporozoites, which provided significant protection to the mice upon subsequent injection with normal, viable sporozoites.[111][112]
+In 2013, the WHO and the malaria vaccine funders group set a goal to develop vaccines designed to interrupt malaria transmission with the long-term goal of malaria eradication.[113] As of February 2026[update], two malaria vaccines have been licensed for use.[14]
+The first approved vaccine targeting P. falciparum is RTS,S, known by the brand name Mosquirix,[114] which completed clinical trials in 2014. The WHO adopted a cautious approach to awarding it prequalification and, as part of the Malaria Vaccine Implementation Programme (MVIP) approved pilot programs in three sub-Saharan African countries—Ghana, Kenya and Malawi—starting in 2019. These programs targeted children under 5, who are particularly at risk of severe infection and death.[115][116] It was approved by the World Health Organization in 2021.[117] Up to 2023, three million children had received the vaccine,[118] showing a significantly reduced incidence of malaria as well as a reduction in childhood mortality (from all causes) of 13%.[3][119]
+The second vaccine is R21/Matrix-M, with a 77% efficacy rate shown in initial trials and significantly higher antibody levels than with the RTS,S vaccine.[120][121] The R-21/Matrix M malaria vaccine was found to reduce cases of malaria by 75% in areas with seasonal spread and by 68% in areas of year-round spread in children in sub-Saharan Africa.[122] The R-21/Matrix M malaria vaccine was endorsed by the WHO for the prevention of malaria in children in 2023.[14]
+Mosquito control
+[edit]
+Man spraying kerosene oil in standing water, Panama Canal Zone, 1912
+Main article: Mosquito control
+The objective of mosquito control is to stop mosquitoes from biting humans - either by using some forms of barrier, or by reducing mosquito numbers. They can broadly be classified as personal protection, environmental controls outside buildings, indoor measures within houses and buildings, and those incorporated into the fabric of buildings.[123]
+Personal protection
+[edit]
+Insect repellent, such as DEET or picaridin, is recommended for travellers. Loose clothing that covers most of the body is also recommended. Clothing may be treated with permethrin as an additional safeguard.[124][125]
+Environmental control
+[edit]
+Since many mosquitoes breed in standing water, source reduction can be as simple as emptying water from containers around the home, by filling or draining puddles, swampy areas and tree stumps. Eliminating such mosquito breeding areas can be an extremely effective and permanent way to reduce mosquito populations without resorting to insecticides.[126] It is also possible to use larvicides to kill mosquito larvae in pools or puddles that cannot be drained.[127]
+Indoors
+[edit]
+Insecticide-treated nets (ITNs) and indoor residual spraying (IRS) are effective, have been widely used to prevent malaria, and their use has contributed significantly to reducing the prevalence of malaria in the 21st century.[128][124][129] ITNs and IRS may not be sufficient to eliminate the disease, as these interventions depend on how many people use nets, how many gaps in insecticide there are (low coverage areas), if people are not protected when outside of the home, and an increase in mosquitoes that are resistant to insecticides.[128]
+Insecticide-treated nets
+[edit]
+A mosquito net in use
+Mosquito nets help keep mosquitoes away from people and reduce infection rates and transmission of malaria. Nets are not a perfect barrier and are often treated with an insecticide designed to kill the mosquito before it has time to find a way past the net. ITNs are estimated to be twice as effective as untreated nets and offer greater than 70% protection compared with no net.[130]
+Most nets are impregnated with pyrethroids, a class of insecticides with low toxicity; they are most effective when used from dusk to dawn.[131] In areas where mosquitoes are resistant to pyrethroids, other ingredients are being combined with pyrethroids in mosquito netting; these include piperonyl butoxide, chlorfenapyr and pyriproxyfen.[132][133]
+UNICEF notes that the use of insecticide-treated nets has been increased since 2000 through accelerated production, procurement and delivery, stating that "almost 2.5 billion ITNs have been distributed globally since 2004, with 2.2 billion (87 per cent) distributed in sub-Saharan Africa".[134] By 2023, 52% of children in sub-Saharan Africa were sleeping under ITNs; however, there were large regional differences in coverage.[134]
+A 2025 Malaria Atlas Project analysis estimated that malaria interventions in Africa prevented 1.57 billion cases from 2000 to 2024, with ITNs accounting for 72% of cases averted.[135] The report warned that progress has slowed due to plateauing ITN coverage and emphasized that expanding access to ITNs remains essential.[135]
+Indoor residual spraying
+[edit]
+Walls where indoor residual spraying of DDT has been applied. The dead mosquitoes remain on the wall, eventually falling to the floor.
+Indoor residual spraying (IRS) is the spraying of insecticides on the walls inside a home. After a blood meal (during which it may ingest Plasmodium parasites), the female mosquito rests on a nearby surface while digesting the blood and developing eggs. If the walls of houses have been coated with insecticides, the resting mosquitoes can be killed before they can bite another person. Spraying indoor surfaces does not prevent the mosquito from its first feeding; however, it protects the community as a whole by preventing a second blood meal in which they may pass the infection to a human host.[136][137] Chemicals recommended by WHO for IRS fall into the following classes:[138][139]
+Pyrethroids such as Alpha-cypermethrin, Bifenthrin
+Organophosphates such as malathion
+Carbamates: Bendiocarb, Propoxur
+Organochlorides: DDT (very restricted use)[137]
+In order to be effective, IRS should be applied to a minimum of 80% of households in a community. It is estimated that IRS has contributed to 10% of the malaria cases averted in parts of Africa.[138]
+Structures
+[edit]
+To keep mosquitoes from entering the home, screens should be installed on windows and doors and eaves, as well as netting to cover any other sources of ventilation.[123][140] In 2021, the World Health Organization's (WHO) Guideline Development Group conditionally recommended screening houses in this manner to reduce malaria transmission.[82] Several studies have suggested that screening houses can have a significant effect on malaria transmission. Beyond the protective barrier screening provides, it also does not call for daily behavioral changes in the household.[141] Screening eaves can also have a community-level protective effect, ultimately reducing mosquito-biting densities in neighboring houses that do not have this intervention in place.[141]
+Limitations in vector control
+[edit]
+As insecticides are used more widely, mosquito populations can evolve resistance, reducing the effectiveness of both long-lasting insecticide-treated nets (LLINs) and indoor residual spraying (IRS).[142][4] This resistance can occur through physiological mechanisms, in which genetic changes allow mosquitoes to survive insecticide contact.[143][144] Mosquitoes with these advantageous traits can pass them on to their offspring, increasing the proportion of resistant mosquitoes in the population over time.[143][144]
+Beyond physiological resistance, malaria vectors have demonstrated behavioral adaptations that further reduce the effectiveness of current vector control methods. These changes are termed "behavioral resistance", where mosquito behavior shifts in ways that reduce exposure to insecticides.[145] Anopheles mosquitoes have traditionally exhibited endophagy, meaning they prefer to bite humans indoors, and endophily, meaning they rest indoors after feeding.[146] They also typically bite at night, when individuals are protected by bed nets.[146]
+However, some Anopheles species have increasingly been observed biting earlier in the evening or outdoors, exhibiting exophagy, when people are less likely to be protected by bed nets or indoor spraying.[145][147] They may also rest outdoors rather than on indoor walls that have been sprayed, exhibiting exophily.[145][147] These behavioral changes contribute to what is known as residual transmission, defined as malaria transmission that persists even after the implementation of core vector control interventions.[147] As a result, malaria transmission can continue even in areas with widespread use of LLINs and IRS.
+These adaptations indicate a key limitation of current strategies, which primarily rely on interrupting the human mosquito contact during nighttime indoor feeding.[4] Therefore, incorporating vector behavioral changes into malaria control strategies is increasingly important, as the protective effects of their interventions are being reduced by such adaptations.
+Preventive medication
+[edit]
+Main article: Malaria prophylaxis
+There are a number of medications that can help prevent or interrupt malaria in travellers to places where infection is common; many of these medications are also used in treatment. In places where Plasmodium is resistant to one or more medications, three medications—mefloquine, doxycycline, or the combination of atovaquone/proguanil (Malarone)—are frequently used for prevention.[148]
+The protective effect does not begin immediately, and people visiting areas where malaria exists are recommended to start taking the drugs one to two weeks before they arrive, and continue taking them for four weeks after leaving (except for atovaquone/proguanil, which only needs to be started two days before and continued for seven days afterward).[149] Malaria preventative medications are recommended for those vulnerable to the disease. Children under 5-years old, pregnant women, and some experts recommend school age children, in malaria endemic areas are recommended to receive malaria preventative medications on a seasonal basis or intermittent basis.[73][150] Combining malarial preventative medications with anti-malarial vaccines has a greater effect in reducing malaria case-loads than medications alone.[73]
+Intermittent preventive therapy is an intervention that has been used successfully to control malaria in pregnant women and infants,[151] and in preschool children where transmission is seasonal.[152] During pregnancy, medication to prevent malaria has been found to improve the weight of the baby at birth and decrease the risk of anaemia in the mother.[153] Giving antimalarial drugs to infants through intermittent preventive therapy can reduce the risk of having malaria infection, hospital admission and anaemia.[154]
+Antimalarial mass drug administration to an entire population at the same time may reduce the risk of contracting malaria in the population.[155] In the 1950s, the WHO included mass drug administration (MDA) of antimalarial drugs as a tool for malaria eradication in exceptional conditions when conventional control techniques have failed.[156] In 1971, the WHO expert committee on malaria still recommended MDA in special circumstances.[156] Subsequently, MDA was linked to the emergence of drug resistance and its overall benefit was questioned.[157][158][159][160]
+Others
+[edit]
+Community participation and health education strategies promoting awareness of malaria and the importance of control measures have been successfully used to reduce the incidence of malaria in some areas of the developing world.[161] Recognising the disease in the early stages can prevent it from becoming fatal. Education can also inform people to cover over areas of stagnant, still water, such as water tanks that are ideal breeding grounds for the parasite and mosquito, thus cutting down the risk of the transmission between people. This is generally used in urban areas where there are large centers of population in a confined space and transmission would be most likely in these areas.[162]
+Epidemiology
+[edit]
+Incidence of malaria (new cases per 1,000 population)
+Malaria death rates
+According to the World Health Organization's 2025 World Malaria Report,[4] there were an estimated 282 million new malaria cases globally in 2024, in 80 endemic countries. The number of deaths attributed to malaria stood at 610,000 in 2024. Children under five years old were the most affected, accounting for 75% of malaria deaths in Africa during 2024.[4]
+The malaria parasite depends on mosquitoes of the Anopheles genus to transmit between hosts. It is endemic in areas where conditions are favourable for these species of mosquitoes.[4] This includes almost all tropical and subtropical areas of the world, where either regular rainfall creates essential breeding habitats all year, or seasonally during and after rainy seasons when standing water is abundant.[163] The optimum temperature for the parasite is 27 °C (81 °F) but it can develop in temperatures between 20 °C (68 °F) and 40 °C (104 °F).[164] Malaria is uncommon at altitudes above 1,500 meters, where temperatures tend to be lower,[165] and in urban environments where good drainage eliminates pools of water.[166]
+Malaria is presently endemic in a broad band around the equator, in areas of the Americas, many parts of Asia and much of Africa.[4] Malaria was once common in parts of Europe and North America, where it is no longer endemic.[28][167] Anopheles mosquitoes are still present in these areas, so there is a risk of the disease returning.[167][168]
+Since 2015, the WHO European Region has been free of malaria.[169] Travel-related cases still occur occasionally.[170]
+The United States eradicated malaria as a major public health concern in 1951.[171] A small number of cases are detected each year, mostly in travellers returning from malaria endemic areas.[171]
+The African region continues to bear a disproportionate share of the global malaria burden, accounting for 95% of all cases and 95% of deaths.[163]
+Those most at risk of severe malaria if they are exposed to the disease are:
+infants & children under 5 years, who have not yet developed immunity to the parasite.[3]
+pregnant women, because pregnancy modifies the immune response.[172]
+maternal malaria also affects the unborn foetus, leading to premature delivery and low birth weight, a leading cause of infant mortality.[172]
+and others with weakened immune system, such as people affected by HIV/AIDS.[3]
+Travelers to endemic areas are at risk because they also lack immunity.[28]
+Climate change
+[edit]
+Further information: Climate change and infectious diseases § Malaria
+Climate change is likely to affect malaria transmission, but the degree of effect and the areas affected is uncertain.[173] Greater rainfall in certain areas of India, and following an El Niño event is associated with increased mosquito numbers.[174]
+Since 1900 there has been substantial change in temperature and rainfall over Africa.[175] However, factors that contribute to how rainfall results in water for mosquito breeding are complex, incorporating the extent to which it is absorbed into soil and vegetation for example, or rates of runoff and evaporation.[176] Recent research has provided a more in-depth picture of conditions across Africa, combining a malaria climatic suitability model with a continental-scale model representing real-world hydrological processes.[176]
+Changes in geographic distribution
+[edit]
+Climate change has led to shifts in malaria-endemic regions, with the disease expanding into higher altitudes and previously malaria-free areas.[177] Rising temperatures allow mosquitoes to survive in regions that were once too cold for them, including highland areas in Africa, South America and parts of Asia.[177] A study analyzing malaria cases in Ethiopian and Colombian highlands found a strong correlation between increased temperatures and malaria incidence, demonstrating that climate change has made previously inhospitable areas suitable for transmission.[178]
+Increased transmission season
+[edit]
+Malaria transmission is highly sensitive to temperature and rainfall patterns.[178] Climate change has led to longer transmission seasons in tropical regions, where mosquitoes can breed year-round due to prolonged periods of high humidity and warm temperatures.[179] Research suggests that in parts of sub-Saharan Africa, the malaria transmission season has lengthened by several months, particularly in regions where warming has pushed temperatures into the optimal range for Plasmodium falciparum development.[179] In regions such as West Africa and parts of India, increasing temperatures and prolonged rainy seasons have contributed to a rise in malaria cases.[179] Some studies predict that by 2050, many malaria-endemic areas will experience a 20–30% increase in transmission duration due to warming trends.[177]
+Effects of extreme weather events
+[edit]
+Extreme weather events, such as heavy rainfall, flooding and droughts, are increasing in frequency and intensity due to climate change, creating favorable conditions for malaria outbreaks.[180] Flooding provides ideal breeding grounds for mosquitoes by forming stagnant water pools, while droughts can also exacerbate malaria by forcing human populations to store water in open containers, which serve as mosquito habitats.[180] This effect has been observed in parts of sub-Saharan Africa and South Asia, where prolonged drought periods were followed by spikes in malaria cases.[180] A review of malaria outbreaks linked to climate variability found that El Niño events, which increase rainfall and temperatures in malaria-endemic regions, have been associated with significant surges in cases.[181]
+Resistance and adaptation of vectors
+[edit]
+Higher temperatures accelerate the development of Plasmodium parasites within mosquitoes, potentially leading to increased transmission efficiency.[182] Additionally, rising temperatures and changing environmental conditions have been linked to the spread of insecticide resistance in mosquito populations, complicating malaria control efforts.[182] A global survey found that Anopheles mosquitoes in Africa, Asia and South America have developed increased resistance to commonly used insecticides such as pyrethroids.[183]
+History
+[edit]
+Main articles: History of malaria and Mosquito-malaria theory
+Ancient malaria oocysts preserved in Dominican amber
+Although the parasite responsible for P. falciparum malaria has been in existence for 50,000–100,000 years, the population size of the parasite did not increase until about 10,000 years ago, concurrently with advances in agriculture[184] and the development of human settlements. Close relatives of the human malaria parasites remain common in chimpanzees. Some evidence suggests that the P. falciparum malaria may have originated in gorillas.[185]
+References to the unique periodic fevers of malaria are found throughout history.[186] The Roman Columella associated the disease with insects from swamps.[187] Hippocrates described periodic fevers, labelling them tertian, quartan, subtertian and quotidian.[187] Malaria may have contributed to the decline of the Roman Empire,[188] and was so pervasive in Rome that it was known as the "Roman fever".[189] Several regions in ancient Rome were considered at-risk for the disease because of the favourable conditions present for malaria vectors. This included areas such as southern Italy, the island of Sardinia, the Pontine Marshes, the lower regions of coastal Etruria and the city of Rome along the Tiber. The presence of stagnant water in these places was preferred by mosquitoes for breeding grounds. Irrigated gardens, swamp-like grounds, run-off from agriculture and drainage problems from road construction led to the increase of standing water.[190]
+British doctor Ronald Ross received the Nobel Prize for Physiology or Medicine in 1902 for his work on malaria.
+The few surviving medical records of Mesoamerican civilizations do not show any record of malaria. European settlers and the West Africans they enslaved likely brought malaria to the Americas starting in the 16th century.[191][192]
+Scientific studies on malaria made their first significant advance in 1880, when Charles Louis Alphonse Laveran—a French army doctor working in the military hospital of Constantine in Algeria—observed parasites inside the red blood cells of infected people for the first time.[193] He, therefore, proposed that malaria is caused by this organism, the first time a protist was identified as causing disease.[194] For this and later discoveries, he was awarded the 1907 Nobel Prize for Physiology or Medicine.[195] A year later, Carlos Finlay, a Cuban doctor treating people with yellow fever in Havana, provided strong evidence that mosquitoes were transmitting disease to and from humans.[196] This work followed earlier suggestions by Josiah C. Nott,[197] and work by Sir Patrick Manson, the "father of tropical medicine", on the transmission of filariasis.[198]
+Chinese medical researcher Tu Youyou received the Nobel Prize for Physiology or Medicine in 2015 for her work on the antimalarial drug artemisinin.
+In April 1894, a Scottish physician, Sir Ronald Ross, visited Sir Patrick Manson at his house on Queen Anne Street, London. This visit was the start of four years of collaboration and fervent research that culminated in 1897 when Ross, who was working in the Presidency General Hospital in Calcutta, proved the complete life-cycle of the malaria parasite in mosquitoes.[199] He thus proved that the mosquito was the vector for malaria in humans by showing that certain mosquito species transmit malaria to birds. He isolated malaria parasites from the salivary glands of mosquitoes that had fed on infected birds.[199] Ross received the 1902 Nobel Prize for Physiology or Medicine "for his work on malaria, by which he has shown how it enters the organism and thereby has laid the foundation for successful research on this disease and methods of combating it".[200] After resigning from the Indian Medical Service, Ross worked at the newly established Liverpool School of Tropical Medicine and directed malaria-control efforts in Egypt, Panama, Greece and Mauritius.[201] The findings of Finlay and Ross were later confirmed by a medical board headed by Walter Reed in 1900. Its recommendations were implemented by William C. Gorgas in the health measures undertaken during construction of the Panama Canal. This public-health work saved the lives of thousands of workers and helped develop the methods used in future public-health campaigns against the disease.[202]
+In 1896, Amico Bignami discussed the role of mosquitoes in malaria.[203] In 1898, Bignami, Giovanni Battista Grassi and Giuseppe Bastianelli succeeded in showing experimentally the transmission of malaria in humans, using infected mosquitoes to contract malaria themselves which they presented in November 1898 to the Accademia dei Lincei.[199]
+Artemisia annua, source of the antimalarial drug artemisinin
+The first effective treatment for malaria came from the bark of cinchona tree, which contains quinine. This tree grows on the slopes of the Andes, mainly in Peru. The indigenous peoples of Peru made a tincture of cinchona to control fever. Its effectiveness against malaria was found and the Jesuits introduced the treatment to Europe around 1640; by 1677, it was included in the London Pharmacopoeia as an antimalarial treatment.[204] It was not until 1820 that the active ingredient, quinine, was extracted from the bark, isolated and named by the French chemists Pierre Joseph Pelletier and Joseph Bienaimé Caventou.[205][206]
+Quinine was the predominant malarial medication until the 1920s when other medications began to appear. In the 1940s, chloroquine replaced quinine as the treatment of both uncomplicated and severe malaria until resistance supervened, first in Southeast Asia and South America in the 1950s and then globally in the 1980s.[207]
+The medicinal value of Artemisia annua has been used by Chinese herbalists in traditional Chinese medicines for 2,000 years.[208][209] In 1596, Li Shizhen recommended tea made from qinghao specifically to treat malaria symptoms in his "Compendium of Materia Medica", however the efficacy of tea, made with A. annua, for the treatment of malaria is dubious, and is discouraged by the World Health Organization (WHO).[210][211] Artemisinins, discovered by Chinese scientist Tu Youyou and colleagues in the 1970s from the plant Artemisia annua, became the recommended treatment for P. falciparum malaria, administered in severe cases in combination with other antimalarials.[212] Tu says she was influenced by a traditional Chinese herbal medicine source, The Handbook of Prescriptions for Emergency Treatments, written in 340 by Ge Hong.[213] For her work on malaria, Tu Youyou received the 2015 Nobel Prize in Physiology or Medicine.[214]
+Plasmodium vivax was used between 1917 and the 1940s for malariotherapy—deliberate injection of malaria parasites to induce a fever to combat certain diseases such as tertiary syphilis. In 1927, the inventor of this technique, Julius Wagner-Jauregg, received the Nobel Prize in Physiology or Medicine for his discoveries. The technique was dangerous, killing about 15% of patients, so it is no longer in use.[215]
+U.S. Marines with malaria in a field hospital on Guadalcanal, October 1942
+The first pesticide used for indoor residual spraying was DDT.[216] Although it was initially used exclusively to combat malaria, its use quickly spread to agriculture. In time, pest control, rather than disease control, came to dominate DDT use, and this large-scale agricultural use led to the evolution of pesticide-resistant mosquitoes in many regions. The DDT resistance shown by Anopheles mosquitoes can be compared to antibiotic resistance shown by bacteria. During the 1960s, awareness of the negative consequences of its indiscriminate use increased, ultimately leading to bans on agricultural applications of DDT in many countries in the 1970s.[217] Before DDT, malaria was successfully eliminated or controlled in tropical areas like Brazil and Egypt by removing or poisoning the breeding grounds of the mosquitoes or the aquatic habitats of the larval stages, for example by applying the highly toxic arsenic compound Paris Green to places with standing water.[218]
+Eradication efforts
+[edit]
+Main article: Eradication of malaria
+There have been two major global malaria eradication efforts: the first, led by the World Health Organization between 1955 and 1969, and the second, initiated by the United Nations in the 21st century through the Millennium and Sustainable Development Goals. As of 2025[update], malaria has been eliminated or significantly reduced in many regions of the world, but remains widespread in others. Most of Europe, North America, Australia, North Africa and the Caribbean, along with parts of South America and Asia are now free from malaria, while much of the central part of Africa continues to experience high levels of transmission.[219]
+Initial WHO program (1955–1969)
+[edit]
+1962 Pakistani postage stamp promoting malaria eradication program
+In 1955 the WHO launched the Global Malaria Eradication Program (GMEP).[220] The program relied largely on DDT for mosquito control and rapid diagnosis and treatment to break the transmission cycle.[221] The program eliminated the disease in "North America, Europe, the former Soviet Union",[222] and in "Taiwan, much of the Caribbean, the Balkans, parts of northern Africa, the northern region of Australia, and a large swath of the South Pacific"[223] and dramatically reduced mortality in Sri Lanka and India.[224]
+However, failure to sustain the program, increasing mosquito tolerance to DDT and increasing drug resistance (e.g. to chloroquine) led to a resurgence.[217][225] In many areas early successes partially or completely reversed, and in some cases rates of transmission increased. Experts tie malarial resurgence to multiple factors, including poor leadership, management and funding of malaria control programs; poverty; civil unrest; and increased irrigation.[226] Besides, the program barely managed to be implemented in sub-Saharan Africa, the region of the planet with the highest malaria burden.[227]
+WHO suspended the program in 1969[220][227] and attention instead focused on controlling and treating the disease. Efforts shifted from spraying to the use of bednets impregnated with insecticides and other interventions.[222][228]
+The Roll Back Malaria Partnership
+[edit]
+In 1998, a new major global initiative was launched: The Roll Back Malaria Partnership. However, it failed to secure adequate funding and reverse the upward trend in malaria deaths, which peaked in 2004.[229]
+21st century
+[edit]
+Global incidence of new cases of malaria from 2015 to 2023, expressed as cases per thousand in vulnerable populations. Source: WHO
+Global malaria deaths from 2015 to 2023 (in thousands). Source: WHO
+At the start of the 21st century, several global initiatives renewed efforts to control and eventually eradicate malaria. In 2000, malaria control became a key objective of the United Nations Millennium Development Goals,[230] followed in 2015 by the Sustainable Development Goals, which aim to end the malaria epidemic by 2030. From 2005 to 2014, global financing for malaria programmes rose sharply from about US $960 million to US $2.5 billion, largely driven by international donors and focused on the WHO African Region.[231] This surge in funding, channelled through programmes such as the Global Fund to Fight AIDS, Tuberculosis and Malaria[232] and Malaria No More[233] supported an extensive scale-up of malaria control tools such as insecticide-treated nets, indoor spraying, rapid diagnostic tests and artemisinin-based combination therapies, though overall resources remained below the estimated US $5 billion needed annually to meet global targets.[231]
+Between 2004 and 2015, the global scale-up of malaria control led to a dramatic rise in insecticide-treated net deliveries to endemic countries, from 6 million to nearly 190 million per year, with more than a billion distributed overall. As a result, household access to such nets in sub-Saharan Africa increased from 7 percent in 2005 to about two-thirds by 2015, though universal coverage targets remained unmet.[231] By 2014, coverage of preventive malaria treatment during pregnancy had increased, with more than half of eligible women receiving at least one dose. However, many opportunities to deliver treatment were missed, and preventive drug programmes for children and infants were adopted in only a few countries.[231]
+Between 2005 and 2014, diagnostic testing for malaria increased sharply, particularly in the WHO African Region, where testing of suspected cases in the public sector rose from 36 to 65 percent, largely due to the spread of rapid diagnostic tests. Over the same period, treatment practices improved, with the share of children under five receiving artemisinin-based combination therapies increasing from under 1 percent in 2005 to about 16 percent in 2015, while use of older antimalarial drugs declined.[231] From 2000 to 2015, global malaria cases declined from about 262 million to 214 million, a reduction of roughly 18 percent, with the WHO African Region accounting for nearly nine out of ten infections. During the same period, malaria deaths fell by almost half, from an estimated 839 000 to 438 000, reflecting major progress toward international targets to reduce disease incidence and mortality.[231]
+By 2015, a growing number of countries had moved closer to eliminating malaria. The number of nations with fewer than 1,000 cases rose from 13 in 2000 to 33, and 16 countries reported no locally transmitted cases. That same year, the WHO European Region recorded zero indigenous infections for the first time, meeting the target set in the Tashkent Declaration.[231]
+The progress made until 2015 stalled thereafter. From 2015 to 2022, the rate of new cases remained broadly stable, followed by a slight rise in 2023 (see illustration), with sharp increases reported in Ethiopia, Madagascar and Pakistan. Malaria deaths fell steadily until 2019, rose sharply in 2020 as a result of COVID-19 disruptions, and then declined again in the following years. While malaria remained most deadly for young children, their share of overall deaths had fallen. Sub-Saharan Africa continues to account for 95% of global cases, with Nigeria, the Democratic Republic of the Congo, Uganda, Ethiopia and Mozambique together responsible for more than half.[234][17]
+This stalling from 2015 was due to a combination of environmental, humanitarian and biological challenges. Climate change created conditions that favored mosquito breeding and survival, with rising temperatures, shifting rainfall and frequent floods expanding transmission zones. In Pakistan, for example, the 2022 floods led to an eightfold increase in malaria cases within two years.[235] Conflicts and resulting humanitarian crises have also disrupted health services and displaced millions of people into areas with little access to prevention or treatment. At the same time, growing resistance to both insecticides and artemisinin-based therapies has made malaria harder to control and treat. These overlapping pressures—climate change, conflict, displacement and resistance—have together undermined the progress achieved in earlier decades.[235]
+In 2021, the WHO Global Technical Strategy for Malaria was updated, proposing three consecutive priorities to be addressed as progress is made in reducing disease transmission.[236] The first priority focuses on reducing morbidity and mortality by decreasing transmission, the second pursues malaria elimination through epidemiological surveillance of clinical cases and active case-finding, and the third seeks to consolidate achievements and prevent the resurgence of malaria once local transmission has been eliminated. This renewed global commitment aims to reach a world largely free of malaria by 2050.[237]
+Society and culture
+[edit]
+Economic consequences
+[edit]
+Malaria clinic in Tanzania
+Malaria is not just a disease commonly associated with poverty; some evidence suggests that it is also a cause of poverty and a major hindrance to economic development.[18][19]
+A comparison of average per capita GDP in 1995, adjusted for parity of purchasing power, between countries with malaria and countries without malaria gives a fivefold difference (US$1,526 versus US$8,268). In the period 1965 to 1990, countries where malaria was common had an average per capita GDP that increased only 0.4% per year, compared to 2.4% per year in other countries.[238]
+Poverty can increase the risk of malaria since those in poverty do not have the financial capacities to prevent or treat the disease. In its entirety, the economic consequences of malaria has been estimated to cost Africa US$12 billion every year. This includes costs of health care, working days lost due to sickness, days lost in education, decreased productivity due to brain damage from cerebral malaria and loss of investment and tourism.[20] The disease has a heavy burden in some countries, where it may be responsible for 30–50% of hospital admissions, up to 50% of outpatient visits and up to 40% of public health spending.[239]
+Cerebral malaria is one of the leading causes of neurological disabilities in African children.[106] Studies comparing cognitive functions before and after treatment for severe malarial illness continued to show significantly impaired school performance and cognitive abilities even after recovery.[105] Consequently, severe and cerebral malaria have far-reaching socioeconomic consequences that extend beyond the immediate effects of the disease.[240]
+Counterfeit and substandard drugs
+[edit]
+This section needs to be updated. The reason given is: Sources are more than 15 years old. Please help update this article to reflect recent events or newly available information. (February 2026)
+Sophisticated counterfeits have been found in several Asian countries such as Cambodia,[241] China,[242] Indonesia, Laos, Thailand and Vietnam, and are a major cause of avoidable death in those countries.[243] The WHO said that studies indicate that up to 40% of artesunate-based malaria medications are counterfeit, especially in the Greater Mekong region. They have established a rapid alert system to rapidly report information about counterfeit drugs to relevant authorities in participating countries.[244] There is no reliable way for doctors or lay people to detect counterfeit drugs without help from a laboratory. Companies are attempting to combat the persistence of counterfeit drugs by using new technology to provide security from source to distribution.[245]
+Another clinical and public health concern is the proliferation of substandard antimalarial medicines resulting from inappropriate concentration of ingredients, contamination with other drugs or toxic impurities, poor quality ingredients, poor stability and inadequate packaging.[246] A 2012 study found that roughly one-third of antimalarial medications in Southeast Asia and Sub-Saharan Africa failed chemical analysis, packaging analysis, or were falsified.[247] A 2024 systematic review of African studies conducted between 2014 and 2024 found a lower but still substantial prevalence, with approximately 15.6% of sampled antimalarial medicines found to be substandard or falsified.[248]
+In February 2023 a United Nations report estimated that 267,000 deaths per year are linked to counterfeit or substandard medication in Africa alone.[249]
+War
+[edit]
+World War II poster
+Throughout history, the contraction of malaria has played a prominent role in the fates of government rulers, nation-states, military personnel and military actions.[250] In 1910, Sir Ronald Ross (himself a malaria survivor), published The Prevention of Malaria that included a chapter titled "The Prevention of Malaria in War". The chapter's author, Colonel C. H. Melville, Professor of Hygiene at Royal Army Medical College in London, addressed the prominent role that malaria has historically played during wars: "The history of malaria in war might almost be taken to be the history of war itself, certainly the history of war in the Christian era. ... It is probably the case that many of the so-called camp fevers, and probably also a considerable proportion of the camp dysentery, of the wars of the sixteenth, seventeenth and eighteenth centuries were malarial in origin."[251] In British-occupied India the cocktail gin and tonic may have come about as a way of taking quinine, known for its antimalarial properties.[252]
+Malaria was the most significant health hazard encountered by U.S. troops in the South Pacific during World War II, where about 500,000 men were infected.[253] According to Joseph Patrick Byrne, "Sixty thousand American soldiers died of malaria during the African and South Pacific campaigns."[254] Malaria was a contributing factor to the U.S. surrender at Bataan in 1942.[255]
+During World War II, both Germany and the Axis powers suffered troop losses caused by malaria and committed resources to malaria prevention. In Germany, concentration camp inmates in Dachau and Buchenwald were used as guinea pigs for sometimes lethal experimental drug treatments.[256] Early in 1942, the U.S. established a program called Malaria Control in War Areas (MCWA), "established to control malaria around military training bases in the southern United States and its territories, where malaria was still problematic". This organisation evolved into the present day Centers for Disease Control and Prevention.[257]
+Research directions
+[edit]
+Global coordination
+[edit]
+The Malaria Eradication Research Agenda (malERA) was a project carried out in 2007 by the global scientific community to identify the steps and future research that must be done in order to eradicate malaria. It was created after the Malaria Forum in 2007, and resulted in a research and development agenda intended to complement ongoing research into malaria control by identifying knowledge gaps and tools needed for full eradications.[258] In 2015, it was reviewed and updated under 6 headings: "basic science and enabling technologies, insecticide and drug resistance, characterizing the reservoir and measuring transmission, tools for elimination, combination interventions and modeling, health systems and policy research."[259]
+Vaccines
+[edit]
+The search for a malaria vaccine started in the 1960s and is ongoing.[260][261] As of February 2026[update], two malaria vaccines have completed clinical trials and are in use; they are RTS,S (Mosquirix) and R21/Matrix-MTM,[262] both of which target the P. falciparum sporozoite;[263] a further 25 clinical trials are in progress.[264]
+There are three main types of vaccine candidate. Pre-erythrocytic vaccines aim to block infection completely by incapacitating the sporozoite before it reaches the liver.[260] Erythrocytic vaccines (blood-stage vaccines) aim to target the merozoite stage in the bloodstream; these have largely proved ineffective due to antigenic polymorphism of this stage of the parasite.[260] Transmission-blocking vaccines aim to generate antibodies against the sexual stages of the parasite - gametes, zygotes and ookinetes. These either prevent transmission of the parasite from human to mosquito, or hinder the sexual stage of its life cycle within the infected mosquito.[260]
+Drugs
+[edit]
+There are two aspects to drug research. As the parasite evolves to resist to existing drugs, there is an urgent need for new drugs.[265] There is also ongoing research into existing drugs, to improve their effectiveness by testing drug combinations and dosage,[266] and by improving diagnosis, availability and compliance in people who need them.[267]
+An element of the search for new drugs is finding novel mechanisms which can be targeted. There are many candidates - some of these include the parasite's proteasome, proteases and kinases.[268][265]
+Vector biology and control
+[edit]
+This field of research looks at the mosquito vector, identifying and investigating the species which serve as vectors, as well as ways in which they can either be controlled, or prevented from harboring the parasite e.g. by genetic modification.[269][270][271]
+Socioeconomic research
+[edit]
+Malaria is strongly linked to poverty.[272] This field of research aims to investigate social and economic factors which obstruct eradication efforts. It includes studies on improving access to diagnostic tools and appropriate treatment in under-served regions.[273] It is also important to understand and address community perceptions of malaria to improve the adoption of preventative measures like bed nets.[274][275]
+Climate-informed malaria surveillance and early warning systems
+[edit]
+Recent research has focused on integrating climate data into malaria surveillance systems to improve prediction and prevention of outbreaks. Climate-informed early warning systems use environmental data such as temperature, rainfall and humidity, combined with epidemiological and satellite data, to forecast malaria risk in specific regions.[276] These systems allow public health authorities to implement targeted interventions, such as indoor residual spraying and distribution of insecticide-treated bed nets, before outbreaks occur.[277]
+Advances in modeling and artificial intelligence have further improved the accuracy of malaria predictions by incorporating real-time climate and environmental data.[278] These approaches are increasingly used in malaria-endemic regions, particularly in sub-Saharan Africa, to support proactive disease control strategies. Ongoing research aims to refine these tools and integrate them into national health systems to enhance preparedness and reduce malaria burden.[276]
+Emerging technologies
+[edit]
+Recent advances in genetic technologies offer new approaches to malaria control. One potential strategy is the genetic modification of mosquitoes using gene drive technologies, such as CRISPR-Cas9.[279][280] Through CRISPR-Cas9 gene editing, scientists can introduce genes into mosquito populations that either make them resistant to Plasmodium parasites or enable population suppression, where mosquitoes are modified so that any progeny are sterile.[279][280]
+Gene drive technologies increase the probability that a modified gene will be inherited by offspring, allowing traits such as malaria resistance or sterility to spread rapidly through mosquito populations over generations.[279][280] This rapid spread is driven by the short life cycle and high reproductive rate of Anopheles mosquitoes.[281] They can complete development from egg to adult in approximately 10 to 14 days, with female mosquitoes laying 50–200 eggs at a time.[281] While these approaches remain in early stages of development and raise ecological and ethical considerations, they present a promising strategy in addition to current interventions.
+Other animals
+[edit]
+While none of the main four species of malaria parasite that cause human infections are known to have animal reservoirs,[282] P. knowlesi is known to infect both humans and non-human primates.[47] Other non-human primate malarias (particularly P. cynomolgi and P. simium) have also been found to have spilled over into humans.[283] Nearly 200 Plasmodium species have been identified that infect birds, reptiles and other mammals,[284] and about 30 of them naturally infect non-human primates.[285] Some malaria parasites of non-human primates (NHP) serve as model organisms for human malarial parasites, such as P. coatneyi (a model for P. falciparum) and P. cynomolgi (a model for P. vivax). Diagnostic techniques used to detect parasites in NHP are similar to those employed for humans.[286] Malaria parasites that infect rodents are widely used as models in research, such as P. berghei.[287] Avian malaria primarily affects species of the order Passeriformes, and poses a substantial threat to birds of Hawaii, the Galapagos and other archipelagoes. The parasite P. relictum is known to play a role in limiting the distribution and abundance of endemic Hawaiian birds. Global warming is expected to increase the prevalence and global distribution of avian malaria, as elevated temperatures provide optimal conditions for parasite reproduction.[288]
+References and notes
+[edit]
+↑ Examples of formularies: UK[17], USA,[80] Canada[81]
+1 2 3 4 5 6 7 8 9 10 11 Caraballo H, King K (May 2014). "Emergency department management of mosquito-borne illness: malaria, dengue and West Nile virus". Emergency Medicine Practice. 16 (5): 1–23, quiz 23–24. PMID 25207355. Archived from the original on 1 August 2016.
+↑ "Malaria". Mayo Clinic. Archived from the original on 2 July 2022. Retrieved 4 June 2022.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 "Fact sheet about malaria". World Health Organization. 4 December 2025. Archived from the original on 2 May 2020. Retrieved 5 January 2026.
+1 2 3 4 5 6 7 8 9 10 "World malaria report 2025". World Health Organization. 4 December 2025. Archived from the original on 5 January 2026. Retrieved 5 January 2026.
+↑ "Vector-borne diseases". World Health Organization. Archived from the original on 4 January 2023. Retrieved 24 April 2022.
+↑ Basu S, Sahi PK (July 2017). "Malaria: An Update". Indian Journal of Pediatrics. 84 (7): 521–528. doi:10.1007/s12098-017-2332-2. PMID 28357581.
+↑ "Fact sheet about malaria". World Health Organization. Archived from the original on 2 May 2020. Retrieved 10 May 2024.
+↑ "CDC - Malaria - FAQs". 28 June 2023. Archived from the original on 13 May 2012. Retrieved 9 September 2017.
+↑ Walter K, John CC (February 2022). "Malaria". JAMA. 327 (6): 597. doi:10.1001/jama.2021.21468. hdl:1805/37679. PMID 35133414.
+↑ "Lifecycle of the malaria parasite". Medicines for Malaria Venture. Archived from the original on 2 January 2026. Retrieved 8 January 2026.
+↑ "Malaria factsheet". Public Health England. Archived from the original on 1 September 2022. Retrieved 8 January 2026.
+↑ World Health Organization. "Global Technical Strategy for Malaria 2016-2030" (PDF). Archived (PDF) from the original on 22 February 2024. Retrieved 19 February 2024.
+1 2 3 4 5 Nadjm B, Behrens RH (June 2012). "Malaria: an update for physicians". Infectious Disease Clinics of North America. 26 (2): 243–259. doi:10.1016/j.idc.2012.03.010. PMID 22632637.
+1 2 3 "WHO recommends R21/Matrix-M vaccine for malaria prevention in updated advice on immunization". 2 October 2023. Archived from the original on 3 October 2023. Retrieved 8 December 2023.
+↑ "Treatment of Uncomplicated Malaria". Centers for Disease Control and Treatment. 24 June 2025. Retrieved 8 January 2026.
+↑ Baiden F, Malm KL, Binka F (2021). "Malaria". In Detels R, Karim QA, Baum F, Li L, Leyland AH (eds.). Oxford Textbook of Global Public Health (7th ed.). pp. 227–248. doi:10.1093/med/9780198816805.003.0073. ISBN 978-0-19-881680-5.
+1 2 3 "Current state: The malaria situation worldwide". WHO: World Malaria Report Global Briefing Kit 2024. Retrieved 6 January 2026.
+1 2 Gollin D, Zimmermann C (August 2007). Malaria: Disease Impacts and Long-Run Income Differences (PDF) (Report). Institute for the Study of Labor. Archived (PDF) from the original on 18 March 2016.
+1 2 Worrall E, Basu S, Hanson K (October 2005). "Is malaria a disease of poverty? A review of the literature". Tropical Medicine & International Health. 10 (10): 1047–1059. doi:10.1111/j.1365-3156.2005.01476.x. PMID 16185240.
+1 2 3 Greenwood BM, Bojang K, Whitty CJ, Targett GA (2005). "Malaria". The Lancet. 365 (9469): 1487–1498. doi:10.1016/S0140-6736(05)66420-3. PMID 15850634.
+↑ Reiter P (1999). "From Shakespeare to Defoe: malaria in England in the Little Ice Age". Emerging Infectious Diseases. 6 (1): 1–11. doi:10.3201/eid0601.000101. PMC 2627969. PMID 10653562.
+↑ Sharpe S (1768). A view of the customs, manners, drama, &c. of Italy, as they are described in the Frusta letteraria; and in the Account of Italy in English, written by Mr. Baretti; compared with the Letters from Italy, written by Mr. Sharp. London: W. Nicoll.
+↑ "Definition of MALARIOLOGY". Merriam-Webster Dictionary. Archived from the original on 2 August 2025. Retrieved 19 November 2024.
+↑ Fairhurst RM, Wellems TE (2015). "Malaria (Plasmodium Species)". Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. pp. 3070–3090.e9. doi:10.1016/B978-1-4557-4801-3.00276-9. ISBN 978-1-4557-4801-3.
+1 2 3 4 Crutcher JM, Hoffman SL (1996). "Malaria". Medical Microbiology (4th ed.). University of Texas Medical Branch at Galveston. ISBN 978-0-9631172-1-2. PMID 21413352. Archived from the original on 23 April 2021. Retrieved 9 January 2026.
+↑ "Symptoms of Malaria". Centers for Disease Control and Prevention. 12 March 2024. Retrieved 16 January 2026.
+1 2 3 4 5 Bartoloni A, Zammarchi L (2012). "Clinical aspects of uncomplicated and severe malaria". Mediterranean Journal of Hematology and Infectious Diseases. 4 (1): e2012026. doi:10.4084/MJHID.2012.026. PMC 3375727. PMID 22708041.
+1 2 3 4 5 "Disease information about malaria". European Centre for Disease Prevention and Control (ECDC). 22 August 2024. Archived from the original on 6 July 2021. Retrieved 29 December 2025.
+1 2 3 4 "Clinical Features of Malaria". Centers for Disease Control and Prevention. 20 March 2024. Archived from the original on 19 January 2026. Retrieved 16 January 2026.
+↑ "Severe malaria". Medicines for Malaria Venture. Archived from the original on 7 April 2025. Retrieved 21 January 2026.
+↑ Autino B, Corbett Y, Castelli F, Taramelli D (4 October 2012). "Pathogenesis of Malaria in Tissues and Blood". Mediterranean Journal of Hematology and Infectious Diseases. 4 (1): e2012061. doi:10.4084/mjhid.2012.061. PMC 3499994. PMID 23170190.
+↑ Schiess N, Villabona-Rueda A, Cottier KE, Huether K, Chipeta J, Stins MF (December 2020). "Pathophysiology and neurologic sequelae of cerebral malaria". Malaria Journal. 19 (1) 266. doi:10.1186/s12936-020-03336-z. PMC 7376930. PMID 32703204.
+↑ White NJ (14 April 2022). "What causes malaria anemia?". Blood. 139 (15): 2268–2269. doi:10.1182/blood.2021015055. PMID 35420692.
+1 2 3 Taylor WR, Hanson J, Turner GD, White NJ, Dondorp AM (August 2012). "Respiratory Manifestations of Malaria". Chest. 142 (2): 492–505. doi:10.1378/chest.11-2655. PMID 22871759.
+↑ Prenen F, De Pauw B, Knoops S, Pollenus E, Possemiers H, Van Weyenbergh J, et al. (4 July 2025). "Resolution of experimental malaria-associated acute respiratory distress syndrome is Alox12 independent and shows residual inflammation". Malaria Journal. 24 (1) 216. doi:10.1186/s12936-025-05462-y. PMC 12228167. PMID 40615878.
+↑ Korenromp EL, Williams BG, de Vlas SJ, Gouws E, Gilks CF, Ghys PD, et al. (September 2005). "Malaria attributable to the HIV-1 epidemic, sub-Saharan Africa". Emerging Infectious Diseases. 11 (9): 1410–1419. doi:10.3201/eid1109.050337. PMC 3310631. PMID 16229771.
+↑ Hartman TK, Rogerson SJ, Fischer PR (2010). "The impact of maternal malaria on newborns". Annals of Tropical Paediatrics. 30 (4): 271–282. doi:10.1179/146532810X12858955921032. PMID 21118620.
+↑ Rijken MJ, McGready R, Boel ME, Poespoprodjo R, Singh N, Syafruddin D, et al. (January 2012). "Malaria in pregnancy in the Asia-Pacific region". The Lancet Infectious Diseases. 12 (1): 75–88. doi:10.1016/S1473-3099(11)70315-2. PMID 22192132.
+↑ "Malaria - About Malaria - Disease". CDC-Centers for Disease Control and Prevention. 22 March 2022. Archived from the original on 24 May 2023. Retrieved 28 April 2022.
+1 2 3 4 5 6 Institute of Medicine (US) Committee on the Economics of Antimalarial Drugs, Arrow KJ, Panosian C, Gelband H (2004). "The Parasite, the Mosquito, and the Disease". Saving Lives, Buying Time: Economics of Malaria Drugs in an Age of Resistance. National Academies Press (US). Archived from the original on 16 June 2025. Retrieved 19 January 2026.
+1 2 3 4 5 6 Cowman AF, Healer J, Marapana D, Marsh K (October 2016). "Malaria: Biology and Disease". Cell. 167 (3): 610–624. doi:10.1016/j.cell.2016.07.055. PMID 27768886.
+1 2 3 4 5 6 7 8 Ashley EA, Pyae Phyo A, Woodrow CJ (April 2018). "Malaria". The Lancet. 391 (10130): 1608–1621. doi:10.1016/S0140-6736(18)30324-6. PMID 29631781.
+↑ Goldman JG. "Malaria Mosquitoes Are Biting before Bed-Net Time". Scientific American. Archived from the original on 29 May 2023. Retrieved 29 May 2023.
+↑ Owusu-Ofori AK, Parry C, Bates I (November 2010). "Transfusion-transmitted malaria in countries where malaria is endemic: a review of the literature from sub-Saharan Africa". Clinical Infectious Diseases. 51 (10): 1192–1198. doi:10.1086/656806. PMID 20929356.
+↑ Sarkar PK, Ahluwalia G, Vijayan VK, Talwar A (2009). "Critical care aspects of malaria". Journal of Intensive Care Medicine. 25 (2): 93–103. doi:10.1177/0885066609356052. PMID 20018606.
+↑ Arnott A, Barry AE, Reeder JC (January 2012). "Understanding the population genetics of Plasmodium vivax is essential for malaria control and elimination". Malaria Journal. 11 14. doi:10.1186/1475-2875-11-14. PMC 3298510. PMID 22233585.
+1 2 Collins WE (2012). "Plasmodium knowlesi: a malaria parasite of monkeys and humans". Annual Review of Entomology. 57: 107–121. doi:10.1146/annurev-ento-121510-133540. PMID 22149265. Zenodo: 1234957.
+↑ Collins WE, Barnwell JW (April 2009). "Plasmodium knowlesi: finally being recognized". The Journal of Infectious Diseases. 199 (8): 1107–1108. doi:10.1086/597415. PMID 19284287.
+↑ WHO 2015, p. 4.
+↑ Markus MB (2011). "Malaria: origin of the term 'hypnozoite'". Journal of the History of Biology. 44 (4): 781–786. doi:10.1007/s10739-010-9239-3. PMID 20665090.
+↑ WHO 2015, p. 41.
+1 2 3 Bledsoe GH (December 2005). "Malaria primer for clinicians in the United States". Southern Medical Journal. 98 (12): 1197–204, quiz 1205, 1230. doi:10.1097/01.smj.0000189904.50838.eb. PMID 16440920.
+↑ Bucşan AN, Williamson KC (31 December 2020). "Setting the stage: The initial immune response to blood-stage parasites". Virulence. 11 (1): 88–103. doi:10.1080/21505594.2019.1708053. PMC 6961725. PMID 31900030.
+1 2 White NJ (October 2011). "Determinants of relapse periodicity in Plasmodium vivax malaria". Malaria Journal. 10 297. doi:10.1186/1475-2875-10-297. PMC 3228849. PMID 21989376.
+↑ Okafor CN, Finnigan NA (2026). "Plasmodium ovale Malaria". StatPearls. StatPearls Publishing. PMID 30085563.
+↑ Rénia L, Goh YS (7 November 2016). "Malaria Parasites: The Great Escape". Frontiers in Immunology. 7: 463. doi:10.3389/fimmu.2016.00463. PMC 5098170. PMID 27872623.
+↑ Crabb BS, Cowman AF (2002). "Plasmodium falciparum virulence determinants unveiled". Genome Biology. 3 (11): reviews1031.1. doi:10.1186/gb-2002-3-11-reviews1031. PMC 244921. PMID 12441004.
+1 2 Pradel G, Frevert U (May 2001). "Malaria Sporozoites Actively Enter and Pass Through Rat Kupffer Cells Prior to Hepatocyte Invasion". Hepatology. 33 (5): 1154–1165. doi:10.1053/jhep.2001.24237. PMID 11343244.
+1 2 3 4 Ezema CA, Okagu IU, Ezeorba TP (August 2023). "Escaping the enemy's bullets: an update on how malaria parasites evade host immune response". Parasitology Research. 122 (8): 1715–1731. doi:10.1007/s00436-023-07868-6. PMC 10348937. PMID 37219610.
+↑ Scheiner M, Burda PC, Ingmundson A (March 2024). "Moving on: How malaria parasites exit the liver". Molecular Microbiology. 121 (3): 328–340. doi:10.1111/mmi.15141. PMID 37602900.
+↑ Vaughan AM, Aly AS, Kappe SH (September 2008). "Malaria parasite pre-erythrocytic stage infection: gliding and hiding". Cell Host & Microbe. 4 (3): 209–218. doi:10.1016/j.chom.2008.08.010. PMC 2610487. PMID 18779047.
+↑ Gomes PS, Bhardwaj J, Rivera-Correa J, Freire-De-Lima CG, Morrot A (17 October 2016). "Immune Escape Strategies of Malaria Parasites". Frontiers in Microbiology. 7: 1617. doi:10.3389/fmicb.2016.01617. PMC 5066453. PMID 27799922.
+1 2 Lee WC, Russell B, Rénia L (October 2022). "Evolving perspectives on rosetting in malaria". Trends in Parasitology. 38 (10): 882–889. doi:10.1016/j.pt.2022.08.001. PMID 36031553.
+↑ Tilley L, Dixon MW, Kirk K (June 2011). "The Plasmodium falciparum-infected red blood cell". The International Journal of Biochemistry & Cell Biology. 43 (6): 839–842. doi:10.1016/j.biocel.2011.03.012. PMID 21458590.
+↑ Franke-Fayard B, Fonager J, Braks A, Khan SM, Janse CJ (30 September 2010). "Sequestration and Tissue Accumulation of Human Malaria Parasites: Can We Learn Anything from Rodent Models of Malaria?". PLOS Pathogens. 6 (9) e1001032. doi:10.1371/journal.ppat.1001032. PMC 2947991. PMID 20941396.
+↑ Pierron D, Heiske M, Razafindrazaka H, Pereda-Loth V, Sanchez J, Alva O, et al. (March 2018). "Strong selection during the last millennium for African ancestry in the admixed population of Madagascar". Nature Communications. 9 (1) 932. Bibcode:2018NatCo...9..932P. doi:10.1038/s41467-018-03342-5. PMC 5834599. PMID 29500350.
+↑ Kwiatkowski DP (August 2005). "How malaria has affected the human genome and what human genetics can teach us about malaria". American Journal of Human Genetics. 77 (2): 171–192. Bibcode:2005AmJHG..77..171K. doi:10.1086/432519. PMC 1224522. PMID 16001361.
+1 2 Hedrick PW (October 2011). "Population genetics of malaria resistance in humans". Heredity. 107 (4): 283–304. Bibcode:2011Hered.107..283H. doi:10.1038/hdy.2011.16. PMC 3182497. PMID 21427751.
+↑ Weatherall DJ (May 2008). "Genetic variation and susceptibility to infection: the red cell and malaria". British Journal of Haematology. 141 (3): 276–286. doi:10.1111/j.1365-2141.2008.07085.x. PMID 18410566.
+1 2 3 4 5 6 7 8 9 "5.1 Diagnosing Malaria (2015)". WHO Guidelines for Malaria. World Health Organization. 13 July 2021. Archived from the original on 18 March 2023. Retrieved 20 January 2026.
+1 2 3 4 "Malaria - Evaluation and Diagnosis". Centers for Disease Control and Prevention. 24 June 2024. Retrieved 20 January 2026.
+↑ Poti KE, Sullivan DJ, Dondorp AM, Woodrow CJ (February 2020). "HRP2: Transforming Malaria Diagnosis, but with Caveats". Trends in Parasitology. 36 (2): 112–126. doi:10.1016/j.pt.2019.12.004. PMID 31848119.
+1 2 3 Daily JP, Parikh S (3 April 2025). "Malaria". New England Journal of Medicine. 392 (13): 1320–1333. doi:10.1056/NEJMra2405313. PMC 12331251. PMID 40174226.
+1 2 Fisher JF (2 August 2022). "Testing for malaria: Rapid diagnostic tests and PCR". Medmastery GmbH. Retrieved 20 January 2026.
+1 2 "WHO prequalifies first-ever malaria treatment for newborns and infants, adds new diagnostic tests". World Health Organization (WHO). 24 April 2026. Archived from the original on 27 April 2026. Retrieved 28 April 2026.
+↑ "Multiple first-line therapies as part of the response to antimalarial drug resistance". www.who.int. Archived from the original on 27 January 2026. Retrieved 24 January 2026.
+↑ "Antimalarial drug resistance". Medicines for Malaria Venture. May 2025. Retrieved 24 January 2026.
+↑ Shahbodaghi SD, Rathjen NA (September 2022). "Malaria: Prevention, Diagnosis, and Treatment". American Family Physician. 106 (3): 270–278. PMID 36126008.
+1 2 3 "General Approach to Treatment". Centers for Disease Control and Prevention. 26 March 2024. Retrieved 21 January 2026.
+↑ "Appendix A: Malaria in the United States: Treatment Tables". Centers for Disease Control and Prevention. 14 August 2024. Archived from the original on 7 February 2026. Retrieved 26 January 2026.
+↑ Canada PH (10 March 2021). "Chapter 7 - Treatment of malaria: Canadian recommendations for the prevention and treatment of malaria". www.canada.ca. Archived from the original on 19 January 2026. Retrieved 26 January 2026.
+1 2 "MAGICapp - WHO guidelines for malaria v9.1". app.magicapp.org. 13 August 2025. Archived from the original on 25 September 2020. Retrieved 23 January 2026.
+↑ "New and updated malaria guidance". www.who.int. Retrieved 25 January 2026.
+1 2 Institute of Medicine (US) Committee on the Economics of Antimalarial Drugs, Arrow KJ, Panosian C, Gelband H (2004). "Antimalarial Drugs and Drug Resistance". Saving Lives, Buying Time: Economics of Malaria Drugs in an Age of Resistance. National Academies Press (US).
+1 2 3 Evans M, Hill K (May 2025). "Malaria Treatment Guidance" (PDF). NHS Tayside. Archived (PDF) from the original on 23 July 2025. Retrieved 24 January 2026.
+1 2 3 4 CDC (24 June 2025). "Treatment of Uncomplicated Malaria". Centers for Disease Control and Prevention. Retrieved 24 January 2026.
+↑ WHO 2015, p. 73.
+↑ Lalloo DG, Shingadia D, Bell DJ, Beeching NJ, Whitty CJ, Chiodini PL (June 2016). "UK malaria treatment guidelines 2016". Journal of Infection. 72 (6): 635–649. doi:10.1016/j.jinf.2016.02.001. PMC 7132403. PMID 26880088.
+↑ CDC (20 May 2025). "General Approach to Treatment". Malaria. Retrieved 25 January 2026.
+↑ Walter K, John CC (8 February 2022). "Malaria". JAMA. 327 (6): 597. doi:10.1001/jama.2021.21468. hdl:1805/37679. PMID 35133414.
+↑ Sheehy SH, Angus BJ (7 March 2011). "Malaria: severe, life-threatening". BMJ Clinical Evidence. 2011. PMC 3217801. PMID 21375787.
+↑ CDC (3 April 2024). "Treatment of Severe Malaria". Malaria. Archived from the original on 3 May 2025. Retrieved 25 January 2026.
+↑ Lalloo DG, Shingadia D, Bell DJ, Beeching NJ, Whitty CJ, Chiodini PL, et al. (June 2016). "UK malaria treatment guidelines 2016". Journal of Infection. 72 (6): 635–649. doi:10.1016/j.jinf.2016.02.001. PMC 7132403. PMID 26880088.
+1 2 CDC (3 April 2024). "Alternatives for Pregnant Women". Malaria. Archived from the original on 18 March 2026. Retrieved 26 January 2026.
+↑ "Antimalarial drugs for pregnant women". Medicines for Malaria Venture. Archived from the original on 22 September 2025. Retrieved 26 January 2026.
+↑ Sinha S, Medhi B, Sehgal R (2014). "Challenges of drug-resistant malaria". Parasite. 21: 61. doi:10.1051/parasite/2014059. PMC 4234044. PMID 25402734.
+↑ Igwe MC, Ogbuabor OA, Obeagu EI (14 March 2025). "Evolutionary biology of antimalarial drug resistance: Understanding of the evolutionary dynamics". Medicine. 104 (11) e41878. doi:10.1097/MD.0000000000041878 (inactive 23 May 2026). PMC 11922465. PMID 40101051.{{cite journal}}: CS1 maint: DOI inactive as of May 2026 (link)
+1 2 3 4 "History of antimalarial drugs". Medicines for Malaria Venture. Archived from the original on 16 June 2025. Retrieved 27 January 2026.
+↑ CDC (8 April 2024). "Drug Resistance in the Malaria-Endemic World". Malaria. Archived from the original on 7 September 2025. Retrieved 27 January 2026.
+↑ "Current antimalarial drugs at risk due to resistance". Nuffield Department of Medicine, Oxford University. 25 April 2023. Archived from the original on 20 January 2026. Retrieved 27 January 2026.
+↑ Antony H, Parija S (2016). "Antimalarial drug resistance: An overview". Tropical Parasitology. 6 (1): 30–41. doi:10.4103/2229-5070.175081. PMC 4778180. PMID 26998432.
+↑ "Frequently Asked Questions (FAQs): If I get malaria, will I have it for the rest of my life?". US Centers for Disease Control and Prevention. 8 February 2010. Archived from the original on 13 May 2012. Retrieved 14 May 2012.
+↑ Trampuz A, Jereb M, Muzlovic I, Prabhu RM (August 2003). "Clinical review: Severe malaria". Critical Care. 7 (4): 315–323. doi:10.1186/cc2183. PMC 270697. PMID 12930555.
+↑ "Malaria: MedlinePlus Medical Encyclopedia". medlineplus.gov. 12 May 2025. Archived from the original on 17 November 2016. Retrieved 28 January 2026.
+1 2 Fernando SD, Rodrigo C, Rajapakse S (December 2010). "The 'hidden' burden of malaria: cognitive impairment following infection". Malaria Journal. 9 366. doi:10.1186/1475-2875-9-366. PMC 3018393. PMID 21171998.
+1 2 Idro R, Marsh K, John CC, Newton CR (October 2010). "Cerebral malaria: mechanisms of brain injury and strategies for improved neurocognitive outcome". Pediatric Research. 68 (4): 267–274. doi:10.1203/pdr.0b013e3181eee738. PMC 3056312. PMID 20606600.
+↑ Gomes PS, Bhardwaj J, Rivera-Correa J, Freire-De-Lima CG, Morrot A (2016). "Immune Escape Strategies of Malaria Parasites". Frontiers in Microbiology. 7: 1617. doi:10.3389/fmicb.2016.01617. PMC 5066453. PMID 27799922.
+1 2 Good MF, Stanisic DI (February 2021). "Biological strategies and political hurdles in developing malaria vaccines". Expert Review of Vaccines. 20 (2): 93–95. doi:10.1080/14760584.2021.1889094. hdl:10072/402649. PMID 33595407.
+↑ Day KP, Artzy-Randrup Y, Tiedje KE, Rougeron V, Chen DS, Rask TS, et al. (16 May 2017). "Evidence of strain structure in Plasmodium falciparum var gene repertoires in children from Gabon, West Africa". Proceedings of the National Academy of Sciences. 114 (20): E4103–E4111. Bibcode:2017PNAS..114E4103D. doi:10.1073/pnas.1613018114. PMC 5441825. PMID 28461509.
+1 2 CDC (2 April 2024). "Malaria Vaccines". Centers for Disease Control and Prevention. Archived from the original on 12 January 2026. Retrieved 9 January 2026.
+↑ Nussenzweig RS, Vanderberg J, Most H, Orton C (October 1967). "Protective Immunity produced by the Injection of X-irradiated Sporozoites of Plasmodium berghei". Nature. 216 (5111): 160–162. Bibcode:1967Natur.216..160N. doi:10.1038/216160a0. PMID 6057225.
+↑ Vanderberg JP (January 2009). "Reflections on early malaria vaccine studies, the first successful human malaria vaccination, and beyond". Vaccine. 27 (1): 2–9. doi:10.1016/j.vaccine.2008.10.028. PMC 2637529. PMID 18973784.
+↑ "World Malaria Report 2013" (PDF). World Health Organization. Retrieved 13 February 2014.
+↑ "Mosquirix: Opinion on medicine for use outside EU". European Medicines Agency (EMA). October 2015. Archived from the original on 23 November 2019. Retrieved 22 November 2019.
+↑ Willyard C (22 December 2022). "The slow roll-out of the world's first malaria vaccine". Nature. 612 (7941): S48–S49. Bibcode:2022Natur.612S..48W. doi:10.1038/d41586-022-04343-7. PMID 36536213.
+↑ World Health Organization (March 2020). "Q&A on the malaria vaccine implementation programme (MVIP)". WHO. Archived from the original on 13 May 2020. Retrieved 6 May 2020.
+↑ Mandavilli A (4 October 2022). "At Long Last, Can Malaria Finally Be Eradicated?". The New York Times.
+↑ "Life-saving malaria vaccines reach children in 17 endemic countries in 2024". www.who.int. Archived from the original on 28 December 2025. Retrieved 10 January 2026.
+↑ Holmes D (7 November 2023). "RTS,S vaccine pilot: 13% mortality reduction fuels hope for malaria control". GAVI The Vaccine Alliance. Retrieved 10 January 2026.
+↑ Roxby P (23 April 2021). "Malaria vaccine hailed as potential breakthrough". BBC News. Archived from the original on 24 April 2021. Retrieved 24 April 2021.
+↑ "Malaria vaccine becomes first to achieve WHO-specified 75% efficacy goal". EurekAlert! (Press release). 23 April 2021. Archived from the original on 27 July 2021. Retrieved 24 April 2021.
+↑ Datoo M, Dicko A, Tinto H, et al. (10 February 2024). "Safety and efficacy of malaria vaccine candidate R21/Matrix-M in African children: a multicentre, double-blind, randomised, phase 3 trial". The Lancet. 403 (10426): 533–544. doi:10.1016/S0140-6736(23)02511-4. PMC 7618965. PMID 38310910.
+1 2 US EPA O (5 July 2016). "Success in Mosquito Control: An Integrated Approach". www.epa.gov. Archived from the original on 6 February 2026. Retrieved 1 February 2026.
+1 2 "Mosquito bite avoidance: advice for travellers". GOV.UK. Archived from the original on 24 January 2023. Retrieved 2 February 2026.
+↑ "Avoid bug bites | Travelers' Health | CDC". wwwnc.cdc.gov. Archived from the original on 13 March 2016. Retrieved 2 February 2026.
+↑ Healy K, Hamilton G, Crepeau T, Healy S, Unlu I, Farajollahi A, et al. (25 September 2014). Beebe N (ed.). "Integrating the public in mosquito management: active education by community peers can lead to significant reduction in peridomestic container mosquito habitats". PLOS ONE. 9 (9) e108504. Bibcode:2014PLoSO...9j8504H. doi:10.1371/journal.pone.0108504. PMC 4177891. PMID 25255027.
+↑ "Mosquito Prevention: What the Homeowner Can Do". Mississippi State Department of Health. 13 February 2025. Archived from the original on 14 February 2026. Retrieved 2 February 2026.
+1 2 Fox T, Furnival-Adams J, Chaplin M, Napier M, Olanga EA (October 2022). "House modifications for preventing malaria". The Cochrane Database of Systematic Reviews. 2022 (10) CD013398. doi:10.1002/14651858.CD013398.pub4. PMC 9536247. PMID 36200610.
+↑ Pluess B, Tanser FC, Lengeler C, Sharp BL (April 2010). Lengeler C (ed.). "Indoor residual spraying for preventing malaria". The Cochrane Database of Systematic Reviews. 2010 (4) CD006657. doi:10.1002/14651858.CD006657.pub2. PMC 6532743. PMID 20393950.
+↑ Raghavendra K, Barik TK, Reddy BP, Sharma P, Dash AP (April 2011). "Malaria vector control: from past to future". Parasitology Research. 108 (4): 757–779. doi:10.1007/s00436-010-2232-0. PMID 21229263.
+↑ Schlagenhauf-Lawlor P (2008). Travelers' Malaria. PMPH-USA. p. 215. ISBN 978-1-55009-336-0.
+↑ Gleave K, Lissenden N, Chaplin M, Choi L, Ranson H (May 2021). "Piperonyl butoxide (PBO) combined with pyrethroids in insecticide-treated nets to prevent malaria in Africa". The Cochrane Database of Systematic Reviews. 5 (5) CD012776. doi:10.1002/14651858.CD012776.pub3. PMC 8142305. PMID 34027998.
+↑ "WHO publishes recommendations on two new types of insecticide-treated nets". www.who.int. Archived from the original on 27 January 2026. Retrieved 29 January 2026.
+1 2 "Nearly every minute, a child under 5 dies of malaria". UNICEF. November 2024. Archived from the original on 21 September 2023. Retrieved 29 January 2026.
+1 2 "The changing impact of malaria control in Africa 2000-2025 – MAP" (PDF). Malaria Atlas Project. Archived (PDF) from the original on 22 January 2026. Retrieved 14 November 2025.
+↑ CDC (1 April 2024). "Indoor Residual Spraying Prevention Strategies". Centers for Disease Control and Prevention. Archived from the original on 1 February 2026. Retrieved 31 January 2026.
+1 2 "Mosquito Biology". Cape May County, NJ (Official Website). Archived from the original on 9 February 2026. Retrieved 31 January 2026.
+1 2 Pryce J, Medley N, Choi L (17 January 2022). "Indoor residual spraying for preventing malaria in communities using insecticide-treated nets". Cochrane Database of Systematic Reviews. 2022 (1) CD012688. doi:10.1002/14651858.CD012688.pub3. PMC 8763033. PMID 35038163.
+↑ Operational Manual on Indoor Residual Spraying: Control of Vectors of Malaria, Aedes-Borne Diseases, Chagas Disease, Leishmaniases and Lymphatic Filariasis (1st ed.). Geneva: World Health Organization. 2024. ISBN 978-92-4-008399-8.
+↑ "It's Warming Up And Mozzies Are Coming. Here's How To Mosquito-proof Your Backyard". NSW Health Pathology. 12 September 2023. Retrieved 2 February 2026.
+1 2 Nalinya S, Musoke D, Deane K (February 2022). "Malaria prevention interventions beyond long-lasting insecticidal nets and indoor residual spraying in low- and middle-income countries: a scoping review". Malaria Journal. 21 (1) 31. doi:10.1186/s12936-022-04052-6. PMC 8812253. PMID 35109848.
+↑ CDC (19 September 2024). "Indoor Residual Spraying Prevention Strategies". Malaria. Archived from the original on 11 May 2026. Retrieved 23 April 2026.
+1 2 Abbasi E (27 March 2026). "Mechanisms of insecticide resistance in mosquitoes: A systematic review of biochemical and physiological perspectives for sustainable vector control". Medicine. 105 (13) e48068. doi:10.1097/MD.0000000000048068. PMC 13034918. PMID 41894285.
+1 2 Fouet C, Atkinson P, Kamdem C (February 2018). "Human Interventions: Driving Forces of Mosquito Evolution". Trends in Parasitology. 34 (2): 127–139. doi:10.1016/j.pt.2017.10.012. PMID 29301722.
+1 2 3 Gatton ML, Chitnis N, Churcher T, Donnelly MJ, Ghani AC, Godfray HC, et al. (April 2013). "The Importance of Mosquito Behavioural Adaptations to Malaria Control in Africa". Evolution. 67 (4): 1218–1230. Bibcode:2013Evolu..67.1218G. doi:10.1111/evo.12063. PMC 3655544. PMID 23550770.
+1 2 Huho B, Briët O, Seyoum A, Sikaala C, Bayoh N, Gimnig J, et al. (February 2013). "Consistently high estimates for the proportion of human exposure to malaria vector populations occurring indoors in rural Africa". International Journal of Epidemiology. 42 (1): 235–247. doi:10.1093/ije/dys214. PMC 3600624. PMID 23396849.
+1 2 3 Carrasco D, Lefèvre T, Moiroux N, Pennetier C, Chandre F, Cohuet A (August 2019). "Behavioural adaptations of mosquito vectors to insecticide control". Current Opinion in Insect Science. 34: 48–54. Bibcode:2019COIS...34...48C. doi:10.1016/j.cois.2019.03.005. PMID 31247417.
+↑ Tickell-Painter M, Maayan N, Saunders R, Pace C, Sinclair D (October 2017). "Mefloquine for preventing malaria during travel to endemic areas". The Cochrane Database of Systematic Reviews. 2017 (10) CD006491. doi:10.1002/14651858.CD006491.pub4. PMC 5686653. PMID 29083100.
+↑ Freedman DO (August 2008). "Clinical practice. Malaria prevention in short-term travelers". The New England Journal of Medicine. 359 (6): 603–612. doi:10.1056/NEJMcp0803572. PMID 18687641.
+↑ Littmann J, Achu D, Laufer MK, Karema C, Schellenberg D (19 February 2024). "Making the most of malaria chemoprevention". Malaria Journal. 23 (1) 51. doi:10.1186/s12936-024-04867-5. PMC 10875741. PMID 38369497.
+↑ Bardají A, Bassat Q, Alonso PL, Menéndez C (August 2012). "Intermittent preventive treatment of malaria in pregnant women and infants: making best use of the available evidence". Expert Opinion on Pharmacotherapy. 13 (12): 1719–1736. doi:10.1517/14656566.2012.703651. PMID 22775553.
+↑ Meremikwu MM, Donegan S, Sinclair D, Esu E, Oringanje C (February 2012). Meremikwu MM (ed.). "Intermittent preventive treatment for malaria in children living in areas with seasonal transmission". The Cochrane Database of Systematic Reviews. 2012 (2) CD003756. doi:10.1002/14651858.CD003756.pub4. PMC 6532713. PMID 22336792.
+↑ Radeva-Petrova D, Kayentao K, ter Kuile FO, Sinclair D, Garner P (October 2014). "Drugs for preventing malaria in pregnant women in endemic areas: any drug regimen versus placebo or no treatment". The Cochrane Database of Systematic Reviews. 2014 (10) CD000169. doi:10.1002/14651858.CD000169.pub3. PMC 4498495. PMID 25300703.
+↑ Esu EB, Oringanje C, Meremikwu MM (July 2021). "Intermittent preventive treatment for malaria in infants". The Cochrane Database of Systematic Reviews. 2021 (7) CD011525. doi:10.1002/14651858.CD011525.pub3. PMC 8406727. PMID 34273901.
+↑ Shah MP, Hwang J, Choi L, Lindblade KA, Kachur SP, Desai M (September 2021). "Mass drug administration for malaria". The Cochrane Database of Systematic Reviews. 2021 (9) CD008846. doi:10.1002/14651858.CD008846.pub3. PMC 8479726. PMID 34585740.
+1 2 WHO. (1951) Technical Report Series #38
+↑ Wernsdorfer WH (September 1992). "The biological and epidemiological basis of drug resistance in malaria parasites". Southeast Asian Journal of Tropical Medicine and Public Health. 23 (Suppl 4): 123–9. PMID 1364857.
+↑ Verdrager J (March 1995). "Localized permanent epidemics: the genesis of chloroquine resistance in Plasmodium falciparum". Southeast Asian J. Trop. Med. Public Health. 26 (1): 23–8. PMID 8525414.
+↑ Verdrager J (December 1986). "Epidemiology of the emergence and spread of drug-resistant falciparum malaria in South-East Asia and Australasia". J Trop Med Hyg. 89 (6): 277–89. PMID 3543384.
+↑ Payne D (April 1988). "Did medicated salt hasten the spread of chloroquine resistance in Plasmodium falciparum?". Parasitol. Today (Regul. Ed.). 4 (4): 112–5. doi:10.1016/0169-4758(88)90042-7. PMID 15463062.
+↑ Lalloo DG, Olukoya P, Olliaro P (December 2006). "Malaria in adolescence: burden of disease, consequences, and opportunities for intervention". The Lancet Infectious Diseases. 6 (12): 780–793. doi:10.1016/S1473-3099(06)70655-7. PMID 17123898.
+↑ Mehlhorn H, ed. (2016). "Disease Control, Methods". Encyclopedia of Parasitology. pp. 740–745. doi:10.1007/978-3-662-43978-4_921. ISBN 978-3-662-43977-7.
+1 2 "VECTORS OF MALARIA". National Center for Vector Borne Diseases Control (NCVBDC), Ministry of Health & Family Welfare, Government of India. Retrieved 1 January 2026.
+↑ "OLCreate: HEAT_CD_ET_1.0 Communicable Diseases Module: 6. Factors that Affect Malaria Transmission | OLCreate". www.open.edu. Retrieved 1 January 2026.
+↑ Bloland PB, Williams HA, Population NR, Program on Forced Migration and Health at the Mailman School of Public Health CU (2002). "Epidemiology of Malaria". Malaria Control during Mass Population Movements and Natural Disasters. National Academies Press (US). Archived from the original on 6 February 2025. Retrieved 5 January 2026.
+↑ Villena OC, Arab A, Lippi CA, Ryan SJ, Johnson LR (20 July 2024). "Influence of environmental, geographic, socio-demographic and epidemiological factors on presence of malaria at the community level in two continents". Scientific Reports. 14 (1) 16734. Bibcode:2024NatSR..1416734V. doi:10.1038/s41598-024-67452-5. PMC 11271557. PMID 39030306.
+1 2 "Where Malaria Occurs". Centers for Disease Control and Prevention. 1 April 2024. Archived from the original on 6 January 2026. Retrieved 6 January 2026.
+↑ "Anopheles atroparvus - Factsheet for experts". European Centre for Disease Control. 19 August 2014. Archived from the original on 28 January 2026. Retrieved 6 January 2026.
+↑ WHO 2022, p. [page needed].
+↑ "Malaria - Annual Epidemiological Report for 2022". European Centre for Disease Prevention and Control. 24 April 2024. Archived from the original on 16 December 2025. Retrieved 4 January 2026.
+1 2 CDC (13 June 2024). "CDC & Malaria". Malaria. Archived from the original on 4 January 2026. Retrieved 4 January 2026.
+1 2 "More pregnant women and children protected from malaria, but accelerated efforts and funding needed to reinvigorate global response, WHO report shows". World Health Organization. 4 December 2019. Archived from the original on 12 January 2026. Retrieved 5 January 2026.
+↑ "Climate Change And Infectious Diseases" (PDF). Climate Change and Human Health—Risk and Responses. World Health Organization. Archived (PDF) from the original on 4 March 2016.
+↑ "Climate change and human health—risks and responses. Summary". World Health Organization. Archived from the original on 25 December 2003. Retrieved 29 October 2018.
+↑ Hulme M, Doherty R, Ngara T, New M, Lister D (August 2001). "African climate change: 1900-2100" (PDF). Climate Research. 17 (2): 145–68. Bibcode:2001ClRes..17..145H. doi:10.3354/cr017145. Archived (PDF) from the original on 30 June 2021. Retrieved 8 September 2020.
+1 2 Smith MW, Willis T, Alfieri L, James WH, Trigg MA, Yamazaki D, et al. (August 2020). "Incorporating hydrology into climate suitability models changes projections of malaria transmission in Africa". Nature Communications. 11 (1) 4353. Bibcode:2020NatCo..11.4353S. doi:10.1038/s41467-020-18239-5. PMC 7455692. PMID 32859908.
+1 2 3 Caminade C, Kovats S, Rocklov J, Tompkins AM, Morse AP, Colón-González FJ, et al. (March 2014). "Impact of climate change on global malaria distribution". Proceedings of the National Academy of Sciences USA. 111 (9): 3286–91. Bibcode:2014PNAS..111.3286C. doi:10.1073/pnas.1302089111. PMC 3948226. PMID 24596427.
+1 2 Siraj AS, Santos-Vega M, Bouma MJ, Yadeta D, Ruiz Carrascal D, Pascual M (March 2014). "Altitudinal changes in malaria incidence in highlands of Ethiopia and Colombia". Science. 343 (6175): 1154–8. Bibcode:2014Sci...343.1154S. doi:10.1126/science.1244325. PMID 24604201.
+1 2 3 Colón-González FJ, Sewe MO, Tompkins AM, Sjödin H, Casallas A, Rocklöv J, et al. (July 2021). "Projecting the risk of mosquito-borne diseases in a warmer and more populated world: a multi-model, multi-scenario intercomparison modelling study". Lancet Planet Health. 5 (7): e404–14. Bibcode:2021LanPH...5.e404C. doi:10.1016/S2542-5196(21)00132-7. PMC 8280459. PMID 34245711.
+1 2 3 Bouma MJ, van der Kaay HJ (February 1996). "The El Niño Southern Oscillation and the historic malaria epidemics on the Indian subcontinent and Sri Lanka: an early warning system for future epidemics?". Tropical Medicine & International Health. 1 (1): 86–96. Bibcode:1996TMIH....1...86B. doi:10.1046/j.1365-3156.1996.d01-7.x. PMID 8673827.
+↑ Hay SI, Shanks GD, Stern DI, Snow RW, Randolph SE, Rogers DJ (February 2005). "Climate variability and malaria epidemics in the highlands of East Africa". Trends in Parasitology. 21 (2): 52–53. doi:10.1016/j.pt.2004.11.007. PMC 3173848. PMID 15664524.
+1 2 Shapiro LL, Whitehead SA, Thomas MB (October 2017). "Quantifying the effects of temperature on mosquito and parasite traits that determine the transmission potential of human malaria". PLOS Biology. 15 (10) e2003489. doi:10.1371/journal.pbio.2003489. PMC 5658182. PMID 29036170.
+↑ Suh PF, Elanga-Ndille E, Tchouakui M, Sandeu MM, Tagne D, Wondji C, et al. (January 2023). "Impact of insecticide resistance on malaria vector competence: a literature review". Malaria Journal. 22 (1) 19. doi:10.1186/s12936-023-04444-2. PMC 9847052. PMID 36650503.
+↑ Harper K, Armelagos G (February 2010). "The changing disease-scape in the third epidemiological transition". International Journal of Environmental Research and Public Health. 7 (2): 675–697. Bibcode:2010IJERP...7..675H. doi:10.3390/ijerph7020675. PMC 2872288. PMID 20616997.
+↑ Prugnolle F, Durand P, Ollomo B, Duval L, Ariey F, Arnathau C, et al. (February 2011). Manchester M (ed.). "A fresh look at the origin of Plasmodium falciparum, the most malignant malaria agent". PLOS Pathogens. 7 (2) e1001283. doi:10.1371/journal.ppat.1001283. PMC 3044689. PMID 21383971.
+↑ Cox FE (October 2002). "History of human parasitology". Clinical Microbiology Reviews. 15 (4): 595–612. Bibcode:2002CliMR..15..595C. doi:10.1128/CMR.15.4.595-612.2002. PMC 126866. PMID 12364371.
+1 2 Strong RP (1944). Stitt's Diagnosis, Prevention and Treatment of Tropical Diseases (Seventh ed.). York, PA: The Blakiston Company. p. 3.
+↑ "DNA clues to malaria in ancient Rome". BBC News. 20 February 2001. Archived from the original on 2 November 2010., in reference to Sallares R, Gomzi S (2001). "Biomolecular archaeology of malaria". Ancient Biomolecules. 3 (3): 195–213. OCLC 538284457.
+↑ Sallares R (2002). Malaria and Rome: A History of Malaria in Ancient Italy. Oxford University Press. doi:10.1093/acprof:oso/9780199248506.001.0001. ISBN 978-0-19-924850-6.
+↑ Hays JN (2005). Epidemics and Pandemics: Their Impacts on Human History. Santa Barbara, CA: ABC-CLIO. p. 11. ISBN 978-1-85109-658-9. Archived from the original on 13 January 2023. Retrieved 27 October 2015.
+↑ De Castro MC, Singer BH (2005). "Was malaria present in the Amazon before the European conquest? Available evidence and future research agenda". J. Archaeol. Sci. 32 (3): 337–40. Bibcode:2005JArSc..32..337D. doi:10.1016/j.jas.2004.10.004.
+↑ Yalcindag E, Elguero E, Arnathau C, Durand P, Akiana J, Anderson TJ, et al. (January 2012). "Multiple independent introductions of Plasmodium falciparum in South America". Proceedings of the National Academy of Sciences of the United States of America. 109 (2): 511–516. Bibcode:2012PNAS..109..511Y. doi:10.1073/pnas.1119058109. PMC 3258587. PMID 22203975.
+↑ "Malarial organisms in the blood". Scientific American. 46 (3). Munn & Company: 37–38. 21 January 1882.
+↑ "The Nobel Prize in Physiology or Medicine 1907: Alphonse Laveran". The Nobel Foundation. Archived from the original on 23 June 2012. Retrieved 14 May 2012.
+↑ "Alphonse Laveran – Biographical". Nobelprize.org. Nobel Foundation. 2013. Retrieved 13 March 2014.
+↑ Tan SY, Sung H (May 2008). "Carlos Juan Finlay (1833-1915): of mosquitoes and yellow fever" (PDF). Singapore Medical Journal. 49 (5): 370–371. PMID 18465043. Archived (PDF) from the original on 23 July 2008.
+↑ Chernin E (November 1983). "Josiah Clark Nott, insects, and yellow fever". Bulletin of the New York Academy of Medicine. 59 (9): 790–802. PMC 1911699. PMID 6140039.
+↑ Chernin E (September 1977). "Patrick Manson (1844-1922) and the transmission of filariasis". The American Journal of Tropical Medicine and Hygiene. 26 (5 Pt 2 Suppl): 1065–1070. doi:10.4269/ajtmh.1977.26.1065. PMID 20786.
+1 2 3 Cox FE (February 2010). "History of the discovery of the malaria parasites and their vectors". Parasites & Vectors. 3 (1): 5. doi:10.1186/1756-3305-3-5. PMC 2825508. PMID 20205846.
+↑ "The Nobel Prize in Physiology or Medicine 1902". Nobel Foundation. Archived from the original on 22 August 2007. Retrieved 28 July 2007.
+↑ "Ross and the Discovery that Mosquitoes Transmit Malaria Parasites". CDC Malaria website. Archived from the original on 2 June 2007. Retrieved 14 June 2012.
+↑ Simmons JS (1979). Malaria in Panama. Ayer Publishing. ISBN 978-0-405-10628-6. Archived from the original on 13 January 2023. Retrieved 27 October 2015.
+↑ "Amico Bignami". whonamedit.com. Archived from the original on 30 July 2019. Retrieved 30 July 2019.
+↑ Kaufman TS, Rúveda EA (January 2005). "The quest for quinine: those who won the battles and those who won the war". Angewandte Chemie. 44 (6): 854–885. Bibcode:2005ACIE...44..854K. doi:10.1002/anie.200400663. PMID 15669029.
+↑ Pelletier PJ, Caventou JB (1820). "Des recherches chimiques sur les Quinquinas" [Chemical research on quinquinas]. Annales de Chimie et de Physique (in French). 15: 337–65.
+↑ Kyle RA, Shampe MA (July 1974). "Discoverers of quinine". JAMA. 229 (4): 462. doi:10.1001/jama.229.4.462 (inactive 23 May 2026). PMID 4600403.{{cite journal}}: CS1 maint: DOI inactive as of May 2026 (link)
+↑ Achan J, Talisuna AO, Erhart A, Yeka A, Tibenderana JK, Baliraine FN, et al. (May 2011). "Quinine, an old anti-malarial drug in a modern world: role in the treatment of malaria". Malaria Journal. 10 (1) 144. Bibcode:2011MalJ...10..144A. doi:10.1186/1475-2875-10-144. PMC 3121651. PMID 21609473.
+↑ Ekiert H, Świątkowska J, Klin P, Rzepiela A, Szopa A (July 2021). "Artemisia annua - Importance in Traditional Medicine and Current State of Knowledge on the Chemistry, Biological Activity and Possible Applications". Planta Medica. 87 (8): 584–599. Bibcode:2021PlMed..87..584E. doi:10.1055/a-1345-9528. PMID 33482666.
+↑ Timóteo P, Wessels C, Righeschi C, Goris H, Bilia A (24 August 2010). "Evaluation of stability of constituents of herbal drug preparations from Artemisia annua L". Planta Medica. 76 (12). Bibcode:2010PlMed..7664749T. doi:10.1055/s-0030-1264749.
+↑ WHO monograph on good agricultural and collection practices (GACP) for Artemisia annua L. World Health Organization. 2006. hdl:10665/43509. ISBN 978-92-4-159443-1.[page needed]
+↑ van der Kooy F, Sullivan SE (October 2013). "The complexity of medicinal plants: the traditional Artemisia annua formulation, current status and future perspectives". Journal of Ethnopharmacology (Review). 150 (1): 1–13. doi:10.1016/j.jep.2013.08.021. PMID 23973523.
+↑ Hsu E (June 2006). "Reflections on the 'discovery' of the antimalarial qinghao". British Journal of Clinical Pharmacology. 61 (6): 666–670. doi:10.1111/j.1365-2125.2006.02673.x. PMC 1885105. PMID 16722826.
+↑ Hao C (29 September 2011). "Lasker Award Rekindles Debate Over Artemisinin's Discovery". News: ScienceInsider. Science/AAAS. Archived from the original on 4 January 2014.
+↑ "Nobel Prize announcement" (PDF). NobelPrize.org. Archived (PDF) from the original on 6 October 2015. Retrieved 5 October 2015.
+↑ Vogel G (November 2013). "The forgotten malaria". Science. 342 (6159): 684–687. Bibcode:2013Sci...342..684V. doi:10.1126/science.342.6159.684. PMID 24202156.
+↑ "Eradication of Malaria in the United States (1947–1951)". US Centers for Disease Control and Prevention. 8 February 2010. Archived from the original on 4 May 2012. Retrieved 2 May 2012.
+1 2 van den Berg H (November 2009). "Global status of DDT and its alternatives for use in vector control to prevent disease". Environmental Health Perspectives. 117 (11): 1656–1663. Bibcode:2009EnvHP.117.1656V. doi:10.1289/ehp.0900785. PMC 2801202. PMID 20049114.
+↑ Killeen GF, Fillinger U, Kiche I, Gouagna LC, Knols BG (October 2002). "Eradication of Anopheles gambiae from Brazil: lessons for malaria control in Africa?". The Lancet Infectious Diseases. 2 (10): 618–627. doi:10.1016/S1473-3099(02)00397-3. PMID 12383612. Archived from the original on 13 January 2025. Retrieved 23 May 2026.
+↑ "Countries and territories certified malaria-free by WHO". Global Malaria Programme of the World Health Organization. 15 July 2025. Archived from the original on 30 January 2024. Retrieved 8 February 2026.
+1 2 Duintjer Tebbens RJ, Thompson KM (2009). "Priority Shifting and the Dynamics of Managing Eradicable Infectious Diseases". Management Science. 55 (4): 650–663. doi:10.1287/mnsc.1080.0965.
+↑ Mendis K, Rietveld A, Warsame M, Bosman A, Greenwood B, Wernsdorfer WH (July 2009). "From malaria control to eradication: The WHO perspective". Tropical Medicine & International Health. 14 (7): 802–809. doi:10.1111/j.1365-3156.2009.02287.x. PMID 19497083.
+1 2 Sadasivaiah S, Tozan Y, Breman JG (December 2007). "Dichlorodiphenyltrichloroethane (DDT) for indoor residual spraying in Africa: how can it be used for malaria control?". The American Journal of Tropical Medicine and Hygiene. 77 (6 Suppl): 249–263. Bibcode:2007AJTMH..77..249S. doi:10.4269/ajtmh.2007.77.249. PMID 18165500.
+↑ Gladwell M (2 July 2001). "The Mosquito Killer". The New Yorker. Archived from the original on 16 April 2016. Retrieved 20 August 2014.
+↑ Harrison GA (1978). Mosquitoes, malaria, and man: a history of the hostilities since 1880. New York: Dutton. ISBN 978-0-525-16025-0.
+↑ Feachem RG, Sabot OJ (May 2007). "Global malaria control in the 21st century: a historic but fleeting opportunity". JAMA. 297 (20): 2281–2284. doi:10.1001/jama.297.20.2281. PMID 17519417.
+↑ Chapin G, Wasserstrom R (1981). "Agricultural production and malaria resurgence in Central America and India". Nature. 293 (5829): 181–185. Bibcode:1981Natur.293..181C. doi:10.1038/293181a0. PMID 7278974.
+1 2 Nájera JA, González-Silva M, Alonso PL (January 2011). "Some lessons for the future from the Global Malaria Eradication Programme (1955-1969)". PLOS Medicine. 8 (1) e1000412. doi:10.1371/journal.pmed.1000412. PMC 3026700. PMID 21311585.
+↑ Rogan WJ, Chen A (2005). "Health risks and benefits of bis(4-chlorophenyl)-1,1,1-trichloroethane (DDT)". The Lancet. 366 (9487): 763–773. doi:10.1016/S0140-6736(05)67182-6. PMID 16125595. Zenodo: 1259797.
+↑ "Reversing the failures of Roll Back Malaria". The Lancet. 365 (9469): 1439. April 2005. doi:10.1016/S0140-6736(05)66391-X.
+↑ Sato S (January 2021). "Plasmodium-a brief introduction to the parasites causing human malaria and their basic biology". Journal of Physiological Anthropology. 40 (1) 1. doi:10.1186/s40101-020-00251-9. PMC 7792015. PMID 33413683.
+1 2 3 4 5 6 7 Cibulskis RE, Alonso P, Aponte J, Aregawi M, Barrette A, Bergeron L, et al. (December 2016). "Malaria: Global progress 2000 – 2015 and future challenges". Infectious Diseases of Poverty. 5 (1) 61. doi:10.1186/s40249-016-0151-8. PMC 4901420. PMID 27282148.
+↑ "Results Report 2025". The Global Fund to Fight AIDS, Tuberculosis and Malaria. 30 June 2025. Archived from the original on 2 November 2025. Retrieved 3 November 2025.
+↑ Strom S (1 April 2011). "Mission Accomplished, Nonprofits Go Out of Business". The New York Times. OCLC 292231852. Archived from the original on 25 December 2011. Retrieved 9 May 2012.
+↑ WHO (2024). World Malaria Report 2024. Switzerland: World Health Organization. ISBN 978-92-4-010444-0. Archived from the original on 12 November 2025. Retrieved 4 November 2025.
+1 2 "Global Malaria Progress Stalled With Nearly 600,000 Deaths In 2023". Health Policy Watch. 11 December 2024. Archived from the original on 5 December 2025. Retrieved 4 November 2025.
+↑ "Global technical strategy for malaria 2016-2030, 2021 update". www.who.int. Archived from the original on 18 May 2026. Retrieved 11 May 2026.
+↑ Feachem RG, Chen I, Akbari O, Bertozzi-Villa A, Bhatt S, Binka F, et al. (September 2019). "Malaria eradication within a generation: ambitious, achievable, and necessary". The Lancet. 394 (10203): 1056–1112. doi:10.1016/S0140-6736(19)31139-0. PMID 31511196.
+↑ Sachs J, Malaney P (February 2002). "The economic and social burden of malaria". Nature. 415 (6872): 680–685. Bibcode:2002Natur.415..680S. doi:10.1038/415680a. PMID 11832956.
+↑ Roll Back Malaria WHO partnership (2003). "Economic costs of malaria" (PDF). WHO. Archived from the original (PDF) on 29 December 2009.
+↑ Ricci F (2012). "Social implications of malaria and their relationships with poverty". Mediterranean Journal of Hematology and Infectious Diseases. 4 (1): e2012048. doi:10.4084/MJHID.2012.048. PMC 3435125. PMID 22973492.
+↑ Lon CT, Tsuyuoka R, Phanouvong S, Nivanna N, Socheat D, Sokhan C, et al. (November 2006). "Counterfeit and substandard antimalarial drugs in Cambodia". Transactions of the Royal Society of Tropical Medicine and Hygiene. 100 (11): 1019–1024. doi:10.1016/j.trstmh.2006.01.003. PMID 16765399.
+↑ Newton PN, Fernández FM, Plançon A, Mildenhall DC, Green MD, Ziyong L, et al. (February 2008). "A collaborative epidemiological investigation into the criminal fake artesunate trade in South East Asia". PLOS Medicine. 5 (2) e32. doi:10.1371/journal.pmed.0050032. PMC 2235893. PMID 18271620.
+↑ Newton PN, Green MD, Fernández FM, Day NP, White NJ (September 2006). "Counterfeit anti-infective drugs". The Lancet Infectious Diseases. 6 (9): 602–613. doi:10.1016/S1473-3099(06)70581-3. PMID 16931411.
+↑ Parry J (May 2005). "WHO combats counterfeit malaria drugs in Asia". BMJ. 330 (7499): 1044. doi:10.1136/bmj.330.7499.1044-d. PMC 557259. PMID 15879383.
+↑ Gautam CS, Utreja A, Singal GL (May 2009). "Spurious and counterfeit drugs: a growing industry in the developing world". Postgraduate Medical Journal. 85 (1003): 251–256. doi:10.1136/pgmj.2008.073213. PMID 19520877.
+↑ Caudron JM, Ford N, Henkens M, Macé C, Kiddle-Monroe R, Pinel J (August 2008). "Substandard medicines in resource-poor settings: a problem that can no longer be ignored". Tropical Medicine & International Health. 13 (8): 1062–1072. doi:10.1111/j.1365-3156.2008.02106.x. hdl:10144/37334. PMID 18631318.
+↑ Nayyar GM, Breman JG, Newton PN, Herrington J (June 2012). "Poor-quality antimalarial drugs in southeast Asia and sub-Saharan Africa". The Lancet Infectious Diseases. 12 (6): 488–496. doi:10.1016/S1473-3099(12)70064-6. PMID 22632187.
+↑ Asrade Mekonnen B, Getie Yizengaw M, Chanie Worku M (15 July 2024). "Prevalence of substandard, falsified, unlicensed and unregistered medicine and its associated factors in Africa: a systematic review". Journal of Pharmaceutical Policy and Practice. 17 (1) 2375267. doi:10.1080/20523211.2024.2375267. PMC 11251437. PMID 39015754.
+↑ "Fake medicines kill almost 500,000 sub-Saharan Africans a year: UNODC report". UN News. 1 February 2023. Archived from the original on 2 December 2025. Retrieved 11 February 2026.
+↑ Russell PF (2009). "Communicable diseases Malaria". Medical Department of the United States Army in World War II. U.S. Army Medical Department Office of Medical History. Archived from the original on 9 October 2012. Retrieved 24 September 2012.
+↑ Melville CH (1910). "The prevention of malaria in war". In Ross R (ed.). The Prevention of Malaria. New York: E.P. Dutton. p. 577. Archived from the original on 12 March 2016.
+↑ Bryant BJ, Knights KM (2011). Pharmacology for Health Professionals. Elsevier Australia. p. 895. ISBN 978-0-7295-3929-6.
+↑ Bray RS (2004). Armies of Pestilence: The Effects of Pandemics on History. James Clarke. p. 102. ISBN 978-0-227-17240-7. Archived from the original on 12 January 2023. Retrieved 27 October 2015.
+↑ Byrne JP (2008). Encyclopedia of Pestilence, Pandemics, and Plagues: A-M. ABC-CLIO. p. 383. ISBN 978-0-313-34102-1. Archived from the original on 2 December 2025. Retrieved 1 December 2025.
+↑ Mertens JE (March 2024). "A History of Malaria and Conflict". Parasitology Research. 123 (3) 165. doi:10.1007/s00436-024-08167-4. PMC 10951023. PMID 38504009.
+↑ Eckart WU, Vondra H (June 2000). "Malaria and World War II: German malaria experiments 1939-45". Parassitologia. 42 (1–2): 53–58. PMID 11234332.
+↑ "History | CDC Malaria". US Centers for Disease Control and Prevention. 8 February 2010. Archived from the original on 28 August 2010. Retrieved 15 May 2012.
+↑ Alonso PL, Brown G, Arevalo-Herrera M, Binka F, Chitnis C, Collins F, et al. (25 January 2011). "A Research Agenda to Underpin Malaria Eradication". PLOS Medicine. 8 (1) e1000406. doi:10.1371/journal.pmed.1000406. PMC 3026687. PMID 21311579.
+↑ "malERA Refresh (Full series) - MESA". mesamalaria.org. Archived from the original on 3 August 2025. Retrieved 28 February 2026.
+1 2 3 4 El-Moamly AA, El-Sweify MA (17 May 2023). "Malaria vaccines: the 60-year journey of hope and final success—lessons learned and future prospects". Tropical Medicine and Health. 51 (1) 29. doi:10.1186/s41182-023-00516-w. PMC 10189698. PMID 37198702.
+↑ CDC (9 May 2024). "Malaria Vaccines". Malaria. Archived from the original on 15 February 2026. Retrieved 18 February 2026.
+↑ "WHO recommends R21/Matrix-M vaccine for malaria prevention in updated advice on immunization". 2 October 2023. Archived from the original on 3 October 2023. Retrieved 8 December 2023.
+↑ "Two vaccines, one target: How the RTS,S and R21 malaria vaccines work". Gavi, The Vaccine Alliance. 16 February 2024. Archived from the original on 13 February 2026. Retrieved 18 February 2026.
+↑ "WHO review of malaria vaccine clinical development". www.who.int. Archived from the original on 26 January 2026. Retrieved 18 February 2026.
+1 2 Siqueira-Neto JL, Wicht KJ, Chibale K, Burrows JN, Fidock DA, Winzeler EA (October 2023). "Antimalarial drug discovery: progress and approaches". Nature Reviews Drug Discovery. 22 (10): 807–826. doi:10.1038/s41573-023-00772-9. PMC 10543600. PMID 37652975.
+↑ "Multiple first-line therapies as part of the response to antimalarial drug resistance". www.who.int. Archived from the original on 13 February 2026. Retrieved 22 February 2026.
+↑ Amoako MA, Wutor VC, N'guessan BB (28 August 2025). "Knowledge, beliefs and adherence to antimalarial medications among patients in the Ga East Municipality of Ghana". Frontiers in Malaria. 3 1582682. doi:10.3389/fmala.2025.1582682.
+↑ Guerra F, Winzeler EA (December 2022). "New targets for antimalarial drug discovery". Current Opinion in Microbiology. 70 102220. doi:10.1016/j.mib.2022.102220. PMC 9934905. PMID 36228458.
+↑ Tajudeen YA, Oladipo HJ, Oladunjoye IO, Oladipo MK, Shittu HD, Abdulmumeen IF, et al. (12 December 2023). "Transforming malaria prevention and control: the prospects and challenges of gene drive technology for mosquito management". Annals of Medicine. 55 (2) 2302504. doi:10.1080/07853890.2024.2302504. PMC 10795774. PMID 38232762.
+↑ "What are gene drives?". MalariaGen - Genomic Epidemiology Network. Archived from the original on 19 January 2026. Retrieved 26 February 2026.
+↑ Hadebe MT, Malgwi SA, Okpeku M (31 December 2023). "Revolutionizing Malaria Vector Control: The Importance of Accurate Species Identification through Enhanced Molecular Capacity". Microorganisms. 12 (1): 82. doi:10.3390/microorganisms12010082. PMC 10818655. PMID 38257909.
+↑ Mermet L, Tarlton D. "Poverty and malaria are linked. Can we tackle them together?". United Nations Development Programme. Archived from the original on 20 September 2025. Retrieved 26 February 2026.
+↑ Macarayan E, Papanicolas I, Jha A (February 2020). "The quality of malaria care in 25 low-income and middle-income countries". BMJ Global Health. 5 (2) e002023. doi:10.1136/bmjgh-2019-002023. PMC 7042579. PMID 32133188.
+↑ Edusei MY, Alaba O, Okova D, Obse A (8 May 2025). "Socio-economic inequalities in malaria prevalence among under-five children in Ghana between 2016 and 2019: a decomposition analysis". Malaria Journal. 24 (1) 147. doi:10.1186/s12936-025-05349-y. PMC 12063222. PMID 40340795.
+↑ Pell C, Straus L, Andrew EV, Meñaca A, Pool R (20 July 2011). "Social and Cultural Factors Affecting Uptake of Interventions for Malaria in Pregnancy in Africa: A Systematic Review of the Qualitative Research". PLOS ONE. 6 (7) e22452. Bibcode:2011PLoSO...622452P. doi:10.1371/journal.pone.0022452. PMC 3140529. PMID 21799859.
+1 2 World Malaria Report 2023 (Report). World Health Organization. 2023. Archived from the original on 18 July 2024. Retrieved 21 July 2024.
+↑ Thomson MC, Mason SJ, Phindela T, Connor SJ (2005). "Use of rainfall and sea surface temperature monitoring for malaria early warning in Botswana". American Journal of Tropical Medicine and Hygiene. 73 (1): 214–221. Bibcode:2005AJTMH..73..214T. doi:10.4269/ajtmh.2005.73.214. PMID 16014862.
+↑ Ryan SJ, Carlson CJ, Mordecai EA, Johnson LR (2020). "Global expansion and redistribution of vector-borne disease risk with climate change". Nature Climate Change. 10: 1056–1061.
+1 2 3 Naidoo K, Oliver SV (January 2025). "Gene drives: an alternative approach to malaria control?". Gene Therapy. 32 (1): 25–37. doi:10.1038/s41434-024-00468-8. PMC 11785527. PMID 39039203.
+1 2 3 Phillips MA, Burrows JN, Manyando C, van Huijsduijnen RH, Van Voorhis WC, Wells TN (3 August 2017). "Malaria". Nature Reviews Disease Primers. 3 (1) 17050. doi:10.1038/nrdp.2017.50. PMID 28770814.
+1 2 CDC (14 May 2024). "Life Cycle of Anopheles Mosquitoes". Mosquitoes. Archived from the original on 26 April 2026. Retrieved 23 April 2026.
+↑ "Facts about malaria". European Centre for Disease Prevention and Control. 9 June 2017. Archived from the original on 6 July 2021. Retrieved 16 July 2021.
+↑ Brasil P, Zalis MG, de Pina-Costa A, Siqueira AM, Júnior CB, Silva S, et al. (October 2017). "Outbreak of human malaria caused by Plasmodium simium in the Atlantic Forest in Rio de Janeiro: a molecular epidemiological investigation". The Lancet Global Health. 5 (10): e1038–e1046. doi:10.1016/S2214-109X(17)30333-9. PMID 28867401.
+↑ Rich SM, Ayala FJ (2006). "Evolutionary Origins of Human Malaria Parasites". Malaria: Genetic and Evolutionary Aspects. pp. 125–146. doi:10.1007/0-387-28295-5_6. ISBN 978-0-387-28294-7.
+↑ Baird JK (September 2009). "Malaria zoonoses". Travel Medicine and Infectious Disease. 7 (5): 269–277. doi:10.1016/j.tmaid.2009.06.004. PMID 19747661.
+↑ Ameri M (March 2010). "Laboratory diagnosis of malaria in nonhuman primates". Veterinary Clinical Pathology. 39 (1): 5–19. doi:10.1111/j.1939-165X.2010.00217.x. PMID 20456124.
+↑ Mlambo G, Kumar N (November 2008). "Transgenic rodent Plasmodium berghei parasites as tools for assessment of functional immunogenicity and optimization of human malaria vaccines". Eukaryotic Cell. 7 (11): 1875–1879. doi:10.1128/EC.00242-08. PMC 2583535. PMID 18806208.
+↑ Lapointe DA, Atkinson CT, Samuel MD (February 2012). "Ecology and conservation biology of avian malaria". Annals of the New York Academy of Sciences. 1249 (1): 211–226. Bibcode:2012NYASA1249..211L. doi:10.1111/j.1749-6632.2011.06431.x. PMID 22320256.
+Sources
+[edit]
+Guidelines for the Treatment of Malaria. World Health Organization. 2015. hdl:10665/162441. ISBN 978-92-4-154912-7.
+World Malaria Report 2022. World Health Organization. 2022. hdl:10665/365169. ISBN 978-92-4-006489-8.
+Further reading
+[edit]
+Barber MA (1929). "The history of malaria in the United States". Public Health Reports. 44 (43): 2575–87. doi:10.2307/4579430. JSTOR 4579430.
+Bynum W, Overy C, eds. (1998). The Beast in the Mosquito: The Correspondence of Ronald Ross and Patrick Manson. Rodopi. ISBN 978-90-420-0721-5. Archived from the original on 1 December 2025. Retrieved 28 January 2025.
+Jarvis B (29 July 2019). "How Mosquitoes Changed Everything". The New Yorker. Archived from the original on 7 August 2019. Retrieved 8 August 2019.
+Karunaweera ND, Silva NH (2022). "Malaria". In Parija SC, Chaudhury A (eds.). Textbook of Parasitic Zoonoses. Singapore: Springer. pp. 151–161. doi:10.1007/978-981-16-7204-0_14. ISBN 978-981-16-7204-0.
+Kremsner PG, Krishna S, eds. (2025). Encyclopedia of Malaria. New York, NY: Springer. doi:10.1007/978-1-4614-8326-7. ISBN 978-1-4614-8325-0.
+Li Q, Liu T, Lv K, Liao F, Wang J, Tu Y, et al. (2025). "Malaria: past, present, and future". Signal Transduction and Targeted Therapy. 10 (1): 188. doi:10.1038/s41392-025-02246-3. PMC 12170910. PMID 40523953.
+Malpede M (2023). "Malaria and economic activity: Evidence from US agriculture". American Journal of Agricultural Economics. 105 (5): 1516–42. doi:10.1111/ajae.12363.
+"Tightening the handle on malaria". Nature Methods (Editorial). 16 (4): 271. April 2019. doi:10.1038/s41592-019-0390-2. PMID 30923375. A day dedicated to raising awareness of the disease is a good opportunity to ask how far malaria research has come and which methods are needed for further breakthroughs.
+Poser CM, Bruyn GW (1999). An Illustrated History of Malaria. Parthenon. ISBN 1-85070-068-0. OCLC 537843745. Review: Humphreys M (March 2001). "An Illustrated History of Malaria (review)". Bulletin of the History of Medicine. 75 (1): 148. doi:10.1353/bhm.2001.0024. Project MUSE 4623.
+Qidwai T, ed. (2024). Falciparum Malaria: Diagnostic Tools, Therapeutic Advances, and Future Opportunities. Academic Press. ISBN 978-0-323-95328-3.
+Warrell DA, Gilles HM (2019) [2002]. Essential Malariology (4th ed.). London: CRC Press. ISBN 978-0-367-39616-9.
+Watts SJ (1999). "6. Yellow Fever, Malaria and Development: Atlantic Africa and the New World, 1647 to 1928". Epidemics and history: disease, power, and imperialism. Yale University Press. pp. 213–268. ISBN 0-300-08087-5. JSTOR j.ctt1nq8qw. OCLC 55142577. Archived from the original on 27 November 2025. Retrieved 28 January 2025.
+[World Health Organization] (2010). Guidelines for the Treatment of Malaria (PDF) (Report) (2nd ed.). World Health Organization. ISBN 978-92-4-154792-5. Archived from the original (PDF) on 11 March 2010.
+[World Health Organization] (2023). WHO Guidelines for Malaria. World Health Organization. hdl:10665/373339.
+Williams LL (1963). "Malaria Eradication in the United States". American Journal of Public Health and the Nation's Health. 53 (1): 17–21. doi:10.2105/AJPH.53.1.17. PMC 1253858. PMID 14000898.
+External links
+[edit]
+Wikipedia's health care articles can be viewed offline with the Medical Wikipedia app.
+World Malaria Day 2026 campaign page
+WHO site on malaria (Archived 2 May 2020 at the Wayback Machine)
+CDC site on malaria (Archived 28 November 2021 at the Wayback Machine)
+PAHO site on malaria (Archived 28 November 2021 at the Wayback Machine)
+Classification
+D
+ICD-11: 1F40–1F45
+ICD-10: B50–B54
+ICD-9-CM: 084
+OMIM: 248310
+MeSH: D008288
+DiseasesDB: 7728
+External resources
+MedlinePlus: 000621
+eMedicine: med/1385 emerg/305 ped/1357
+Patient UK: Malaria
+Orphanet: 673
+Scholia: Q12156
+v
+t
+e
+Malaria
+Biology
+Malaria
+Cerebral
+Quartan fever
+Blackwater fever
+Pregnancy-associated
+Plasmodium
+biology
+life cycle
+vivax
+falciparum
+ovale
+malariae
+knowlesi
+Anopheles mosquito
+Life cycle
+Schizont
+Merozoite
+Hypnozoite
+Gametocyte
+Control and prevention
+Public health
+DDT
+Mosquito net
+Malaria prophylaxis
+Mosquito control
+Sterile insect technique
+Genetic resistance
+Duffy antigen
+Sickle-cell anaemia
+Thalassemia
+G6PDH deficiency
+Malaria vaccine
+RTS,S
+Diagnosis and treatment
+Diagnosis of malaria
+Malaria culture
+Blood film
+Malaria antigen detection tests
+Antimalarials
+Artemisinin
+Mefloquine
+Proguanil
+Society and malaria
+Diseases of poverty
+Millennium Development Goals
+History of malaria
+Roman fever
+National Malaria Eradication Program
+World Malaria Day
+Epidemiology
+Malaria in the Caribbean
+Malaria in Mandatory Palestine
+Malaria Atlas Project
+Organisations
+Malaria Consortium
+Against Malaria Foundation
+Bill & Melinda Gates Foundation
+Imagine No Malaria
+Malaria No More
+Africa Fighting Malaria
+African Malaria Network Trust
+South African Malaria Initiative
+African Leaders Malaria Alliance
+Amazon Malaria Initiative
+The Global Fund to Fight AIDS, Tuberculosis and Malaria
+Medicines for Malaria Venture
+European and Developing Countries Clinical Trials Partnership
+Category
+v
+t
+e
+Protozoan infection: SAR and Archaeplastida
+SAR
+Alveolate
+Apicomplexa
+Conoidasida/
+Coccidia
+Coccidia: Cryptosporidium hominis/Cryptosporidium parvum
+Cryptosporidiosis
+Cystoisospora belli
+Isosporiasis
+Cyclospora cayetanensis
+Cyclosporiasis
+Toxoplasma gondii
+Toxoplasmosis
+Aconoidasida
+Plasmodium falciparum/vivax/ovale/malariae/knowlesi
+Malaria
+Blackwater fever
+Babesia
+Babesiosis
+Ciliophora
+Balantidium coli
+Balantidiasis
+Stramenopile
+Blastocystis
+Blastocystosis
+Pythium insidiosum
+Pythiosis
+Archaeplastida
+Algaemia: Prototheca wickerhamii
+Protothecosis
+Chlorella
+Chlorellosis
+v
+t
+e
+Diseases of poverty
+Diseases of poverty
+AIDS
+Malaria
+Tuberculosis
+Measles
+Pneumonia
+Diarrheal diseases
+Plague
+Neglected diseases
+Cholera
+Chagas disease
+African sleeping sickness
+Schistosomiasis
+Dracunculiasis
+River blindness
+Leishmaniasis
+Trachoma
+Miscellaneous
+Malnutrition
+Priority review voucher
+v
+t
+e
+Effective altruism
+Concepts
+Aid effectiveness
+Charity assessment
+Demandingness objection
+Disability-adjusted life year
+Disease burden
+Distributional cost-effectiveness analysis
+Earning to give
+Equal consideration of interests
+Incremental cost-effectiveness ratio
+Longtermism
+Marginal utility
+Moral circle expansion
+Psychological barriers to effective altruism
+Quality-adjusted life year
+Utilitarianism
+Venture philanthropy
+Key figures
+Sam Bankman-Fried
+Liv Boeree
+Nick Bostrom
+Paul Christiano
+Hilary Greaves
+Holden Karnofsky
+William MacAskill
+Dustin Moskovitz
+Yew-Kwang Ng
+Toby Ord
+Derek Parfit
+Kelsey Piper
+Peter Singer
+Brian Tomasik
+Cari Tuna
+Eliezer Yudkowsky
+Organizations
+80,000 Hours
+Against Malaria Foundation
+Animal Charity Evaluators
+Alignment Research Center
+Animal Ethics
+Centre for Effective Altruism
+Centre for Enabling EA Learning & Research
+Center for High Impact Philanthropy
+Centre for the Study of Existential Risk
+Coefficient Giving
+Development Media International
+Evidence Action
+Faunalytics
+Fistula Foundation
+Future of Humanity Institute
+Founders Pledge
+GiveDirectly
+GiveWell
+Giving Multiplier
+Giving What We Can
+Good Food Fund
+The Good Food Institute
+Good Ventures
+The Humane League
+Mercy for Animals
+Machine Intelligence Research Institute
+Malaria Consortium
+Raising for Effective Giving
+Sentience Institute
+Shrimp Welfare Project
+Unlimit Health
+Wild Animal Initiative
+Focus areas
+Biotechnology risk
+Climate change
+Cultured meat
+Economic stability
+Existential risk from artificial intelligence
+Global catastrophic risk
+Global health
+Global poverty
+Intensive animal farming
+Land use reform
+Life extension
+Malaria prevention
+Mass deworming
+Neglected tropical diseases
+Risk of astronomical suffering
+Wild animal suffering
+Literature
+Doing Good Better
+The End of Animal Farming
+Famine, Affluence, and Morality
+The Life You Can Save
+Living High and Letting Die
+The Most Good You Can Do
+Practical Ethics
+The Precipice
+Superintelligence: Paths, Dangers, Strategies
+What We Owe the Future
+Events
+Effective Altruism Global
+Category
+v
+t
+e
+Eradication of infectious diseases
+Eradication of
+human diseases
+Successful
+Smallpox (Eradication of smallpox)
+Underway
+(global)
+Dracunculiasis (Eradication of dracunculiasis)
+Lymphatic filariasis (Eradication of lymphatic filariasis)
+Malaria (Eradication of malaria)
+Polio (Polio eradication)
+Yaws (Eradication of yaws)
+Underway
+(regional)
+Hookworm
+Leprosy
+Measles
+vaccine
+epidemiology
+Onchocerciasis
+Rabies
+Rubella
+Syphilis
+Trachoma
+Eradication of
+agricultural diseases
+Successful
+Rinderpest (Eradication of rinderpest)
+Underway
+Ovine rinderpest
+Bovine spongiform encephalopathy
+Eradication
+programs
+Global
+London Declaration on Neglected Tropical Diseases
+Global Polio Eradication Initiative
+Global Certification Commission
+Malaria Eradication Scientific Alliance
+Regional
+United States
+Boll Weevil Eradication Program
+National Malaria Eradication Program
+India
+India National PolioPlus
+Pulse Polio
+Polio in Pakistan
+Every Last Child
+The Final Inch
+Related topics
+Globalization and disease
+Mathematical modelling of disease
+Pandemic
+Transmission
+horizontal
+vertical
+Tuberculosis elimination
+Vaccination
+Zoonosis
+Portal:
+Medicine
+Malaria at Wikipedia's sister projects:
+Definitions from Wiktionary
+Media from Commons
+Quotations from Wikiquote
+Texts from Wikisource
+Textbooks from Wikibooks
+Resources from Wikiversity
+Travel guides from Wikivoyage
+Authority control databases
+International
+GND
+National
+United States
+France
+BnF data
+Japan
+Czech Republic
+Spain
+Israel
+Other
+NARA
+Encyclopedia of Modern Ukraine
+Yale LUX
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Malaria&oldid=1380453890"
+Categories:
+Malaria
+Insect-borne diseases
+Infectious diseases with eradication efforts
+Plasmodium
+Protozoal diseases
+Tropical diseases
+Vaccine-preventable diseases
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Good articles
+Wikipedia indefinitely move-protected pages
+Use dmy dates from May 2026
+Articles containing Italian-language text
+CS1 maint: DOI inactive as of May 2026
+Articles containing potentially dated statements from February 2026
+All articles containing potentially dated statements
+Pages using gadget owidslider
+Wikipedia articles needing page number citations from July 2024
+Articles containing potentially dated statements from 2025
+Wikipedia articles in need of updating from February 2026
+All Wikipedia articles in need of updating
+CS1 French-language sources (fr)
+Articles with medical app sidebar
+Webarchive template wayback links
+Pages using Sister project links with wikidata namespace mismatch
+Pages using Sister project links with hidden wikidata
+Articles containing video clips
+Search
+Search
+Malaria
+172 languages   Add topic

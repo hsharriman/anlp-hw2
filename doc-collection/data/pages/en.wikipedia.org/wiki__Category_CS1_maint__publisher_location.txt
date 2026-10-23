@@ -1,0 +1,263 @@
+URL: https://en.wikipedia.org/wiki/Category:CS1_maint:_publisher_location
+
+Category:CS1 maint: publisher location - Wikipedia
+Jump to content
+Help
+From Wikipedia, the free encyclopedia
+This is a tracking category.
+It is used to build and maintain a list or lists of pages—primarily for the sake of the lists themselves and their use in article and category maintenance. It is not part of the encyclopedia's categorization scheme.
+More information:
+This category is hidden on its member pages—unless the corresponding user preference (Appearance → Show hidden categories) is set.
+These categories are used to track, build and organize lists of pages needing "attention en masse" (for example, pages using deprecated syntax), or that may need to be edited at someone's earliest convenience.
+These categories also serve to aggregate members of several lists or subcategories into a larger, more efficient list (discriminated by classifications).
+Typically, tracking categories are automatically populated by templates invoked in pages or by the MediaWiki software (see Special:TrackingCategories for an overview of the latter).
+Administrators: Please do not delete this category as empty!
+This category may be empty occasionally or even most of the time.
+This is a tracking category for book and encyclopedia citations implemented with {{citation}} templates and for book and encyclopedia citations implemented with {{cite book}} and {{cite encyclopedia}}. To be included in this category, those templates must include |publisher= holding two strings of text separated by a colon. For example:
+|publisher=London: Virgin Books
+When |publisher= has both the publisher's location and the publisher's name, the cs1|2 template should be rewritten:
+|publication-place=London |publisher=Virgin Books
+There are publishers that have names that include the colon. To suppress the maintenance message for publisher names that legitimately contain a colon, use the accept-as-written markup:
+|publisher=((29:11 Publications))
+Pages in this category should only be added by Module:Citation/CS1.
+Pages with this condition are automatically placed in Category:CS1 maint: publisher location.[a]
+By default, Citation Style 1 and Citation Style 2 error messages are visible to all readers and maintenance messages are hidden from all readers.
+To display maintenance messages in the rendered article, include the following text in your common CSS page (common.css) or your specific skin's CSS page and (skin.css).
+(Note to new editors: those CSS pages are specific to you, and control your view of pages, by adding to your user account's CSS code. If you have not yet created such a page, then clicking one of the .css links above will yield a page that starts "Wikipedia does not have a user page with this exact name." Click the "Start the User:username/filename page" link, paste the text below, save the page, follow the instructions at the bottom of the new page on bypassing your browser's cache, and finally, in order to see the previously hidden maintenance messages, refresh the page you were editing earlier.)
+:root .mw-parser-output .cs1-maint {display: inline;} /* display Citation Style 1 maintenance messages */
+To display hidden-by-default error messages:
+:root .mw-parser-output .cs1-hidden-error {display: inline;} /* display hidden Citation Style 1 error messages */
+Even with this CSS installed, older pages in Wikipedia's cache may not have been updated to show these error messages even though the page is listed in one of the tracking categories. A null edit will resolve that issue.
+After (error and/maintenance) messages are displayed, it might still not be easy to find them in a large article with a lot of citations. Messages can then be found by searching (with Ctrl+F) for "(help)" or "cs1".
+To hide normally-displayed error messages:
+:root .mw-parser-output .cs1-visible-error {display: none;} /* hide Citation Style 1 error messages */
+You can personalize the display of these messages (such as changing the color), but you will need to ask someone who knows CSS or at the technical village pump if you do not understand how.
+Nota bene: these CSS rules are not obeyed by Navigation popups. They also do not hide script warning messages in the Preview box that begin with "This is only a preview; your changes have not yet been saved".
+Contents: Top 0–9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+* # 0 1 2 3 4 5 6 7 8 9 • A Aa Ae Aj Ao At • B Ba Be Bj Bo Bt • C Ca Ce Cj Co Ct • D Da De Dj Do Dt • E Ea Ee Ej Eo Et • F Fa Fe Fj Fo Ft • G Ga Ge Gj Go Gt • H Ha He Hj Ho Ht • I Ia Ie Ij Io It • J Ja Je Jj Jo Jt • K Ka Ke Kj Ko Kt • L La Le Lj Lo Lt • M Ma Me Mj Mo Mt • N Na Ne Nj No Nt • O Oa Oe Oj Oo Ot • P Pa Pe Pj Po Pt • Q Qa Qe Qj Qo Qt • R Ra Re Rj Ro Rt • S Sa Se Sj So St • T Ta Te Tj To Tt • U Ua Ue Uj Uo Ut • V Va Ve Vj Vo Vt • W Wa We Wj Wo Wt • X Xa Xe Xj Xo Xt • Y Ya Ye Yj Yo Yt • Z Za Ze Zj Zo Zt
+Notes
+[edit]
+↑ Pages in the Category talk, Draft talk, File talk, Help talk, MediaWiki talk, Module talk, Portal talk, Talk, Template talk, User, User talk, and Wikipedia talk namespaces are not included in the tracking categories. In addition, pages with names matching the patterns '/[Ss]andbox', '/[Tt]estcases', '/[^/]*[Ll]og', and '/[Aa]rchive' are not included in the tracking categories.
+Pages in category "CS1 maint: publisher location"
+The following 200 pages are in this category, out of approximately 15,944 total. This list may not reflect recent changes.
+(previous page) (next page)
+,
+Eliza H. Hamilton
+Eliza Weaver Bradburn
+Mona B. Bickerstaffe
+Flora Frances Wylde
+Helen Hester Colvill
+0–9
+1st Motorized Infantry Brigade "Moldova"
+4 VD 14,5/12-1 SRW
+4th Punjab Infantry Regiment
+4th United States Colored Cavalry Regiment
+5-HT receptor
+5th Horse (Probyn's Horse)
+6th Lancers (Watson's Horse)
+7th Ukrainian Soviet Division
+8th Punjab Regiment
+9th Bhopal Infantry
+11:11 (numerology)
+11th Cavalry (Frontier Force)
+12th Cavalry (Frontier Force)
+13th Infantry Regiment (Poland)
+14th & 15th century Africa
+14th Punjab Regiment
+15th Lancers
+15th Punjab Regiment
+16th Punjab Regiment
+17th Pennsylvania Infantry Regiment
+19th Punjabis
+Det 20de Århundre
+20th Duke of Cambridge's Own Infantry (Brownlow's Punjabis)
+Great Western Main Line upgrade
+21st Punjabis
+22 Medium Regiment (India)
+22nd Punjabis
+24th Punjabis
+25 kV AC railway electrification
+25th Punjabis
+26th Punjabis
+27th (Inniskilling) Regiment of Foot
+27th Punjabis
+28th Punjabis
+29th (Worcestershire) Regiment of Foot
+29th Punjabis
+30th (Cambridgeshire) Regiment of Foot
+30th Punjabis
+31st Punjabis
+33rd Punjabis
+36th Infantry Division (United Kingdom)
+46th Punjabis
+48th (Northamptonshire) Regiment of Foot
+50th (Queen's Own) Regiment of Foot
+51st Sikhs (Frontier Force)
+52nd Sikhs (Frontier Force)
+54th Sikhs (Frontier Force)
+55th Coke's Rifles (Frontier Force)
+62nd (Wiltshire) Regiment of Foot
+62nd Punjabis
+66th Punjabis
+68th Infantry Division (Wehrmacht)
+80th Training Command
+82nd Punjabis
+84th Regiment of Foot (Royal Highland Emigrants)
+93rd (Sutherland Highlanders) Regiment of Foot
+101st Regiment of Foot (Royal Bengal Fusiliers)
+111th Regiment of Foot (Loyal Birmingham Volunteers)
+154th Pennsylvania Infantry Regiment
+192nd Pennsylvania Infantry Regiment
+245 Vera
+335th Infantry Regiment
+501 Queen
+504 King
+506 Carlton
+690s BC
+1017
+1050s in poetry
+1120s in architecture
+1130s
+1136
+1164 in Ireland
+List of peers 1260–1269
+1390s
+1396
+1485 in literature
+1511 Westminster Tournament Roll
+1536 in Sweden
+1580 influenza pandemic
+1650s
+1655
+1670s
+1678
+1797 in Germany
+1798 in Germany
+1799 in Germany
+1800 in Germany
+1801 in Germany
+1802 in Germany
+1803 in Germany
+1805 in Germany
+1806 in birding and ornithology
+1807 in Germany
+1832 in paleontology
+1834 in India
+1852
+1853 in Russia
+1855 in Russia
+1860s in American soccer
+1871 Guatemalan Revolution
+1887 Atlantic hurricane season
+1892 United States presidential election in Oregon
+1892nd Engineer Aviation Battalion (United States)
+1893
+1897 in the Philippines
+1900 Summer Olympics
+1900–01 in English football
+1902–1919 Pacific typhoon seasons
+1904
+1905 in Argentina
+1911 in Russia
+1915
+1915 in art
+1920 Madras Presidency Legislative Council election
+1921–1928 Newport, Kentucky steel strike
+1923 Madras Presidency Legislative Council election
+1925 Egyptian parliamentary election
+1926 Madras Presidency Legislative Council election
+1927 Pacific typhoon season
+1928 UK & Ireland Greyhound Racing Year
+1929 Egyptian parliamentary election
+1929 English Greyhound Derby
+1929 Palestine riots
+1929 UK & Ireland Greyhound Racing Year
+1930 Madras Presidency Legislative Council election
+1930 UK & Ireland Greyhound Racing Year
+1931 UK & Ireland Greyhound Racing Year
+1933 Greek coup attempt
+1935
+1935–1936 protests in Egypt
+1938 in Brazil
+1938 in science fiction
+1939 Madrid Victory Parade
+1942 in animation
+1943 Argentine Revolution
+1945 PETA revolt in Blitar
+1946 in animation
+1946 Madras Presidency Legislative Assembly election
+1946 Madras Presidency Legislative Council election
+1947
+1951 college basketball point-shaving scandal
+1952 in animation
+1959 Uruguayan flood
+1959–60 NYU Violets men's basketball team
+1959–60 West Virginia Mountaineers men's basketball team
+1960 Connecticut Huskies football team
+1960 Florida Gators football team
+1960–61 Connecticut Huskies men's basketball team
+1961 NCAA University Division men's basketball gambling scandal
+1962 in philosophy
+1964 Ethiopian–Somali Border War
+1966 Singaporean by-elections
+1968 in the Democratic Republic of the Congo
+1974 United States Senate elections
+1975 British Mount Everest Southwest Face expedition
+1978 in video games
+1980 Angus District Council election
+1980 in video games
+1981 in video games
+1981 Mauritanian coup attempt
+1981 University of London Chancellor election
+1989 in Zaire
+1990s in sociology
+1991 Georgian presidential election
+1992 Football League play-offs
+1994 Turkish local elections
+1995 Pacific typhoon season
+1998 in politics
+2000s in Tunisia
+2001–02 Port Vale F.C. season
+2004 United States House of Representatives elections in Massachusetts
+2017 in paleontology
+2019 in Mexico
+2022 Leicester unrest
+A
+A History of the Crusades: list of contributions
+A-Group culture
+A. C. Guards
+A.L. Monsohn Lithography
+De aansprekers
+Abbot Ice Shelf
+Abbott Papyrus
+Charles Theodore Abbott
+ABC-class minesweeper
+Abd al-Muttalib
+Abd al-Aziz al-Maqdishawi
+Abd al-Ilah
+Sophie Abdullah
+ʻAbdu'l-Bahá's journeys to the West
+Gregorios Abdal Jaleel
+Abdullah Mirza
+Kōbō Abe
+Abeïbara
+Abeïbara Cercle
+Abel Tasman National Park
+John Jacob Abel
+(previous page) (next page)
+Media in category "CS1 maint: publisher location"
+The following 2 files are in this category, out of 2 total.
+Ο
+File:Kan Mukai.jpg
+File:Uşak Atatürk Monument (1965).jpeg
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Category:CS1_maint:_publisher_location&oldid=1334339136"
+Category:
+CS1 maintenance
+Hidden categories:
+Hidden categories
+Tracking categories
+Automatic category TOC generates Large category TOC
+Search
+Search
+Category:CS1 maint: publisher location
+10 languages   Add topic

@@ -1,0 +1,589 @@
+URL: https://en.wikipedia.org/wiki/Wikipedia:External_links
+
+Wikipedia:External links - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Wikipedia guideline on use of external links
+"WP:EL" redirects here. For other uses, see WP:EL (disambiguation).
+For specific cases where you would like to seek input from the community or may be able to help, see Wikipedia:External links/Noticeboard.
+"WP:EXT" redirects here. For the extended-confirmed user group, see WP:XC.
+This page documents an English Wikipedia content guideline.
+Editors should generally follow it, though exceptions may apply. Substantive edits to this page should reflect consensus.
+Shortcut
+WP:ELWP:EL
+This page in a nutshell: External links in an article can be helpful to the reader, but they should be kept minimal, of high quality, and directly relevant to the article. With rare exceptions, external links should not be used in the body of an article.
+Linking and
+page manipulation
+Linking and diffs
+URLs
+Links
+Diffs
+Orphans
+Interlanguage links
+Interwiki linking
+Shortcuts
+External links
+External link icons
+Plainlinks
+Link color
+What links here
+Linksearch
+Manual of Style on linking
+Navigation templates
+Hatnotes
+Template index for links
+Categorization
+Category
+Categorization guideline
+Classification
+Container category
+FAQ for categorization
+FAQ for categories
+Categories, lists, and navigation templates
+Categorizing articles about people
+By year
+Redirect categories
+User categories
+Overcategorization
+User categories
+Template index for categories
+Moving and redirecting
+Redirects
+Moving a page
+Requested moves
+History merging
+Moving files to Commons
+Userfication
+Non-admin and admin-only moves
+Template index for moving
+Template index for redirects
+Merging
+Merging
+Proposed article mergers
+Requests for history merge
+Merge and delete?
+Merge what?
+Delete or merge?
+Template index for merging
+WikiProject Merge
+Splitting
+Splitting
+Template index for splitting
+Importing and copying
+Requests for page importation
+Import
+Export
+Copying within Wikipedia
+Protecting
+Protection
+Protection policy
+High-risk templates
+Requests for page protection
+Rough guide to semi-protection
+Additional
+How to create a page
+Your first article
+Editing
+Deletion process
+v
+t
+e
+Wikipedia guidelines
+Guidelines list
+Policies list
+Behavioral
+Assume good faith
+Conflict of interest
+Disruptive editing
+Don't bite the newcomers
+Don't disrupt to make a point
+Etiquette
+Gaming the system
+Other behavioral guidelines
+Discussions
+Talk page guidelines
+Signatures
+Content
+Citing sources
+External links
+Reliable sources
+medicine
+Fringe theories
+Naming conventions
+Non-free content
+Offensive material
+Large language models
+Other content guidelines
+Editing
+Article size
+Be bold
+Understandability
+Other editing guidelines
+Categorization
+Categories, lists, templates
+Categorization
+Disambiguation
+Style
+Manual of Style
+contents
+lists
+tables
+Notability and deletion
+Notability
+Deletion process
+Deletion guidelines for administrators
+Project content
+Project pages
+WikiProjects
+Templates
+User pages
+Userboxes
+Shortcuts
+Search
+v
+t
+e
+Wikipedia articles may include external links, links to web pages outside Wikipedia. External links normally should not be placed in the body of an article. All external links must conform to certain formatting restrictions.
+Some acceptable external links include those that contain further research that is accurate and on-topic, information that could not be added to the article for reasons such as copyright or amount of detail, or other meaningful, relevant content that is not suitable for inclusion in an article for reasons unrelated to its accuracy.
+Some high-value external links are welcome (see § What can normally be linked). However, the External links section should not become a lengthy or comprehensive list of external links related to each topic. No page should be linked from a Wikipedia article unless its inclusion is justifiable according to this guideline and common sense. The burden of providing this justification is on the person who wants to include an external link.
+Besides those kinds of links listed in § Restrictions on linking, these external-link guidelines do not apply to citations to reliable sources within the body of the article.
+If the website or page to which you want to link includes information that is not yet a part of the article, consider using it as a source for the article, and citing it. Guidelines for sourcing, which include external links used as citations, are discussed at Wikipedia:Reliable sources and Wikipedia:Citing sources.
+Important points to remember
+Shortcut
+WP:ELPOINTSWP:ELPOINTS
+This guideline does not apply to inline citations or general references, which should appear in the "References" or "Notes" section (see also: WP:CS:EMBED). This specifically includes e-commerce and other commercial-sales links, which are prohibited in External links but allowed in footnoted citations.[a]
+Shortcuts
+WP:NOELBODYWP:NOELBODY
+WP:ELBODYWP:ELBODY
+With rare exceptions, external links should not be used in the body of an article.[b] Instead, include appropriate external links in an External links section at the end of the article, and in the appropriate location within an infobox, if applicable.
+Links in the External links section should be kept to a minimum. A lack of external links or a small number of external links is not a reason to add external links.
+Shortcut
+WP:NOTPORTALWP:NOTPORTAL
+In the External links section, try to avoid separate links to multiple pages in the same website, as if to provide a portal to that website; instead, try to find an appropriate linking page within the site.
+This guideline does not apply to links to non-English Wikipedia articles:
+those that appear in the sidebar by default, which are either sourced from Wikidata or added manually to the page's wikitext after the External links section, or
+those generated by the {{interlanguage link}} template for articles that are absent from English Wikipedia.
+Restrictions on linking
+Shortcuts
+WP:ELNEVERWP:ELNEVER
+WP:COPYVIOELWP:COPYVIOEL
+See also: Wikipedia:Copyrights § Linking to copyrighted works
+For policy or technical reasons, editors are restricted from linking to the following, without exception:
+For policy reasons: material that violates the copyrights of others per contributors' rights and obligations should not be linked, whether in an external-links section or in a citation.[a] External links to websites that display copyrighted works are acceptable as long as the website is manifestly run, maintained or owned by the copyright owner; the owner has licensed the content in a way that allows the website to use it; or the website uses the work in a way compliant with fair use. Knowingly directing others to material that violates copyright might be considered contributory copyright infringement.[c] If there is reason to believe that a website has a copy of a work in violation of its copyright, do not link to it. Linking to a page that illegally distributes someone else's work casts a bad light on Wikipedia and its editors. This is particularly relevant when linking to sites such as Scribd, WikiLeaks, or YouTube, where due care should be taken to avoid linking to material that violates copyright.
+For technical reasons: sites that match the Wikipedia-specific or multi-site blacklist without being whitelisted. Edits containing such links are automatically blocked from being saved.
+What to link
+See also: Wikipedia:External links/Perennial websites
+There are several things that should be considered when adding an external link.
+Is the site content accessible to the reader?
+Is the site content proper in the context of the article (useful, informative, factual, etc.)?
+Is the link functioning and likely to remain functional?
+Each link should be considered on its merits, using the following guidelines. As the number of external links in an article grows longer, assessment should become stricter. When in doubt about the appropriateness of adding new links, make a suggestion on the article's talkpage and discuss with other editors.
+What can normally be linked
+Shortcut
+WP:ELYESWP:ELYES
+Wikipedia articles about any organization, person, website, or other entity should link to the subject's official site, if any. See § Official links.
+An article about a book, a musical score, or some other media should link to a site hosting a legally distributed copy of the work, so long as none of the § Restrictions on linking and § Links normally to be avoided criteria apply.
+Sites that contain neutral and accurate material that is relevant to an encyclopedic understanding of the subject and cannot be integrated into the Wikipedia article due to copyright issues,[d] amount of detail (such as professional athlete statistics, movie or television credits, interview transcripts, or online textbooks), or other reasons.
+Links to be considered
+Shortcut
+WP:ELMAYBEWP:ELMAYBE
+Professional reviews of creative works should generally be used as sources in a "Reception" section, but high-quality professional reviews which are not needed as sources for article content may be suitable for inclusion as external links, subject to the limit described in WP:ELNO#EL1.
+Very large pages, such as pages containing rich media files, should be considered case by case. Worldwide, many use Wikipedia with a low-speed connection. Unusually large pages or ones that include file formats that will require plug-ins should be annotated as such.
+A well-chosen link to a directory of websites or organizations. Long lists of links in articles are not acceptable. A directory link may be a permanent link or a temporary measure put in place while external links are being discussed on the article's talk page.
+Sites that fail to meet criteria for reliable sources yet still contain information about the subject of the article from knowledgeable sources.
+Links to Wikimedia sister projects with relevant material.
+Links to finding aids.
+Links normally to be avoided
+Shortcuts
+WP:ELNOWP:ELNO
+WP:LINKSTOAVOIDWP:LINKSTOAVOID
+"WP:FANSITE" redirects here. For "Wikipedia is not a fansite", see WP:NOTFANSITE. "WP:PETITIONS" redirects here. For Wikipedia open letters and petitions, see WP:OPENLETTER. See also: Wikipedia:External links/Perennial websites
+Except for a link to an official page of the article's subject, one should generally avoid providing external links to:
+Any site that does not provide a unique resource beyond what the article would contain if it became a featured article. In other words, the site should not merely repeat information that is already or should be in the article. Links that may be used to improve the page in the future can be placed on the article's talk page (see {{refideas}}).
+Any site that misleads the reader by use of factually inaccurate material or unverifiable research, except to a limited extent in articles about the viewpoints that the site is presenting.
+Sites containing malware, malicious scripts, trojan exploits, or content that is illegal to access in the United States. Suspected malware sites can be reported by following the instructions at Wikipedia:Spam blacklist.
+Links mainly intended to promote a website, including online petitions and crowdfunding pages. See Wikipedia:Spam § External link spamming.
+Individual web pages[e] that primarily exist to sell products or services, or to web pages with objectionable amounts of advertising. For example, the mobile phone article should not link to web pages that mostly promote or advertise cell-phone products or services.
+Sites that require payment or registration to view the relevant content, unless the site itself is the subject of the article, or the link is a convenience link to a citation.[f] See § Sites requiring registration.
+Sites that are inaccessible to a substantial number of users, such as sites that work only with a specific browser or in a specific country.
+Direct links to documents that require external applications (including links for downloading phone apps) or plugins to view the content, unless the article is about such file formats. See § Rich media for more details.
+Any search results pages, such as links to individual website searches, search engines, search aggregators, or feed aggregators.
+Shortcut
+WP:NOSOCIALWP:NOSOCIAL
+Social networking sites (such as Facebook, Twitter, LinkedIn, Instagram, and TikTok), chat or discussion forums/groups (such as Facebook Groups or email lists).
+Shortcut
+WP:NOBLOGSWP:NOBLOGS
+Blogs, personal web pages, and most fansites (negative ones included), except those written by a recognized authority. (This exception for blogs, etc., controlled by recognized authorities is meant to be very limited; as a minimum standard, recognized authorities who are individuals always meet Wikipedia's notability criteria for people.)
+Shortcut
+WP:OPENWIKIWP:OPENWIKI
+Open wikis, except those with a substantial history of stability and a substantial number of editors. Mirrors or forks of Wikipedia should not be linked.
+Sites that are only indirectly related to the article's subject: the link should be directly related to the subject of the article. A general site that has information about a variety of subjects should usually not be linked from an article on a more specific subject. Similarly, a website on a specific subject should usually not be linked from an article about a general subject. If a section of a general website is devoted to the subject of the article and meets the other criteria for linking, then that part of the site could be deep linked.
+Lists of links to manufacturers, suppliers, or customers.
+Sites already linked through Wikipedia sourcing tools.[f] For example, instead of linking to a commercial book site, consider the "ISBN" linking format, which gives readers an opportunity to search a wide variety of free and non-free book sources. Map sources can be linked by using geographical coordinates.
+Sites that are not reliably functional or not likely to continue being functional. For example, links to temporary internet content, where the link is unlikely to remain operable for a useful amount of time (e.g., Instagram Stories).
+Affiliate, tracking or referral links, i.e., links that contain information about who is to be credited for readers that follow the link. If the source itself is helpful, use a neutral link without the tracking information.
+External links on Wikipedia navigation templates or navigation pages such as disambiguation, redirect and category pages.
+Websites of organizations mentioned in an article—unless they otherwise qualify as something that should be linked or considered.[f][g]
+Content farms, clickbait sites, aggregators of celebrities' personal data, and similar low-effort content which primarily exists to show ads to users by re-publishing information scraped from the broader internet.
+Links in lists
+Shortcut
+WP:ELLISTWP:ELLIST
+External link sections are not prohibited at the end of stand-alone lists or at the end of articles that contain embedded lists. However, the lists themselves should not be composed entirely of external links. These lists are primarily intended to provide direct information and internal navigation, not to be a directory of sites on the web.
+Lists in Wikipedia articles may take any of multiple forms, including bullet lists (most common), numbered lists, horizontal lists, tables (standard for Wikipedia:Featured lists), etc. The rules about whether to include an external link in a list apply regardless of the method used to format the list.
+This section does not apply if the external link is serving as a citation to a reliable source for a stand-alone list entry that otherwise meets that list's inclusion criteria (e.g., newspaper articles or poll results). To determine whether an item should be included in the list at all, refer to the inclusion criteria for the list you are editing. To determine how to format citations to reliable sources, see Wikipedia:Citing sources. For advice on how to format a bibliography or other list of works (e.g., a list of books or articles written by an author), see Wikipedia:Manual of Style/Lists of works#Publications (Works, Bibliography) instead of this guideline.
+Acceptable and unacceptable use of links in a list of restaurants
+Yes  No
+List
+Alice's Restaurant
+Babette's Feast
+La Ratatouille
+The Restaurant at the End of the Universe
+External links
+Restaurant guide
+List
+Alice's Restaurant
+Babette's Feast
+La Ratatouille
+The Restaurant at the End of the Universe
+In other cases, such as for lists of political candidates, websites, and software, a list may be formatted as a table, and appropriate external links can be displayed compactly within the table:
+Election results
+Candidate Political party Official website Votes
+Alice Republocrat https://www.example.com 51%[1]
+Bob Demican https://www.example.com 47%[1]
+Carol Greebertarian https://www.example.com 2%[1]
+Table-style formatting is not required. If the list contains more information than the names, one non-table formatting option looks like this:
+Alice (Republocrat, ) – campaigned on her expertise and won 51% of the vote.[1]
+Bob (Demican, ) – campaigned on his business acumen and received 47% of the vote.[1]
+Carol (Greebertarian, ) – received 2% of the vote.[1]
+In some cases, these links may serve as both official links and as inline citations to primary sources. In the case of elections or other one-time events, it may be desirable to replace the original links with links to archived copies when the event is over.
+Advertising and conflicts of interest
+Shortcuts
+WP:ADVWP:ADV
+WP:EL#ADVWP:EL#ADV
+Main pages: Wikipedia:Conflict of interest and Wikipedia:Spam
+Though a link from Wikipedia to an external site may drive Web traffic to that site, as a few readers may click on the link while reading the Wikipedia article, adding your website to Wikipedia will not help with search engine optimization, because Google and other search engines ignore links on Wikipedia. In line with Wikipedia policies, you should avoid linking to a site that you own, maintain, or represent—even if Wikipedia guidelines seem to imply that it may otherwise be linked. When in doubt, you may go to the talk page and let another editor decide. This suggestion is in line with Wikipedia's conflict-of-interest guidelines.
+Wikipedia uses the same standards for evaluating links to websites owned by for-profit and (real or purported) non-profit organizations. Links to potentially revenue-generating web pages are not prohibited, even though the website owner might earn money through advertisements, sales, or (in the case of non-profit organizations) donations. Choose which pages to link based on the immediate benefit to Wikipedia readers that click on the link, not based on the organization's tax status or your guess at whether the website's owner might earn money from the link.
+A few parties now appear to have a spambot capable of spamming wikis from several different wiki engines, analogous to the submitter scripts for guestbooks and blogs. If you see a bot inserting external links, please consider checking the other language wikis to see if the attack is widespread. If it is, please report it on Meta; they can put in a Wikimedia-wide text filter. Administrators will block unauthorized bots on sight.
+In biographies of living persons
+Shortcut
+WP:ELBLPWP:ELBLP
+Main page: Wikipedia:Biographies of living persons
+In biographies of living persons, material available solely in questionable sources or sources of dubious value should be handled with caution, and, if derogatory, should not be used at all, either as sources or via external links. External links in biographies of living persons must be of high quality and are judged by a higher standard than for other articles. Do not link to websites that are not fully compliant with this guideline or that contradict the spirit of WP:BLP.
+Sites requiring registration
+Shortcut
+WP:ELREGWP:ELREG
+Outside of citations,[f] external links to websites that require registration or a paid subscription to view should be avoided because they are of limited use to most readers. Facebook and many online newspapers require registration to access some or all of their content, while some require a subscription. Online magazines frequently require subscriptions to access their sites or for premium content. If old newspaper and magazine articles are archived, there may be a fee for accessing them.
+A site that requires registration or a subscription should not be linked unless:
+the website itself is for the subject of the article (see § Official links), or
+the link is part of a bibliographic citation for a source (see Wikipedia:Citing sources and WP:PAYWALL). Bibliographic citations should normally cite the most authoritative source for the publication (e.g., a copy of the newspaper article on the original newspaper's website), but may add a link to a free version if one is available and not a copyright violation.
+Non-English-language content
+Shortcut
+WP:NONENGELWP:NONENGEL
+Outside of citations,[f] external links to English-language content are strongly preferred in the English-language Wikipedia. It may be appropriate to have a link to a non-English-language site, such as when an official site is unavailable in English; or when the link is to the subject's text in its original language; or when the site contains visual aids such as maps, diagrams, or tables—per the guideline on non-English-language sites.
+When linking to a site in a non-English language under the exceptions above, label the link with {{In lang}}, available for most languages, using two-letter language codes: for example, {{In lang|es}}, {{In lang|fr}}, etc. Place the language label after the link (e.g., [https://de.wikipedia.org/ German Wikipedia] {{In lang|de}}).
+Note that this guideline does not apply to references. See Verifiability § Non-English sources for Wikipedia's standards for published reliable sources that are not written in English.
+Redirection sites
+Shortcut
+WP:ELREDIRECTWP:ELREDIRECT
+URL redirection sites are not to be used. Examples of these sites include tinyurl.com, tiny.cc and the .tk top-level domain. Most of these sites are listed in the m:Spam blacklist because they are frequently abused by link spammers, which means that it is not possible to save a page that contains such a link. Because URL redirection sites are added to the blacklist whenever abuse occurs, you may create problems for future editors by using them. Adding links to web proxies is prohibited for a similar reason. Instead, one should add a link to the original URL.
+It is generally preferred to link to the exact destination of a link. For instance, if example.com is an automatic redirect to example.org/example, it is better to link to the exact page, even if the webmaster considers the redirect address to be more official.
+Rich media
+Shortcut
+WP:RICHMEDIAWP:RICHMEDIA
+It is acceptable to link to pages rendered in normal HTML or plain text, but this is not always the case with pages using rich media formats (which may be incompatible with many users' settings and browsers). Check[h] that the content type of the linked page is text/html, text/plain, or application/xhtml+xml (or another XHTML content type) as some pages may instead be rendered solely by platform-dependent plugins. Try to avoid directly linking to any content that requires special software, or an add-on to a browser. It is always preferred to link to a page rendered in normal HTML that contains embedded links to the rich media.
+Where a link to rich media is deemed appropriate, either as a direct link or embedded within an HTML page, an explicit indication of the technology needed to access the relevant content must be given, as in the following example:
+Berkowitz, Joel, "Avrom Goldfaden and the Modern Yiddish Theater: The Bard of Old Constantine" (PDF), Pakn Treger, no. 44, Winter 2004, 10–19.
+Note that MediaWiki software will provide small icons for several types of outgoing links, such as the PDF example above, but text that makes it explicit is still helpful for the reader.
+If an external link is to a page that automatically plays music or other sounds when visited, please add the template {{plays audio}} as a courtesy, according to the principle of least surprise.
+Linking to user-submitted video sites
+Shortcuts
+WP:YOUTUBEWP:YOUTUBE
+WP:YTWP:YT
+See also: Wikipedia:Video links
+"WP:YOUTUBE" redirects here. For the essay on Wikipedia is not YouTube, see WP:NOTYOUTUBE. For WikiProject YouTube, see WP:YTP. For the use of YouTube as a source, see WP:RSPYT.
+While there is no blanket ban on linking to YouTube or other user-submitted video sites, the links must abide by the guidelines on this page. (See § Restrictions on linking and § Links normally to be avoided.) Many videos hosted on YouTube and similar sites do not meet the standards for inclusion in External links sections, and copyright is of particular concern. Many YouTube videos of newscasts, shows, or other content of interest to Wikipedia's readers are copyright violations and should not be linked, either in the article or in citations. Links should be evaluated for inclusion with due care on a case-by-case basis. Links to online videos should also identify additional software necessary for readers to view the content.
+Most URL shorteners, including youtu.be, are banned. Use the full domain name (youtube.com) instead.
+Avoid undue weight on particular points of view
+Shortcut
+WP:ELPOVWP:ELPOV
+On articles with multiple points of view, avoid providing links too great in number or weighted to one point of view, or that give undue weight to minority views. The individual links themselves do not have to be neutral, but the overall list of external links in each Wikipedia article should be balanced. For example, in an article about a notable lawsuit, avoid providing multiple external links favoring one side but no links favoring the other side. Instead, consider adding the best link for each side. Describe each link's point of view. For example:
+"This is more complicated than you thought" from the National Bar Association, supporting the plaintiff
+"We prefer freedom over security", arguing for free speech
+For more information, see Wikipedia:Neutral point of view—in particular, Wikipedia's guidelines on undue weight.
+Linking to Wikidata
+Shortcut
+WP:ELWDWP:ELWD
+Wikidata should not be linked to within the body of an article except in the manner of hidden comment(s) mentioning the Q-number. For further information, see this discussion. Note that the "Wikidata item" sidebar item also links to the relevant item when sitelinked.
+Official links
+Shortcut
+WP:ELOFFICIALWP:ELOFFICIAL
+An official link is a link to a website or other Internet service that meets both of the following criteria:
+The linked content is controlled by the subject (organization or individual person) of the Wikipedia article.
+The linked content primarily covers the area for which the subject of the article is notable.
+Official links (if any) are provided to give the reader the opportunity to see what the subject says about itself. These links are normally exempt from the links normally to be avoided, but they are not exempt from the restrictions on linking. For example, although links to websites that require readers to register or pay to view content are normally not acceptable in the External links section, such a link may be included when it is an official website for the subject. This exemption does not allow for additional "official" links such as those found on fundraising websites.
+If the subject is unable to control the content (e.g., due to age, incapacity, death, dissolution of a company, etc.), then editors should judge on a case-by-case basis whether the website is maintained on behalf of the subject or is otherwise sufficiently similar in character as to be treated as the official website.[i]
+Official links are still subject to standard formatting requirements, such as rich media labeling and not placing links in the text of the article. When an official website is used as a source to verify a self-published statement in the article text, it should be formatted like any other reference used in the article.[f] The official website should be included in infoboxes such as {{infobox company}},[2] and by convention are listed first in the External links section. Use of the template {{official website}} is optional.
+No official link exists for many articles. Fansites, including everything from websites run by fans of a musician to a charitable organization supporting patients with a disease, even if they are endorsed or authorized by the subject, are not considered official websites because the subject of the article cannot control the information being presented. Links to websites that are not considered official websites may still be justifiable under other sections of this guideline, e.g., Links to consider #4. If editors agree to include a link to a major fansite, they should not link to more than one.
+Websites sometimes get hijacked or hacked. This is often done to serve malware. If an official site is serving malware, its URL should be hidden until the website is cleaned up. This can usually be accomplished by commenting out the website using the procedure at Help:Hidden text along with a note in the comment explaining that the official site is a malware site. Some templates allow you to hide compromised sites by setting a |url-status= parameter to unfit or usurped and providing a link to an archived copy of the site before it was compromised. The website could also be inserted by an infobox, in which referring to the infobox's documentation can be useful in finding out how to suppress the automatic link. If you suppress a site's URL, please leave a comment explaining why you did so, using the hidden text feature.
+Minimize the number of links
+Shortcuts
+WP:ELMINOFFICIALWP:ELMINOFFICIAL
+WP:ELMINWP:ELMIN
+Normally, only one official link is included. If the subject of the article has more than one official website, then more than one link may be appropriate, under very few limited circumstances.[j] However, Wikipedia does not provide a comprehensive web directory to every official website. Wikipedia does not attempt to document or provide links to every part of the subject's web presence or provide readers with a handy list of all social networking sites. Complete directories lead to clutter and to placing undue emphasis on what the subject says.
+More than one official link should be provided only when the additional links provide the reader with significant unique content and are not prominently linked from other official websites. For example, if the main page of the official website for an author contains a link to the author's blog and Twitter/X feed, then it is not appropriate to provide links to all three. Instead, provide only the main page of the official website in this situation. In other situations, it may sometimes be appropriate to provide more than one link, such as when a business has one website for the corporate headquarters and another for consumer information. Choose the minimum number of links that provide readers with the maximum amount of information. Links that provide consistent information are strongly preferred to social networking and communication services where the content changes rapidly and may not comply with this guideline at any given moment in time. Wikipedia does not exist to facilitate corporate "communication strategies" or other forms of marketing.
+Longevity of links
+Shortcut
+WP:ELDEADWP:ELDEAD
+It is very important to consider whether the link is likely to remain relevant and acceptable to the article in the foreseeable future. For example, it is not useful to link to a webpage that changes often and merely happens to have a relevant picture or article on its front page at the moment. Consider locating and linking to permalink versions of web content.
+What can be done with a dead external link
+See also: Wikipedia:Citing sources § Preventing and repairing dead links, and Wikipedia:Link rot
+Within the External links section, dead URLs are of no use. Dead links should either be removed or replaced with a working link. This working replacement link may be to a different URL on the same website (e.g., if the website was rearranged) or to a different webpage with similar information (e.g., replacing a dead link to an online Body mass index calculator with a working link to a BMI calculator on a different website).
+Occasionally, replacement with an archive URL may be appropriate. Check every archive link to verify that it has substantially the same content, user experience, and function as the original, and label it as an archived copy. Archive URLs are typically accepted in these two circumstances:
+for an official link of a past entity (e.g., political campaigns that have already ended, websites of defunct companies, etc.)
+when editors deem the information at the link particularly valuable and no similar non-archive webpage is available (e.g., if the only known photograph of the subject that complies with Wikipedia's WP:LINKVIO policy is on a now-defunct website).
+Within citations, see the instructions at WP:DEADREF and Wikipedia:Link rot.
+It may be worth checking to see if there is a working version of the link in an earlier version of the article. Some dead links are caused by vandalism; for example, a vandal may disable links to products competing with the vandal's favored product. Some instances of this type of vandalism are quite subtle, such as replacing ASCII letters in the URL with identical-looking Cyrillic letters.
+Hijacked and re-registered sites
+URLs can be "hijacked" or re-registered for a different purpose after a (domain name) registration expires.[3] Even if the URL seems to remain valid (it still "works"), if it no longer points to the desired information, then it needs to be repaired. The |url-status= options include "dead", "unfit" and "usurped". The "dead" is for a normal dead link, such as a 404 page. The "unfit" is when only one link goes to vice, advertising, or other unsuitable links, but the domain itself still has valid links elsewhere. The "usurped" is when the entire domain has been compromised. Usurpation can be reported to WP:URLREQ for bot treatment.
+How to link
+See also: Help:URL
+These directions show how to create a link in the classic wikitext editor. If you are using the VisualEditor editing environment, see Wikipedia:VisualEditor/User guide § Editing links for directions.
+External links are enclosed in single square brackets (rather than double brackets as with internal links), with the optional link text separated from the URL by a space (not a "|" as with internal links).
+Example of link with no text (code and output):
+Markup Renders as
+[https://example.com/]
+Example of link containing text:
+[https://example.com/ The RFC-mandated example.com website]
+The RFC-mandated example.com website
+All text following a space is taken as the text to use for the link. Embedding wikilinks into the link text is incorrect; instead choose the appropriate words to link.
+{{#parsoid
+"The RFC-mandated example.com website".
+If there are no meaningful words that can be used for the link, a link with no text is preferred to using self-referential link text, such as "click here" or "this link". These types of self-references should be avoided.
+Specifying protocols
+See also: Help:Link § http: and https:
+http: or https: should be explicitly specified as appropriate for the target site (preferring https:, where available). The linking style [//www...] without protocol is obsolete and should not be used in external links.
+External links section
+Shortcuts
+WP:ELCITEWP:ELCITE
+WP:ELORDERWP:ELORDER
+See also: Wikipedia:Manual of Style/Layout § External links
+The External links section is one of the optional standard appendices and footers, which appear in a defined order at the bottom of the article. The heading should be "External links" (plural) even when only a single link is listed. The standard format is to place the links in a bulleted list under the heading. If you include an official website, place it at the top of the list.
+For example:
+== External links ==
+* [https://example.com/ Official website]
+* [https://example.net/link Interview with Subject] in ''Example Magazine''
+* [https://example.org/repository/Subject Subject's papers] at [[Example Museum]]
+Thus, most external links should present details different from citations. For instance, a concise description of the contents and a clear indication of its source is more important than the actual title of the page, and access dates are not appropriate in the External links section. Do not use {{cite web}} or other citation templates in the External links section. Citation templates are permitted in the Further Reading section.
+Templates for external links
+Shortcuts
+WP:ELTWP:ELT
+WP:ELTEMPWP:ELTEMP
+See also: Category:External link templates and Template:External links
+Some templates exist for linking to Wikimedia Foundation projects such as Wikimedia Commons. {{Commons}} is an example of a graphical template that is commonly used to link to Wikimedia Commons. All such templates have inline versions (e.g., {{Commons-inline}}), or you may choose to link to them exactly like you would link to any other website. See Wikipedia:Wikimedia sister projects § When to link for further information.
+Templates may be used for other commonly linked websites. These templates sometimes permit quick correction of many links if the target website is reorganized, and some of them are popular for use in infoboxes. Do not create large, graphical templates for non-WMF websites, even if these websites are also wikis. All templates except those for WMF "sister" projects should produce a normal, single-line, text-based external link without any favicons, bold-faced text, custom bullets, or other unusual formatting. See typical examples at {{EMedicine}} and {{AllMusic}}.
+{{srlink}} will create either a wiklink or external link, depending on whether it is on a mirror of Wikipedia.
+{{plain link}} will remove the arrow icon that is automatically placed on URLs.
+References and citation
+Shortcuts
+WP:ELRCWP:ELRC
+WP:ELDUPWP:ELDUP
+See also: Wikipedia:Citing sources and Wikipedia:Spam § Citation spam
+Sites that have been used as sources in the creation of an article should be cited in the article and linked as references, either in-line or in a references section. Links to these source sites are not "external links" for the purposes of this guideline, and should not normally be duplicated in an external links section. Exceptions—websites that can be both references and external links—include any official sites for the article topic, or websites that are specifically devoted to the topic, contain multiple subpages, and comply with the criteria for links to be avoided.
+Linking to databases
+Further information: Wikipedia:Template messages/Links
+When linking to large database-driven sites like the Internet Movie Database, try to use an external link template. If the URL format of the database ever changes, it is sometimes possible to quickly fix all links by rewriting the template.
+Maintenance and review
+Inappropriate and duplicative links may be deleted by any editor; if the reason for the deletion is not obvious, please explain on the article's talk page.
+Templates may help organize a link maintenance project. The {{external links}} template is for providing notice that the article may contain inappropriate links or the list of links may have grown to an inappropriate length. {{Advert}} also warns of suspected non-compliant links.
+Inline templates may be useful for flagging individual links that you want to further discuss on the article's talk page:
+{{Copyvio link}}: to mark links suspected of violating copyrights
+{{Off-topic-inline}}: to mark links that seem off-topic or irrelevant
+{{Dead link}}: to mark links that do not appear to be working
+If a page attracts many links or inappropriate links, a note in the External links section such as {{subst:no more links}} may discourage the addition of links.
+If a new or unregistered user persists in adding an inappropriate link to one or more pages, please consider leaving a message for User:XLinkBot. This bot will automatically revert listed sites if added by non-autoconfirmed users, but permit other editors to add them. For malware or serious spamming, please read Wikipedia:Spam blacklist and Wikipedia:WikiProject Spam to recommend site-wide blacklisting.
+Two maintenance categories list all tagged articles that need attention to remove spam and non-compliant links. They are:
+Category:Wikipedia external links cleanup
+Category:Wikipedia spam cleanup
+As of 2025[update], these two categories contain about 3,500 articles that have been tagged for assistance with external links and spam. Any editor can address these concerns by applying the advice on this page. When an article complies with the relevant standards, then any editor may remove the tags.
+Searching for URLs in external links
+Special:Linksearch is a tool to search for URLs in external links. For example, one might search for all Wikipedia pages linking to yahoo.com at Special:Linksearch/*.yahoo.com.
+Handling disputes
+Shortcut
+WP:ELBURDENWP:ELBURDEN
+This guideline describes the most common reasons for including and excluding links. However, the fact that a given link is not actually prohibited by this guideline does not automatically mean that it must or should be linked. Every link provided must be justifiable in the opinion of the editors for an article. Disputes about links can be addressed through the normal dispute-resolution process, particularly at the external links noticeboard.
+Disputed links should be excluded by default unless and until there is a consensus to include them.
+See also
+This page is referenced in the Wikipedia Glossary.
+Syntax
+Wikipedia:Manual of Style/Linking
+Wikipedia:Policies and guidelines
+Wikipedia:Video links
+Wikipedia:Writing better articles
+Category:External link file type templates
+Help:Wiki markup § External links
+Help:URL
+Metawikimedia:External links
+Maintenance coordination
+Wikipedia:External links/Perennial websites – websites editors frequently inquire about
+Wikipedia:External links/Noticeboard – a page to get help with questions about specific articles or websites
+Wikipedia:Link rot
+Wikipedia:Linking to external harassment
+Wikipedia:Template messages/Cleanup
+WikiProject External links – dedicated to cleaning up overly long lists of external links and having articles conform to Wikipedia's external links guidelines
+WikiProject Spam – voluntary spam-fighting brigade
+Other
+WP:CS:EMBED, "Embedded links should never be used to place external links in the content of an article"
+WP:ELMED and WP:ELCHEM, further guidance for medicine- and chemistry-related articles, respectively
+Wikipedia:Further reading
+Wikipedia:Manual of Style/Layout, gives order of presentation of optional standard appendix and footer sections
+Notes
+1 2 Although this guideline does not apply to article citations, the WP:LINKVIO legal policy prohibits linking to copyright violations, including in citations.
+↑ Links to Wiktionary and Wikisource can sometimes be useful. Other exceptions include use of templates like {{external media}}, which is used only when non-free and non-fair use media cannot be uploaded to Wikipedia. Templates that link to sources (such as – but not limited to – {{ISBN}}, {{doi}}, {{PMID}}, and {{Ref RFC}}) do not normally appear outside of a references list or a list of works created by the subject of the article.
+↑ "In December 1999, for example, a U.S. District Court in Salt Lake City, Utah, granted a preliminary injunction against a religious organization that maintained a website that established links to other sites containing material that infringed on the plaintiff's copyright. The court ruled that the links constituted "contributory infringement" and ordered them removed.[1] However, this remains a developing area of case law.
+↑ This means that if you cannot include the material in the Wikipedia article because it is copyrighted, then you may link to the copyright owner's page. This does not permit you to link to any page that is violating someone else's copyright. See WP:COPYLINK.
+↑ Web pages, not websites. Evaluate the specific page that the link takes the reader to, regardless of other pages in the website.
+1 2 3 4 5 6 This guideline does not restrict linking to websites that are being used as sources to provide content in articles.
+↑ Links to websites are permitted when the website has been used as a WP:Reliable source, but they should not be placed in the body of the article to direct readers to the organization's website or merely to verify that the organization exists, or that it has a website.
+Wrong formatting: "Wikipedia is the free encyclopedia."
+↑ On most browsers the "Network" tab of the developer tools menu (Ctrl+Shift+I) lets you do this.
+↑ For example, Elvis Presley died before the World Wide Web was invented, but his record label has created a website for his music, and editors have considered this to be the equivalent of an official site for the purposes of this guideline.
+↑ Situations in which multiple official links are typically provided include:
+The biography of an elected official might link to both an official government website and the official's political party or campaign website (see, e.g., Barack Obama, Narendra Modi).
+A retailer may have separate websites for the corporate office and for consumers (see, e.g., Walmart).
+A person who is notable for more than one thing might maintain separate websites for each notable activity, e.g., one website for music and another website for writing.
+References
+↑ "Hypertext Linking and Copyright Issues". American Library Association (ALA). Archived from the original on May 26, 2015.
+↑ Piccardi, Tiziano; Redi, Miriam; Colavizza, Giovanni; West, Robert (2021). "On the Value of Wikipedia as a Gateway to the Web". Proceedings of the Web Conference 2021. pp. 249–260. arXiv:2102.07385. doi:10.1145/3442381.3450136. ISBN 978-1-4503-8312-7. Summary: Official links in the infobox are clicked on more than any other link in an article, by a large margin.
+↑ "Porn Sites Hijack Expired Domain Names". PC World. Archived from the original on 2012-11-18.
+v
+t
+e
+Wikipedia key policies and guidelines (?)
+Five pillars
+Ignore all rules
+Content (?)
+P
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Copyright (Copyright violations)
+Image use
+Article titles
+G
+Notability
+Autobiographies
+Citing sources
+Reliable sources
+Medicine
+Do not include copies of lengthy primary sources
+Plagiarism
+Do not create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Writing articles with large language models
+Removal of AI-generated content
+LLM-assisted translation
+Conduct (?)
+P
+Civility
+Consensus
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sockpuppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+G
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Talk page guidelines
+Signatures
+Deletion (?)
+P
+Deletion policy
+Proposed deletion
+Biographies
+Speedy deletion
+Attack page
+Oversight
+Revision deletion
+Enforcement (?)
+P
+Administrators
+Banning
+Blocking
+Page protection
+Editing (?)
+P
+Editing policy
+G
+Article size
+Summary style
+Be bold
+Disambiguation
+Hatnotes
+Broad-concept article
+Understandability
+Style
+Manual of Style
+Contents
+Accessibility
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+Project content (?)
+G
+Project namespace
+WikiProjects
+User pages
+Deceased Wikipedians
+User boxes
+Shortcuts
+Subpages
+WMF (?)
+P
+Universal Code of Conduct
+Terms of Use
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+List of all policies and guidelines
+P: List of policies
+G: List of guidelines
+Summaries of values and principles
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:External_links&oldid=1381242973"
+Categories:
+Wikipedia content guidelines
+Wikipedia glossary items
+Wikipedia external links
+Wikipedia link help
+Hidden categories:
+Wikipedia semi-protected project pages
+Wikipedia move-protected project pages
+Search
+Search
+Wikipedia:External links
+58 languages   Add topic

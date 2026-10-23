@@ -1,0 +1,266 @@
+URL: https://en.wikipedia.org/wiki/Nonprofit_organization
+
+Nonprofit organization - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Organization operated for a collective benefit
+Not to be confused with Not-for-profit organization.
+"Registered association" redirects here. For the legal status in Finland and Germany, see Registered association (Finland) and Registered association (Germany).
+The examples and perspectives in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (October 2025) (Learn how and when to remove this message)
+The Wikimedia Foundation is an example of a non-profit organization.
+A nonprofit organization (NPO), also spelled non-profit organisation in British English and known as a non-business entity,[1] nonprofit institution,[2] not-for-profit organization (NFPO),[3] or simply nonprofit,[a] is a non-governmental entity that operates for a collective, public, or social benefit, rather than to generate profit for private owners. Nonprofit organizations are subject to a non-distribution constraint, meaning that any revenue exceeding expenses must be used to further the organization’s purpose.
+Depending on local laws, nonprofits may include charities, political organizations, schools, hospitals, business associations, churches, foundations, social clubs, and cooperatives. In some countries nonprofit entities can obtain tax-exempt status and may also qualify to receive tax-deductible contributions; however, an organization can still be a nonprofit without having tax exemption. Key aspects of nonprofit organizations are their ability to fulfill their mission with respect to accountability, integrity, trustworthiness, honesty, and openness to every person who has invested time, money, and faith into the organization.
+Nonprofit organizations are accountable to the donors, founders, volunteers, program recipients, and the public community. Theoretically, for a nonprofit that seeks to finance its operations through donations, public confidence is a factor in the amount of money that a nonprofit organization is able to raise. Presumably, the more a nonprofit focuses on their mission, the more public confidence they will gain. This may result in more money for the organization.[1]
+Fundraising
+[edit]
+Nonprofit organizations are not driven by generating profit, but they must bring in enough income to pursue their social goals. Nonprofits are able to raise money in different ways. This includes income from donations from individual donors or foundations, sponsorship from corporations, government funding, programs, services, merchandise sales, and investments.[4] With a significant increase in NPOs between 2000 and 2023 (approximately 1.5 million registered organizations in the United States alone)[5] some organizations have adopted competitive advantages to create revenue for themselves to remain financially stable. Donations from private individuals or organizations can change each year and government grants have diminished. With changes in funding from year to year, many nonprofit organizations have been moving toward increasing the diversity of their funding sources. For example, many nonprofits that have relied on government grants have started fundraising efforts to appeal to individual donors.[6]
+Tax exemption
+[edit]
+In some countries nonprofits may apply for tax-exempt status. Tax exemptions have been justified by community benefit of some organizations.[7] Studies argue that the community benefits of non-profits have been overestimated and can be negative compared to for-profit organizations when including the cost of the tax exemptions and costs due to financial mismanagement.[8] The discretionary process of tax exemptions application can result in corruption or fraud.[9]
+In the United States, to be exempt from federal income taxes, the organization must meet the requirements set forth in the Internal Revenue Code (IRC). Granting nonprofit status is done by the state, while granting tax-exempt designation (such as IRC 501(c)) is granted by the federal government via the IRS. This means that not all nonprofits are eligible to be tax-exempt.[10] For example, employees of non-profit organizations pay taxes from their salaries, which they receive according to the laws of the country. NPOs use the model of a double bottom line in that furthering their cause is more important than making a profit, though both are needed to ensure the organization's sustainability.[11][12]
+An advantage of nonprofits registered in the UK is that they benefit from some reliefs and exemptions. Charities and nonprofits are exempt from Corporation Tax as well as the trustees being exempt from Income Tax.[13] There may also be tax relief available for charitable giving, via Gift Aid, monetary donations, and legacies.[14]
+Management
+[edit]
+Most nonprofits have staff that work for the organization, possibly using volunteers to perform the nonprofit's services under the direction of the paid staff. Nonprofits must be careful to balance the salaries paid to staff against the money paid to provide services to the nonprofit's beneficiaries. Organizations whose salary expenses are too high relative to their program expenses may face regulatory scrutiny.[15]
+Some have the misconception that nonprofit organizations may not make a profit. Although the goal of nonprofits is not specifically to maximize profits, they still have to operate as a fiscally responsible business. They must manage their income (grants, donations, and income from services) and expenses so as to remain a fiscally viable entity. Nonprofits have the responsibility of focusing on being professional and financially responsible, replacing self-interest and profit motive with mission motive.[16]
+Though nonprofits are managed differently from for-profit businesses, they have felt pressure to be more businesslike. To combat private and public business growth in the public service industry, some nonprofits have modeled their business management and mission, shifting their reason of existing to establish sustainability and growth.[17]
+Setting effective missions is a key for the successful management of nonprofit organizations. There are three important conditions for effective mission: opportunity, competence, and commitment.[18]
+One way of managing the sustainability of nonprofit organizations is to establish strong relations with donor groups. This requires a donor marketing strategy, something many nonprofits lack.[18] Nonprofit organizations need to motivate staff, maintain and communicate a vision, set a strategic direction, manage change effectively, and provide a safe working environment for employees, volunteers, and visitors. These issues are comparable to those affecting a commercial business but factors which place a nonprofit organization at risk have been identified such as lack of direction or clear purpose, over-centralized management and decision-making, and lack of engagement with staff.[19]
+Political partisanship has been observed among the leadership of some nonprofit organizations.[20]
+Founder's syndrome
+[edit]
+Main article: Founder's syndrome
+Founder's syndrome is an issue some organizations experience as they expand. Dynamic founders, who have a strong vision of how to operate the project, try to retain control of the organization, even as new employees or volunteers want to expand the project's scope or change policy.[21]
+Functions
+[edit]
+Some nonprofit organizations provide public goods that are undersupplied by government.[22] NPOs have a wide diversity of structures and purposes. For legal classification, there are, nevertheless, some elements of importance:
+Management provisions
+Accountability and auditing provisions
+Provisory for the amendment of the statutes or articles of incorporation
+Provisions for the dissolution of the entity
+Tax statuses of corporate and private donors
+Tax status of the founders
+Some of the above must be (in most jurisdictions in the US at least) expressed in the organization's charter of establishment or constitution. Others may be provided by the supervising authority at each particular jurisdiction.
+While affiliations will not affect a legal status, they may be taken into consideration by legal proceedings as an indication of purpose. Most countries have laws that regulate the establishment and management of NPOs and that require compliance with corporate governance regimes. Most larger organizations are required to publish their financial reports detailing their income and expenditure publicly.
+In many aspects, they are similar to corporate business entities though there are often significant differences. Both non-profit and for-profit corporate entities must have board members or trustees who owe the organization a fiduciary duty of loyalty and trust.[23] A notable exception to this involves churches, which are often not required to disclose finances to anyone, including church members.[24]
+Formation and structure
+[edit]
+In the United States, nonprofit organizations are formed by filing bylaws, articles of incorporation, or both in the state in which they expect to operate. The act of incorporation creates a legal entity enabling the organization to be treated as a distinct body (corporation) by law and to enter into business dealings, form contracts, and own property as individuals or for-profit corporations can.
+There is an important distinction in the US between non-profit and not-for-profit organizations (NFPOs); while an NFPO does not profit its owners, and money goes into running the organization, it is not required to operate for the public good. An example is a sports club, whose purpose is its members' enjoyment.[25] The names used and precise regulations vary from one jurisdiction to another. Nonprofits can have members, but many do not. The nonprofit may also be a trust or association of members. The organization may be controlled by its members who elect the board of directors, board of governors, or board of trustees. A nonprofit may have a delegate structure to allow for the representation of groups or corporations as members. Alternatively, it may be a non-membership organization and the board of directors may elect its own successors.
+The two major types of nonprofit organizations are membership and board-only. A membership organization elects the board and has regular meetings and the power to amend the bylaws. A board-only organization typically has a self-selected board and a membership whose powers are limited to those delegated to it by the board. A board-only organization's bylaws may even state that the organization does not have any membership, although the organization's literature may refer to its donors or service recipients as 'members'. Examples of such organizations are FairVote[26][27] and the National Organization for the Reform of Marijuana Laws.[28] The Model Nonprofit Corporation Act imposes many complexities and requirements on membership decision-making.[29] Accordingly, many organizations, such as the Wikimedia Foundation,[30] have formed board-only structures. The National Association of Parliamentarians has generated concerns about the implications of this trend for the future of openness, accountability, and understanding of public concerns in nonprofit organizations. Specifically, they note that nonprofit organizations, unlike business corporations, are not subject to market discipline for products and shareholder discipline of their capital; therefore, without membership control of major decisions such as the election of the board, there are few inherent safeguards against abuse.[31][32] A rebuttal to this might be that as nonprofit organizations grow and seek larger donations, the degree of scrutiny increases, including expectations of audited financial statements.[33] A further rebuttal might be that NPOs are constrained, by their choice of legal structure, from financial benefit as far as distribution of profit to members and directors is concerned.
+In United States
+[edit]
+According to the National Center for Charitable Statistics (NCCS), there are more than 1.5 million nonprofit organizations registered in the United States, including public charities, private foundations, and other nonprofit organizations. According to the Giving USA 2025 report, which details philanthropic data from 2024, charitable giving in the United States reached an estimated $557.08 billion.[34] In addition to financial support, volunteering remains a cornerstone of the sector. A 2025 report from AmeriCorps found that 56.7 million adults formally volunteered with an organization, contributing an estimated $145 billion in economic value to their communities.[35]
+In the United States, both nonprofit organizations and not-for-profit organizations may be tax-exempt. There are various types of nonprofit exemptions, such as 501(c)(3) organizations that are a religious, charitable, or educational-based organization that does not influence state and federal legislation, and 501(c)(7) organizations that are for pleasure, recreation, or another nonprofit purpose.[36]
+There is an important distinction in the US between non-profit and not-for-profit organizations (NFPOs). While an NFPO does not profit its owners, and money goes into running the organization, it is not required to operate for the public good. An example is a club whose purpose is its members' enjoyment.[25] Other examples of NFPOs include credit unions, sports clubs, and advocacy groups. Nonprofit organizations provide services to the community such as aid and development programs, medical research, education, and health services. Some nonprofits are both member-serving and community-serving. Examples of these are homeowners associations, the American Red Cross, and Habitat for Humanity. Nonprofit organizations focused on technology education have emerged as key partners in addressing workforce development gaps, providing free training programs and industry certifications to youth and adults from underrepresented communities who lack access to traditional educational pathways.[37]These types of organizations serve their members specifically but also serve their communities with broader services and programs.
+Online presence
+[edit]
+In 2020, some nonprofit organizations began using microblogging (brief videos with short text formats) on TikTok to reach Gen Z, engage with community stakeholders, and overall build community.[38] TikTok allowed for innovative engagement between nonprofit organizations and younger generations.[39]
+Alternative names
+[edit]
+Some organizations offer new, positive-sounding alternative terminology to describe the sector. The term civil society organization (CSO) has been used by a growing number of organizations, including the Center for the Study of Global Governance.[40] The term citizen sector organization (CSO) has also been advocated to describe the sector – as one of citizens, for citizens – by organizations including Ashoka: Innovators for the Public.[41] Advocates argue that these terms describe the sector in its own terms, without relying on terminology used for the government or business sectors. However, use of terminology by a nonprofit of self-descriptive language that is not legally compliant risks confusing the public about nonprofit abilities, capabilities, and limitations.[42]
+Financial mismanagement
+[edit]
+See also: Charity fraud
+Financial mismanagement is a particular problem with NPOs because the employees are not accountable to anyone who has a direct stake in the organization. For example, an employee may start a new program without disclosing its complete liabilities. The employee may be rewarded for improving the NPO's reputation, making other employees happy, and attracting new donors. Liabilities promised on the full faith and credit of the organization but not recorded anywhere constitute accounting fraud. But even indirect liabilities negatively affect the financial sustainability of the NPO, and the NPO will have financial problems unless strict controls are instated.[43] Some commenters have argued that the receipt of significant funding from large for-profit corporations can ultimately alter the NPO's functions.[44] A frequent measure of an NPO's efficiency is its expense ratio (i.e. expenditures on things other than its programs, divided by its total expenditures). Tax exempt status of NPOs can, under circumstances such as mismanagement, create negative value for society.[45] Reduced transparency requirements or limitations on freedom of information laws can in some cases result in financial crimes, see also non-profit organizations and access to public information.[46]
+Exploitation of labour
+[edit]
+Low wages have resulted in some cases in exploitation of labour.[47][48] While many established NPOs are well-funded and comparative to their competitors, many more are independent and must be creative with which incentives they use to attract and maintain people. The initial interest for many is the remuneration package, though many who have been questioned after leaving an NPO have reported that it was stressful work environments and the workload.[49]
+Public- and private-sector employment have, for the most part, been able to offer more to their employees than most nonprofit agencies throughout history. Either in the form of higher wages, more comprehensive benefit packages, or less tedious work, the public and private sectors have enjoyed an advantage over NPOs in attracting employees. Traditionally, the NPO has attracted mission-driven individuals who want to assist their chosen cause. Compounding the issue is that some NPOs do not operate in a manner similar to most businesses, or they operate only on a seasonal basis. This leads many young and driven employees to forego NPOs in favor of more stable employment. Today, however, nonprofit organizations are adopting methods used by their competitors and finding new means to retain their employees and attract the best of the newly minted workforce.[50]
+Some believe that most nonprofits will never be able to match the pay of the private sector.[51] and therefore should focus their attention on implementing pleasurable work environments. For some, a good environment is more important than salary.[48] Other incentives that could be implemented are flexible work hours.[52]
+See also
+[edit]
+501(c) organization
+Community organization
+Master of Nonprofit Organizations
+Mutual organization
+Non-commercial activity
+Non-governmental organization
+Nonprofit organization laws by jurisdiction
+Non-profit technology
+Public-benefit nonprofit corporation
+Supporting organization (charity)
+Unionization in the nonprofit sector
+United States non-profit laws
+Voluntary sector
+fr:Association loi de 1901
+Notes
+[edit]
+Wikimedia Commons has media related to Non-profit organizations.
+↑ As a nominalized adjective
+References
+[edit]
+1 2 Ciconte, Barbara L.; Jacob, Jeanne (2009). Fundraising Basics: A Complete Guide. Burlington, Massachusetts: Jones & Bartlett Learning. ISBN 9780763746667.
+↑ "System of National Accounts" (PDF). United Nations Statistics Division. 1993. Archived from the original (PDF) on 17 October 2013. Retrieved 16 October 2013.
+↑ Cabinet Office, Not-for-Profit Advice Services in England, Assets.publishing.service.gov.uk, accessed on 3 March 2025
+↑ Sacristán López de los Mozos, I., Rodríguez Duarte, A., & Rodríguez Ruiz, Ó. (2016). Resource dependence in non-profit organizations: is it harder to fundraise if you diversify your revenue structure?. Voluntas: International Journal of Voluntary & Nonprofit Organizations, 27(6), 2641–2665.
+↑ Salmon, Jack. "Growth of the Nonprofit Sector: More Charities, Better Solutions". Philanthropy Roundtable. Retrieved 24 July 2026.
+↑ "2020 Global Trends in Giving Report". Funraise. Retrieved 25 April 2022.
+↑ Hansmann, Henry (1981). "The Rationale for Exempting Nonprofit Organizations from Corporate Income Taxation". The Yale Law Journal. 91 (1): 54–100. doi:10.2307/795849. JSTOR 795849. Retrieved 21 March 2026.
+↑ Herring, Bradley; Gaskin, Darrell; Zare, Hossein; Anderson, Gerard (2018). "Comparing the Value of Nonprofit Hospitals' Tax Exemption to Their Community Benefits". INQUIRY: The Journal of Health Care Organization, Provision, and Financing. 55 0046958017751970. doi:10.1177/0046958017751970. ISSN 0046-9580. PMC 5813653. PMID 29436247.
+↑ Helge, Terri Lynn (2017). "Rejecting Charity: Why the IRS Denies Tax Exemption to 501(C)(3) Applicants". Pittsburgh Tax Review. 14. doi:10.5195/taxreview.2016.51. SSRN 3040901. Retrieved 21 March 2026.
+↑ "Applying for Exemption – Difference Between Nonprofit and Tax-Exempt Status". Internal Revenue Service. Archived from the original on 16 October 2012. Retrieved 18 October 2012.
+↑ The Nonprofit Handbook: Everything You Need to Know to Start and Run Your Nonprofit Organization (Paperback), Gary M. Grobman, White Hat Communications, 2008.
+↑ "not-for-profit – definition of not-for-profit in English from the Oxford dictionary". Archived from the original on 20 March 2021. Retrieved 14 May 2015.
+↑ UK, Government (12 October 2020). "Charities and tax".
+↑ Plus, Accountants (4 July 2024). "Charity Accountants".
+↑ "Donate a Car to A Nonprofit You Pick Later". Donateforcharity.com. Retrieved 21 May 2025.
+↑ Anheier, K. H. (2005). Nonprofit Organizations: An Introduction, New York, NY: Routledge.
+↑ McDonald, Robert E. (2007). "An Investigation of Innovation in Nonprofit Organizations: The Role of Organizational Mission". Nonprofit and Voluntary Sector Quarterly. 36 (2): 256–281. doi:10.1177/0899764006295996. S2CID 144378017.
+1 2 Drucker, Peter (2006). Managing the Non-profit Organization: Principles and Practices. HarperBusiness. ISBN 978-0060851149.
+↑ National Council for Voluntary Organisations (NCVO), Workforce Wheel: An outcomes tool to help you support and measure change in people management, first published (pilot edition) in June 2008, accessed online on 3 March 2025.
+↑ Cox, Christian (2020). "Campaign Contributions by Non‐profit Executives and Government Grants". Oxford Bulletin of Economics and Statistics. 82 (4): 916–933. doi:10.1111/obes.12341. ISSN 0305-9049. Retrieved 18 August 2026.
+↑ Block, Stephen R.; Rosenberg, Steven (Summer 2002). "Toward and Understanding of Founder's Syndrome". Nonprofit Management & Leadership. 12 (4): 353. doi:10.1002/nml.12403.
+↑ Weisbrod, Burton, 1977. The Voluntary Nonprofit Sector: An Economic Analysis, Lexington Books, New York.
+↑ Good, Funding For (13 March 2022). "How Many Board Members Should a Nonprofit Have?". Funding for Good. Retrieved 22 May 2025.
+↑ Ansberger, Paul (2008). "A History of the Tax-Exempt Sector: An SOI Perspective" (PDF). Statistics of Income Bulletin. Winter 2008: 105–135. Archived (PDF) from the original on 20 March 2021. Retrieved 23 September 2020 – via IRS.
+1 2 Heaslip, Emily (6 February 2023). "Nonprofit, Not-for Profit & For-Profit Organizations Explained". US Chambers of Commerce. Archived from the original on 11 January 2024.
+↑ FairVote – Board of Directors Archived 30 October 2008 at the Wayback Machine.
+↑ FairVote – FAQs Archived 23 October 2008 at the Wayback Machine.
+↑ NORML Board of Directors – NORML Archived 30 October 2008 at the Wayback Machine.
+↑ How to Convert Taxes into Profits: Professional Guide for Non Profit Organizations. International Business Publications. 20 March 2009. p. 12. ISBN 9781438722160. Retrieved 28 October 2014.[permanent dead link]
+↑ "Bylaws". Wikimedia Foundation. 14 July 2010. Archived from the original on 23 January 2008. Retrieved 31 July 2010.
+↑ Malamut, Michael E. & Blach, Thomas J. (2008), ABA Code Revision Raises Concerns for Democracy and Parliamentary Law in Nonprofits, National Parliamentarian, Volume 69, No. 1
+↑ Charity on Trial: What You Need to Know Before You Give / Doug White (2007) ISBN 1-56980-301-3.
+↑ SSRN-Voluntary Disclosure in Nonprofit Organizations: an Exploratory Study by Bruce Behn, Delwyn DeVries, Jing Lin Archived 20 March 2021 at the Wayback Machine.
+↑ "Giving USA 2025: Charitable Giving Showed Resilience Amidst Economic Uncertainty". Giving USA. Giving USA Foundation. 18 June 2025. Retrieved 15 September 2025.
+↑ "AmeriCorps Releases Annual Volunteering and Civic Life in America Research". AmeriCorps.gov. AmeriCorps. 25 January 2025. Retrieved 15 September 2025.
+↑ "Social Clubs | Internal Revenue Service". www.irs.gov. Retrieved 19 July 2024.
+↑ "Digital divide persists even as Americans with lower incomes make gains in tech adoption". Pew Research Center. 22 June 2021. Retrieved 28 February 2026.
+↑ Wiley, Kimberly; Schwoerer, Kayla; Richardson, Micayla; Espinosa, Marlen Barajas (2021). "Engaging stakeholders on TikTok: A multi-levelsocial media analysis of nonprofit Microvlogging". Public Administration. 101 (3): 822–842. doi:10.1111/padm.12851. hdl:1871.1/0440a803-27f7-4620-b02d-ae26f75fe072 – via Wiley.
+↑ DeMasters, Chelsea; Morgan, Katherine; Schwoerer, Kayla; Wiley, Kimberly (2024). "Forging connections: Nonprofits, TikTok, and authentic engagement – a mixed methods study". Journal of Public and Nonprofit Affairs. 10 (1): 27–51. doi:10.20899/jpna.dky82f18. hdl:1871.1/ed7cc034-2c13-404c-8bbc-1a690903c4b0.
+↑ Glasius, Marlies; Kaldor, Mary; Anheier, Helmut, eds. (2005). Global Civil Society 2006/7. Sage. Archived from the original on 24 April 2007.
+↑ Drayton, W: "Words Matter" Archived 7 November 2017 at the Wayback Machine. Alliance Magazine, Vol. 12/No.2, June 2007.
+↑ Alvarado, Elliott I.: "Nonprofit or Not-for-profit – Which Are You?", page 6–7. Nonprofit World, Volume 18, Number 6, November/December 2000.
+↑ Audit Guide for Small Nonprofit Organizations. Archived from the original on 4 January 2011. Retrieved 21 July 2010.
+↑ Edwards, M.; Hulme, D., eds. (2002). "NGO Performance and Accountability: Introduction and Overview (Chapter 11)". The Earthscan Reader on NGO Management. UK: Earthscan Publications Ltd.
+↑ Gamble, Edward N.; Muñoz, Pablo (2022). "When Tax-Exempt Nonprofits Detract Value from Society" (PDF). Academy of Management Perspectives. 36 (1): 50–92. doi:10.5465/amp.2018.0027. ISSN 1558-9080. Retrieved 5 February 2025.
+↑ Barrett, Devlin (2026), "Justice Dept. Charges Prominent Civil Rights Group With Financial Crimes", The New York Times, ISSN 0362-4331, retrieved 24 April 2026
+↑ Chertavian, G. (March 2013). "Nonprofits Need to Compete for Top Talent". Harvard Business Review. Archived from the original on 20 March 2021. Retrieved 10 December 2014.
+1 2 Maw, Liz (9 July 2014). "Winning the Talent Game". Stanford Social Innovation Review. Archived from the original on 7 August 2018. Retrieved 6 August 2018.
+↑ Becchetti, Leonardo; Castriota, Stefano; Depedri, Sara (1 August 2014). "Working in the for-profit versus not-for-profit sector: what difference does it make? An inquiry on preferences of voluntary and involuntary movers". Industrial and Corporate Change. 23 (4): 1087–1120. doi:10.1093/icc/dtt044. Archived from the original on 20 March 2021. Retrieved 28 March 2018.
+↑ Cohen, R. (21 June 2010). "Nonprofit Salaries: Achieving Parity with the Private Sector". Nonprofit Quarterly. Archived from the original on 11 December 2014. Retrieved 10 December 2014.
+↑ Coffman, S. (23 December 2002). "Nonprofits Can Compete with Employee Benefits". Columbus Business First. Archived from the original on 20 March 2021. Retrieved 10 December 2014.
+↑ Fox, T. (18 March 2014). "How to Compete with the Private Sector for Young Workers". The Washington Post. Archived from the original on 20 March 2021. Retrieved 6 September 2017.
+v
+t
+e
+Charitable giving and practices
+Main topics
+Alms
+Altruism
+Charity (practice)
+Compassion
+Donation
+Empathy
+Fundraising
+Humanity (virtue)
+Philanthropy
+Volunteering
+Types of charitable
+organizations
+Charitable trust / Registered charity
+Foundation
+Private
+Crowdfunding
+Mutual-benefit nonprofit corporation
+Non-governmental organization
+International
+Nonprofit organization
+Public-benefit nonprofit corporation
+Service club
+Social enterprise
+Religious corporation
+Voluntary association
+Charity and religion
+Offering (Christianity)
+Charity (Christian virtue)
+Dāna
+Tithe
+Tzedakah
+Sadaqah
+Zakat
+Charity evaluation
+Aid effectiveness
+Animal Charity Evaluators
+Candid
+Charity assessment
+Charity Navigator
+CharityWatch
+Distributional cost-effectiveness analysis
+GiveWell
+Giving Multiplier
+Giving What We Can
+GreatNonprofits
+Further topics
+Alternative giving
+Benefit concert
+Caffè sospeso
+Charity fraud
+Charity / thrift / op shop
+Click-to-donate site
+Drive
+Donor-advised fund
+Donor intent
+Earning to give
+Effective altruism
+Psychological barriers
+Ethics of philanthropy
+Give-away shop
+List of charitable foundations
+wealthiest
+Master of Nonprofit Organizations
+Matching funds
+Telethon
+Visiting the sick
+Voluntary sector
+Volunteer grant
+Wall of kindness
+Warm-glow giving
+Category
+Authority control databases
+International
+GND
+National
+United States
+France
+BnF data
+Japan
+Czech Republic
+2
+Israel
+Other
+NARA
+Yale LUX
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Nonprofit_organization&oldid=1381296595"
+Categories:
+Non-profit organizations
+Trade unions
+Social economy
+Nonprofit businesspeople
+Nonprofit chief executives
+Nonprofit cinemas and movie theaters in the United States
+Nonprofit hobbyist organizations based in the United States
+Nonprofit newspapers
+501(c)(3) organizations
+501(c)(6) nonprofit organizations
+501(c)(4) nonprofit organizations
+501(c)(19) nonprofit organizations
+Hidden categories:
+Articles with short description
+Short description matches Wikidata
+Articles with limited geographic scope from October 2025
+Wikipedia pages move-protected due to vandalism
+Use American English from July 2020
+All Wikipedia articles written in American English
+Use dmy dates from July 2021
+CS1: long volume value
+Webarchive template wayback links
+All articles with dead external links
+Articles with dead external links from October 2023
+Articles with permanently dead external links
+Commons category link is on Wikidata
+Search
+Search
+Nonprofit organization
+83 languages   Add topic

@@ -644,7 +644,7 @@ PNC Park, home stadium of the Pittsburgh Pirates
 — ESPN
 The Pittsburgh Pirates baseball team, often referred to as the Bucs or the Buccos (derived from buccaneer), is the city's oldest professional sports franchise. They were founded in 1881, originally called the Pittsburgh Alleghenies, and play in the Central Division of the National League. The Pirates are nine-time Pennant winners and five-time World Series Champions, were in the first World Series (1903) and claim two pre-World Series titles in 1901 and 1902. The Pirates play in PNC Park.
 Pittsburgh also has a rich Negro league history, with the former Pittsburgh Crawfords and the Homestead Grays credited with as many as 14 league titles and 11 Hall of Famers between them in the 1930s and 1940s, while the Keystones fielded teams in the 1920s. In addition, in 1971 the Pirates were the first Major League team to field an all-minority lineup. One sportswriter claimed, "No city is more synonymous with black baseball than Pittsburgh."[206]
-Since the late 20th century, the Pirates had three consecutive National League Championship Series appearances (1990–92) (going 6, 7 and 7 games each), followed by setting the MLB record for most consecutive losing seasons, with 20 from 1993 until 2012. This era was followed by three consecutive postseason appearances: the 2013 National League Division Series and the 2014–2015 Wild Card games. Their September pennant race in 1997 featured the franchises' last no-hitter and last award for Sporting News' Executive of the Year.[207]
+Since the late 20th century, the Pirates had three consecutive National League Championship Series appearances (1990–92) (going 6, 7 and 7 games each), followed by setting the MLB record for most consecutive losing seasons, with 20 from 1993 until 2012. This era was followed by three consecutive postseason appearances: the 2013 National League Division Series and the 2014–2015 Wild Card games. Their September pennant race in 1997 featured the franchise's last no-hitter and last The Sporting News MLB Executive of the Year Award.[207]
 Football
 [edit]
 Further information: American football in Western Pennsylvania
@@ -2593,7 +2593,7 @@ Other
 IdRef
 NARA
 Yale LUX
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Pittsburgh&oldid=1379668215"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pittsburgh&oldid=1381044320"
 Categories:
 Pittsburgh
 1758 establishments in Pennsylvania

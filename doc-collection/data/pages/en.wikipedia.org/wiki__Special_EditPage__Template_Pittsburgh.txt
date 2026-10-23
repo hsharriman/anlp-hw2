@@ -1,0 +1,73 @@
+URL: https://en.wikipedia.org/wiki/Special:EditPage/Template:Pittsburgh
+
+View source for Template:Pittsburgh - Wikipedia
+Jump to content
+← Template:Pittsburgh
+You do not have permission to edit this page, for the following reason:
+This page is currently semi-protected so that only established, registered users can edit it.
+Why is the page protected?
+While most articles can be edited by anyone, semi-protection is sometimes necessary to prevent vandalism to popular pages.
+The reason for protection can be found in the protection log. If there are no relevant entries in the protection log, the page may have been moved after being protected.
+What can I do?
+If you have a user account, log in first. If you do not yet have an account, you may create one; after 4 days and 10 edits, you will be able to edit semi-protected pages.
+Discuss this page with others.
+For move-protected pages, see requested moves.
+Request that the page's protection level be reduced.
+Find out more about how to get started editing Wikipedia.
+If you have noticed an error or have a suggestion for a simple, non-controversial change, you can submit an edit request by clicking the button below and following the instructions. An established user may then make the change on your behalf. Please check the talk page first in case the issue is already being discussed.
+Submit an edit request
+If you wrote any text, please save it temporarily to your device until you can edit this page.
+You can view and copy the source of this page:
+{{Navbox | name = Pittsburgh | state = {{{state<includeonly>|collapsed</includeonly>}}} | title = [[Pittsburgh|City of Pittsburgh]] | bodyclass = hlist | selected = {{{1|}}} | group1 = [[Government of Pittsburgh|Government]] | abbr1 = Government | list1 = * [[Allegheny County Airport Authority|Airport]] * [[David L. Lawrence Convention Center|Convention Center]] * [[Pittsburgh City Council|City Council]] * [[Pittsburgh City-County Building|City Hall]] * [[Allegheny County Courthouse|Courthouse]] * [[Allegheny County District Attorney|District Attorney]] * [[Pittsburgh Public Schools|Education]] * [[Sports & Exhibition Authority of Pittsburgh and Allegheny County|Events]] * [[Pittsburgh Bureau of Fire|Fire]] * [[Pittsburgh Intergovernmental Cooperation Authority|InterGov]] * [[Carnegie Library of Pittsburgh|Libraries]] * [[List of mayors of Pittsburgh|Mayor]] * [[List of parks in Pittsburgh|Parks]] * [[Pittsburgh Police|Police]] * [[Port of Pittsburgh|Port]] * [[Allegheny Conference|Regional]] * [[Allegheny County Sheriff|Sheriff]] * [[Pittsburgh Regional Transit|Transit]] * [[Pittsburgh Water|Water]] | group2 = [[Economy of Pittsburgh|Economy]] | abbr2 = Economy | list2 = * [[Allegheny Conference]] * [[Duquesne Club]] * [[Greater Pittsburgh Chamber of Commerce|Chamber of Commerce]] * [[List of corporations in Pittsburgh|Corporations]] * [[Economic Club of Pittsburgh|Economic Club]] * [[Allegheny HYP Club|HYP Club]] * [[Pittsburgh Stock Exchange|Stock Exchange]] | group3 = Other topics | abbr3 = Topics | list3 = * [[List of colleges and universities in Pittsburgh|Colleges and universities]] * [[Culture of Pittsburgh|Culture]] ** [[cookie table]] ** [[Theatre in Pittsburgh|theatre]] ** [[Raymond Robinson (Green Man)|Green Man]] ** [[Parking chair|Pittsburgh Parking Chair]] ** [[Picklesburgh]] ** [[Pittsburgh rare|Pittsburgh steak]] * [[Western Pennsylvania English|Dialect]] ** [[Jagoff]] ** [[Yinzer]] * [[Flag of Pittsburgh|Flag]] * [[List of fiction set in Pittsburgh|Fictional settings]] * Filming ** [[List of films shot in Pittsburgh|films]] ** [[List of television shows shot in Pittsburgh|television]] * [[History of Pittsburgh|History]] ** [[Name of Pittsburgh|name]] ** [[Timeline of Pittsburgh|timeline]] ** [[History of the Jews in Pittsburgh|Jewish history]] *** [[Pittsburgh synagogue shooting|2018 synagogue shooting]] ** [[Pittsburgh toilet]] * [[List of hospitals in Pittsburgh|Hospitals]] * [[Media in Pittsburgh|Media]] * [[List of museums in Pittsburgh|Museums]] * [[List of Pittsburgh neighborhoods|Neighborhoods]] * [[List of nicknames for Pittsburgh|Nicknames]] * [[List of people from Pittsburgh|Notable Pittsburghers]] * [[Greater Pittsburgh|Region]] ** [[Pittsburgh–New Castle–Weirton combined statistical area|combined statistical area]] * [[List of tallest buildings in Pittsburgh|Skyscrapers]] * [[Sports in Pittsburgh|Sports]] * [[Transportation in Pittsburgh|Transportation]] | below = * '''{{Icon|Category}} [[:Category:Pittsburgh|Category]]''' }}<noinclude> {{navbox documentation}} [[Category:Pittsburgh navigational boxes]] [[Category:Pennsylvania city navigational boxes]] </noinclude>
+Pages transcluded onto the current version of this page (help):
+Template:Check completeness of transclusions (view source) (template editor protected)
+Template:Collapsible option (view source) (template editor protected)
+Template:Documentation (view source) (template editor protected)
+Template:Hlist/styles.css (view source) (fully protected)
+Template:Icon (view source) (template editor protected)
+Template:Navbox (view source) (template editor protected)
+Template:Navbox documentation (view source) (template editor protected)
+Template:Navbox visibility (view source) (template editor protected)
+Template:Parameter (view source) (template editor protected)
+Template:Parameter value (view source) (template editor protected)
+Template:Parameter value/styles.css (view source) (template editor protected)
+Template:Pp-template (view source) (template editor protected)
+Template:Replace (view source) (fully protected)
+Template:Sandbox other (view source) (template editor protected)
+Template:Str len (view source) (template editor protected)
+Template:Template-protected (view source) (template editor protected)
+Template:Template display (view source) (template editor protected)
+Template:Template link (view source) (fully protected)
+Template:Template other (view source) (fully protected)
+Module:Arguments (view source) (fully protected)
+Module:Color contrast (view source) (template editor protected)
+Module:Color contrast/colors (view source) (template editor protected)
+Module:Documentation (view source) (template editor protected)
+Module:Documentation/config (view source) (template editor protected)
+Module:Documentation/styles.css (view source) (template editor protected)
+Module:Effective protection expiry (view source) (fully protected)
+Module:Effective protection level (view source) (fully protected)
+Module:File link (view source) (template editor protected)
+Module:Icon (view source) (template editor protected)
+Module:Icon/data (view source) (template editor protected)
+Module:Message box (view source) (fully protected)
+Module:Message box/configuration (view source) (fully protected)
+Module:Message box/ombox.css (view source) (fully protected)
+Module:Navbar (view source) (fully protected)
+Module:Navbar/configuration (view source) (fully protected)
+Module:Navbar/styles.css (view source) (fully protected)
+Module:Navbox (view source) (template editor protected)
+Module:Navbox/configuration (view source) (template editor protected)
+Module:Navbox/styles.css (view source) (template editor protected)
+Module:Protected page (view source) (template editor protected)
+Module:Protected page/config (view source) (template editor protected)
+Module:Protection banner (view source) (template editor protected)
+Module:String (view source) (fully protected)
+Module:TableTools (view source) (fully protected)
+Module:Yesno (view source) (fully protected)
+Return to Template:Pittsburgh.
+Retrieved from "https://en.wikipedia.org/wiki/Template:Pittsburgh"
+Search
+Search
+View source for Template:Pittsburgh
+Add languages   Add topic

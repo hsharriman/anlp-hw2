@@ -1,0 +1,1075 @@
+URL: https://en.wikipedia.org/wiki/Western_Pennsylvania_English
+
+Western Pennsylvania English - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Dialect of American English
+Western Pennsylvania English
+Pittsburgh English, Pittsburghese
+Region Western Pennsylvania
+Language family
+Indo-European
+Germanic
+West Germanic
+Ingvaeonic
+Anglo–Frisian
+Anglic
+English
+North American English
+American English
+Western Pennsylvania English
+Early forms
+Old English
+Middle English
+Early Modern English
+Writing system
+English alphabet
+Language codes
+ISO 639-3 –
+Glottolog west2919
+Appalachia (in white) overlaid with dialect regions defined by the 2006 ANAE. Western Pennsylvania English can be seen in orange.
+A sign using "Dahntahn" to mean "Downtown" in Downtown Pittsburgh
+Western Pennsylvania English, known more narrowly as Pittsburgh English or popularly as Pittsburghese, is a dialect of American English native primarily to the western half of Pennsylvania, centered on the city of Pittsburgh, but potentially appearing in some speakers as far north as Erie County, as far east as Harrisburg, as far south as Clarksburg, West Virginia, and as far west as Youngstown, Ohio.[1][2] The dialect is commonly associated with the white working class of Pittsburgh; users of the dialect are colloquially known as "Yinzers".
+Overview
+[edit]
+Scots-Irish, Pennsylvania Dutch, Polish,[3] Ukrainian[4] and Croatian[5] immigrants to the area all provided certain loanwords to the dialect (see "Vocabulary" below). Many of the sounds and words found in the dialect are popularly thought to be unique to Pittsburgh, but that is a misconception since the dialect resides throughout the greater part of western Pennsylvania and the surrounding areas.[6][7] Central Pennsylvania, currently an intersection of several dialect regions, was identified in 1949 by Hans Kurath as a subregion between western and eastern Pennsylvania,[8][9] but some scholars in the 20th century onwards have identified it within the western Pennsylvania dialect region.[9][10] Since Kurath's study, one of western Pennsylvania's defining features, the cot–caught merger, has expanded into central Pennsylvania,[11] moving eastward until being blocked at Harrisburg.[12] Perhaps the only feature whose distribution is restricted almost exclusively to the immediate vicinity of Pittsburgh is /aʊ/ monophthongization in which words such as house, down, found, and sauerkraut are sometimes pronounced with an "ah" sound, instead of the more standard pronunciation of "ow", rendering eye spellings such as hahs, dahn, fahnd, and sahrkraht.
+Speakers of Pittsburgh English are sometimes called "Yinzers" in reference to their use of the second-person plural pronoun "yinz." The word "yinzer" is sometimes heard as pejorative, indicating a lack of sophistication, but the term is now used in a variety of ways.[13] Older men are more likely to use the accent than women "possibly because of a stronger interest in displaying local identity...."[14]
+Phonology
+[edit]
+This section contains phonetic transcriptions in the International Phonetic Alphabet (IPA). For an introductory guide on IPA symbols, see Help:IPA. For the distinction between [ ], / / and ⟨ ⟩, see IPA § Brackets and transcription delimiters.
+Vowels of Western Pennsylvania English
+Front  Central  Back
+lax  tense  lax  lax  tense
+Close  ɪ  i    ʊ  u
+Mid  ɛ    ə
+Open  æ      ʌ  ɒ
+Diphthongs  eɪ   aɪ   ɔɪ   aʊ   oʊ
+A defining feature of Western Pennsylvania English is the cot–caught merger, in which /ɑ/ (as in ah) and /ɔ/ (as in aw) merge to a rounded /ɒ/ (phonetically [ɒ~ɔ]). As in most other American dialects, the father–bother merger also occurs.[6][7][15] Therefore, cot and caught are both pronounced /kɒt/; Don and dawn are both /dɒn/. While the merger of the low back vowels is also widespread elsewhere in the United States, the rounded realizations of the merged vowel around [ɒ] is less common, except in Canada, California and Northeastern New England.[6][7]
+/ɒ/ has a stylistic variant, which is open central unrounded [ä], as in the sarcastic pronunciation of I apologize as [aɪ əˈpʰäɫɨdʒaɪz]. It may also occur before /r/, as in start [stäɹʔt] or car [kʰäɹ], but a more common pronunciation is back and rounded: [stɒɹʔt] etc. The vowel in hoarse is the same as the one in horse, phonetically [ɔ]: [hɔɹs] but phonemically /oʊ/ due to the cot-caught merger: /hoʊrs/.[16][17]
+/ʌ/ is backer and more open than [ɜ] found in Midland American English, being closer to [ɑ]. This makes STRUT an unrounded counterpart of LOT, with pairs such as nut [nɑʔt] vs. not [nɒʔt] or cut [kʰɑʔt] vs. cot [kʰɒʔt] contrasting mainly by roundedness. This is also found in contemporary Standard Southern British English, where nut [nʌʔt] also differs from not [nɔʔt] by rounding (though nought has a contrastive THOUGHT vowel instead: [no̞ːʔt], which falls together with [ɒ] in Pittsburgh). Earlier reports give [ɜ] as the norm for STRUT in Pittsburgh. The remaining checked vowels /ɪ/, /ʊ/, /ɛ/ and /æ/ are all within the General American norm.[18][19][20]
+The GOAT vowel often has an unrounded central or fronted starting point in Pittsburgh: [əʊ]. Outside of the city itself, [oʊ] is more common. GOOSE is sometimes also fronted, to [ɨu] (more usual value: [ʊu]). As in other American dialects, FLEECE and FACE are narrow diphthongs [ɪi, ee̝]. CHOICE is also within the GenAm norm: [ɔ̟ɪ].[21]
+The PRICE vowel alone undergoes Canadian raising to [ɜɪ] before voiceless consonants, as in ice [ɜɪs]. In 1971, the Journal of the International Phonetic Association published a description of the dialect, whose author Bruce Lee Johnson notes that the auxiliary verb might is typically pronounced with nasalization, as [mɜ̃ɪ̃ʔt].[22] Elsewhere in the article, this allophone is transcribed ⟨ʌɪ⟩, following its usual transcription on Wikipedia.
+The MOUTH vowel typically begins front in the mouth [æʊ]. A less common variant has a central starting point, [äʊ], matching the starting point of PRICE ([äɪ]).[16] It is monophthongized to [aː] in some environments (sounding instead like ah), namely: before nasal consonants (downtown [daːnˈtʰaːn] and found [faːnd]), liquid consonants (fowl, hour) and obstruents (house [haːs], out, cloudy).[6][7][15] The monophthongization does not occur, however, in word-final positions (how, now), and the diphthong then remains [æʊ].[23] That is one of the few features, if not the only one, restricted almost exclusively to western Pennsylvania in North America, but it can sometimes be found in other accents of the English-speaking world, such as Cockney and South African English.[6][7] Monophthongization also occurs for the sound /aɪ/, as in eye, before liquid consonants,[6][7][15][24] so that tile is pronounced [tʰɑːɫ]; pile is pronounced [pʰɑːɫ]; and iron is pronounced [ɑːɹn]. That phenomenon allows tire to merge with the sound of tar: [tʰɑːɹ].
+The NURSE vowel (phonemically an /ər/ sequence) is phonetically close-mid [ɘ˞].[25]
+Johnson notes a tendency to diphthongize /æ/ to [ɛə] not only before nasals (as in GenAm) but also before all voiced consonants (as in bad [bɛəd]) and voiceless fricatives (as in grass [ɡɹɛəs]).[25] This has since been reversed and now [ɛə] is confined to the environment of a following nasal, matching the GenAm allophony.[26]
+An epenthetic (intruding) /r/ sound may occur after vowels in a few words, such as water pronounced as [ˈwɔɹɾɚ], and wash as [wɔɹʃ].[6][7]
+A number of vowel mergers occur uniquely in Western Pennsylvania English before the consonant /l/. The pair of vowels /i/ and /ɪ/ may merge before the /l/ consonant,[6][7][15][27] cause both steel and still to be pronounced as something like [stɪɫ]. Similarly, /u/, /oʊ/, and /ʊ/ may merge before /l/, so that pool, pull, and pole may merge to something like [pʰʊɫ]. On the /il/~/ɪl/ merger, Labov, Ash and Boberg (2006) note "the stereotype of merger of /ɪl ~ il/ is based only on a close approximation of some forms, and does not represent the underlying norms of the dialect."[28] The /i/~/ɪ/ merger is found in western Pennsylvania,[6][7][15][27] as well as parts of the southern United States, including Alabama, Texas and the west (McElhinny 1999). On the other hand, the /u/~/ʊ/ merger is consistently found only in western Pennsylvania. The /i/~/ɪ/ merger towards [ɪ] may also appear before /ɡ/: eagle then sounds to outsiders like iggle.[6][7][15]
+L-vocalization is also common in the Western Pennsylvania dialect; an /l/ then sounds like a /w/ or a cross between a vowel and a "dark" /l/ at the end of a syllable.[6][7][29] For example, well is pronounced as [wɛw]; milk as [mɪwk] or [mɛwk]; role as [ɹʊw]; and cold as [ˈkʰʊwd]. The phenomenon is also common in African-American English.
+The word mirror can be pronounced as the single-syllable mere.[citation needed]
+Western Pennsylvania English speakers may use falling intonation at the end of questions,[6][7][30] for example, in "Are you painting your garage?" [↗ˈɒɹ jə ˈpʰeɪɾ̃ɪŋ jɚ ɡə↘ˈɹɒdʒ] (with pitch rising in intonation up to just before the last syllable and then falling precipitously).[30] Such speakers typically use falling pitch for yes–no questions for which they already are quite sure of the answer. A speaker uttering the above example is simply confirming what is already thought: yes, the person spoken to is painting their garage. It is most common in areas of heavy German settlement, especially southeastern Pennsylvania,[30] hence its nickname, the "Pennsylvania Dutch question", but it is also found elsewhere in Pennsylvania, including Pittsburgh.[6][7][30][31][32][33][34] It is of German origin.[30]
+Vocabulary
+[edit]
+City of Pittsburgh Recycling Drop-Off Center sign using the term "redd up", illustrating an example of Western Pennsylvania English.
+babushka - (n.) headscarf[3][a]
+buggy - (n.) shopping cart[b]
+baby buggy - (n.) baby carriage
+the 'Burgh - (n.) Pittsburgh[7][34]
+beal - (v.) to fester or suppurate[3]
+bealed - (adj.) usually of an ear: infected or abscessed[3]
+belling - (n.) noisy celebration or mock serenade for newlyweds; a shivaree[3]
+berm - (n.) edge of the road, curb: an accepted alternative to "shoulder of the road"[3]
+carbon oil - (n.) kerosene[c]
+chipped ham - (n.) very thinly sliced chopped ham loaf for sandwiches (from a local brand name)[6][7] (see chipped chopped ham)
+city chicken - (n.) cubes of pork loin and/or veal on a short wooden skewer, breaded, then fried or baked[35][d]
+cubberd - (n.) closet[36]
+craw - (n.) crawfish[3]
+crick - (n.) Creek
+cruds, crudded milk, or cruddled milk - (n.) cottage cheese[37][e]
+diamond - (n.) town square[36]
+dippy - (adj.) appropriate for dipping into, such as gravy, coffee, egg yolks, etc.[38]
+doll baby - (n.) complimentary term for an attractively childlike girl or woman (reversal of "baby doll")
+drooth - (n.) drought[3][39]
+Dubbya - (n.) Letter "W", Often used when saying "www." Or a local station
+dupa - (n.) parental term (of Polish origin) for a child's backside
+feature - (v.) to think about, understand, or imagine
+grinnie - (n.) chipmunk[f]
+gumband - (n.) rubber band;[6][7][38] elastic fastener[36]
+gutchies; or undergutchies (n.) term used to describe undergarments of any variety.
+hap - (n.) comfort; or, comforter or quilt:[37][g]
+hoagie - (n.) a sub (i.e., submarine sandwich; used throughout Pennsylvania)[38]
+hoopy - (n.) a person perceived as unsophisticated or having rural sensibilities (i.e., redneck or hillbilly; used especially in Ohio Valley and northern West Virginia)
+jag - (v.) to prick, stab, or jab;[40] to tease[34] (often, jag off or jag around)[h][40]
+jagger - (n./adj.) any small, sharp-pointed object or implement,[40] usually thorns, spines, and prickles (as in a jagger bush or "I got a jagger in my finger").
+jaggerbush - (n.) briar[36]
+jagoff - (n.) an idiot, fool, or unlikeable person[h]
+jimmies - (n.) sprinkles[41]
+jumbo - (n.) bologna lunch meat[6][7][40][33][34]
+"Kennywood's open" - idiom used to inform someone that their fly is open ("Kennywood" referring to the Kennywood amusement park in West Mifflin, Pennsylvania)
+Klondike - (n.) any ice cream bar, even if not specifically a Klondike bar (first marketed in nearby Youngstown, Ohio).[36]
+kolbusy or kolbassi - (n.) variant pronunciation of kielbasa[40] (/kʊlˈbɒsi/)[i]
+monkey ball - (n.) fruit of the Maclura pomifera or monkey ball tree[42]
+n'at (/əˈnæt/) - et cetera; and so on; a "general extender";[6][7] literally, a contraction of "and (all) that"[43][j]
+neb - (v.) to pry into a conversation or argument intrusively or impertinently[40] (this term and its derivatives are common to Pennsylvania, but especially southwestern Pennsylvania, from Scots-Irish English)
+neb out - to mind one's own business
+neb-nose or nebby-nose (also nebshit) - (n.) the kind of person who is always poking into people's affairs;[40] inquisitive person[36]
+nebby - (adj.) given to prying into the affairs of others; nosey;[6][7][43] inquisitive[36]
+onion snow - (n.) early spring snow[36]
+redd up (also ret, rid, ridd, or redd out) - (v.) to tidy up, clean up, or clean out (a room, house, cupboard, etc.); to clean house, tidy up (hence v bl. redding up house-cleaning; tidying up)[44][45][46][k][47]
+reverend - (adj.) extreme;[36] extraordinary, powerful[39]
+slippy - (adj.) slippery (from Scots-Irish English)[6][7]
+spicket - (n.) alternate pronunciation of spigot, specifically an outdoor faucet used to connect to a garden hose[48]
+Squill - (n.) shortening of Squirrel Hill.
+Stillers - (n.) alternate pronunciation of the Pittsburgh Steelers[49]
+sweep - (v.) to vacuum
+sweeper - (n.) vacuum cleaner (also used in Ohio and Indiana; from carpet sweeper)
+tossle cap - (n.) knit hat designed to provide warmth in cold weather
+trick - (n.) a job shift (as used in West-Central Pennsylvania)[50]
+yins, yinz, yunz, you'uns, or youns - (pronoun) plural of you (second-person personal plural pronoun from Scots-Irish English)[6][7][37][51][13][52][53]
+Grammar
+[edit]
+All to mean all gone: When referring to consumable products, the word all has a secondary meaning: all gone. For example, the phrase the butter's all would be understood as "the butter is all gone." This likely derives from German.[54]
+"Positive anymore": In addition to the normal negative use of anymore it can also, as in the greater Midland U.S. dialect, be used in a positive sense to mean "these days" or "nowadays".[55][56][57] An example is "I wear these shoes a lot anymore". While in Standard English anymore must be used as a negative polarity item (NPI), some speakers in Pittsburgh and throughout the Midland area do not have this restriction.[52] This is somewhat common in both the Midland regions (Montgomery 1989) and in northern Maryland (Frederick, Hagerstown, and Westminster), likely of Scots-Irish origin.[57]
+Reversed usage of leave and let:[6][7][58] Examples of this include "Leave him go outside" and "Let the book on the table". Leave is used in some contexts in which, in standard English, let would be used; and vice versa. Used in Southwestern Pennsylvania and elsewhere, this is either Pennsylvania Dutch or Scots-Irish.[58]
+"Need, want, or like + past participle":[6][7][59] Examples of this include "The car needs washed", "The cat wants petted", and "Babies like cuddled". More common constructions are "The grass needs cutting" or "The grass needs to be cut" or "Babies like cuddling" or "Babies like to be cuddled"; "The car needs washing" or "The car needs to be washed"; and "The cat wants petting" or "The cat wants to be petted." Found predominantly in the North Midland region, this is especially common in southwestern Pennsylvania.[60][61][62] Need + past participle is the most common construction, followed by want + past participle, and then like + past participle. The forms are "implicationally related" to one another (Murray and Simon 2002). This means the existence of a less common construction from the list in a given location entails the existence of the more common ones there, but not vice versa. The constructions "like + past participle" and "need + past participle" are Scots-Irish.[60][61][63][62] While Adams argues that "want + past participle" could be from Scots-Irish or German,[58] it seems likely that this construction is Scots-Irish, as Murray and Simon claim.[61][62] like and need + past participle are Scots-Irish, the distributions of all three constructions are implicationally related, the area where they are predominantly found is most heavily influenced by Scots-Irish, and a related construction, "want + directional adverb", as in "The cat wants out", is Scots-Irish.[37][52]
+"Punctual whenever": "Whenever" is often used to mean "at the time that."[63] An example is "My mother, whenever she passed away, she had pneumonia." A punctual descriptor refers to the use of the word for "a onetime momentary event rather than in its two common uses for a recurrent event or a conditional one". This Scots-Irish usage is found in the Midlands and the South.
+Notable lifelong speakers
+[edit]
+This section needs more citations. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2025) (Learn how and when to remove this message)
+Jerry Angelo[64]
+Kurt Angle
+Tom Bradley[65]
+Steve Byrne
+Myron Cope[66] – Cope's colorful vocabulary added dozens of words to the dialect, including his most famous, "Yoi!"
+Bill Cowher[67][68]
+Mike Ditka[69][70]
+Rich Fitzgerald[71][72]
+Billy Gardell[73] – Although he grew up some of the time away from the city, Gardell sports a heavy Pittsburgh accent.
+John Kasich[74]
+Michael Keaton[75]
+Joe Manganiello
+Dan Marino
+Sophie Masloff[76][77]
+Billy Mays[78]
+Pat McAfee
+Arnold Palmer[79]
+Trent Reznor[80]
+Fred Rogers[81] – Rogers' accent is an example of the softer variation of the accent that was spoken by the middle class of the era that he grew up in.
+Art Rooney[82]
+Dan M. Rooney
+Dave Wannstedt[83][84]
+See also
+[edit]
+Jagoff
+Midland American English
+Pennsylvania Dutch English
+Philadelphia accent
+Pittsburgh Dad
+Regional vocabularies of American English
+Notes
+[edit]
+↑ In Russian, Slovak, and many other Slavic languages, the word babushka (a familial/cute extension of the word baba) means "grandmother" or (endearingly) "old woman." In Pittsburgh and much Northern U.S. English, the word also denotes a type of headscarf that might be worn by an old woman. Predominantly used in the northeast United States, babushka is most heavily in Pennsylvania, Ohio, Indiana, Illinois, Wisconsin, and Michigan. It is sometimes used as a derogatory term for an elderly woman, similar to calling someone an "old hag."[citation needed]
+↑ Kurath (1949) mentions that speakers in a large portion of Pennsylvania use the term, but that it is "very common in the Pittsburgh area[,]...[in] the adjoining counties of Ohio and on the lower Kanawha"
+↑ According to Kurath (1949), this may be heard from the western edge of the Alleghenies to beyond the Ohio line
+↑ This is heard in Southwestern Pennsylvania and Northern West Virginia. It origins are not entirely known, but rumored to have begun during the Depression Era, when people took meat scraps and fashioned a makeshift drumstick out of them.
+↑ Kurath (1949) claims these forms are used from the western edge of the Alleghenies to beyond the Ohio line; and Crozier claims that they are restricted to southwestern Pennsylvania, from Scots-Irish English origins.
+↑ Kurath 1949): This term is used from the western edge of the Alleghenies to beyond the Ohio line.
+↑ This can mean "comfort", as in "He's been in poor hap since his wife died",[31] or "comforter or quilt," as in "It was cold last night but that hap kept me warm." Hap is used for "comfort" in western Pennsylvania;[31] and a "quilt" is known as a hap only in western Pennsylvania.
+1 2 The word is often followed by off to mean (as a verb) "to annoy, irritate, play tricks on; to disparage; to reject", or (as a noun) "an annoying or irritating person;" as well as around to mean "annoy, tease, or engage in a frivolous endeavor." These phrases are probably influenced by jack off and jack around, respectively. "Jus' jaggin'" is a common expression, the same as standard "just kidding". Descended from Scots-Irish usage in English, this is chiefly a Pennsylvania term, especially southwestern Pennsylvania, but also portions of Appalachia.
+↑ The OED (1991) lists kolbasa as a variable pronunciation of kielbasa, and notes that the former pronunciation is Polish and the latter Russian.
+↑ The distribution of n'at is Southwestern Pennsylvania, possibly Scots-Irish. Macaulay (1995) finds it in the regular speech and narratives of Scottish coal miners in Glasgow, a principal area from which Scottish settlers emigrated to Northern Ireland, and from there, to the American colonies.
+↑ An example of this term is "Yinz better redd up this room". Dressman notes that it is common to the Pittsburgh area and throughout Pennsylvania, but less so in Philadelphia. It is also scattered about New England States and in New Brunswick, though its occurrence is heaviest in Pennsylvania. Hall states that its distribution is "scattered, but chiefly N. Midland, esp PA". Dressman suggested that it was brought to the U.S. by Scots. It's almost certainly of Scandinavian/Viking origin; the Danish "rydde op" means to clean up. "Redd up" and its associated variants probably entered the English language from old Norse.
+References
+[edit]
+↑ Labov, Ash & Boberg (2006), pp. 130, 133, 264.
+↑ "Do You Speak American . Sea to Shining Sea . American Varieties . Pittsburghese - PBS". PBS.
+1 2 3 4 5 6 7 8 Cassidy, F. G., ed. (1985). Dictionary of American Regional English, Vol. I: A-C. Cambridge: Harvard University Press. ISBN 978-0-674-20511-6.
+↑ Wolowyna, Oleh (January 9, 2000). "Demographic, social, cultural characteristics of persons of Ukrainian ancestry in Chicago". The Ukrainian Weekly No. 2, Vol. LXVIII. Archived from the original on September 6, 2008. Retrieved May 16, 2008. (based on 1990 US Census)
+↑ LeMay, Michael C. (December 10, 2012). Transforming America: Perspectives on U.S. Immigration [3 volumes]: Perspectives on U.S. Immigration. ABC-CLIO. ISBN 9780313396441.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 Johnstone, Barbara; Baumgardt, Dan (2004). ""Pittsburghese" Online: Vernacular Norming in Conversation". American Speech. 79 (2): 115–145. doi:10.1215/00031283-79-2-115. JSTOR 40281107. S2CID 3861413. Archived from the original on April 21, 2018. Retrieved April 20, 2018.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 Johnstone, Barbara; Bhasin, Neeta; Wittkofski, Denise (2002). ""Dahntahn" Pittsburgh: Monophthongal /aw/ and Representations of Localness in Southwestern Pennsylvania". American Speech. 77 (2): 148–166. doi:10.1215/00031283-77-2-148. JSTOR 40281028. S2CID 2783229. Archived from the original on September 22, 2017. Retrieved September 17, 2019.
+↑ Kurath, Hans (1949). A Word Geography of the Eastern United States. University of Michigan Press. ISBN 9780472085323. Retrieved October 21, 2012. {{cite book}}: ISBN / Date incompatibility (help)
+1 2 Salvucci, Claudio (1999). "Linguistic Geography of Pennsylvania". Evolution Publishing. Retrieved October 21, 2012.
+↑ Thomas, Charles (1958). An Introduction to the Phonetics of American English. Ronald Press. ISBN 9780826086303. Retrieved October 21, 2012. {{cite book}}: ISBN / Date incompatibility (help)
+↑ Labov, Ash & Boberg (2006), p. 66.
+↑ Labov, Ash & Boberg (2006), p. 123.
+1 2 Johnstone, Barbara (May 3, 2011). Place, language, and semiotic order. Urban Symbolic Landscapes conference. Helsinki.
+↑ "Questions and Answers: Who Uses Pittsburgh Speech the Most?". Pittsburgh Speech and Society. University Library System, University of Pittsburgh. Retrieved May 16, 2013.
+1 2 3 4 5 6 Gagnon, C. L. (1999). Language attitudes in Pittsburgh: 'Pittsburghese' vs. standard English. Master's thesis. Pittsburgh: University of Pittsburgh.
+1 2 Johnson (1971), pp. 71–2.
+↑ Wells (1982), p. 484.
+↑ Johnson (1971), p. 70.
+↑ Labov, Ash & Boberg (2006), pp. 88–9.
+↑ Cruttenden (2014), pp. 122, 126–128, 130.
+↑ Johnson (1971), pp. 70–2.
+↑ Johnson (1971), pp. 72–3.
+↑ Kortmann, Bernd; Schneider, Edgar W., eds. (2004). A Handbook of Varieties of English: A Multimedia Reference Tool. Vol. 1. New York: Mouton de Gruyter. pp. 407–416. doi:10.1515/9783110175325. ISBN 978-3-11-019718-1.
+↑ Hankey, Clyde T. (1965). "Miscellany: 'tiger,' 'tagger,' and [aɪ] in western Pennsylvania". American Speech. 40 (3): 226–229. doi:10.2307/454074. JSTOR 454074.
+1 2 Johnson (1971), p. 72.
+↑ Duncan (2016), pp. 1–2.
+1 2 Brown (1982).
+↑ Labov, Ash & Boberg (2006), p. 72.
+↑ Hankey, Clyde T. (1972). Notes on west Penn-Ohio phonology. In: Studies in Linguistics in Honor of Raven I. McDavid, Jr., ed. by L.M. Davis. University of Alabama Press. pp. 49–61. ISBN 978-0-8173-0010-4.
+1 2 3 4 5 Fasold, Ralph W. (1980). "The conversational function of Pennsylvania Dutch intonation". Paper Presented at New Ways of Analyzing Variation (NWAVE IX) at the University of Michigan, Ann Arbor, MI.
+1 2 3 Maxfield (1931).
+↑ Layton (1999).
+1 2 Wisnosky (2003).
+1 2 3 4 Johnstone, Andrus & Danielson (2006).
+↑ "Something different, Something delicious: City Chicken", Pittsburgh Post-Gazette, p. 4, November 2, 1932, retrieved September 16, 2016
+1 2 3 4 5 6 7 8 9 Johnstone, Barbara (2013). Speaking Pittsburghese: The Story of a Dialect. Oxford University Press. ISBN 978-0-199-94568-9.
+1 2 3 4 Crozier, Alan (1984). "The Scotch-Irish influence on American English". American Speech. 59 (4): 310–331. doi:10.2307/454783. JSTOR 454783.
+1 2 3 Cassidy, F. G. and. J.H. Hall., Eds. (1991). Dictionary of American Regional English, Vol. II: D-H. Cambridge: Harvard University Press. ISBN 978-0-674-20512-3.{{cite book}}: CS1 maint: multiple names: authors list (link)
+1 2 Johnstone, Barbara (2015). Pittsburgh Speech and Pittsburghese. Walter de Gruyter GmbH. ISBN 978-1-614-51178-6.
+1 2 3 4 5 6 7 Cassidy, F. G. and J. H. Hall, Eds. (1996). Dictionary of American Regional English, Volume III: I-O. Cambridge: Harvard University Press. ISBN 978-0-674-20519-2.{{cite book}}: CS1 maint: multiple names: authors list (link)
+↑ Freeman, Jan. "The jimmies story". Boston.com.
+↑ Parker, Jeanie (September 2, 2000). "Gardening: The fruit of the Osage orange tree has many odd reputed uses". Pittsburgh Post-Gazette. PG Publishing. Archived from the original on October 5, 2014. Retrieved February 26, 2014.
+1 2 McElhinny 1999; Wisnosky 2003; Johnstone, Andrus and Danielson 2006
+↑ Hall, J. H., ed. (2002). Dictionary of American Regional English, Volume IV: P-Sk. Cambridge: Harvard University Press. ISBN 978-0-674-00884-7.
+↑ Dressman, Michael R. (1979). "Redd up". American Speech. 54 (2): 141–145. doi:10.2307/455213. JSTOR 455213.
+↑ Also see McElhinny (1999); Johnstone, Andrus and Danielson (2006).
+↑ Editors of the American Heritage Dictionaries (2006). The American Heritage Dictionary of the English Language (Fourth ed.). Houghton Mifflin Harcourt. ISBN 978-0-618-70173-5. Retrieved October 26, 2012.
+↑ "Definition of SPICKET". www.merriam-webster.com.
+↑ "Yinzer Basics: Pittsburghese for Beginners". March 21, 2012.
+↑ "Yunzonics: Translating Pennsylvanian". tomtwine.com. Thomas H. Twine. Archived from the original on September 23, 2009. Retrieved April 19, 2022.
+↑ McElhinny 1999; Wisnosky 2003; Johnstone, Andrus and Danielson 2006: Used Southwestern Pennsylvania and elsewhere in Appalachia, yinz is a particularly salient feature of Pittsburgh speech
+1 2 3 Robert P. Marzec (December 30, 2004). The Mid-Atlantic Region. Greenwood Publishing Group. p. 271. ISBN 978-0-313-32954-8. Retrieved November 1, 2012.
+↑ Montgomery 2001
+↑ Metcalf, Allan (2000). How We Talk: American Regional English Today. Houghton Mifflin Harcourt. p. 92. ISBN 978-0-618-04362-0. Retrieved October 26, 2012.
+↑ Montgomery (1989).
+↑ McElhinny (1999).
+1 2 Montgomery (1999). sfnp error: no target: CITEREFMontgomery1999 (help)
+1 2 3 Adams, Michael (2003). "Lexical Doppelgängers". Journal of English Linguistics. 28 (3): 295–310. doi:10.1177/00754240022005054. S2CID 220752970.
+↑ Still, Brian (October 15, 2010). Usability of Complex Information Systems: Evaluation of User Interaction. CRC Press. p. 57. ISBN 978-1-4398-2894-6. Retrieved November 1, 2012.
+1 2 Murray, Frazer & Simon (1996).
+1 2 3 Murray & Simon (1999).
+1 2 3 Murray & Simon (2002).
+1 2 Montgomery (2001).
+↑ "Eyes wide open". Chicago Tribune. July 4, 2001. Retrieved December 11, 2025.
+↑ Gemmell, Kevin (April 9, 2015). "Tom Bradley, UCLA Bruins an interesting pairing". ESPN.com. Los Angeles. Retrieved December 4, 2025.
+↑ Hundt, Brad (November 22, 2024). "Myron Cope recalled in a new biography co-written by Mt. Lebanon native". Observer–Reporter. Retrieved March 24, 2025. with a Pittsburgh accent as thick as a bowlful of pierogies
+↑ Best, Neil (November 11, 2017). "Former Steelers coach Bill Cowher has become a NY kind of guy". Newsday. Retrieved May 20, 2025.
+↑ Kaminski, Matthew (January 31, 2009). "The Coach's Keys to the Game". The Wall Street Journal. Raleigh, N.C.: Dow Jones & Company. Retrieved May 20, 2025. he says in his thick Pittsburgh accent
+↑ Greenberg, Jon (September 4, 2019). "Chicago is still full of Grabowskis, but only one roots for the Bears and the Packers". The Athletic. Retrieved August 23, 2025.
+↑ Bernstein, Dan (July 27, 2013). "Bernstein: Trestman A Puzzle". CBS Chicago. Retrieved December 11, 2025.
+↑ Deto, Ryan (January 22, 2021). "How Ted Cruz helped Rich Fitzgerald become Yinzer Jeff Daniels". Pittsburgh City Paper. Retrieved May 30, 2025.
+↑ Rouvalis, Cristina (December 26, 2022). "Our Pittsburgher of the Year: Rich Fitzgerald". Pittsburgh Magazine. Retrieved May 30, 2025.
+↑ Loeffler, William (July 21, 2010). "Performing back home no joke for Billy Gardell". TribLIVE. Trib Total Media. Retrieved April 16, 2025.
+↑ Dent, Charlie (April 25, 2016). "Congressman Charlie Dent Throws Support Behind John Kasich". Here & Now (Interview). Interviewed by Hobson, Jeremy. Boston, Massachusetts: WBUR. Retrieved April 16, 2025.
+↑ Simon, Ed (May 15, 2024). "The Yinzers of Glasgow: On the Scottish Origins of Pittsburgh's Unique Dialect". Literary Hub. Grove Atlantic. Retrieved May 21, 2025.
+↑ McClelland, Edward (May 1, 2018). "From the Daleys to Rahm Emanuel: Whatever happened to Chicago pols with authentic Chicago accents?". Belt Magazine. Belt Media Collaborative. Retrieved May 29, 2025.
+↑ Kloman, Harry (February 1992). "The Truth and Consequences of Pittsburghese: How you say Downtown can affect your career" (PDF). Pittsburgh Magazine. pp. 40–43. Retrieved June 3, 2025. When the world hears Sophie Masloff, ... they know something about her, at least they think they do, from her accent. It tells where she's from. ... It does have a very provincial sound or feel to it.
+↑ Kalson, Sally (April 28, 2009). "McKees Rocks' Billy Mays has a 'pahrful' career as a pitchman". Pittsburgh Post-Gazette. Block Communications. Retrieved April 16, 2025.
+↑ Sirak, Ron (October 6, 2016). "Goodbye to the King: Arnold Palmer Goes Home One Last Time" (PDF). Retrieved April 17, 2025.
+↑ Diamond, Jason (May 4, 2011). "Conversation: Talking Nine Inch Nails with Daphne Carr". Vol. 1 Brooklyn. Retrieved May 21, 2025.
+↑ "'MR. ROGERS' MAKES LONGEVITY LOOK LIKE KIDS' STUFF". Chicago Tribune. Tribune Publishing. February 21, 1993. Retrieved April 16, 2025.
+↑ Carney, Josh (July 23, 2024). "'That's Just Who He Was': Former Punter Craig Colquitt Recalls Touching Moment With Art Rooney Sr." Steelers Depot. Retrieved May 21, 2025.
+↑ DeBlasio, Dave (December 7, 2010). "Dave Wannstedt Resigns: Pitt Football's Lunatic Fringe Gets Its Wish". Bleacher Report. Archived from the original on December 16, 2010. Retrieved July 2, 2026.
+↑ Carter, James; Meyer, Ari (October 30, 2024). "Hinson to Holstein: Sports desk's 2024 Halloween costume guide". The Pitt News. Archived from the original on November 1, 2024. Retrieved July 2, 2026.
+Bibliography
+[edit]
+Brown, C. (1982). A search for sound change: A look at the lowering of tense vowels before liquids in the Pittsburgh area (MA thesis). Pittsburgh: University of Pittsburgh.
+Cruttenden, Alan (2014). Gimson's Pronunciation of English (8th ed.). Routledge. ISBN 9781444183092.
+Duncan, Daniel (2016). Hansson, Gunnar Ólafur; Farris-Trimble, Ashley; McMullin, Kevin; Pulleyblank, Douglas (eds.). "'Tense' /æ/ Is still lax: A phonotactics study". Proceedings of the Annual Meetings on Phonology. 3. Washington, D.C.: Linguistic Society of America. doi:10.3765/amp.v3i0.3653.
+Johnson, Bruce Lee (1971), "The Western Pennsylvania dialect of American English", Journal of the International Phonetic Association, 1 (2): 69–73, doi:10.1017/S0025100300000268, JSTOR 44526647, S2CID 146649800
+Johnstone, B.; Andrus, J.; Danielson, A. (2006). "Mobility, indexicality, and the enregisterment of "Pittsburghese"". Journal of English Linguistics. 34 (2): 77–104. doi:10.1177/0075424206290692. S2CID 3851451.
+Labov, William; Ash, Sharon; Boberg, Charles (2006), The Atlas of North American English, Berlin: Mouton-de Gruyter, pp. 187–208, ISBN 978-3-11-016746-7
+Layton, N. N. (1999). The dialect of western Pennsylvania: evaluation of ten sounds (MA thesis). Gothenburg, Sweden: University of Gothenburg.
+Maxfield, E. K. (1931). "The speech of south-western Pennsylvania". American Speech. 7 (1): 18–20. doi:10.2307/451308. JSTOR 451308.
+McElhinny, B (1999). "More on the third dialect of English: linguistic constraints on the use of three phonological variables in Pittsburgh". Language Variation and Change. 11 (2): 171–195. doi:10.1017/s0954394599112031. S2CID 145656857.
+Montgomery, M. B. (1989). "Exploring the roots of Appalachian English". English World-Wide. 10 (2): 227–278. doi:10.1075/eww.10.2.03mon.
+Montgomery, M. B. (2001). "'My mother, whenever she died, she had pneumonia': The history and functions of whenever". Journal of English Linguistics. 29 (3): 234–249. doi:10.1177/00754240122005350. S2CID 143776545.
+Murray, T. E.; Frazer, T. C.; Simon, B. L. (1996). "Need + past participle in American English". American Speech. 71 (3): 255–271. doi:10.2307/455549. JSTOR 455549.
+Murray, T. E.; Simon, B. L. (1999). "Want + past participle in American English". American Speech. 74 (2): 140–164. JSTOR 455576.
+Murray, T. E.; Simon, B. L. (2002). "At the intersection of regional and social dialects: the case of like + past participle in American English". American Speech. 77 (1): 32–69. doi:10.1215/00031283-77-1-32. S2CID 143892781.
+Wells, John C. (1982). Accents of English. Vol. 3: Beyond the British Isles (pp. i–xx, 467–674). Cambridge University Press. doi:10.1017/CBO9780511611766. ISBN 0-52128541-0 .
+Wisnosky, M. (2003). 'Pittsburghese' in Pittsburgh humor (MA thesis). Pittsburgh: University of Pittsburgh.
+Further reading
+[edit]
+Blackley, Katie (September 28, 2017). "Redd Up Your Pittsburghese: A Deep Dive Into How Yinz Talk". WESA-FM. Retrieved November 22, 2021.
+Heinz History Center staff (2015). Pittsburghese from Ahrn to Yinz. Senator John Heinz History Center. ISBN 978-0936340210.
+Kurath, Hans (1949). "Western Pennsylvania". A Word Geography of the Eastern United States. Ann Arbor: University of Michigan Press. pp. 35–36. LCCN 49050233.
+Kurath, Hans; McDavid, Raven I. Jr. (1961). "Western Pennsylvania". The pronunciation of English in the Atlantic United States. Ann Arbor: University of Michigan Press. pp. 17–18. LCCN 60005671.
+Labov, William; Ash, Sharon; Boberg, Charles (2005). The atlas of North American English: phonetics, phonology, and sound change. Mouton de Gruyter. doi:10.1515/9783110167467. ISBN 9783110167467.
+Macauley, Ronald K. S. (1985). "The narrative skills of a Scottish coal miner". In Gorlach, Manfred (ed.). Focus on: Scotland. Varieties of English Around the World. Philadelphia: John Benjamins. pp. 101–124. doi:10.1075/veaw.g5.08mac. ISBN 978-90-272-4863-3.
+Montgomery, Michael B. (1997). "A tale of two Georges: the language of Irish Indian traders in colonial North America". In Kallen, J. (ed.). Focus on: Ireland. Philadelphia: John Benjamins. pp. 227–254. doi:10.1075/veaw.g21.15mon.
+Montgomery, Michael B. (2002). "The structural history of y'all, you all, and you'uns". Southern Journal of Linguistics. 26: 19–27. ProQuest 2152905187.
+Newlin, Claude M. (1928). "Dialects on the western Pennsylvania frontier". American Speech. 4 (2): 104–110. doi:10.2307/452864. JSTOR 452864.
+Shields, Kenneth Jr. (1985). "Germanisms in Pennsylvania English: an update". American Speech. 60 (3): 228–237. doi:10.2307/454887. JSTOR 454887.
+Simpson, J. A.; Weiner, E. S. C. (1991). Compact Oxford English Dictionary (2nd ed.). Oxford University Press.
+Tenny, Carol (1998). "Psych verbs and verbal passives in Pittsburghese" (PDF). Linguistics. 36: 591–597.
+Thomas, E. (2001). An acoustic analysis of vowel variation in New World English. Durham, NC: Duke University Press. ISBN 0822364948.
+External links
+[edit]
+Pittsburgh Speech & Society, University of Pittsburgh
+"It's Not the Sights, It's the Sounds", New York Times article, March 17, 2006 /9"Pittsburgh is the Galapagos Islands of American dialect")
+"American Varieties: Steel Town Speak", part of PBS's Do You Speak American?
+Pittsburghese: Welcome!, Duquesne University
+Pittsburghese.com
+v
+t
+e
+City of Pittsburgh
+Government
+Airport
+Convention Center
+City Council
+City Hall
+Courthouse
+District Attorney
+Education
+Events
+Fire
+InterGov
+Libraries
+Mayor
+Parks
+Police
+Port
+Regional
+Sheriff
+Transit
+Water
+Economy
+Allegheny Conference
+Duquesne Club
+Chamber of Commerce
+Corporations
+Economic Club
+HYP Club
+Stock Exchange
+Other topics
+Colleges and universities
+Culture
+cookie table
+theatre
+Green Man
+Pittsburgh Parking Chair
+Picklesburgh
+Pittsburgh steak
+Dialect
+Jagoff
+Yinzer
+Flag
+Fictional settings
+Filming
+films
+television
+History
+name
+timeline
+Jewish history
+2018 synagogue shooting
+Pittsburgh toilet
+Hospitals
+Media
+Museums
+Neighborhoods
+Nicknames
+Notable Pittsburghers
+Region
+combined statistical area
+Skyscrapers
+Sports
+Transportation
+Category
+v
+t
+e
+Yinz
+Yinz (Pittsburgh English)
+Yinzer
+The New Yinzer
+YinzCam
+Yappin' Yinzers
+Commons category
+v
+t
+e
+Languages of Pennsylvania
+Italics indicate extinct languages
+Indigenous language
+Algic
+Munsee
+Unami
+Iroquoian
+Erie
+Susquehannock
+Immigrant languages
+English
+African American
+Appalachian
+Central Pennsylvania
+Inland Northern American
+Northeast Pennsylvania
+Pennsylvania Dutch English
+Philadelphia
+Pittsburgh
+Pennsylvania Dutch
+Spanish
+Italian
+Sign languages
+American Sign Language
+Category
+v
+t
+e
+Languages of the United States
+Languages in italics are extinct.
+English
+Dialects of American English
+African-American English
+Ebonics
+Affrilachian
+Black Brogue
+American Indian English
+Appalachian English
+Baltimore English
+Boston English
+Cajun English
+California English
+Chicano English
+General American English
+Good American Speech
+High Tider English
+Inland Northern American English
+Miami English
+Cubonics
+Maine English
+Midland American English
+New England Englishes
+Eastern
+Western
+New Mexican Englishes
+New Orleans English
+New York City English
+New York Latino English
+Northeastern elite accent
+Northern American English
+North-Central American / Upper Midwestern English
+Pacific Northwest English
+Philadelphia English
+Puerto Rican Englishes
+Southern American English
+Older
+Texan English
+Upper Michigan English
+Utah Mormon English
+Western American English
+Western Pennsylvania English
+Yeshiva English
+Oral Indigenous
+languages
+Families
+Algic
+Western Abenaki
+Arapaho
+Blackfoot
+Cheyenne
+Cree
+Fox
+Maliseet-Passamaquoddy
+Massachusett
+Menominee
+Mi'kmaq
+Munsee
+Ojibwe
+Potawatomi
+Shawnee
+Yurok
+Eastern Abenaki
+Etchemin
+Gros Ventre
+Loup
+Mahican
+Miami-Illinois
+Mohegan-Pequot
+Nanticoke
+Narragansett
+Nawathinehena
+Pamlico
+Powhatan
+Quiripi
+Unami
+Wiyot
+Arawakan
+Taíno
+Austronesian
+Chamorro
+Hawaiian
+Refaluwasch
+Samoan
+Tokelauan
+Caddoan
+Arikara
+Pawnee
+Caddo
+Kitsai
+Wichita
+Chinookan
+Kathlamet
+Tsinúk
+Upper Chinook
+Comecrudan
+Comecrudo
+Garza
+Mamulique
+Chumashan
+Barbareño
+Cruzeño
+Ineseño
+Obispeño
+Purisimeño
+Ventureño
+Na–Dené
+Ahtna
+Deg Xinag
+Dena'ina
+Gwich’in
+Hän
+Jicarilla
+Koyukon
+Lower Tanana
+Mescalero-Chiricahua
+Navajo
+Tanacross
+Upper Kuskokwim
+Upper Tanana
+Western Apache
+Cahto
+Eyak
+Holikachuk
+Hupa
+Kwalhioqua-Clatskanie
+Lipan
+Mattole
+Plains Apache
+Tolowa
+Tsetsaut
+Tututni
+Upper Umpqua
+Wailaki
+Eskaleut
+Inuit
+Iñupiaq
+Aleut
+Alutiiq
+Central Alaskan Yup'ik
+Central Siberian Yupik
+Chevak Cup’ik
+Iroquoian
+Cayuga
+Cherokee
+Mohawk
+Oneida
+Onondaga
+Seneca
+Erie
+Neutral Huron
+Nottoway
+Susquehannock
+Tuscarora
+Wyandot
+Wenrohronon
+Kalapuyan
+Central Kalapuya
+Northern Kalapuya
+Yoncalla
+Keresan
+Eastern
+Western
+Maiduan
+Konkow
+Chico
+Maidu
+Nisenan
+Muskogean
+Alabama
+Chickasaw
+Choctaw
+Koasati
+Mikasuki
+Muscogee
+Apalachee
+Houma
+Palaihnihan
+Achumawi
+Atsugewi
+Plateau Penutian
+Nez Perce
+Sahaptin
+Klamath
+Molala
+Pomoan
+Kashaya
+Southeastern Pomo
+Central Pomo
+Eastern Pomo
+Northeastern Pomo
+Northern Pomo
+Southern Pomo
+Salishan
+Coeur d'Alene
+Halkomelem
+North Straits Salish
+Okanagan
+Salish
+Thompson
+Columbia-Moses
+Cowlitz
+Klallam
+Lower Chehalis
+Lushootseed
+Nooksack
+Quinault
+Tillamook
+Twana
+Upper Chehalis
+Siouan-Catawban
+Assiniboine
+Crow
+Dakota
+Hidatsa
+Ho-Chunk
+Lakota
+Omaha–Ponca
+Stoney
+Biloxi
+Catawba
+Chiwere
+Kansa
+Mandan
+Mitchigamea
+Moneton
+Ofo
+Osage
+Quapaw
+Tutelo-Saponi
+Woccon
+Tanoan
+Jemez
+Kiowa
+Picuris
+Southern Tiwa
+Taos
+Tewa
+Piro Pueblo
+Tsimshianic
+Coast Tsimshian
+Utian
+Central Sierra Miwok
+Southern Sierra Miwok
+Bay Miwok
+Coast Miwok
+Lake Miwok
+Northern Sierra Miwok
+Plains Miwok
+Awaswas
+Chalon
+Chochenyo
+Karkin
+Mutsun
+Ramaytush
+Rumsen
+Tamyen
+Uto-Aztecan
+Comanche
+Ivilyuat
+Hopi
+Kawaiisu
+Mono
+Northern Paiute
+O'odham
+Shoshoni
+Timbisha
+Ute-Chemehuevi
+Yaqui
+Cupeño
+Kitanemuk
+Luiseño
+Serrano
+Tongva
+Tübatulabal
+Wakashan
+Makah
+Wintuan
+Patwin
+Nomlaki
+Wintu
+Yokuts
+Valley Yokuts
+Buena Vista Yokuts
+Gashowu Yokuts
+Kings River Yokuts
+Palewyami
+Tule-Kaweah Yokuts
+Yuman–
+Cochimí
+Cocopah
+Halchidhoma
+Havasupai–Hualapai
+Ipai
+Kumeyaay
+Maricopa
+Mojave
+Quechan
+Tiipai
+Yavapai
+Isolates
+Alsea
+Atakapa
+Chimariko
+Chitimacha
+Coahuilteco
+Cotoname
+Esselen
+Natchez
+Salinan
+Siuslaw
+Taensa
+Takelma
+Timucua–Tawasa
+Tonkawa
+Tunica
+Yana
+Yuchi
+Haida
+Karuk
+Kutenai
+Washo
+Zuni
+Others
+Mixed or trade
+Languages
+Afro-Seminole Creole
+Chinook Jargon
+Michif
+Mohawk Dutch
+Mobilian Jargon
+Manual Indigenous
+languages
+Hand Talk
+Anishinaabe Sign Language
+Blackfoot Sign Language
+Cheyenne Sign Language
+Cree Sign Language
+Navajo Sign Language
+Plateau Sign Language
+Ktunaxa Sign Language
+Isolates
+Hawai'i Sign Language
+Creole Hawai'i Sign Language
+Inuit Sign Language
+Keresan Pueblo
+Navajo Family Sign Language
+Orocovis Sign Language
+Oral settler
+languages
+French
+Louisiana
+Métis
+Illinois Country
+Muskrat
+New England
+New Hampshire
+German
+Pennsylvania Dutch
+Hutterite
+Plautdietsch
+Bernese
+Alsatian
+Texas
+Spanish
+Californian
+Caló (Chicano)
+Isleño
+New Mexican
+Puerto Rican
+Sabine River
+Creole and
+mixed languages
+Gullah
+Louisiana Creole
+Spanglish
+Franglais
+Hebronics
+Angloromani
+Hawaiian Pidgin
+Negerhollands
+Siculish
+Virgin Islands Creole
+Others
+American Finnish
+American Norwegian
+Jersey Dutch
+Negerduits
+Alaskan Russian
+Texan Silesian
+Wisconsin Walloon
+Taishanese
+Manual settler
+languages
+Francosign
+American Sign Language
+Black American Sign Language
+Protactile
+Puerto Rican Sign Language
+BANZSL
+Samoan Sign Language
+Kentish
+Martha's Vineyard Sign Language
+Isolates
+Sandy River Valley Sign Language
+Henniker Sign Language
+Immigrant languages
+(number of speakers
+in 2021 in millions)
+Spanish (41.3)
+Chinese (3.4)
+Tagalog (1.7)
+Vietnamese (1.5)
+Arabic (1.4)
+Hindustani (1.4)
+Hindi (0.9) + Urdu (0.5)
+French (1.2)
+Korean (1.1)
+Russian (1.0)
+Portuguese (0.9)
+Haitian (0.9)
+German (0.9)
+Polish (0.5)
+Italian (0.5)
+Persian (0.5)
+Telugu (0.5)
+Japanese (0.5)
+Gujarati (0.4)
+Bengali (0.4)
+Tamil (0.3)
+Punjabi (0.3)
+Serbo-Croatian (0.3)
+Armenian (0.3)
+Greek (0.3)
+Hmong (0.2)
+Hebrew (0.2)
+Khmer (0.2)
+topics
+Language Spoken at Home
+v
+t
+e
+Dialects and accents of Modern English by continent
+Europe
+Great
+Britain
+England
+North
+Cheshire
+Cumbria
+Barrow
+Lancashire
+Liverpool/Scouse
+Manchester
+Northumbria
+Pitmatic
+Sunderland
+Tyneside/Geordie
+Teesside
+Yorkshire
+Midlands
+East Midlands
+West Midlands
+Birmingham
+Black Country
+Stoke-on-Trent
+South
+East Anglia
+Norfolk
+London & Thames Estuary
+Cockney
+Multicultural
+Received Pronunciation
+West Country
+Bristol
+Cornwall
+Dorset
+Scotland
+Glasgow
+Highlands
+Wales
+Abercraf
+Cardiff
+Gower
+Port Talbot
+European
+Union
+Ireland
+Dublin
+South-West
+Ulster/North
+Euro English
+Channel Islands
+Gibraltar
+Isle of Man
+Malta
+Americas
+North
+America
+Canada
+Aboriginal
+Atlantic
+Lunenburg
+Newfoundland
+Multicultural Toronto
+Ottawa Valley
+Quebec
+Standard Canadian
+United
+States
+Midland
+New England
+Boston
+East
+Maine
+West
+New York City
+accent
+North
+Inland North
+North-Central
+Philadelphia
+Baltimore
+South
+accent
+Appalachia
+Chesapeake/Outer Banks
+New Orleans
+Older South
+Texas
+West
+California
+Pacific Northwest
+Western Pennsylvania
+Social and
+ethno-cultural
+African-American
+vernacular
+American Indian
+Cajun
+Chicano
+General American
+Good American Speech
+Miami Latino
+New York Latino
+Northeastern elite
+Pennsylvania Dutch
+Caribbean
+Antigua and Barbuda
+The Bahamas
+Barbados
+Bequia
+Cayman Islands
+Bay Islands
+Guyanese English
+Jamaica
+Saba
+Samaná
+Trinidad and Tobago
+Bermuda
+Falkland Islands
+Oceania
+Australia
+variation
+accent
+Aboriginal
+Cultivated
+South
+Torres Strait
+West
+Fiji
+New Zealand
+accent
+Palau
+Solomon Islands
+Africa
+Cameroon
+The Gambia
+Ghana
+Kenya
+Liberia
+Malawi
+Namibia
+Nigeria
+Rwanda
+Sierra Leone
+South Africa
+accent
+Cape Flats
+South Atlantic
+Uganda
+Zimbabwe
+Asia
+East Asia
+Hong Kong
+South Asia
+Bangladesh
+India
+regional and occupational
+Maldives
+Nepal
+Pakistan
+Sri Lanka
+Southeast Asia
+Brunei
+Cambodia
+Malaysia
+Myanmar
+Philippines
+Singapore
+Thailand
+Antarctica
+Antarctica
+Related
+English language
+Basic
+Broad and general accents
+Commonwealth
+Comparison of American and British English
+E-Prime
+Engrish
+English as a lingua franca
+English-based creole languages
+Englishisation
+Globish
+Gogate
+Nerrière
+International
+Jewish English (Yeshiva English)
+Learning
+Linguistic purism in English
+List of English-based pidgins
+Non-native pronunciations of English
+Plain
+Queen's Latin
+Standard
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Western_Pennsylvania_English&oldid=1374449480"
+Categories:
+American English
+American slang
+City colloquials
+Culture of Pittsburgh
+Scotch-Irish American culture in Pennsylvania
+Working-class culture in Pennsylvania
+Languages of Pennsylvania
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Use American English from June 2026
+All Wikipedia articles written in American English
+Use mdy dates from June 2026
+Language articles without speaker estimate
+Dialects of languages with ISO 639-3 code
+Languages without ISO 639-3 code but with Glottolog code
+Articles with unnamed Glottolog code
+Pages with plain IPA
+CS1 errors: ISBN date
+All articles with unsourced statements
+Articles with unsourced statements from July 2024
+Articles with unsourced statements from April 2011
+CS1 maint: multiple names: authors list
+Articles containing explicitly cited English-language text
+CS1: unfit URL
+Harv and Sfn no-target errors
+Articles needing additional references from March 2025
+All articles needing additional references
+Search
+Search
+Western Pennsylvania English
+Add languages   Add topic

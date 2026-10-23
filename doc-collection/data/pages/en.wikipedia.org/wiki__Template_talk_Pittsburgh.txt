@@ -1,0 +1,144 @@
+URL: https://en.wikipedia.org/wiki/Template_talk:Pittsburgh
+
+Template talk:Pittsburgh - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Latest comment: 7 years ago by Frietjes in topic Ridiculously large
+This template does not require a rating on Wikipedia's content assessment scale.
+It is of interest to the following WikiProjects:
+Pennsylvania
+Pennsylvania portal
+This template is within the scope of WikiProject Pennsylvania, a collaborative effort to improve the coverage of Pennsylvania on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.PennsylvaniaWikipedia:WikiProject PennsylvaniaTemplate:WikiProject PennsylvaniaPennsylvania
+Pittsburgh
+This template is within the scope of WikiProject Pittsburgh, a collaborative effort to improve the coverage of Pittsburgh and its metropolitan area on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.PittsburghWikipedia:WikiProject PittsburghTemplate:WikiProject PittsburghPittsburgh
+Cities
+Cities portal
+This template is within the scope of WikiProject Cities, a collaborative effort to improve the coverage of cities, towns and various other settlements on Wikipedia. If you would like to participate, please visit the project page, where you can join the discussion and see a list of open tasks.CitiesWikipedia:WikiProject CitiesTemplate:WikiProject CitiesWikiProject Cities
+Blue??? Can't we have black and gold?
+[edit]
+Latest comment: 15 years ago18 comments6 people in discussion
+I suspect this is some Wiki standard to make every municipal thing blue, ok only problem is many articles such as KDKA (Pittsburgh broadcasters box, CBS Owned stations box, CBS affilates box), University of Pittsburgh (Big East box, AAU box) are also blue, in fact the zoo, inclines, parks, museums, stadiums all have 3-8 blue boxes at the bottom, couldnt we have the city in it's official colors of blk and gold? Marketdiamond (talk) 07:59, 27 April 2011 (UTC)Reply
+I believe the idea is to try to make more of them use coloring specified by MediaWiki:Common.css. It's not so much about blue, purple, or whatever, but having sufficient color contrast for the visually impaired, and to follow guidelines in WP:Deviations. If there were a black/gold theme in MediaWiki:Common.css, we could probably use that, since those with visual impairment could override those with a custom Special:MyPage/skin.css. We could also add a "Pittsburgh" class statement to this template, which would allow you to view it in black and gold. Thanks! Plastikspork ―Œ(talk) 13:07, 27 April 2011 (UTC)Reply
+Thanks for the quick reply, so what I'm hearing is pick from the combinations given at MediaWiki and possibly build consensus to a degree if we are to propose a new color combo? Also I see the logic for the visually impaired that is an excellent point. Marketdiamond (talk) 23:18, 27 April 2011 (UTC)Reply
+There is a contrast ratio calculator which is a useful tool for helping resolve issues regarding readability of text based on color presentations. Gold on black gives a 19.6 : 1 ratio. The W3 consortium's standards on contrast suggests a minimum of 7:1. There is no reason, policy, or guideline to not have a black and gold themed Pittsburgh navbar. CrazyPaco (talk) 02:06, 11 May 2011 (UTC)Reply
+Just WP:Deviations, which includes a list of reasons. Thanks! Plastikspork ―Œ(talk) 02:43, 11 May 2011 (UTC)Reply
+That is a guideline, not a policy, which is mostly devoted to using wikimarkup, and specifically states "deviations from standard conventions are acceptable where they create a semantic distinction", which has long been the norm on Wikipedia, including in navboxes. There is no city in the world more identifiable with its official colors than Pittsburgh, and the navbox should reflect those colors. CrazyPaco (talk) 03:06, 11 May 2011 (UTC)Reply
+For any other city type category I would defer to anything that would make more sense for visually impaired with just blue, however as CrazyPaco was kind enough to describe, for anyone that has done any amount of research on the Pittsburgh region and especially the city itself, the colors of "black and gold" are tied more closely to it's identity then any other city I have known or traveled to (and I was a local government major in college). I could rattle off my everything from fire hydrants to police cars to for a time fire engines to dozens of sports teams but I think leaving my first statement out there to be challenged is sufficient. If there is a metro and city more tied to a set of colors as a true scholar and devotee of local governance I would be most fascinated to learn of that locale. Marketdiamond (talk) 04:08, 11 May 2011 (UTC)Reply
+FYI, yellow is not gold. I changed it. Frietjes (talk) 17:44, 11 May 2011 (UTC)Reply
+FYI, white isn't gold either, what happened to the header color, we aren't Chisox fans or Estonians. I am eternally grateful for editors who excel in certain fields such as wikipolicies however it seems the only editors willing to discuss things before deletion are the ones who are well versed that yellow is indeed gold in several counties in Western Pennsylvania, nevermind it being referred to as "gold" in other situations. I will fight the temptation to delete the most recent header changes for 48 hours and give people a chance to add their thoughts. I would vote for the current Frietjes color scheme however keep CrazyPaco's header color for "Pittsburgh" as well as the "Portal" and "Book" possibly, or just revert to CrazyPacos. Until the NFL tells the Steelers they wear yellow and not "Aztec Gold", I will still spell catsup with a K and end burg with an "H". If you are asking yourself what football, Ketchup and H's have to do with the Pittsburgh infobox you may need to work on your bona fides before unilaterally deleting from it without any discussion, submitted respectfully. Marketdiamond (talk) 20:22, 11 May 2011 (UTC)Reply
+The color gold that I selected is identical to the gold in the flag, so I would say that is the "gold" we want here. If by header you mean the "titlestyle", then I would suggest not adding "gold" to it. The problem is that the gold used by the various sports teams in the city are all slightly off from one another, and it will simply clash if we try to select one. White on black has excellent contrast. As I am sure you have noticed, we had no black background in this template as of less than a month ago. Frietjes (talk) 21:33, 11 May 2011 (UTC)Reply
+I'm just one vote (and I do live by my own advice of not deleting until discussing some), overall I would vote for the current color scheme below the titlestyle but as most articles only see the titlestyle white and black in it doesn't quite represent a city that paints its fire hydrants and police cars black and gold not to mention every pro major sport team. What shade or style of gold is up for debate, but as far as my vote CrazyPaco's titlestyle I did think best represented the city. Contrast is very important but we aren't discussing the infobox for Estonia or the Whitesox. Kudos for the black background, however the text provided the black in months prior. I would as an aside say I appreciate all the attention focused on the color scheme since the coding and wikipolicies on this aren't my strong point as much as the regions history and factoids, and I welcome the help and clarity. Bottom line the titlestyle is alone what appears on most articles unless a user clicks to open, the Whitesox and Estonia articles would not add yellow or gold to their titlestyle we really shouldn't add white to Pittsburgh's. Marketdiamond (talk) 03:22, 12 May 2011 (UTC)Reply
+If you want to add some gold, you could add a gold border to the title. I added this before, and then noticed it was clashing with the minor variations in gold to yellow in all the other Pittsburgh sports related boxes. Frietjes (talk) 17:06, 12 May 2011 (UTC)Reply
+I like the yellow/black color scheme. We sometimes use white and red on Polish templates. Although I'd be happy to look at MoS sections, if anybody can point me to relevant one(s). --Piotr Konieczny aka Prokonsul Piotrus| talk  21:12, 12 May 2011 (UTC)Reply
+I believe the MOS section is in Wikipedia:Manual of Style (accessibility). I have no problem with adding gold to the header, I just find the variations an eyesore. Please don't go back to yellow, since the flag is not yellow. Frietjes (talk) 21:50, 12 May 2011 (UTC)Reply
+As long as it resembles gold-yellow-mustard-blonde etc. I'd be content with changing the text color in the header. Not sure about the border but if its done tastefully sure, the text being similar to the flag gold would be a must for me. Marketdiamond (talk) 22:53, 12 May 2011 (UTC)Reply
+Since the navbox is auto-collapsed, I feel that the titlebar, which is what is displayed on the majority of pages the navbox is embedded in, should be in some combination of black and gold, regardless of the particular hugh of gold that is ultimately chosen. Black and white, IMO, is unacceptable as it is unrepresentative of Pittsburgh, which is the primary purpose of adding color. I have no strong attachment to particular gold hues (Flag gold vs Steeler Yellow) or the particular style of the group headings in the uncolllapsed navbox. CrazyPaco (talk) 07:02, 13 May 2011 (UTC)Reply
+After talking to Marketdiamond I realised you Pittsburgher as slightly nuts but in a good way in that you love your you state very much. However I would ask you reconsider the yellow which is used. It's quite hard on the auld eyes Gnevin (talk) 09:43, 9 July 2011 (UTC)Reply
+Valid point, and we do honestly appreciate opinions not exposed to 20 or 30 years of the Pittsburgh region. All I can say at this point is the consensus (not just myself) of experts have spoken. I encourage further discussion and would love to hear more well thought views on this.Marketdiamond (talk) 01:27, 20 July 2011 (UTC)Reply
+Is it really accurate to refer to Market Square as a "park"?
+[edit]
+Latest comment: 15 years ago3 comments3 people in discussion
+Market Square
+I don't think this is a "park."
+What do other editors think?
+Grundle2600 (talk) 15:40, 10 February 2010 (UTC)Reply
+The people I know that frequent Mellon Square (the actual square not what surrounds it) are looking for the same things as those that frequent Mellon Square, Schenley Plaza, Schenley Park, North Park, Highland Park, Point State Park etc. Marketdiamond (talk) 07:56, 27 April 2011 (UTC)Reply
+It sort of is in the way Millennium Park in Chicago is a park, but is more of a square like those in Philladelphia, like Franklin Square. I don't know if it is officially a city park though, but in the absence of a separate category of plaza or squares, it is probably best to stick it in with parks. CrazyPaco (talk) 03:23, 11 May 2011 (UTC)Reply
+Sports venues
+[edit]
+Latest comment: 15 years ago4 comments2 people in discussion
+What do you think of adding some of the more minor venues like the Petersen Sports Complex and Trees Pool to the D1 sports venue list? I'm also not sure Fitzgerald Field House belongs in "historic venues" as it is a dedicated D1 collegiate volleyball venue. CrazyPaco (talk) 03:23, 11 May 2011 (UTC)Reply
+Good catch, done and done also will add Island Sports Center for RMU hockey. One note of caution however, way back when I intended this only to be for "revenue generating sports", I think some alumnus or editor could make arguments for softball fields, golf courses, crew boat houses etc. etc. that are either technically Division I in a traditionally DII or DIII school (Point Park badmitten etc.?) or compete regularly with DI. I think I speak for most in that we shouldn't be including all of those pool halls, bowling alleys, tennis courts etc. So if things get too out of hand on this I reserve my vote to only "revenue generating sports" facilities. I added it today because from my experience swimming is indeed a very active sport and if your into it Trees Hall is the mecca for the region etc. But again I don't think anyone would want to see every possible psuedo Title IX token "event" facility for traditional DIII or NAIA schools that may have DI volleyball etc. Just putting that on the record now so there's no confusion a year from now when a well intentioned editor seeks to add the Art Institute's DI competing Jai-Alai futon. I joke but if the wikiverse has taught me anything it's that you are surprised every day.  :-) Marketdiamond (talk) 20:38, 11 May 2011 (UTC)Reply
+Of course, golf courses and crew boat houses aren't spectator venues. Drawing the line is always tough, but I'm not sure how you define "revenue generating sports". Do you add in Chartiers high stadium for the Riverhounds? Even though I brought them up, I'm not convinced Fitz and Trees Pool should be included. CrazyPaco (talk) 06:52, 13 May 2011 (UTC)Reply
+Pondering if maybe just providing a link to a wiki article on any venue or franchise outside the top 5 or so, and all the historical venues franchises might be a good compromise. Your right CP, its may be a never ending debate where to draw the line on merit, maybe just top 5 and then heres a wikiarticle with the historic or 6th etc. sports. Again no perfect solution but might compress the box some. Interested in other opinions on this. Also just a note I did add your suggestions out of fairness on how the box is "currently" displayed, fair is fair, but agree might be useful to compress it some, any 6th team or venue and all historic teams possibly only give a single link to, if we attempt to judge what to exclude on merit because of different sports different times and values (horseracing out drew the Steelers until the 1970s so someone could reasonably want those venues added etc), anyway top 5 for all venues and current pro and college teams then a link to the rest and all historic teams just a link would be my idea if there is a consensus on compressing the box, I think I saw a similar affect on the Howard Stern boxes. Marketdiamond (talk) 11:41, 2 June 2011 (UTC)Reply
+Employers, sports, ...
+[edit]
+Latest comment: 15 years ago5 comments2 people in discussion
+This template is rather large, with all the collapsible sections. I would like to suggest moving some material to more targeted templates. For example, we already have Template:Pittsburgh Corporations, which is redundant to the companies section, and Template:Pennsylvania Sports which is redundant to the sports section. I am sure there are others as well. If you look at (my eyes are already burning) a template like Template:New York City, it is very short. Frietjes (talk) 21:42, 11 May 2011 (UTC)Reply
+In fact, just take a random sample of the templates for the top 10 cities in the United States. None of them have collapsible sections, and none are as long as this one. Frietjes (talk) 21:46, 11 May 2011 (UTC)Reply
+As the creator of the Pgh Corporations box I will be nominating it for deletion at the Wikiproject, have been meaning to retire as soon as the Pittsburgh template was set, pursuant to consensus of course. My views on the Pittsburgh template are well documented already. The sports template you mentioned puzzles me and every other Northeasterner-Mideasterner I know. I get the pigeon hole logic of neatly placing every franchise in a little box based on imaginary lines some despot drew on a very poorly researched map thousands of miles and hundreds of years away, but the encyclopedic value of having the New York Jets show up in a New Jersey box or having New Mexico or Kentucky not have a box for the Cowboys or Reds that consider both states their markets respectively, defeats the purpose. Burning eyes is an apt description for throwing away whole state fan bases for the Bengals or Mavs, and considering a 76ers fan to be in any way relevant to a Penguins fan. I would support a minimization of sports franchise templates limited by imaginary lines that have nothing to do with their markets yet include several non-markets if you choose to propose that. I can't name a single Flyers-Steelers fan nor a Phillies-Penguins fan, I do however know scores of Mountaineers-Penguins-Browns fans, maybe that would be a much more relevant template to construct. Marketdiamond (talk) 21:41, 12 May 2011 (UTC)Reply
+My point is that the template has too many collapsible sections, and it would be better to split it into smaller subtemplates, rather than trying to put everything in one. If I am reading an article about a company, I will most likely be interested in navigating to other articles about related companies, and not to say sports teams. Frietjes (talk) 21:54, 12 May 2011 (UTC)Reply
+I respect your opinion, and can see some logic to it. Interested in hearing from others on this since we are seeming to agree to disagree. I see your point about companies to like companies however I think it isn't as logical as going to the city or regional links associated with that city. Koppers doesn't have much of anything in common with Dick's Sporting Goods except both use Pittsburgh International and have Steeler days, have contracts with UPMC and relax at Mellon Square or Mt. Washington. The more I think about it the more your statement could support the status quo inclusions. I wouldn't be opposed to some limited thinning of the list (only revenue generating sports in DI or only links to a list of historic teams rather then unique links to all), but all the categories I would keep and about 80% of the current makeup. Again interested in other opinions, the reasonings you are presenting if you think through them may lend themselves to the consolidated expansion of other city/regional templates. Though I won't suggest that here at this time. Marketdiamond (talk) 23:02, 12 May 2011 (UTC)Reply
+Colors are hard on the eyes
+[edit]
+Latest comment: 14 years ago2 comments2 people in discussion
+Can't the gold be toned down a bit? They hurt my eyes. (Yes, I saw that it was chosen to match the flag, but still, it hurts.) LadyofShalott 13:27, 15 August 2011 (UTC)Reply
+Beauty as they say is in the eye of the beholder. I think like a lot of things in life there are few folks "ok" with it, you either love it or can't understand it. Since we have throughly discussed this I would invite those unfamiliar with a land where fire hydrants, police cars, flags, all sports teams, road signs, clothing accessories and even some fire trucks and music videos are painted in "black and gold" to that place. I think after you walk down a street draped in it passing cars and trucks draped in it and look into shop windows with musicians not only draped in it but singing about those two colors you may gain an appreciation that black and gold is Pittsburgh like Oxygen is life. Again only my humble opinion but the airport code is PIT and there are transatlantic flights so I do invite you (btw the airport has some of it's best photo spots draped in black and gold imagine that!). Marketdiamond (talk) 06:40, 6 December 2011 (UTC)Reply
+Color discussion, please leave comments
+[edit]
+Latest comment: 14 years ago1 comment1 person in discussion
+There is an attempt to remove the colors as the sister template for Pitt. Please see the discussion Template talk:University of Pittsburgh#Removed colours. I am having difficulty understanding what the editor is having an issue with. Can anyone help and leave comments at the linked corresponding talk page? Thank you. CrazyPaco (talk) 17:25, 27 March 2012 (UTC)Reply
+I will be undertaking some streamlining and reorganization of the template
+[edit]
+Latest comment: 14 years ago3 comments3 people in discussion
+If any editor wishes to suggest or comment on the changes please feel free to leave them here! Marketdiamond (talk) 17:53, 9 September 2012 (UTC)Reply
+Let's change the color scheme so that it's yellow text on black background. The black/blue on yellow headings are kinda rough. I tried to do it, but I am unclear of the right syntax to do it.--GrapedApe (talk) 23:49, 9 September 2012 (UTC)Reply
+One suggestion I would have is to streamline by bringing Parks and Shopping and entertainment within Attractions. Auto select for each group so that the relevant section opens upon template expansion would be useful too. An example of this in use is the template Skyscrapers over 140 metres in the United Kingdom, which can be seen in operation at One Canada Square. Rangoon11 (talk) 00:22, 10 September 2012 (UTC)Reply
+Add "abbr" parameters so only that section opens
+[edit]
+Latest comment: 11 years ago2 comments2 people in discussion
+This edit request has been answered. Set the |answered= parameter to no to reactivate your request.
+Talk about procrastination: Back in 2012 I added the selected parameter but only added the abbr parameter to the sports section. I meant to add the rest but the template got protected & here it is 3 years later....
+Here is my request:
+This is explained in Template:Navbox with collapsible sections#Group/list parameters.
+There are 9 main groups: Government, Economy, Sports, Parks, Transportation, Attractions, Shopping, Colleges, Culture.
+Please change
+| group1 = [[Government of Pittsburgh|Government]]
+| list1 =
+to
+| group1 = [[Government of Pittsburgh|Government]]
+| abbr1 = Government
+| list1 =
+Now this goes on for 8 more sections, so instead of copying the entire code, I'll only include the additional code to be inserted between the group# and list#.
+For group2, please add | abbr2 = Economy
+For group3, please add | abbr3 = Sports I did that one back in '12.
+For group4, please add | abbr4 = Parks
+For group5, please add | abbr5 = Transportation
+For group6, please add | abbr6 = Attractions
+For group7, please add | abbr7 = Shopping
+For group8, please add | abbr8 = Colleges
+For group9, please add | abbr9 = Culture
+Finally, at the bottom of the template, please add the documentation. Please change:
+<noinclude>
+{{collapsible option}}
+[[Category:Pittsburgh navigational boxes]]
+[[Category:Pennsylvania city navigational boxes]]
+</noinclude>
+to
+<noinclude>
+{{documentation
+|content =
+{{collapsible sections option
+|list = "Government", "Economy", "Sports", "Parks", "Transportation", "Attractions", "Shopping", "Colleges", "Culture"
+|example = Government
+}}
+{{collapsible option}}
+}}<!--(end documentation)-->
+[[Category:Pittsburgh navigational boxes]]
+[[Category:Pennsylvania city navigational boxes]]
+</noinclude>
+Two notes: (1) I am a dynamic IP that changes every 8 hours when my ISP auto-disconnects and my modem (!) re-dials (so pings & talkpage msgs won't work, I'll watch this page), & (2) I come here from the Homestead Grays article and am basing this request off of Template:Negro League teams (heavily edited by me) which implements the "abbr" parameters & documentation. Pinging @Frietjes: who has helped me in the past & who knows templates extensively. Rgrds. --64.85.217.37 (talk) 09:41, 17 August 2015 (UTC)Reply
+Done Stickee (talk) 22:17, 17 August 2015 (UTC)Reply
+Ridiculously large
+[edit]
+Latest comment: 7 years ago7 comments3 people in discussion
+I see @Frietjes: mentioned this years ago, but this template is unwieldy and far too large, making maintenance of the template a difficult task and much harder to use. It is definitely an anomaly in style vs. every other large city template used on the wikipedia. I believe we should split this up into at least 5 to 8 other templates. Some are already redundant (see Template:Pittsburgh Corporations nearly matching the "Economy" section, Template:Pittsburgh Shopping being similar to "Shopping and entertainment", Template:Pittsburgh parks similar to "Parks", etc). It appears this project, as well as most of the city based projects, were at one point commandeered to suit their personal preferences to point of ridiculousness (such as the recent nomination of Wikipedia:Articles for deletion/List of Pittsburgh sports seasons; another unwieldy, jargon-filled, and incoherently large article). If a much larger city like New York can have this many templates, I think this can be fixed and pared down to something far more reasonable. Yosemiter (talk) 20:24, 22 December 2017 (UTC)Reply
+Yosemiter the redundancy is clear since with edits like this one, this template transcludes other templates like {{Pittsburgh Bridges}}, {{Pittsburgh Corporations}}, {{Pittsburgh Shopping}}, {{Pittsburgh metropolitan area airports}}, {{Pittsburgh parks}}, {{Pittsburgh transportation}}, {{PittsburghTransit}} and {{Port Authority of Allegheny County}}. in many cases, there is no need to use this navbox, but instead, use one of the smaller (more targeted) navboxes within this one. I would support more splitting, and less use of this one in favor of the other smaller navboxes transcluded in this one. Frietjes (talk) 20:56, 22 December 2017 (UTC)Reply
+I would start by splitting the sports section in say {{Pittsburgh sports}} with Sports in Pittsburgh as the main article. Frietjes (talk) 20:59, 22 December 2017 (UTC)Reply
+@Frietjes: I think my point is that is there a reason so many need to be transcluded? This is essentially a Template of Pittsburgh Templates. It seems that it would be far more helpful if it was written/displayed in a way such as Template:New York City. The first subheader would become group1 "General topics" Then we could list each of the other topics into groups of the trunscluded templates (Gov't, Sport, Transportation, etc.). As pointed out, these other templates already exist on their own, so why have template as a Matryoshka doll-like list of templates? It just appeared as very unusual to me upon finding it. Yosemiter (talk) 21:37, 22 December 2017 (UTC)Reply
+Yosemiter, seems reasonable to not transclude the other navboxes and keep this template more minimal with links to the higher-level articles. just make sure that any articles using this template are appropriately updated after the other navboxes are split from this one. this would also help reduce the over 1000 page transclusion count for this navbox (which is insane). Frietjes (talk) 21:39, 22 December 2017 (UTC)Reply
+@Frietjes:, @Yosemiter:-- I just condensed the topics covered in this template. I wasn't sure what to do with some of the information in the "Economy" section, so I left that for now. Otherwise, this should bring the template in line with those of similarly-sized cities.--Molandfreak (talk, contribs, email) 05:11, 26 January 2019 (UTC)Reply
+Molandfreak, looks much better. the next task is to fix the pages in this report by adding the navbox to a couple articles, and replacing it with one of the various {{Pittsburgh Bridges}}, {{Pittsburgh Corporations}}, {{Pittsburgh Shopping}}, {{Pittsburgh metropolitan area airports}}, {{Pittsburgh parks}}, {{Pittsburgh transportation}}, {{PittsburghTransit}}, {{Pittsburgh sports}}, {{Port Authority of Allegheny County}}, ... related templates. Frietjes (talk) 13:18, 26 January 2019 (UTC)Reply
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template_talk:Pittsburgh&oldid=1234934641"
+Categories:
+Template-Class Pennsylvania pages
+NA-importance Pennsylvania pages
+Template-Class Pittsburgh pages
+NA-importance Pittsburgh pages
+WikiProject Pittsburgh articles
+Template-Class WikiProject Cities pages
+All WikiProject Cities pages
+Search
+Search
+Template talk:Pittsburgh
+Add topic

@@ -1,0 +1,1953 @@
+URL: https://en.wikipedia.org/wiki/United_States_dollar
+
+United States dollar - Wikipedia
+Jump to content
+Checked
+From Wikipedia, the free encyclopedia
+This is the latest accepted revision, reviewed on 19 October 2026.
+Currency of the United States
+"USD" redirects here. For other uses, see USD (disambiguation).
+For the banknote, see United States one-dollar bill. For the coin, see Dollar coin (United States).
+United States dollar
+Federal Reserve Notes (obverse)
+ISO 4217
+Code USD (numeric: 840)
+Subunit 0.01
+Units of account
+Base unit dollar
+Plural dollars
+Symbol $‎
+Nickname
+List
+Ace, bean, bill, bone, buck, deuce, dough, dub, ducat, doubloon, fin, frog, greenback, large, simoleons, skins, smackeroo, smackers, spondulix, Tom, yard, and eagle
+Plural:
+bucks, dead presidents, green, bones, clams
+Based on denomination:
+Washingtons, Jeffersons, Lincolns, Hamiltons, Jacksons, Grants, Benjamins, C-note, grand, sawbuck, single, Bluefaces, Blue Strips
+Subunit
+1⁄100 cent
+1⁄10 dime
+(not a unit in practice)[a]
+1⁄1000 mill
+(accounting only)
+Plural
+cent cents
+mill mills
+Symbol
+cent ¢
+mill ₥
+Denominations
+Banknotes
+Freq. used $1, $5, $10, $20, $50, $100
+Rarely used $2
+Discontinued, but still legal tender: $500, $1,000, $5,000, $10,000
+Coins
+Freq. used 1¢ (penny)[b]; 5¢ (nickel), 10¢ (dime), 25¢ (quarter)
+Rarely used 50¢ (half dollar), $1
+Discontinued, but still legal tender: 1⁄2¢, 2¢, 3¢, 20¢, $2.50, $3, $5, $10, $20[c]
+Demographics
+Date of introduction April 2, 1792; 234 years ago (1792-04-02)[3]
+Replaced Continental currency
+Various foreign currencies, including:
+British sterling
+Spanish dollar
+User(s) See § Official users (19), § Unofficial users (8)
+Issuance
+Central bank Federal Reserve
+Website federalreserve.gov
+Printer Bureau of Engraving and Printing
+Website bep.gov
+Mint United States Mint
+Website usmint.gov
+Valuation
+Inflation 3.7% or 3.4%
+Source BLS (September 2026) and BEA (August 2026)
+Method CPI or PCE
+Pegged by See § Pegged currencies
+The United States dollar (symbol: $; currency code: USD[d]) is the official currency of the United States (U.S.) and several other countries. The U.S. Coinage Act of 1792 established the dollar as the base unit, with each dollar divided into 100 cents (symbol: ¢).[e] U.S. banknotes are issued in the form of Federal Reserve Notes, popularly called greenbacks due to their predominantly green color.
+The U.S. dollar was originally defined under a bimetallic standard of 371.25 grains (24.057 g) (0.7734375 troy ounces) fine silver or, from 1834,[4] 23.22 grains (1.505 g) fine gold, or $20.67 per troy ounce. The Gold Standard Act of 1900 linked the dollar solely to gold. From 1934, its equivalence to gold was revised to $35 per troy ounce. In 1971 all links to gold were repealed.[5] The U.S. dollar became an important international reserve currency after the First World War, and displaced British sterling as the world's primary reserve currency by the Bretton Woods Agreement towards the end of the Second World War. The dollar is the most widely used currency in international transactions,[6] and a free-floating currency. It is also the official currency in several countries and the de facto currency in many others,[7][8] with Federal Reserve Notes (and, in a few cases, U.S. coins) used in circulation.
+The monetary policy of the United States is conducted by the Federal Reserve System, which acts as the nation's central bank. As of February 10, 2021, physical currency in circulation amounted to US$2.10 trillion, $2.05 trillion of which is in Federal Reserve Notes (the remaining $50 billion is in the form of coins and older-style United States Notes).[9] As of January 1, 2025, the Federal Reserve estimated that the total amount of currency in circulation was approximately US$2.37 trillion.[10]
+Overview
+In the Constitution
+Article I, Section 8 of the U.S. Constitution provides that Congress has the power "to coin money".[11] Laws implementing this power are currently codified in Title 31 of the U.S. Code, under Section 5112, which prescribes the forms in which the United States dollars should be issued. These coins are both designated in the section as legal tender in payment of debts. The Sacagawea dollar is one example of the copper alloy dollar, in contrast to the American Silver Eagle which is pure silver. Section 5112 also provides for the minting and issuance of other coins, which have values ranging from one cent (U.S. Penny) to 100 dollars.[12] These other coins are more fully described in Coins of the United States dollar.
+Article I, Section 9 of the Constitution provides that "a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time",[13] which is further specified by Section 331 of Title 31 of the U.S. Code.[14] The sums of money reported in the "Statements" are currently expressed in U.S. dollars, thus the U.S. dollar may be described as the unit of account of the United States.[15] "Dollar" is one of the first words of Section 9, in which the term refers to the Spanish milled dollar, or the coin worth eight Spanish reales.
+Coinage Act
+In 1792, the U.S. Congress passed the Coinage Act, of which Section 9 authorized the production of various coins, including:[3]: 248
+Dollars or Units—each to be of the value of a Spanish milled dollar as the same is now current, and to contain three hundred and seventy-one grains and four sixteenth parts of a grain of pure, or four hundred and sixteen grains of standard silver.
+Section 20 of the Act designates the United States dollar as the unit of currency of the United States:[3]: 250–1
+[T]he money of account of the United States shall be expressed in dollars, or units...and that all accounts in the public offices and all proceedings in the courts of the United States shall be kept and had in conformity to this regulation.
+Decimal units
+Unlike the Spanish milled dollar, the Continental Congress and the Coinage Act prescribed a decimal system of units to go with the unit dollar, as follows: the mill, or one-thousandth of a dollar; the cent, or one-hundredth of a dollar; and the disme or dime, or one-tenth of a dollar.[1][16] The current relevance of these units:
+Only the cent (¢) is used as an everyday division of the dollar, with the ubiquitous exception of vehicle fuel pricing.
+Dime is used solely as the name of the coin with the value of ten cents.
+The mill (₥) is relatively unknown but before the middle of the 20th century was familiar in matters of sales taxes. It is ubiquitous in prices of gasoline and diesel fuels, which are usually in the form of $xx.xx9 per gallon (e.g., $3.599, commonly written as $3.59+9⁄10).[17][18]
+The Spanish peso, or dollar, was historically divided into eight reales (colloquially, bits) – hence pieces of eight. Americans also learned counting in non-decimal bits of 12+1⁄2 cents before 1857 when Mexican bits were more frequently encountered than American cents; in fact this practice survived in New York Stock Exchange quotations until 2001.[19][20]
+In 1854, Secretary of the Treasury James Guthrie proposed creating $100, $50, and $25 gold coins, to be referred to as a union, half union, and quarter union, respectively,[21] thus implying a denomination of 1 Union = $100. However, no such coins were ever struck, and only patterns for the $50 half union exist.
+When currently issued in circulating form, denominations less than or equal to a dollar are emitted as U.S. coins, while denominations greater than or equal to a dollar are emitted as Federal Reserve Notes, disregarding the following special cases:
+Gold coins issued for circulation until the 1930s, up to the value of $20 (known as the double eagle)
+Bullion or commemorative gold, silver, platinum, and palladium coins valued up to $100 as legal tender (though worth far more as bullion).
+Civil War paper currency issue in denominations below $1, i.e. fractional currency, sometimes pejoratively referred to as shinplasters.
+Etymology
+Further information: Dollar
+In the 16th century, Count Hieronymus Schlick of Bohemia began minting coins known as joachimstalers, named for Joachimstal, the valley in which the silver was mined. In turn, the valley's name is titled after Saint Joachim, whereby thal or tal, a cognate of the English word dale, is German for 'valley.'[22] The joachimstaler was later shortened to the German taler, a word that eventually found its way into many languages, including:[22] tolar (Czech, Slovak and Slovenian); daler (Danish and Swedish); talar (Polish); dalar and daler (Norwegian); daler or daalder (Dutch); talari (Ethiopian); tallér (Hungarian); tallero (Italian); دولار (Arabic); and dollar (English).
+Though the Dutch pioneered in modern-day New York in the 17th century the use and the counting of money in silver dollars in the form of German-Dutch reichsthalers and native Dutch leeuwendaalders ('lion dollars'), it was the ubiquitous Spanish American eight-real coin which became exclusively known as the dollar since the 18th century.[23]
+Nicknames
+See also: Slang terms for money § United States
+The colloquialism buck(s) (much like the British quid for the pound sterling) is often used to refer to dollars of various nations, including the U.S. dollar. This term, dating to the 18th century, may have originated with the colonial leather trade, or it may also have originated from a poker term.[24]
+Greenback is another nickname, originally applied specifically to the 19th-century Demand Note dollars, which were printed black and green on the backside, created by Abraham Lincoln to finance the North for the Civil War.[25] It is still used to refer to the U.S. dollar (but not to the dollars of other countries). The term greenback is also used by the financial press in other countries, such as Australia,[26] New Zealand,[27] South Africa,[28] and India.[29]
+Other well-known names of the dollar as a whole in denominations include greenmail, green, and dead presidents, the latter of which referring to the deceased presidents pictured on most bills. Dollars in general have also been known as bones (e.g. "twenty bones" = $20). The newer designs, with portraits displayed in the main body of the obverse (rather than in cameo insets), upon paper color-coded by denomination, are sometimes referred to as bigface notes or Monopoly money.[citation needed]
+Piastre was the original French word for the U.S. dollar, used for example in the French text of the Louisiana Purchase. Though the U.S. dollar is called dollar in Modern French, the term piastre is still used among the speakers of Cajun French and New England French, as well as speakers in Haiti and other French Caribbean islands.
+Nicknames specific to denomination:
+The quarter dollar coin is known as two bits, alluding the dollar's origins as the "piece of eight" (bits or reales).[19]
+The $1 bill is nicknamed buck or single.
+The infrequently used $2 bill is sometimes called deuce, Tom, or Jefferson (after Thomas Jefferson).
+The $5 bill is sometimes called Lincoln (after Abraham Lincoln), fin, fiver, or five-spot.
+The $10 bill is sometimes called sawbuck, ten-spot, or Hamilton (after Alexander Hamilton).
+The $20 bill is sometimes called double sawbuck, Jackson (after Andrew Jackson), or double eagle.
+The $50 bill is sometimes called a yardstick, or a grant, after President Ulysses S. Grant.
+The $100 bill is called Benjamin, Benji, Ben, or Franklin, referring to its portrait of Benjamin Franklin. Other nicknames include C-note (C being the Roman numeral for 100), century note, or bill (e.g. two bills = $200).
+Amounts or multiples of $1,000 are sometimes called grand in colloquial speech, abbreviated in written form to G, K, or k (from kilo; e.g. $10k = $10,000). Likewise, a large or stack can also refer to a multiple of $1,000 (e.g. "fifty large" = $50,000).
+Dollar sign
+Main article: Dollar sign
+Spanish silver eight-real or peso of 1768
+The symbol $, usually written before the numerical amount, is used for the U.S. dollar (as well as for many other currencies). The sign was perhaps the result of a late 18th-century evolution of the scribal abbreviation ps for the peso, the common name for the Spanish dollars that were in wide circulation in the New World from the 16th to the 19th centuries. The p and the s eventually came to be written over each other giving rise to $.[30][31][32][33]
+Another popular explanation is that it is derived from the Pillars of Hercules on the Spanish coat of arms of the Spanish dollar. These Pillars of Hercules on the silver Spanish dollar coins take the form of two vertical bars (||) and a swinging cloth band in the shape of an S.[34]
+Yet another explanation suggests that the dollar sign was formed from the capital letters U and S written or printed one on top of the other. This theory, popularized by novelist Ayn Rand in Atlas Shrugged,[35] does not consider the fact that the symbol was already in use before the formation of the United States.[36]
+History
+See also: History of the United States dollar
+Origins: the Spanish dollar
+The U.S. dollar was introduced at par with the Spanish-American silver dollar (or Spanish peso, Spanish milled dollar, eight-real coin, piece-of-eight). The latter was produced from the rich silver mine output of Spanish America, was minted in Mexico City, Potosí (Bolivia), Lima (Peru), and elsewhere, and was in wide circulation throughout the Americas, Asia, and Europe from the 16th to the 19th centuries. The minting of machine-milled Spanish dollars since 1732 boosted its worldwide reputation as a trade coin and positioned it to be the model for the new currency of the United States.[citation needed]
+Even after the United States Mint commenced issuing coins in 1792, locally minted dollars and cents were less abundant in circulation than Spanish American pesos and reales; hence Spanish, Mexican, and American dollars all remained legal tender in the United States until the Coinage Act of 1857. In particular, colonists' familiarity with the Spanish two-real quarter peso was the reason for issuing a quasi-decimal 25-cent quarter dollar coin rather than a 20-cent coin.[citation needed]
+For the relationship between the Spanish dollar and the individual state colonial currencies, see Connecticut pound, Delaware pound, Georgia pound, Maryland pound, Massachusetts pound, New Hampshire pound, New Jersey pound, New York pound, North Carolina pound, Pennsylvania pound, Rhode Island pound, South Carolina pound, and Virginia pound.[citation needed]
+Coinage Act of 1792
+See also: Coinage Act of 1792
+Alexander Hamilton finalized the details of the 1792 Coinage Act and the establishment of the U.S. Mint.
+On July 6, 1785, the Continental Congress resolved that the money unit of the United States, the dollar, would contain 375.64 grains of fine silver; on August 8, 1786, the Continental Congress continued that definition and further resolved that the money of account, corresponding with the division of coins, would proceed in a decimal ratio, with the sub-units being mills at 1⁄1000 of a dollar, cents at 1⁄100 of a dollar, and dimes at 1⁄10 of a dollar.[1]
+After the adoption of the United States Constitution, the U.S. dollar was defined by the Coinage Act of 1792. It specified a "dollar" based on the Spanish milled dollar to contain 371+4⁄16 grains of fine silver, or 416.0 grains (26.96 g) of "standard silver" of fineness 371.25/416 = 89.24%; as well as an "eagle" to contain 247+4⁄8 grains of fine gold, or 270.0 grains (17.50 g) of 22 karat or 91.67% fine gold.[37] Alexander Hamilton arrived at these numbers based on a treasury assay of the average fine silver content of a selection of worn Spanish dollars, which came out to be 371 grains. Combined with the prevailing gold-silver ratio of 15, the standard for gold was calculated at 371/15 = 24.73 grains fine gold or 26.98 grains 22K gold. Rounding the latter to 27.0 grains finalized the dollar's standard to 24.75 grains of fine gold or 24.75 × 15 = 371.25 grains = 24.0566 grams = 0.7735 troy ounces of fine silver.
+The same coinage act also set the value of an eagle at 10 dollars, and the dollar at 1⁄10 eagle. It called for silver coins in denominations of 1, 1⁄2, 1⁄4, 1⁄10, and 1⁄20 dollar, as well as gold coins in denominations of 1, 1⁄2 and 1⁄4 eagle. The value of gold or silver contained in the dollar was then converted into relative value in the economy for the buying and selling of goods. This allowed the value of things to remain fairly constant over time, except for the influx and outflux of gold and silver in the nation's economy.[38]
+Though a Spanish dollar freshly minted after 1772 theoretically contained 417.7 grains of silver of fineness 130/144 (or 377.1 grains fine silver), reliable assays of the period in fact confirmed a fine silver content of 370.95 grains (24.037 g) for the average Spanish dollar in circulation.[39] The new U.S. silver dollar of 371.25 grains (24.057 g) therefore compared favorably and was received at par with the Spanish dollar for foreign payments, and after 1803 the United States Mint had to suspend making this coin out of its limited resources since it failed to stay in domestic circulation. It was only after Mexican independence in 1821 when their peso's fine silver content of 377.1 grains was firmly upheld, which the U.S. later had to compete with using a heavier 378.0 grains (24.49 g) Trade dollar coin.
+Design
+The early currency of the United States did not exhibit faces of presidents, as is the custom now;[40] although today, by law, only the portrait of a deceased individual may appear on United States currency.[41] In fact, the newly formed government was against having portraits of leaders on the currency, a practice compared to the policies of European monarchs.[42] The currency as we know it today did not get the faces they currently have until after the early 20th century; before that "heads" side of coinage used profile faces and striding, seated, and standing figures from Greek and Roman mythology and composite Native Americans. The last coins to be converted to profiles of historic Americans were the dime (1946), the half Dollar (1948), and the Dollar (1971).
+Continental currency
+See also: Continental currency
+Continental one third dollar bill (obverse)
+After the American Revolution, the Thirteen Colonies became independent. Freed from British monetary regulations, they each issued £sd paper money to pay for military expenses. The Continental Congress also began issuing "Continental Currency" denominated in Spanish dollars. For its value relative to states' currencies, see Early American currency.
+Continental currency depreciated badly during the war, giving rise to the famous phrase "not worth a continental".[43] A primary problem was that monetary policy was not coordinated between Congress and the states, which continued to issue bills of credit. Additionally, neither Congress nor the governments of the several states had the will or the means to retire the bills from circulation through taxation or the sale of bonds.[44] The currency was ultimately replaced by the silver dollar at the rate of 1 silver dollar to 1000 continental dollars. This resulted in the clause "No state shall... make anything but gold and silver coin a tender in payment of debts" being written into the United States Constitution article 1, section 10.
+Silver and gold standards, 19th century
+From implementation of the 1792 Mint Act to the 1900 implementation of the gold standard, the dollar was on a bimetallic silver-and-gold standard, defined as either 371.25 grains (24.056 g) of fine silver or 24.75 grains of fine gold (gold-silver ratio 15).
+Subsequent to the Coinage Act of 1834 the dollar's fine gold equivalent was revised to 23.2 grains; it was slightly adjusted to 23.22 grains (1.505 g) in 1837 (gold-silver ratio ≈16). The same act also resolved the difficulty in minting the "standard silver" of 89.24% fineness by revising the dollar's alloy to 412.5 grains, 90% silver, still containing 371.25 grains fine silver. Gold was also revised to 90% fineness: 25.8 grains gross, 23.22 grains fine gold.
+Following the rise in the price of silver during the California Gold Rush and the disappearance of circulating silver coins, the Coinage Act of 1853 reduced the standard for silver coins less than $1 from 412.5 grains to 384 grains (24.9 g), 90% silver per 100 cents (slightly revised to 25.0 g, 90% silver in 1873). The Act also limited the free silver right of individuals to convert bullion into only one coin, the silver dollar of 412.5 grains; smaller coins of lower standard can only be produced by the United States Mint using its own bullion.
+Summary and links to coins issued in the 19th century:
+In base metal: 1/2 cent, 1 cent, 5 cents.
+In silver: half dime, dime, quarter dollar, half dollar, silver dollar.
+In gold: gold $1, $2.50 quarter eagle, $5 half eagle, $10 eagle, $20 double eagle.
+Less common denominations: bronze 2 cents, nickel 3 cents, silver 3 cents, silver 20 cents, gold $3.
+Note issues, 19th century
+Series of 1917 $1 United States Note
+In order to finance the War of 1812, Congress authorized the issuance of Treasury Notes, interest-bearing short-term debt that could be used to pay public dues. While they were intended to serve as debt, they did function "to a limited extent" as money. Treasury Notes were again printed to help resolve the reduction in public revenues resulting from the Panic of 1837 and the Panic of 1857, as well as to help finance the Mexican–American War and the Civil War.
+Paper money was issued again in 1862 without the backing of precious metals due to the Civil War. In addition to Treasury Notes, Congress in 1861 authorized the Treasury to borrow $50 million in the form of Demand Notes, which did not bear interest but could be redeemed on demand for precious metals. However, by December 1861, the Union government's supply of specie was outstripped by demand for redemption and they were forced to suspend redemption temporarily. In February 1862 Congress passed the Legal Tender Act of 1862, issuing United States Notes, which were not redeemable on demand and bore no interest, but were legal tender, meaning that creditors had to accept them at face value for any payment except for import tariffs and interest on public debts. However, silver and gold coins continued to be issued, resulting in the depreciation of the newly printed notes through Gresham's law. In 1869, the Supreme Court ruled in Hepburn v. Griswold that Congress could not require creditors to accept United States Notes, but overturned that ruling the next year in the Legal Tender Cases. In 1875, Congress passed the Specie Payment Resumption Act, requiring the Treasury to allow U.S. Notes to be redeemed for gold after January 1, 1879.
+Gold standard, 20th century
+Gold double eagle ($20 coin), 1907
+Though the dollar came under the gold standard de jure only after 1900, the bimetallic era was ended de facto when the Coinage Act of 1873 suspended the minting of the standard silver dollar of 412.5 Troy grains = 26.73 g; 0.859 ozt, the only fully legal tender coin that individuals could convert bullion into in unlimited (or Free silver) quantities,[f] and right at the onset of the silver rush from the Comstock Lode in the 1870s. This was the so-called "Crime of '73".
+The Gold Standard Act of 1900 repealed the U.S. dollar's historic link to silver and defined it solely as 23.22 grains (1.505 g) of fine gold (or $20.67 per troy ounce of 480 grains). In 1933, gold coins were confiscated by Executive Order 6102 under Franklin D. Roosevelt, and in 1934 the standard was changed to $35 per troy ounce fine gold, or 13.71 grains (0.888 g) per dollar.
+After 1968 a series of revisions to the gold peg was implemented, culminating in the Nixon shock of August 15, 1971, which suddenly ended the convertibility of dollars to gold. The U.S. dollar has since floated freely on the foreign exchange markets.[citation needed]
+Federal Reserve Notes, 20th century to present
+See also: Federal Reserve Note
+Obverse of a rare 1934 $500 Federal Reserve Note, featuring a portrait of President William McKinley
+Reverse of a $500 Federal Reserve Note
+Congress continued to issue paper money after the Civil War, the latest of which is the Federal Reserve Note that was authorized by the Federal Reserve Act of 1913. Since the discontinuation of all other types of notes (gold certificates in 1933, silver certificates in 1963, and United States Notes in 1971), U.S. dollar notes have since been issued exclusively as Federal Reserve Notes.
+Emergence as reserve currency
+Main article: International use of the U.S. dollar
+John Maynard Keynes (right) and Harry Dexter White at the inaugural meeting of the International Monetary Fund in 1946. They were instrumental in drafting the provisions of the post-war global financial system.
+The U.S. dollar first emerged as an important international reserve currency in the 1920s, displacing the British pound sterling as it emerged from the First World War relatively unscathed and since the United States was a significant recipient of wartime gold inflows. After the United States emerged as an even stronger global superpower during the Second World War, the Bretton Woods Agreement of 1944 established the U.S. dollar as the world's primary reserve currency and the only post-war currency linked to gold. Despite all links to gold being severed in 1971, the dollar continues to be the world's foremost reserve currency for international trade to this day.
+The Bretton Woods Agreement of 1944 also defined the post-World War II monetary order and relations among modern-day independent states, by setting up a system of rules, institutions, and procedures to regulate the international monetary system. The agreement founded the International Monetary Fund and other institutions of the modern-day World Bank Group, establishing the infrastructure for conducting international payments and accessing the global capital markets using the U.S. dollar.
+The monetary policy of the United States is conducted by the Federal Reserve System, which acts as the nation's central bank. It was founded in 1913 under the Federal Reserve Act in order to furnish an elastic currency for the United States and to supervise its banking system, particularly in the aftermath of the Panic of 1907.
+For most of the post-war period, the U.S. government has financed its own spending by borrowing heavily from the dollar-lubricated global capital markets, in debts denominated in its own currency and at minimal interest rates. This ability to borrow heavily without facing a significant balance of payments crisis has been described as the United States's exorbitant privilege.
+Coins
+Main article: Coins of the United States dollar
+The United States Mint has issued legal tender coins every year from 1792 to the present. From 1934 to the present, the only denominations produced for circulation have been the familiar penny, nickel, dime, quarter, half dollar, and dollar.
+Denomination  Common name  Obverse  Reverse  Obverse portrait and design date  Reverse motif and design date  Weight  Diameter  Material  Edge  Circulation
+Cent
+1¢  penny      Abraham Lincoln (1909)  Union Shield (2010)  2.5 g
+(0.088 oz)  0.75 in
+(19.05 mm)  97.5% Zn covered by 2.5% Cu  Plain  Wide
+Five cents
+5¢  nickel      Thomas Jefferson (2006)  Monticello (1938)  5.0 g
+(0.176 oz)  0.835 in
+(21.21 mm)  75% Cu
+25% Ni  Plain  Wide
+Dime
+10¢  dime      Franklin D. Roosevelt (1946)  Olive branch, torch, and oak branch (1946)  2.268 g
+(0.08 oz)  0.705 in
+(17.91 mm)  91.67% Cu
+8.33% Ni  118 reeds  Wide
+Quarter dollar
+25¢  quarter      George Washington (1932)  Various (5 designs per year)  5.67 g
+(0.2 oz)  0.955 in
+(24.26 mm)  91.67% Cu
+8.33% Ni  119 reeds  Wide
+Half dollar
+50¢  half dollar      John F. Kennedy (1964)  Presidential Seal (1964)  11.34 g
+(0.4 oz)  1.205 in
+(30.61 mm)  91.67% Cu
+8.33% Ni  150 reeds  Limited
+Dollar coin
+$1  dollar coin, golden dollar      Sacagawea
+(2000)
+Various (4 designs per year)  8.10 g
+(0.286 oz)  1.043 in
+(26.50 mm)  88.5% Cu
+6% Zn
+3.5% Mn
+2% Ni  Plain 2000–2006
+Lettered 2007–present  Limited
+These images are to scale at 2.5 pixels per millimetre. For table standards, see the coin specification table.
+Gold and silver coins have been previously minted for general circulation from the 18th to the 20th centuries. The last gold coins were minted in 1933. The last 90% silver coins were minted in 1964, and the last 40% silver half dollar was minted in 1970.
+The United States Mint currently produces circulating coins at the Philadelphia and Denver Mints, and commemorative and proof coins for collectors at the San Francisco and West Point Mints. Mint mark conventions for these and for past mint branches are discussed in Coins of the United States dollar#Mint marks.
+The one-dollar coin has never been in popular circulation from 1794 to present, despite several attempts to increase their usage since the 1970s, the most important reason of which is the continued production and popularity of the one-dollar bill. It has not been produced for circulation since 2012.[45] Half dollar coins were commonly used currency since inception in 1794, but has fallen out of use from the mid-1960s when all silver half dollars began to be hoarded.
+The nickel is the only coin whose size and composition (5 grams, 75% copper, and 25% nickel) is still in use from 1865 to today, except for wartime 1942–1945 Jefferson nickels which contained silver.
+Due to the penny's low value, debate exists over the penny's status as circulating coinage.[46][47] In 2025, the Mint halted the production of pennies for circulation, but pennies remain in circulation as only an act of Congress can eliminate a currency.[48]
+For a discussion of other discontinued and canceled denominations, see Obsolete denominations of United States currency and Canceled denominations of United States currency.
+Collector coins
+Collector coins are technically legal tender at face value but are usually worth far more due to their numismatic value or for their precious metal content. These include:
+American Eagle bullion coins
+American Silver Eagle $1 (1 troy oz) Silver bullion coin 1986–present
+American Gold Eagle $5 (1⁄10 troy oz), $10 (1⁄4 troy oz), $25 (1⁄2 troy oz), and $50 (1 troy oz) Gold bullion coin 1986–present
+American Platinum Eagle $10 (1⁄10 troy oz), $25 (1⁄4 troy oz), $50 (1⁄2 troy oz), and $100 (1 troy oz) Platinum bullion coin 1997–present
+American Palladium Eagle $25 (1 troy oz) Palladium bullion coin 2017–present
+United States commemorative coins—special issue coins, among these:
+$50.00 (Half Union) minted for the Panama-Pacific International Exposition (1915)
+Silver proof sets minted since 1992 with dimes, quarters and half-dollars made of silver rather than the standard copper-nickel
+Presidential dollar coins proof sets minted since 2007
+Banknotes
+Main article: Federal Reserve Note
+Denomination  Obverse  Reverse  Portrait  Reverse motif  First series  Latest series  Circulation
+One dollar      George Washington  Great Seal of the United States  Series 1963[g]
+Series 1935[h]  Series 2021[49]  Wide
+Two dollars      Thomas Jefferson  Declaration of Independence by John Trumbull  Series 1976  Series 2021  Limited[50]
+Five dollars      Abraham Lincoln  Lincoln Memorial  Series 2006  Series 2021[51]  Wide
+Ten dollars      Alexander Hamilton  Treasury Building  Series 2004A  Series 2021  Wide
+Twenty dollars      Andrew Jackson  White House  Series 2004  Series 2021  Wide
+Fifty dollars      Ulysses S. Grant  United States Capitol  Series 2004  Series 2021  Wide
+One hundred dollars      Benjamin Franklin  Independence Hall  Series 2009A[52]  Series 2025  Wide
+The U.S. Constitution provides that Congress shall have the power to "borrow money on the credit of the United States."[11] Congress has exercised that power by authorizing Federal Reserve Banks to issue Federal Reserve Notes. Those notes are "obligations of the United States" and "shall be redeemed in lawful money on demand at the Treasury Department of the United States, in the city of Washington, District of Columbia, or at any Federal Reserve bank".[53] Federal Reserve Notes are designated by law as "legal tender" for the payment of debts.[54] Congress has also authorized the issuance of more than 10 other types of banknotes, including the United States Note[55] and the Federal Reserve Bank Note. The Federal Reserve Note is the only type that remains in circulation since the 1970s. Federal Reserve Notes are printed by the Bureau of Engraving and Printing and are made from cotton fiber paper (as opposed to wood fiber used to make common paper). The "large-sized notes" issued before 1928 measured 7.42 in × 3.125 in (188.5 mm × 79.4 mm), while small-sized notes introduced that year measure 6.14 in × 2.61 in × 0.0043 in (155.96 mm × 66.29 mm × 0.11 mm).[56] The dimensions of the modern (small-size) U.S. currency is identical to the size of Philippine peso banknotes issued under United States administration after 1903, which had proven highly successful.[57] The American large-note bills became known as "horse blankets" or "saddle blankets".[58]
+Currently printed denominations are $1, $2, $5, $10, $20, $50, and $100. Notes above the $100 denomination stopped being printed in 1946 and were officially withdrawn from circulation in 1969. These notes were used primarily in inter-bank transactions or by organized crime; it was the latter usage that prompted President Richard Nixon to issue an executive order in 1969 halting their use. With the advent of electronic banking, they became less necessary. Notes in denominations of $500, $1,000, $5,000, $10,000 (discontinued, but still legal tender); $100,000 were all produced at one time; see large denomination bills in U.S. currency for details. With the exception of the $100,000 bill (which was only issued as a Series 1934 Gold Certificate and was never publicly circulated; thus it is illegal to own), these notes are now collector's items and are worth more than their face value to collectors.
+Though still predominantly green, the post-2004 series incorporate other colors to better distinguish different denominations. As a result of a 2008 decision in an accessibility lawsuit filed by the American Council of the Blind, the Bureau of Engraving and Printing is planning to implement a raised tactile feature in the next redesign of each note, except the $1 and the current version of the $100 bill. It also plans larger, higher-contrast numerals, more color differences, and distribution of currency readers to assist the visually impaired during the transition period.[i]
+Countries that use US dollar
+Official users
+These countries and territories use the US dollar as the official currency:
+United States
+including 5 territories:
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+United States Minor Outlying Islands
+Compact of Free Association
+Marshall Islands
+Federated States of Micronesia
+Palau
+Ecuador[59]
+(alongside Ecuadorian centavo coins)
+El Salvador[60]
+Liberia[61]
+(alongside Liberian dollar)
+Panama
+(alongside Panamanian balboa coins)
+Peru
+(alongside Peruvian Sol)
+Timor-Leste[62]
+(alongside Timor-Leste centavo coins)
+British Overseas Territories:
+British Virgin Islands
+Turks and Caicos Islands
+Dutch Caribbean:
+Bonaire
+Saba
+Sint Eustatius
+Unofficial users
+These countries and territories widely accept the US dollar unofficially as a secondary currency:
+Argentina, official currency is Argentine peso
+Cambodia,[63][64] official currency is Cambodian riel
+Honduras, official currency is Honduran lempira[65]
+Lebanon, official currency is Lebanese pound[66]
+Venezuela, official currency is Venezuelan bolívar[67][68]
+Zimbabwe, official currency is Zimbabwean ZiG
+British Overseas Territories:
+British Indian Ocean Territory, official currency is the Pound sterling
+Anguilla, official currency is the Eastern Caribbean Dollar
+Dutch Caribbean:
+Sint Maarten, official currency is Caribbean guilder
+Overseas France:
+Saint Martin, official currency is the euro
+Monetary policy
+See also: Federal Reserve, Monetary policy, Monetary policy of the United States, and money supply
+The Headquarters of the Federal Reserve System in Washington, D.C.
+The Federal Reserve Act created the Federal Reserve System in 1913 as the central bank of the United States. Its primary task is to conduct the nation's monetary policy to promote maximum employment, stable prices, and moderate long-term interest rates in the U.S. economy. It is also tasked to promote the stability of the financial system and regulate financial institutions, and to act as lender of last resort.[69][70]
+The monetary policy of the United States is conducted by the Federal Open Market Committee, which is composed of the Federal Reserve Board of Governors and 5 out of the 12 Federal Reserve Bank presidents, and is implemented by all twelve regional Federal Reserve Banks.
+Monetary policy refers to actions made by central banks that determine the size and growth rate of the money supply available in the economy, and which would result in desired objectives like low inflation, low unemployment, and stable financial systems. The economy's aggregate money supply is the total of
+M0 money, or Monetary Base – "dollars" in currency and bank money balances credited to the central bank's depositors, which are backed by the central bank's assets,
+plus M1, M2, M3 money – "dollars" in the form of bank money balances credited to banks' depositors, which are backed by the bank's assets and investments.
+The FOMC influences the level of money available to the economy by the following means:
+Reserve requirements – specifies a required minimum percentage of deposits in a commercial bank that should be held as a reserve (i.e. as deposits with the Federal Reserve), with the rest available to loan or invest. Higher requirements mean less money loaned or invested, helping keep inflation in check. Raising the federal funds rate earned on those reserves also helps achieve this objective.
+Open market operations – the Federal Reserve buys or sells US Treasury bonds and other securities held by banks in exchange for reserves; more reserves increase a bank's capacity to loan or invest elsewhere.
+Discount window lending – banks can borrow from the Federal Reserve.
+Monetary policy directly affects interest rates; it indirectly affects stock prices, wealth, and currency exchange rates. Through these channels, monetary policy influences spending, investment, production, employment, and inflation in the United States. Effective monetary policy complements fiscal policy to support economic growth.
+The adjusted monetary base has increased from approximately $400 billion in 1994, to $800 billion in 2005, and to over $3 trillion in 2013.[71]
+When the Federal Reserve makes a purchase, it credits the seller's reserve account (with the Federal Reserve). This money is not transferred from any existing funds—it is at this point that the Federal Reserve has created new high-powered money. Commercial banks then decide how much money to keep in deposit with the Federal Reserve and how much to hold as physical currency. In the latter case, the Federal Reserve places an order for printed money from the U.S. Treasury Department.[72] The Treasury Department, in turn, sends these requests to the Bureau of Engraving and Printing (to print new dollar bills) and the Bureau of the Mint (to stamp the coins).
+The Federal Reserve's monetary policy objectives to keep prices stable and unemployment low is often called the dual mandate. This replaces past practices under a gold standard where the main concern is the gold equivalent of the local currency, or under a gold exchange standard where the concern is fixing the exchange rate versus another gold-convertible currency (previously practiced worldwide under the Bretton Woods Agreement of 1944 via fixed exchange rates to the U.S. dollar).
+International use as reserve currency
+See also: Reserve currency, International monetary system, Eurodollar, Exorbitant privilege, Strong dollar policy, and Dollarization
+Main article: International use of the U.S. dollar
+Worldwide use of the U.S. dollar:
+United States
+External adopters of the US dollar
+Currencies pegged to the US dollar
+Currencies pegged to the US dollar w/ narrow band
+Worldwide use of the euro:
+Eurozone
+External adopters of the euro
+Currencies pegged to the euro
+Currencies pegged to the euro w/ narrow band
+Ascendancy
+The primary currency used for global trade between Europe, Asia, and the Americas has historically been the Spanish-American silver dollar, which created a global silver standard system from the 16th to 19th centuries, due to abundant silver supplies in Spanish America.[73] The U.S. dollar itself was derived from this coin. The Spanish dollar was later displaced by the British pound sterling in the advent of the international gold standard in the last quarter of the 19th century.
+The U.S. dollar began to displace the pound sterling as international reserve currency from the 1920s since it emerged from the First World War relatively unscathed and since the United States was a significant recipient of wartime gold inflows.[74] After the U.S. emerged as an even stronger global superpower during the Second World War, the Bretton Woods Agreement of 1944 established the post-war international monetary system, with the U.S. dollar ascending to become the world's primary reserve currency for international trade, and the only post-war currency linked to gold at $35 per troy ounce.[75]
+As international reserve currency
+The U.S. dollar is joined by the world's other major currencies – the euro, pound sterling, Japanese yen and Chinese renminbi – in the currency basket of the special drawing rights of the International Monetary Fund. Central banks worldwide have huge reserves of U.S. dollars in their holdings and are significant buyers of U.S. treasury bills and notes.[76]
+Foreign companies, entities, and private individuals hold U.S. dollars in foreign deposit accounts called eurodollars (not to be confused with the euro), which are outside the jurisdiction of the Federal Reserve System. Private individuals also hold dollars outside the banking system mostly in the form of US$100 bills, of which 80% of its supply is held overseas.
+The United States Department of the Treasury exercises considerable oversight over the SWIFT financial transfers network,[77] and consequently has a huge sway on the global financial transactions systems, with the ability to impose sanctions on foreign entities and individuals.[78]
+In the global markets
+The U.S. dollar is predominantly the standard currency unit in which goods are quoted and traded, and with which payments are settled, in the global commodity markets.[79] The U.S. Dollar Index is an important indicator of the dollar's strength or weakness versus a basket of six foreign currencies.
+The United States Government is capable of borrowing trillions of dollars from the global capital markets in U.S. dollars issued by the Federal Reserve, which is itself under U.S. government purview, at minimal interest rates, and with virtually zero default risk. In contrast, foreign governments and corporations incapable of raising money in their own local currencies are forced to issue debt denominated in U.S. dollars, along with its consequent higher interest rates and risks of default.[80] The United States's ability to borrow in its own currency without facing a significant balance of payments crisis has been frequently described as its exorbitant privilege.[81]
+A frequent topic of debate is whether the strong dollar policy of the United States is indeed in America's own best interests, as well as in the best interest of the international community.[82]
+Currencies fixed to the U.S. dollar
+For a more exhaustive discussion of countries using the U.S. dollar as official or customary currency, or using currencies which are pegged to the U.S. dollar, see International use of the U.S. dollar#Dollarization and fixed exchange rates and Currency substitution#US dollar.
+Countries using the U.S. dollar as their official currency include:
+In the Americas: Panama, Ecuador, El Salvador, British Virgin Islands, Turks and Caicos Islands, and the Caribbean Netherlands.
+The constituent states of the former Trust Territory of the Pacific Islands: Palau, the Federated States of Micronesia, and the Marshall Islands.
+Others: Timor-Leste.
+Among the countries using the U.S. dollar together with other foreign currencies and their local currency are Cambodia and Zimbabwe.
+Currencies pegged to the U.S. dollar include:
+In the Caribbean: the Bahamian dollar, Barbadian dollar, Belize dollar, Bermudian dollar, Cayman Islands dollar, Caribbean guilder, Eastern Caribbean dollar and the Aruban florin.
+The currencies of five oil-producing Arab countries: the Saudi riyal, United Arab Emirates dirham, Omani rial, Qatari riyal and the Bahraini dinar.
+Others: the Hong Kong dollar, Macanese pataca, Jordanian dinar, Lebanese pound.
+Value
+This section needs to be updated. The reason given is: No new data from the past 12 years (ignoring the difficult to read graphs up to 2021 labeled "Inflation of the dollar"), but prices of many foods along have increased 2–4x or more as one example, but pay isn't increasing at all for most people. The actual inflation numbers would be interesting.. Please help update this article to reflect recent events or newly available information. (April 2024)
+Buying power of one U.S. dollar compared to 1775 Spanish milled dollar:
+Year    Equivalent buying power
+1775  $1.00
+1780  $0.59
+1790  $0.89
+1800  $0.64
+1810  $0.66
+1820  $0.69
+1830  $0.88
+1840  $0.94
+1850  $1.03
+1860  $0.97
+Year    Equivalent buying power
+1870  $0.62
+1880  $0.79
+1890  $0.89
+1900  $0.96
+1910  $0.85
+1920  $0.39
+1930  $0.47
+1940  $0.56
+1950  $0.33
+1960  $0.26
+Year    Equivalent buying power
+1970  $0.20
+1980  $0.10
+1990  $0.06
+2000  $0.05
+2007  $0.04
+2008  $0.04
+2009  $0.04
+2010  $0.035
+2011  $0.034
+2012  $0.03
+Inflation value of dollar
+The 6th paragraph of Section 8 of Article 1 of the U.S. Constitution provides that the U.S. Congress shall have the power to "coin money" and to "regulate the value" of domestic and foreign coins. Congress exercised those powers when it enacted the Coinage Act of 1792. That Act provided for the minting of the first U.S. dollar and it declared that the U.S. dollar shall have "the value of a Spanish milled dollar as the same is now current".[83]
+The table above shows the equivalent amount of goods that, in a particular year, could be purchased with $1. The table shows that from 1774 through 2012 the U.S. dollar has lost about 97.0% of its buying power.[84]
+The decline in the value of the U.S. dollar corresponds to price inflation, which is a rise in the general level of prices of goods and services in an economy over a period of time.[85] A consumer price index (CPI) is a measure estimating the average price of consumer goods and services purchased by households. The United States Consumer Price Index, published by the Bureau of Labor Statistics, is a measure estimating the average price of consumer goods and services in the United States.[86]: Question 1  It reflects inflation as experienced by consumers in their day-to-day living expenses.[86]: Question 12  A graph showing the U.S. CPI relative to 1982–1984 and the annual year-over-year change in CPI is shown at right.
+The value of the U.S. dollar declined significantly during wartime, especially during the American Civil War, World War I, and World War II.[87] The Federal Reserve, which was established in 1913, was designed to furnish an "elastic" currency subject to "substantial changes of quantity over short periods", which differed significantly from previous forms of high-powered money such as gold, national banknotes, and silver coins.[88] Over the very long run, the prior gold standard kept prices stable—for instance, the price level and the value of the U.S. dollar in 1914 were not very different from the price level in the 1880s. The Federal Reserve initially succeeded in maintaining the value of the U.S. dollar and price stability, reversing the inflation caused by the First World War and stabilizing the value of the dollar during the 1920s, before presiding over a 30% deflation in U.S. prices in the 1930s.[89]
+Under the Bretton Woods system established after World War II, the value of gold was fixed to $35 per ounce, and the value of the U.S. dollar was thus anchored to the value of gold. Rising government spending in the 1960s, however, led to doubts about the ability of the United States to maintain this convertibility, gold stocks dwindled as banks and international investors began to convert dollars to gold, and as a result, the value of the dollar began to decline. Facing an emerging currency crisis and the imminent danger that the United States would no longer be able to redeem dollars for gold, gold convertibility was finally terminated in 1971 by President Nixon, resulting in the "Nixon shock".[90]
+The value of the U.S. dollar was therefore no longer anchored to gold, and it fell upon the Federal Reserve to maintain the value of the U.S. currency. The Federal Reserve, however, continued to increase the money supply, resulting in stagflation and a rapidly declining value of the U.S. dollar in the 1970s. This was largely due to the prevailing economic view at the time that inflation and real economic growth were linked (the Phillips curve), and so inflation was regarded as relatively benign.[90] Between 1965 and 1981, the U.S. dollar lost two thirds of its value.[84]
+In 1979, President Carter appointed Paul Volcker Chairman of the Federal Reserve. The Federal Reserve tightened the money supply and inflation was substantially lower in the 1980s, and hence the value of the U.S. dollar stabilized.[90]
+Over the thirty-year period from 1981 to 2009, the U.S. dollar lost over half its value.[84] This is because the Federal Reserve has targeted not zero inflation, but a low, stable rate of inflation—between 1987 and 1997, the rate of inflation was approximately 3.5%, and between 1997 and 2007 it was approximately 2%. The so-called "Great Moderation" of economic conditions since the 1970s is credited to monetary policy targeting price stability.[91]
+There is an ongoing debate about whether central banks should target zero inflation (which would mean a constant value for the U.S. dollar over time) or low, stable inflation (which would mean a continuously but slowly declining value of the dollar over time, as is the case now). Although some economists are in favor of a zero inflation policy and therefore a constant value for the U.S. dollar,[89] others contend that such a policy limits the ability of the central bank to control interest rates and stimulate the economy when needed.[92]
+Pegged currencies
+Americas
+Aruba (Aruban florin, lower value)
+Anguilla (Eastern Caribbean dollar, lower value)
+Antigua and Barbuda (Eastern Caribbean dollar, lower value)
+Bahamas (Bahamian dollar, at par)
+Barbados (Barbadian dollar, lower value)
+Belize (Belize dollar, lower value)
+Bermuda (Bermudian dollar, at par)
+Bolivia (Bolivian boliviano, lower value)
+Cayman Islands (Cayman Islands dollar, higher value)
+Curaçao (Caribbean guilder, lower value)
+Costa Rica (Costa Rican colón, lower value)
+Cuba (Cuban peso, lower value)
+Dominica (Eastern Caribbean dollar, lower value)
+Grenada (Eastern Caribbean dollar, lower value)
+Guatemala (Guatemalan quetzal, lower value)
+Haiti (Haitian gourde, lower value)
+Honduras (Honduran lempira, lower value)
+Montserrat (Eastern Caribbean dollar, lower value)
+Nicaragua (Nicaraguan córdoba, lower value)
+Saint Kitts and Nevis (Eastern Caribbean dollar, lower value)
+Saint Lucia (Eastern Caribbean dollar, lower value)
+Saint Vincent and the Grenadines (Eastern Caribbean dollar, lower value)
+Sint Maarten (Caribbean guilder, lower value)
+Trinidad and Tobago (Trinidad and Tobago dollar, lower value)
+Africa
+Djibouti (Djiboutian franc lower value)
+Eritrea (Eritrean nakfa, lower value)
+Sierra Leone (Sierra Leonean leone, lower value)
+Europe
+Belarus (Belarusian ruble, alongside Euro and Russian ruble in currency basket)
+Asia
+Azerbaijan (Azerbaijani manat, lower value)
+Bahrain (Bahraini dinar, higher value)
+Cambodia (Cambodian riel, lower value)
+Hong Kong (Hong Kong dollar, narrow band)
+Iraq (Iraqi dinar, lower value)
+Iran (Iranian rial, lower value)
+Jordan (Jordanian dinar, higher value)
+Kuwait (Kuwaiti dinar, higher value)
+Lebanon (Lebanese pound, lower value)
+Macau (Macanese pataca, narrow band)
+Oman (Omani rial, higher value)
+Qatar (Qatari riyal lower value)
+Saudi Arabia (Saudi riyal, lower value)
+Turkmenistan (Turkmen manat, lower value)
+United Arab Emirates (United Arab Emirates dirham, lower value)
+Yemen (Yemeni rial, lower value)
+Currencies formerly with pegs
+(incomplete list)
+Argentina (Argentine austral, 1985–1991: fluctuating peg to USD)[93]
+Argentina (Argentine peso, 1991–2002: 1/USD)[93]
+China (Chinese yuan, (until 2005: 1/USD)[94]
+Indonesia (Indonesian rupiah, until 1997: 1/USD)[95]
+Malaysia (Malaysian ringgit, 1998–2005: 3.80/USD)[95]
+Mexico (Mexican peso, 1933–1948: 8.65/USD, 1954–1976: 12.5/USD)[96][97]
+Nigeria (Nigerian naira, 1993-1998: 22/USD, 2015-2016: 197/USD, 2017-2023: 487/USD)
+Poland (Polish złoty, 1990–1991: 9500/USD)[98]
+South Korea (South Korean won, until 1997: 1/USD)[95]
+Thailand (Thai baht, until 1997: 1/USD)[94]
+Obsolete currencies with USD peg
+Netherlands Antilles (Netherlands Antillean guilder, lower value)
+Cuba (Cuban convertible peso, at par)
+Hawaii (Hawaiian dollar)
+El Salvador (Salvadoran colón, lower value)
+Zimbabwe (Zimbabwean bond coins and bond notes, at par)
+Exchange rates
+See also: U.S. Dollar Index
+Historical exchange rates
+Currency units per one U.S. dollar, averaged over the year[99][100][101][102]
+Currency units 1970[i] 1980[i] 1985[i] 1990[i] 1993 1999 2000 2005 2010 2015 2018[103] 2024
+Euro  —  —  —  —  — 0.9387 1.0832 0.8033 0.6739 0.9015 0.8504 0.9239
+Japanese yen 357.6 240.45 250.35 146.25 111.08 113.73 107.80 110.11 87.78 121.05 111.130 151.4551
+Pound sterling 8s 4d
+=0.4167 0.4484[ii] 0.8613[ii] 0.6207 0.6660 0.6184 0.6598 0.5493 0.4548 0.6544 0.7454 0.7827
+Swiss franc 4.12 1.68 2.46[104] 1.39 1.48 1.50 1.69 1.15 1.03 1.00 0.98 0.8808
+Canadian dollar[105] 1.081 1.168 1.321 1.1605 1.2902 1.4858 1.4855 1.2115 1.0298 1.2789 1.2842 1.3699
+Mexican peso[106] 0.0195[iii] 2.80[iii] 2.67[iii] 2.50[iii] 3.1237 9.553 9.459 10.894 12.623 15.837 19.911 18.3062
+Soviet[107] / Russian ruble[108] 0.9000 0.6395 0.9200 0.6072 1.0037 24.6489 28.1287 28.1910 30.3679 61.3400 62.9502 92.6567
+Chinese Renminbi[109] 2.46 1.7050 2.9366 4.7832 5.7620 8.2783 8.2784 8.1936 6.7696 6.2840 6.383 7.1957
+Pakistani rupee 4.761 9.9 15.9284 21.707 28.107 51.9 51.9 59.7 85.75 104.763 139.850 278.390
+Singapore dollar  —  — 2.179 1.903 1.6158 1.6951 1.7361 1.6639 1.24586 1.3748 1.343 1.3363
+South Korean won 310.556 607.717 870.020 707.766 802.538 1189.439 1130.362 1024.328 1156.460 1130.953 1100.163 1363.438
+US dollar exchange rates graphs against Euro (from 1999), Pound sterling and Japanese yen (both from 1990)
+(on the first two - the amount of dollars per one euro and pound, on the third - the amount of yens per one dollar)
+US dollar exchange rates graphs against Canadian dollar (from 1990), Mexican peso (from 1994) and Chinese Renminbi (from 1990)
+(the amount of Canadian dollars, pesos and renminbi per one dollar)
+Current exchange rates
+Current USD exchange rates
+From Google Finance:  AUD CAD CHF CNY EUR GBP HKD JPY CAD TWD KRW
+From Yahoo! Finance:  AUD CAD CHF CNY EUR GBP HKD JPY CAD TWD KRW
+From XE.com:  AUD CAD CHF CNY EUR GBP HKD JPY CAD TWD KRW
+From OANDA:  AUD CAD CHF CNY EUR GBP HKD JPY CAD TWD KRW
+See also
+Counterfeit United States currency
+Dedollarisation
+Currency substitution
+International use of the U.S. dollar
+List of the largest trading partners of the United States
+Monetary policy of the United States
+Petrodollar recycling
+Strong dollar policy
+U.S. Dollar Index
+Virtual currency
+Notes
+↑ Only dollars and cents are written in practice (e.g. "$0.50" or "50¢"), but the dime was defined as an independent subunit in the Coinage Act 1792.[1] As a result, the coin's inscription reads "ONE DIME" and does not use cents.[2]
+↑ Minted for collectors only since 2025, but still widely used.
+↑ Coins denominated at $25, $50, and $100 have also been released as bullion or commemorative coins, which are not meant for circulation.
+↑ Also abbreviated US$ to distinguish it from other dollar-denominated currencies; referred to as the dollar, U.S. dollar, American dollar, or colloquially buck
+↑ The dollar is also technically divided into two other subunits: with ten dimes, and 1000 mills in each dollar. In practice, neither usually function as modern units of account (only dollars and cents do), and the mill is now only used in accounting.
+↑ Silver bullion can be converted in unlimited quantities of Trade dollars of 420 grains, but these were meant for export and had legal tender limits in the US. See Trade dollar (United States coin).
+↑  Obverse
+↑  Reverse
+↑ See Federal Reserve Note § Lawsuit over U.S. banknote design for details and references.
+1 2 3 4 Mexican peso values prior to 1993 revaluation
+1 2 1970–1992 Archived October 23, 2018, at the Wayback Machine. 1980 derived from AUD–USD=1.1055 and AUD–GBP=0.4957 at end of Dec 1979: 0.4957/1.1055=0.448394392; 1985 derived from AUD–USD=0.8278 and AUD–GBP=0.7130 at end of Dec 1984: 0.7130/0.8278=0.861319159.
+1 2 3 4 Value at the start of the year
+References
+1 2 3 Fitzpatrick, John C., ed. (1934). "Tuesday, August 8, 1786". Journals of the Continental Congress 1774–1789. XXXI: 1786: 503–505. Archived from the original on May 7, 2021. Retrieved December 5, 2019.
+↑ "Dime". www.usmint.gov. Retrieved August 8, 2026.
+1 2 3 U.S. Congress. 1792. Coinage Act of 1792. 2nd Congress, 1st Session. Sec. 9, ch. 16. Retrieved June 6, 2020.
+↑ "A Constitutional Dollar". Mises.org. March 10, 2010.
+↑ "Nixon Ends Convertibility of US Dollars to Gold and Announces Wage/Price Controls". Federal Reserve Bank of Richmond. Archived from the original on November 20, 2020. Retrieved October 17, 2018.
+↑ "The Implementation of Monetary Policy – The Federal Reserve in the International Sphere" (PDF). Archived (PDF) from the original on April 27, 2017. Retrieved October 17, 2018.
+↑ Cohen, Benjamin J. 2006. The Future of Money, Princeton University Press. ISBN 0-691-11666-0.
+↑ Agar, Charles. 2006. Vietnam, (Frommer's). ISBN 0-471-79816-9. p. 17: "the dollar is the de facto currency in Cambodia."
+↑ "FRB: H.4.1 Release - Factors Affecting Reserve Balances - February 11, 2021". Federal Reserve. Archived from the original on March 5, 2021. Retrieved January 5, 2026.
+↑ "Federal Reserve Balance Sheet: Factors Affecting Reserve Balances - H.4.1". January 2, 2025. Archived from the original on January 11, 2025.
+1 2 "Section 8 of Article 1 of the United States Constitution". Topics.law.cornell.edu. Archived from the original on November 18, 2021. Retrieved October 17, 2018.
+↑ Denominations, specifications, and design of coins. 31 U.S.C. § 5112.
+↑ U.S. Constitution, Article 1, Section 9. para. 7 Archived November 18, 2021, at the Wayback Machine.
+↑ Reports. 31 U.S.C. § 331.
+↑ "Financial Report of the United States Government" (PDF). Department of the Treasury. 2009. Archived from the original (PDF) on November 13, 2018. Retrieved October 17, 2018.
+↑ Peters, Richard, ed. (1845). "Second Congress. Sess. I. Ch. 16". The Public Statutes at Large of the United States of America, Etc. Etc. 1: 246–251. Archived from the original on November 13, 2020. Retrieved December 5, 2019.
+↑ Langland, Connie (May 27, 2015). "What is a millage rate and how does it affect school funding?". WHYY. PBS and NPR. Archived from the original on March 7, 2021. Retrieved December 5, 2019.
+↑ "Mills Currency". Past & Present. Stamp and Coin Place Blog. September 26, 2018. Archived from the original on May 3, 2021. Retrieved December 5, 2019.
+1 2 "How much is "two bits" and where did the phrase". Archived from the original on August 14, 2021. Retrieved June 9, 2021.
+↑ "Decimal Trading Definition and History". Archived from the original on November 18, 2021. Retrieved June 10, 2021.
+↑ Mehl, B. Max. "United States $50.00 Gold Pieces, 1877", in Star Rare Coins Encyclopedia and Premium Catalogue (20th edition, 1921)
+1 2 "Ask US." National Geographic. June 2002. p. 1.
+↑ There is no solid reference on the desirability of liondollars in North America and on 1:1 parity with heavier dollars. A dollar worth $0.80 Spanish is not cheap if priced at $0.50 http://coins.lakdiva.org/netherlands/1644_wes_lion_daalder_ag.html Archived February 5, 2013, at the Wayback Machine https://coins.nd.edu/ColCoin/ColCoinIntros/Lion-Dollar.intro.html Archived July 10, 2018, at the Wayback Machine
+↑ "Buck". Online Etymology Dictionary. Archived from the original on September 29, 2018. Retrieved October 17, 2018.
+↑ "Paper Money Glossary". Littleton Coin Company. Archived from the original on October 18, 2018. Retrieved October 17, 2018.
+↑ Scutt, David (June 3, 2019). "The Australian dollar is grinding higher as expectations for rate cuts from the US Federal Reserve build". Business Insider. Archived from the original on August 7, 2019. Retrieved August 7, 2019.
+↑ Tappe, Anneken (August 9, 2018). "New Zealand dollar leads G-10 losers as greenback gains strength". MarketWatch. Archived from the original on August 7, 2019. Retrieved August 7, 2019.
+↑ "South Africa's rand firms against greenback, stocks rise". Reuters. Retrieved August 7, 2019.
+↑ "Why rupee is once again under pressure". Business Today. April 22, 2019. Archived from the original on April 25, 2025. Retrieved August 7, 2019.
+↑ Cajori, Florian ([1929]1993). A History of Mathematical Notations (Vol. 2). New York: Dover, 15–29. ISBN 0-486-67766-4
+↑ Aiton, Arthur S.; Wheeler, Benjamin W. (1931). "The First American Mint". The Hispanic American Historical Review. 11 (2). p. 198 and note 2 on p. 198. doi:10.1215/00182168-11.2.198. ISSN 0018-2168. JSTOR 2506275.
+↑ Nussbaum, Arthur (1957). A History of the Dollar. New York: Columbia University Press. p. 56. The dollar sign, $, is connected with the peso, contrary to popular belief, which considers it to be an abbreviation of 'U.S.' The two parallel lines represented one of the many abbreviations of 'P,' and the 'S' indicated the plural. The abbreviation '$.' was also used for the peso, and is still used in Argentina.
+↑ "U.S. Bureau of Engraving and Printing – FAQs". www.bep.gov. Archived from the original on October 18, 2018. Retrieved October 17, 2018.
+↑ "From the Spanish dollar to the US dollar". Iberdrola. Retrieved July 23, 2025.
+↑ Rand, Ayn. [1957] 1992. Atlas Shrugged. Signet. p. 628.
+↑ James, James Alton (1970) [1937]. Oliver Pollock: The Life and Times of an Unknown Patriot. Freeport: Books for Libraries Press. p. 356. ISBN 978-0-8369-5527-9.
+↑ "Coinage Act of 1792". U.S. treasury. April 6, 2017. Archived from the original on November 8, 2020. Retrieved October 17, 2018.
+↑ Mason, Seth (January 7, 2013). "The Definitive Inflation Chart". Ecominoes. Archived from the original on October 19, 2018..
+↑ Sumner, W. G. (1898). "The Spanish Dollar and the Colonial Shilling". The American Historical Review. 3 (4): 607–619. doi:10.2307/1834139. JSTOR 1834139. Archived from the original on April 9, 2022. Retrieved June 7, 2021.
+↑ "United States Dollar". OANDA. Archived from the original on October 18, 2018. Retrieved October 17, 2018.
+↑ "Engraving and printing currency and security documents:Article b". Legal Information Institute. Archived from the original on December 20, 2013. Retrieved December 19, 2013.
+↑ Matt Soniak (July 22, 2011). "On the Money: Everything You Ever Wanted to Know About Coin Portraits". Mental Floss. Archived from the original on October 8, 2018. Retrieved October 17, 2018.
+↑ Newman, Eric P. (1990). The Early Paper Money of America (3 ed.). Iola, Wisconsin: Krause Publications. p. 17. ISBN 0-87341-120-X.
+↑ Wright, Robert E. (2008). One Nation Under Debt: Hamilton, Jefferson, and the History of What We Owe. New York, New York: McGraw-Hill. pp. 50–52. ISBN 978-0-07-154393-4.
+↑ Anderson, Gordon T. April 25, 2005. "Congress tries again for a dollar coin Archived March 21, 2022, at the Wayback Machine." CNN Money.
+↑ Christian Zappone (July 18, 2006). "Kill-the-penny bill introduced". CNN Money. Archived from the original on July 28, 2019. Retrieved October 17, 2018.
+↑ Weinberg, Ali (February 19, 2013). "Penny pinching: Can Obama manage elimination of one-cent coin?". NBC News. Archived from the original on October 18, 2018. Retrieved October 17, 2018.
+↑ "United States Mint Hosts Historic Ceremonial Strike for Final Production of the Circulating One-Cent Coin". www.usmint.gov. Retrieved November 12, 2025.
+↑ Gibbs, William T. (June 29, 2023). "Series 2021 dollar notes now being found in circulation". Coin World. Retrieved April 26, 2024.
+↑ Meyersohn, Nathaniel (September 20, 2022). "Why it's time to start paying with $2 bills". CNN. Retrieved February 6, 2024.
+↑ "5 Dollars (Federal Reserve Note; colored) - United States". Numista. Archived from the original on June 7, 2023. Retrieved June 7, 2023.
+↑ "$100 Note | U.S. Currency Education Program". Archived from the original on August 20, 2020. Retrieved April 22, 2021.
+↑ "Section 411 of Title 12 of the United States Code". Law.cornell.edu. June 22, 2010. Archived from the original on June 27, 2019. Retrieved October 17, 2018.
+↑ "Section 5103 of Title 31 of the United States Code". Law.cornell.edu. August 6, 2010. Archived from the original on October 22, 2018. Retrieved October 17, 2018.
+↑ "Section 5115 of Title 31 of the United States Code". Law.cornell.edu. August 6, 2010. Archived from the original on June 27, 2019. Retrieved October 17, 2018.
+↑ "Treasury Department Appropriation Bill for 1929: Hearing Before the Subcommittee of House Committee on Appropriations... Seventieth Congress, First Session". 1928.
+↑ Schwarz, John; Lindquist, Scott (September 21, 2009). Standard Guide to Small-Size U.S. Paper Money – 1928-Date. Penguin. ISBN 9781440225789.
+↑ Orzano, Michele (February 25, 2015). "What is a horse blanket note?". Coin World. Archived from the original on November 29, 2021.
+↑ "Ecuador". CIA World Factbook. October 18, 2010. Archived from the original on January 10, 2021. Retrieved October 17, 2018. The dollar is legal tender
+↑ "El Salvador". CIA World Factbook. October 21, 2010. Archived from the original on May 7, 2021. Retrieved October 17, 2018. The US dollar became El Salvador's currency in 2001
+↑ "Currency". Central Bank of Liberia. Archived from the original on January 15, 2023. Retrieved January 15, 2023.
+↑ "Central Bank of Timor-Leste". Archived from the original on May 1, 2019. Retrieved March 22, 2017. The official currency of Timor-Leste is the United States dollar, which is legal tender for all payments made in cash.
+↑ Nay Im, Tal; Dabadie, Michel (March 31, 2007). "Dollarization in Cambodia" (PDF). National Bank of Cambodia. Archived (PDF) from the original on May 11, 2022. Retrieved April 11, 2022.
+↑ Nagumo, Jada (August 4, 2021). "Cambodia aims to wean off US dollar dependence with digital currency". Nikkei Asia. Archived from the original on April 15, 2022. Retrieved April 11, 2022. Cambodia runs a dual-currency system, with the U.S. dollar widely circulating in its economy. The country's dollarization began in the 1980s and 90s, following years of civil war and unrest.
+↑ Rivera, Juan Carlos (November 23, 2023). "Roatán prefiere cobrar en dólares o lempiras; no bitcóin" [Roatán prefers to charge in dollars or lempiras; not bitcoin]. laprensa.hn (in Spanish). La Prensa. Retrieved July 12, 2024.
+↑ "Lebanon leans on US dollar to cope as currency, economy tank". Associated Press. March 6, 2023. Archived from the original on March 16, 2025. Retrieved November 1, 2024.
+↑ Zerpa, Fabiola (November 5, 2019). "Venezuela Is Now More Than 50% Dollarized, Study Finds". Bloomberg. Archived from the original on June 27, 2024. Retrieved November 9, 2019.
+↑ "Maduro says 'thank God' for dollarization in Venezuela". Reuters. November 17, 2019. Archived from the original on April 4, 2023. Retrieved November 18, 2019.
+↑ "Federal Reserve Board – Purposes & Functions". Archived from the original on March 26, 2020. Retrieved June 11, 2021.
+↑ "Conducting Monetary Policy" (PDF). United States Federal Reserve. Archived (PDF) from the original on August 11, 2021. Retrieved August 23, 2021.
+↑ "St. Louis Adjusted Monetary Base". Federal Reserve Bank of St. Louis. February 15, 1984. Archived from the original on October 17, 2018. Retrieved October 17, 2018.
+↑ "Fact Sheets: Currency & Coins". United States Department of the Treasury. Archived from the original on October 18, 2018. Retrieved October 17, 2018.
+↑ "'The Silver Way' Explains How the Old Mexican Dollar Changed the World". April 30, 2017. Archived from the original on May 16, 2021. Retrieved June 8, 2021.
+↑ Eichengreen, Barry; Flandreau, Marc (2009). "The rise and fall of the dollar (or when did the dollar replace sterling as the leading reserve currency?)". European Review of Economic History. 13 (3): 377–411. doi:10.1017/S1361491609990153. ISSN 1474-0044. S2CID 154773110. Archived from the original on January 7, 2023. Retrieved April 16, 2021.
+↑ "How a 1944 Agreement Created a New World Order". Archived from the original on May 20, 2021. Retrieved June 8, 2021.
+↑ "MAJOR FOREIGN HOLDERS OF TREASURY SECURITIES". US Treasury. March 15, 2023. Archived from the original on November 23, 2010. Retrieved May 22, 2023.
+↑ "SWIFT oversight". Archived from the original on June 16, 2023. Retrieved June 8, 2021.
+↑ "Sanctions Programs and Country Information | U.S. Department of the Treasury". Archived from the original on June 16, 2023. Retrieved June 8, 2021.
+↑ "Impact of the Dollar on Commodity Prices". Archived from the original on March 1, 2023. Retrieved June 8, 2021.
+↑ "Dollar Bond". Archived from the original on June 8, 2021. Retrieved June 8, 2021.
+↑ Bernanke, Ben S. (January 7, 2016). "The dollar's international role: An "exorbitant privilege"?". Archived from the original on June 8, 2021.
+↑ Mohsin, Saleha (January 21, 2021). "The Strong Dollar". Bloomberg. Archived from the original on August 22, 2021. Retrieved August 23, 2021.
+↑ "Section 9 of the Coinage Act of 1792". American Memory - Library of Congress. Archived from the original on July 29, 2020. Retrieved August 24, 2010.
+1 2 3 "Measuring Worth – Purchasing Power of Money in the United States from 1774 to 2010". Archived from the original on June 16, 2023. Retrieved April 22, 2010.
+↑ Olivier Blanchard (2000). Macroeconomics (2nd ed.), Englewood Cliffs, N.J: Prentice Hall, ISBN 0-13-013306-X
+1 2 "Consumer Price Index Frequently Asked Questions". Archived from the original on October 18, 2018. Retrieved October 16, 2018.
+↑ Milton Friedman, Anna Jacobson Schwartz (November 21, 1971). A monetary history of the United States, 1867–1960. Princeton University Press. p. 546. ISBN 978-0691003542.
+↑ Friedman 189–190
+1 2 Broaddus Jr., J. Alfred (September 1, 1993). "Central Banking—Then and Now". Federal Reserve Bank of Minneapolis. Archived from the original on October 26, 2018. Retrieved October 17, 2018.
+1 2 3 Emery, Kenneth M. "Controlling Inflation: A Historical Perspective" (PDF). Federal Reserve Bank of Dallas. Archived from the original (PDF) on December 7, 2010. Retrieved July 17, 2010.
+↑ Ferguson, Roger W. Jr. (November 3, 2005). "Monetary Credibility, Inflation, and Economic Growth". FRB. Archived from the original on August 15, 2010. Retrieved July 17, 2010.
+↑ "What are the goals of U.S. monetary policy?". Federal Reserve Bank of San Francisco. February 6, 2004. Archived from the original on October 18, 2018. Retrieved October 17, 2018.
+1 2 Rafael M. Di Tella and Ingrid Vogel (December 2001). "Argentina's Convertibility Plan". Harvard Business School. Retrieved September 24, 2024.
+1 2 "Pegged and Crawling Pegged Rate Systems". UNCG. Retrieved September 24, 2024.
+1 2 3 "Exchange Rate Systems". University of Minnesota. Retrieved September 24, 2024.[dead link]
+↑ Nora Lustig (June 1, 1995). "The Mexican Peso Crisis: The Foreseeable and the Surprise". Brookings Institution. Retrieved September 24, 2024.
+↑ "What's Behind the Volatility of Mexico's Peso?". Knowledge at Wharton. March 9, 2016. Retrieved September 24, 2024.
+↑ "Archiwum kursów średnich – tabela A (CSV, XLS)".
+↑ U.S. Federal Reserve: Last 4 years Archived October 18, 2018, at the Wayback Machine, 2009–2012 Archived October 18, 2018, at the Wayback Machine, 2005–2008 Archived October 18, 2018, at the Wayback Machine, 2001–2004 Archived October 18, 2018, at the Wayback Machine, 1997–2000 Archived October 18, 2018, at the Wayback Machine, 1993–1996 Archived October 18, 2018, at the Wayback Machine; Reserve Bank of Australia: 1970–present Archived October 23, 2018, at the Wayback Machine
+↑ "2004–present". Archived from the original on July 23, 2014. Retrieved July 24, 2014.
+↑ "FRB: Foreign Exchange Rates – G.5A; Release Dates". Board of Governors of the Federal Reserve System. Archived from the original on August 3, 2014. Retrieved July 23, 2014.
+↑ "Exchange rates". OECD. Archived from the original on February 1, 2018. Retrieved March 28, 2024.
+↑ "Historical Exchange Rates Currency Converter". TransferMate.com. Archived from the original on September 18, 2016. Retrieved September 10, 2016.
+↑ "Exchange Rates Between the United States Dollar and the Swiss Franc Archived March 30, 2019, at the Wayback Machine." Measuring Worth. Retrieved October 17, 2018.
+↑ 1977–1991
+↑ "International Economics - Historial Exchange Rate Regime of Asian Countries". intl.econ.cuhk.edu.hk. Archived from the original on December 30, 2014. Retrieved July 24, 2014.
+↑ Soviet ruble until 1991 | "Archive". Central Bank of Russia. Archived from the original on February 3, 2013. Retrieved September 11, 2012.
+↑ Russian ruble 1992 onwards | USD exchange rates in RUB Archived 11 June 2018 at the Wayback Machine, Bank of Russia
+↑ 1974–1991, 1993–1995
+Further reading
+Prasad, Eswar S. (2014). The Dollar Trap: How the U.S. Dollar Tightened Its Grip on Global Finance. Princeton, NJ: Princeton University Press. ISBN 978-0-691-16112-9.
+External links
+United States dollar at Wikipedia's sister projects
+Definitions from Wiktionary
+Media from Commons
+Quotations from Wikiquote
+Texts from Wikisource
+Textbooks from Wikibooks
+Resources from Wikiversity
+U.S. Bureau of Engraving and Printing Archived May 30, 1997, at the Wayback Machine
+U.S. Currency and Coin Outstanding and in Circulation
+American Currency Exhibit at the San Francisco Federal Reserve Bank Archived June 7, 2023, at the Wayback Machine
+Relative values of the U.S. dollar, from 1774 to present
+Historical Currency Converter
+Summary of BEP Production Statistics
+The U.S. Currency Education Program
+Images of U.S. currency and coins
+U.S. Currency Education Program page with images of all current banknotes
+U.S. Mint: Image Library
+Historical and current banknotes of the United States (in English and German)
+v
+t
+e
+Coinage of the United States
+Circulating
+1¢
+5¢
+10¢
+25¢
+50¢
+$1
+Obsolete
+1⁄2¢
+1¢ (Fugio)
+1¢ (large size)
+2¢
+3¢ (silver)
+3¢ (nickel)
+5¢ (silver)
+20¢
+$1 (gold)
+$2.5
+$3
+$5
+$10
+$20
+Canceled
+2¢ (billon)
+2+1⁄2¢
+3¢ (bronze)
+$2
+$4
+$50
+$100
+Commemorative
+1800s
+1900s
+1910s
+1920s
+1930s
+1940s
+1950s
+1970s
+1980s
+1990s
+2000s
+2010s
+2020s
+Bullion
+Silver Eagle (1986–present)
+Gold Eagle (1986–present)
+Platinum Eagle (1997–present)
+Gold Buffalo (2006–present)
+First Spouse (gold) (2007–2016; 2020)
+Palladium Eagle (2017–present)
+America the Beautiful silver bullion coins (2010–2021)
+American Liberty high relief gold coin (2015–present)
+Special sets
+Proof Set (1936–present)
+Mint Set (1947–present)
+Special Mint Set (1964–1967)
+Souvenir Set (1972–1998)
+Silver Proof Set (1976, 1992–present)
+Prestige Set (1983–1997)
+v
+t
+e
+United States currency and coinage
+Topics
+U.S. dollar
+Federal Reserve System
+Federal Reserve Note
+U.S. Mint
+Denver
+Philadelphia
+San Francisco
+West Point
+Carson City
+Charlotte
+Dahlonega
+New Orleans
+Manila Mint
+The Dalles Mint
+Bureau of Engraving and Printing
+Mutilated currency
+Current coinage
+Penny (1¢)
+Nickel (5¢)
+Dime (10¢)
+Quarter (25¢)
+Half dollar (50¢)
+Dollar ($1)
+Bullion coinage
+America the Beautiful (silver)
+American Silver Eagle
+American Gold Eagle
+American Buffalo (gold)
+First Spouse (gold)
+American Platinum Eagle
+American Palladium Eagle
+American Liberty (gold)
+Current paper money
+$1
+$2
+$5
+$10
+$20
+$50
+$100
+Discontinued denominations
+$500
+$1,000
+$5,000
+$10,000
+$100,000
+Proposed denominations
+$250
+Related
+Art and engraving on United States banknotes
+Sesquicentennial coinage
+Bicentennial coinage
+Semiquincentennial coinage
+Black Eagle Silver Certificate
+Brasher Doubloon
+Commemoratives
+Confederate dollar
+Continental banknotes
+Continental dollar coin
+Funnyback
+Large denominations
+Obsolete denominations
+Canceled denominations
+Counterfeit United States currency
+Mill
+National Numismatic Collection
+Coin production
+In God We Trust
+E pluribus unum
+Annuit cœptis
+Novus ordo seclorum
+Nicknames
+Presidents of the United States on currency
+Replacement banknote
+Sales tax token
+Citizens Coinage Advisory Committee
+Promotional fake denominations
+Where's George?
+v
+t
+e
+Monetary policy and central banking in the United States (pre–1913)
+Monetary policy of the United States
+Commercial Revolution
+(1607–1760)
+Bills of credit (c. 1690–1750)
+Tobacco Inspection Act (1730)
+Maryland Tobacco Inspection Act of 1747
+Currency Acts (1751; 1764)
+1st Industrial Revolution
+(1760–1840)
+Second Continental Congress (1775–1780)
+U.S. dollar banknotes (1775–)
+Continental currency banknotes (1775–1779)
+American Revolutionary War inflation (1775–1783)
+Bank of Pennsylvania (1780–1781)
+U.S. Finance Superintendent (1781–1785)
+Bank of North America (1781–1791)
+Article I of the U.S. Constitution
+1787–1788; Section VIII
+Section X
+U.S. Treasury Department
+1789–1913; U.S. Treasury Secretary
+U.S. Treasury security (1789–present)
+Bank Bill of 1791
+First Bank of the United States (1791–1811)
+Coinage Act of 1792
+United States Mint (1792–1873)
+U.S. dollar coins (1792–)
+Half dime (1792–1873)
+1792 half disme
+Half cent (1793–1857)
+Large cent (1793–1857)
+Treasury Note (1812–1913)
+Second Bank of the United States, 1816–1836
+Suffolk Bank, 1818–1858
+McCulloch v. Maryland, 1819
+New York Safety Fund System, 1829–1842
+Bank War, 1832–1836
+Coinage Act of 1834
+Specie Circular
+Civil War Era
+(1840–1870)
+Wildcat banking (1836–1865)
+Forstall System (1842–1865)
+Independent Treasury (1846–1913)
+Coinage Act of 1849
+Three-cent silver (1851–1873)
+Coinage Act of 1853
+New York Clearing House Association (1853–1863)
+Coinage Act of 1857
+Demand Note (1861–1862)
+Legal Tender Act of 1862
+United States Note (1862–1971)
+Fractional currency (1862–1876)
+National Bank Acts (1863; 1864)
+Interest bearing note (1863–1865)
+National banks system (1863–1913)
+National Bank Note (1863–c. 1930)
+Gold certificate (1863–1933)
+Compound interest treasury note (1863–1864)
+Coinage Act of 1864
+Two-cent piece (1864–1873)
+Three-cent nickel (1865–1889)
+Contraction Act of 1866
+Public Credit Act of 1869
+2nd Industrial Revolution/
+Gilded Age
+(1870–1914)
+Legal Tender Cases
+Hepburn v. Griswold (1870)
+Currency Act of 1870
+National Gold Bank Note (1870–1875)
+Knox v. Lee (1871)
+Coinage Act of 1873
+Free silver
+Specie Payment Resumption Act (1875)
+Twenty-cent piece (1875–1878)
+Bland–Allison Act (1878)
+Silver certificate (1878–1964)
+Refunding Certificate (1879–1907)
+Juilliard v. Greenman (1884)
+Sherman Silver Purchase Act (1890)
+Treasury Note (1890–1891)
+Gold Standard Act (1900)
+Aldrich–Vreeland Act (1908)
+National Monetary Commission (1909–1912)
+Pujo Committee (1912–1913)
+Federal Reserve Act (1913)
+v
+t
+e
+Obsolete United States currency and coinage
+Topics
+United States coinage
+United States dollar
+History of the United States dollar
+Canceled denominations of United States currency
+Coins
+Half disme (1792)
+Half cent (1793–1857)
+Fugio cent (1787)
+Large cent (1793–1857)
+Two-cent piece (1864–1873)
+Three-cent nickel (1865–1889)
+Three-cent silver (1851–1873)
+Half dime (1792–1873)
+Twenty-cent piece (1875–1878)
+Gold coins
+Gold dollar (1849–1889)
+Quarter eagle (1796–1929)
+Three-dollar piece (1854–1889)
+Half eagle (1795–1929)
+Eagle (1795–1933)
+Double eagle (1850–1933; 2009)
+Currency
+Discontinued denominations
+Fractional currency
+Large denominations of currency
+five-hundred-dollar bill
+one-thousand-dollar bill
+five-thousand-dollar bill
+ten-thousand-dollar bill
+one-hundred-thousand-dollar bill
+Discontinued currency types
+Early American currency
+Continental currency
+Compound interest treasury note
+Demand Note
+Federal Reserve Bank Note
+Gold certificate
+Hawaii overprint note
+Interest bearing note
+National Bank Note
+National Gold Bank Note
+Refunding Certificate
+Silver certificate
+Educational Series
+History Instructing Youth
+Treasury or Coin Note
+Treasury Note (19th century)
+United States Note
+United States postal notes
+Related
+Black Eagle Silver Certificate
+Brasher Doubloon (1787)
+Funnyback
+v
+t
+e
+Currencies of Africa
+North
+Algerian dinar
+Egyptian pound
+Euro
+Libyan dinar
+Mauritanian ouguiya
+Moroccan dirham
+Sahrawi peseta (unrecognized)
+Sudanese pound
+Tunisian dinar
+Central
+Angolan kwanza
+Burundian franc
+Central African CFA franc
+Congolese franc
+Rwandan franc
+East
+Comorian franc
+Djiboutian franc
+Eritrean nakfa
+Ethiopian birr
+Kenyan shilling
+Seychellois rupee
+Somali shilling
+Somaliland shilling (unrecognized)
+South Sudanese pound
+Tanzanian shilling
+Ugandan shilling
+South
+Botswana pula
+Sterling
+Euro
+Lesotho loti
+Malagasy ariary
+Malawian kwacha
+Mauritian rupee
+Mozambican metical
+Namibian dollar
+Saint Helena pound
+South African rand
+Swazi lilangeni
+Zambian kwacha
+Zimbabwean ZiG
+Mosi-oa-Tunya (bullion coin)
+West
+Cape Verdean escudo
+Euro
+Gambian dalasi
+Ghanaian cedi
+Guinean franc
+Liberian dollar
+Nigerian naira
+São Tomé and Príncipe dobra
+Sierra Leonean leone
+U.S. dollar
+West African CFA franc
+v
+t
+e
+Currencies of Asia
+Central
+Kazakhstani tenge
+Kyrgyz som
+Tajikistani somoni
+Turkmen manat
+Uzbekistani sum
+East
+Renminbi (yuan)
+Hong Kong dollar
+Japanese yen
+North Korean won
+South Korean won
+Macanese pataca
+Mongolian tögrög
+New Taiwan dollar
+North
+Russian ruble
+South
+Afghan afghani
+Bangladeshi taka
+Bhutanese ngultrum
+Indian rupee
+Maldivian rufiyaa
+Nepalese rupee
+Pakistani rupee
+Pound sterling
+Sri Lankan rupee
+U.S. dollar
+Southeast
+Australian dollar
+Brunei dollar
+Cambodian riel
+Indonesian rupiah
+Lao kip
+Malaysian ringgit
+Myanmar kyat
+Philippine peso (piso)
+Singapore dollar
+Thai baht
+Timor-Leste centavo coins
+U.S. dollar
+Vietnamese đồng
+West
+Abkhazian apsar*
+Armenian dram
+Azerbaijani manat
+Bahraini dinar
+Egyptian pound
+Emirati dirham
+Euro
+Georgian lari
+Iranian rial
+Iraqi dinar
+Israeli new shekel
+Jordanian dinar
+Kuwaiti dinar
+Lebanese pound
+Omani rial
+Qatari riyal
+Saudi riyal
+South Ossetian Zarin*
+Syrian pound
+Turkish lira
+Yemeni rial
+v
+t
+e
+Currencies of the Americas
+North
+Canadian dollar
+Danish krone
+Euro
+Mexican peso
+U.S. dollar
+Caribbean
+Aruban florin
+Bahamian dollar
+Barbadian dollar
+Bermudian dollar
+Caribbean guilder
+Cayman Islands dollar
+Cuban peso
+Dominican peso
+East Caribbean dollar
+Euro
+Haitian gourde
+Jamaican dollar
+Trinidad and Tobago dollar
+U.S. dollar
+Central
+Belize dollar
+Costa Rican colón
+Guatemalan quetzal
+Honduran lempira
+Nicaraguan córdoba
+Panamanian balboa
+U.S. dollar
+Salvadoran colón(non-circulating)
+South
+Argentine peso
+Bolivian boliviano
+Brazilian real
+Chilean peso
+Colombian peso
+Euro
+Ecuadorian centavo coins
+Falkland Islands pound
+Guyanese dollar
+Paraguayan guaraní
+Peruvian sol
+Sterling
+Surinamese dollar
+Uruguayan peso
+U.S. dollar
+Venezuelan bolívar
+v
+t
+e
+Currencies of Oceania
+Australia
+Australian dollar
+Melanesia
+Australian dollar
+CFP franc
+Fijian dollar
+Indonesian rupiah
+Papua New Guinean kina
+Solomon Islands dollar
+Vanuatu vatu
+Micronesia
+Australian dollar
+Kiribati dollar
+U.S. dollar
+Polynesia
+Australian dollar
+CFP franc
+Chilean peso
+Cook Islands dollar
+New Zealand dollar
+Niue dollar (noncirculating)
+Pitcairn Islands dollar (noncirculating)
+Samoan tālā
+Tongan paʻanga
+Tuvaluan dollar
+U.S. dollar
+v
+t
+e
+Currencies named dollar or similar
+Circulating
+Australian dollar
+Bahamian dollar
+Barbadian dollar
+Belize dollar
+Bermudian dollar
+Brunei dollar
+Canadian dollar
+Cayman Islands dollar
+Cook Islands dollar
+Eastern Caribbean dollar
+Fijian dollar
+Guyanese dollar
+Hong Kong dollar
+Jamaican dollar
+Kiribati dollar
+Liberian dollar
+Namibian dollar
+New Zealand dollar
+Samoan tālā
+Singapore dollar
+Solomon Islands dollar
+Surinamese dollar
+New Taiwan dollar
+Trinidad and Tobago dollar
+Tuvaluan dollar
+United States dollar
+Obsolete and historical
+Antigua dollar
+British Columbia dollar
+British North Borneo dollar
+British West Indies dollar
+Ceylonese rixdollar
+Confederate States dollar
+Continental dollar
+Danish rigsdaler
+Danish West Indian daler
+Danish West Indian rigsdaler
+Dominican dollar
+Dutch rijksdaalder
+Greenlandic rigsdaler
+Grenadian dollar
+Hawaiian dollar
+Japanese occupation dollar
+Kiautschou dollar
+Malaya and British Borneo dollar
+Malayan dollar
+Mauritian dollar
+Mongolian dollar
+Nevisian dollar
+New Brunswick dollar
+Newfoundland dollar
+Norwegian rigsdaler
+Norwegian speciedaler
+Nova Scotian dollar
+Penang dollar
+Prince Edward Island dollar
+Puerto Rican dollar
+Rhodesian dollar
+Saint Kitts dollar
+Saint Lucia dollar
+Saint Vincent dollar
+Sarawak dollar
+Sierra Leonean dollar
+Slovenian tolar
+Spanish dollar
+Straits dollar
+Sumatran dollar
+Swedish riksdaler
+Old Taiwan dollar
+Texas dollar
+Trinidadian dollar
+Tobagonian dollar
+Zimbabwean dollar
+1980–2009
+2019–2024
+Toronto dollar
+Noncirculating
+Niue dollar
+Pitcairn Islands dollar
+Conceptual
+Eurodollar
+Petrodollar
+International dollar (Geary–Khamis dollar)
+Virtual
+Linden dollar
+Project Entropia Dollar
+Fictional
+Angus Bucks
+Private
+Calgary dollar
+Disney Dollars
+Salt Spring dollar
+Liberty dollar
+See also
+Dollar sign ($)
+Holey dollar
+Thaler
+Tolar
+Trade dollar
+Zimbabwean bond coins
+Zimbabwean bond notes
+v
+t
+e
+Canceled United States currency and coinage
+Topics
+United States coinage
+United States dollar
+History of the United States dollar
+Obsolete denominations of United States currency
+Coins
+Silver center cent (1792)
+Ring cent (1850–1851, 1853, 1884-1885)
+Two-cent billon (1836)
+Two and a half cent piece (not minted)
+Three-cent bronze (1863)
+Ring nickel (1884-1885)
+Two dollar piece (not minted)
+Gold coins
+Stella (1879–1880)
+Half union (1877)
+Union (not minted)
+Currency
+United States three-dollar bill
+v
+t
+e
+Economy of the United States
+Companies of the United States
+History
+History
+American School
+American System
+Industrial Revolution
+Gilded Age
+Industries
+Industry
+History
+Aquaculture
+Automotive
+Aviation
+Beer
+Biotechnology
+Cement
+Coffee
+Cotton
+Electric power
+Electronics
+Film
+Fishing
+Gambling
+Hedge fund
+Internet
+Media
+Mining
+Gold mining
+Pharmaceuticals and Pharmacy
+Publishing
+Radio
+Railway
+Real estate
+Renewable energy
+Steel
+Telecommunications
+Television
+Digital
+Tourism
+Textiles
+Video gaming
+Wine
+Special Economic Zones
+Empowerment Zone
+Opportunity Zone
+Targeted Employment Area
+Foreign Trade Zones
+Metropolitan Statistical Area
+Energy
+Energy policy
+Coal
+Oil
+Oil shale
+Oil refineries
+Nuclear
+Renewable
+Wind
+Solar
+Geothermal
+Trade and infrastructure
+Transportation
+Communications
+Postal history
+Tourism
+Shipping
+Illegal drug trade
+Committee on Foreign Investment in the United States
+Ports
+Water supply and sanitation
+Exports
+Trading partners
+Law and regulations
+Tax system
+Labor law
+Child labor laws
+Right-to-work law
+Minimum wage
+Food safety
+Finance and banking
+Financial services
+Dollar
+Bureau of Engraving and Printing
+Banking
+History
+Central bank
+Other banks
+Wall Street
+New York Stock Exchange (NYSE Composite)
+Nasdaq (Nasdaq Composite)
+Chicago Board of Trade
+New York Board of Trade
+Intercontinental Exchange
+Accounting
+Government institutions
+Department of the Treasury
+Department of Commerce
+Department of Labor
+Office of the United States Trade Representative
+Small Business Administration
+Internal Revenue Service
+National Labor Relations Board
+United States Trade and Development Agency
+Customs and Border Protection
+Office of the Comptroller of the Currency
+Consumer Financial Protection Bureau
+Securities and Exchange Commission
+Federal Deposit Insurance Corporation
+National Credit Union Administration
+United States International Trade Commission
+Statistics
+Development
+International rankings
+States by GDP
+Social welfare
+Poverty
+Labor force
+Unemployment
+Causes
+State unemployment rate
+Corruption
+Standard of living
+Urbanization
+Emigration
+International development
+U.S. International Development Finance Corporation
+Blue Dot Network
+Partnership for Global Infrastructure and Investment
+Export–Import Bank of the United States
+Economic initiatives
+AmeriCorps VISTA
+Job Corps
+Pathways out of Poverty
+Events
+2006–2012 housing bubble
+2008 financial crisis
+2008–2010 automotive industry crisis
+2008 economic stimulus plan
+China–United States trade war
+2025–2026 United States trade war with Canada
+2025–2026 United States trade war with Mexico
+Related topics
+Agriculture
+Bankruptcy
+Companies
+Largest
+Top 500
+SOEs
+Demographics
+National Standards
+FCC mark
+Made in USA
+List of Americans by net worth
+American economists
+Science and technology
+See also
+Category
+Outline of the United States
+Economy of North America
+v
+t
+e
+United States
+History
+By period
+1776–1789
+1789–1815
+1815–1849
+1849–1865
+1865–1917
+1917–1945
+1945–1964
+1964–1980
+1980–1991
+1991–2016
+2016–present
+By event
+Pre-colonial era
+Colonial era
+Stamp Act Congress
+Thirteen Colonies
+Continental Congress
+Continental Association
+United Colonies
+military history
+Founding Fathers
+Halifax Resolves
+Lee Resolution
+Declaration of Independence
+American Revolution
+War
+Treaty of Paris
+Articles of Confederation
+Perpetual Union
+Confederation period
+American frontier
+Constitution
+drafting and ratification
+Bill of Rights
+Federalist Era
+War of 1812
+Territorial evolution
+Mexican–American War
+Civil War
+Reconstruction era
+Indian Wars
+Native genocide
+Gilded Age
+Progressive Era
+Women's suffrage
+Civil rights movement
+1865–1896
+1896–1954
+1954–1968
+Spanish–American War
+Imperialism
+World War I
+Roaring Twenties
+Great Depression
+Attack on Pearl Harbor
+World War II
+American Century
+Assassination of John F. Kennedy
+Cold War
+Korean War
+Vietnam War
+Gulf War
+Space Race
+Feminist Movement
+LGBTQ Movement
+Post-Cold War (1991–2016)
+September 11 attacks
+War on Terror
+War in Afghanistan
+Iraq War
+Great Recession
+COVID-19 pandemic
+By topic
+Outline of U.S. history
+Demographic
+Discoveries
+Economic
+Environment
+Inventions
+Military
+Postal
+Technological and industrial
+Geography
+Territory
+Contiguous United States
+counties
+federal district
+federal enclaves
+Indian reservations
+insular zones
+minor outlying islands
+populated places
+states
+Earthquakes
+Extreme points
+Islands
+Mountains
+peaks
+ranges
+Appalachian
+Rocky
+Sierra Nevada
+National Park Service
+National Parks
+Regions
+East Coast
+West Coast
+Great Plains
+Gulf
+Mid-Atlantic
+Midwestern
+New England
+Pacific
+Central
+Eastern
+Northern
+Northeastern
+Northwestern
+Southern
+Southeastern
+Southwestern
+Western
+Longest rivers
+Arkansas
+Colorado
+Columbia
+Mississippi
+Missouri
+Red (South)
+Rio Grande
+Yukon
+Time
+Water supply and sanitation
+World Heritage Sites
+Politics
+Federal
+Executive
+President of the United States
+powers
+Executive Office
+Vice President
+Cabinet
+Executive departments
+Independent agencies
+Intelligence Community
+Director of National Intelligence
+Central Intelligence Agency
+National Security Agency
+National Reconnaissance Office
+Law enforcement
+ATF
+CBP
+Diplomatic Security
+DEA
+FBI
+ICE
+Marshals
+Secret Service
+TSA
+Inspectors general
+Civil service
+Public policy
+Legislative
+House of Representatives
+current members
+Speaker
+Senate
+current members
+President pro tempore
+President
+Capitol Police
+Library of Congress
+Congressional Budget Office
+Government Accountability Office
+Government Publishing Office
+Judicial
+Supreme Court
+Chief Justice
+Associate Justices
+list
+Courts of appeals
+list of judges
+District courts/Territorial courts
+list of courts
+list of judges
+Other tribunals
+U.S. attorney
+Law
+Bill of Rights
+civil liberties
+Code of Federal Regulations
+Constitution
+federalism
+preemption
+separation of powers
+civil rights
+United States Code
+Uniformed
+Armed Forces
+Army
+Marine Corps
+Navy
+Air Force
+Space Force
+Coast Guard
+National Guard
+NOAA Corps
+Public Health Service Corps
+State,
+Federal District,
+and Territorial
+Executive
+Governor
+list
+Lieutenant governor
+list
+Secretary of state
+Attorney general
+Treasurer
+Auditor/Comptroller
+Agriculture commissioner
+Insurance commissioner
+Public utilities commission
+State police
+list
+Legislative
+List of legislatures
+List of legislators
+Judicial
+Supreme courts
+Chief justices
+District attorney
+list
+Law
+State constitutions
+Statutory codes
+Uniform act
+Comparison of governments
+Tribal
+Tribal sovereignty
+Native American recognition in the United States
+Federally recognized tribes
+Federally recognized Alaska Native tribes
+State-recognized tribes
+Indian reservation
+list
+Hawaiian home land
+Local
+County
+List of counties and county equivalents
+County executive
+Sheriff
+Clerk
+Cities
+Consolidated city-county
+Independent city
+Coterminous municipality
+Charter
+Mayor–council government
+Council–manager government
+City commission government
+Mayor
+City manager
+City council
+Minor divisions
+Township
+Town meeting
+Special district
+School district
+list
+Corruption
+Democratic backsliding
+Elections
+Electoral College
+Red states and blue states
+Foreign relations
+foreign policy
+Imperial presidency
+Ideologies
+Anti-Americanism
+exceptionalism
+nationalism
+Parties
+Democratic
+Republican
+Third parties
+Scandals
+Economy
+By sector
+Agriculture
+Banking
+Communications
+Companies
+Energy
+Insurance
+Manufacturing
+Mining
+Science and technology
+Tourism
+Trade
+by state
+Currency
+Exports
+Federal budget
+Greenhouse gas emissions by the United States
+Federal Reserve System
+Financial position
+Labor unions
+Public debt
+Silicon Valley
+Social welfare programs
+Taxation
+Unemployment
+Wall Street
+Transport
+Aviation
+Driving
+Public transportation
+Rail transportation
+Transportation policy
+Transportation safety
+Trucking industry
+Society
+Culture
+Americana
+Architecture
+Cinema
+Crime
+Cuisine
+Dance
+Demographics
+Economic issues
+affluence
+eviction
+homeownership
+household income
+income inequality
+middle class
+personal income
+poverty
+standard of living
+wealth
+working class
+Education
+attainment
+literacy
+Family
+Fashion
+Flag
+list
+Folklore
+Holidays
+Federal holidays
+Homelessness
+Housing
+Human rights
+Languages
+American English
+Indigenous languages
+ASL
+Libraries
+Literature
+Media
+journalism
+internet
+newspapers
+radio
+television
+Music
+Names
+National anthem
+National symbols
+Columbia
+Mount Rushmore
+Statue of Liberty
+Uncle Sam
+People
+Philosophy
+Political ideologies
+Race
+Religion
+Sexuality
+Social class
+Society
+Sports
+history
+Theater
+Transportation
+Video games
+Visual art
+Social class
+Affluence
+American Dream
+Educational attainment
+Homelessness
+Homeownership
+Household income
+Income inequality
+Middle class
+Personal income
+Poverty
+Racial inequality
+Racial achievement gap
+Racial wage gap
+Standard of living
+Health
+Aging
+Healthcare
+Abortion
+Birth control
+Prenatal care
+Hospice care
+Immigrant health care
+Rationing
+Health care finance
+Health insurance costs
+Health care prices
+Prescription drug prices
+Disability
+Health insurance
+Food safety
+Physician shortage
+Poverty and health
+Race and health
+Obesity
+Medical deserts
+Women's reproductive health
+Life expectancy
+Issues
+Capital punishment
+Crime
+incarceration
+Criticism of government
+Discrimination
+affirmative action
+antisemitism
+intersex rights
+Islamophobia
+LGBTQ rights
+racism
+Native American
+African American
+Energy policy
+Environmental issues
+Environmental movement
+Climate change
+Gun politics
+Mass shootings
+Hunger
+Smoking
+Human rights
+Immigration
+illegal
+National security
+Terrorism
+Opioid epidemic
+Separation of church and state
+Xenophobia
+Outline
+Category
+Portal
+Portals:
+Money
+North America
+Numismatics
+Politics
+United States
+Authority control databases
+International
+GND
+National
+United States
+Czech Republic
+Latvia
+Israel
+Other
+Yale LUX
+Retrieved from "https://en.wikipedia.org/w/index.php?title=United_States_dollar&oldid=1380972888"
+Categories:
+Currencies with ISO 4217 code
+United States dollar
+1792 establishments in the United States
+Circulating currencies
+Currencies introduced in 1792
+Currencies of Africa
+Currencies of Asia
+Currencies of dependent territories of the United Kingdom
+Currencies of Ecuador
+Currencies of El Salvador
+Currencies of Oceania
+Currencies of Panama
+Currencies of the Kingdom of the Netherlands
+Currencies of the United States
+Currencies of Timor-Leste
+Dollar
+Historical currencies of the United States
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Wikipedia indefinitely semi-protected pages
+Wikipedia indefinitely move-protected pages
+Use American English from September 2018
+All Wikipedia articles written in American English
+Use mdy dates from March 2024
+Pages with non-numeric formatnum arguments
+Webarchive template wayback links
+CS1: long volume value
+All articles with unsourced statements
+Articles with unsourced statements from September 2022
+Articles with unsourced statements from November 2023
+Articles with unsourced statements from May 2023
+CS1 Spanish-language sources (es)
+Wikipedia articles in need of updating from April 2024
+All Wikipedia articles in need of updating
+All articles with dead external links
+Articles with dead external links from May 2026
+Pages using Sister project links with default search
+Articles with German-language sources (de)
+Search
+Search
+United States dollar
+175 languages   Add topic

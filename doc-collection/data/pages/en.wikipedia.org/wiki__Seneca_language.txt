@@ -1,0 +1,679 @@
+URL: https://en.wikipedia.org/wiki/Seneca_language
+
+Seneca language - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Iroquoian language
+Seneca
+Onödowaʼga꞉ʼ Gawë꞉noʼ
+Pronunciation [onɔ̃dowɑʔgɑːʔ gawẽːnoʔ]
+Native to United States, Canada
+Region Western New York and the Six Nations Reserve, Ontario
+Ethnicity Seneca
+Native speakers
+100 (2007)[1]
+Language family
+Iroquoian
+Northern
+Lake Iroquoian
+Five Nations
+Seneca
+Language codes
+ISO 639-3 see
+Glottolog sene1264
+ELP Seneca
+Map of the New York tribal nations before European arrival, showing the pre-contact distribution of Seneca in western New York
+Iroquoian people
+Algonquian people
+Seneca is classified as Severely Endangered by the UNESCO Atlas of the World's Languages in Danger
+This article contains IPA phonetic symbols. Without proper rendering support, you may see question marks, boxes, or other symbols instead of Unicode characters. For an introductory guide on IPA symbols, see Help:IPA.
+Seneca (/ˈsɛnəkə/;[2] in Seneca, Onödowaʼga꞉ʼ Gawë꞉noʼ, or Onötowáʼka꞉) is the language of the Seneca people, one of the Six Nations of the Hodínöhšö꞉ni꞉h (Haudenosaunee Confederacy or Iroquois League); it is an Iroquoian language, spoken at the time of contact in the western part of New York.[3] While the name Seneca, attested as early as the seventeenth century, is of obscure origins, the endonym Onödowaʼga꞉ʼ translates to "those of the big hill."[3] About 10,000 Seneca live in the United States and Canada, primarily on reservations in western New York, with others living in Oklahoma and near Brantford, Ontario. Since 2022 an active language revitalization program has been underway.[4][5]
+Classification and history
+[edit]
+Seneca is an Iroquoian language spoken by the Seneca people, one of the members of the Haudenosaunee Five (later, Six) Nations confederacy.[6] It is most closely related to the other Five Nations Iroquoian languages, Cayuga, Onondaga, Oneida, and Mohawk (and among those, it is most closely related to Cayuga).[3]
+Seneca is first attested in two damaged dictionaries produced by the French Jesuit missionary Julien Garnier around the turn of the eighteenth century. It is clear from these documents, and from early nineteenth century Seneca writings, that the eighteenth century saw an extremely high degree of phonological change, such that the Seneca collected by Garnier would likely be mutually unintelligible with modern Seneca.[7] Moreover, as these sound changes appear to be unique to Seneca, they have had the effect of making Seneca highly phonologically divergent from the languages most closely related to it, as well as making the underlying morphological richness of the language incredibly opaque.[8] Today, Seneca is spoken primarily in western New York, on three reservations, Allegany (Ohi꞉yoʼ), Cattaraugus (Ga’dä꞉gë́sgë꞉öʼ), and Tonawanda (Ta꞉nöwödeʼ), and in Ontario, on the Grand River Six Nations Reserve (Swe꞉gëʼ).[3][6] While the speech community has dwindled to approximately one hundred native speakers, revitalization efforts are underway.
+Language revitalization
+[edit]
+Bilingual stop signs, erected in 2016, on the Allegany Indian Reservation in Jimerson Town, New York. Top is in English; bottom is in Seneca.
+In 1998, the Seneca Faithkeepers School was founded as a five-day-a week school to teach children the Seneca language and tradition.[9] The School has published language learning tools and courses on the language-learning platform Memrise broken out by topic.[10]
+In 2010, K-5 Seneca language teacher Anne Tahamont received recognition for her work with students at Silver Creek School and in language documentation, presenting "Documenting the Seneca Language' using a Recursive Bilingual Education Framework" at the International Conference on Language Documentation and Conservation (ICLDC).[11]
+As of summer 2012,
+The fewer than 50 native speakers of the Seneca Nation of Indians' language would agree that it is in danger of becoming extinct. Fortunately, a $200,000 federal grant for the Seneca Language Revitalization Program has further solidified a partnership with Rochester Institute of Technology that will help develop a user-friendly computer catalogue allowing future generations to study and speak the language.
+The revitalization program grant, awarded to RIT's Native American Future Stewards Program, is designed to enhance usability of the Seneca language.[12]
+The project will develop "a user-friendly, web-based dictionary or guide to the Seneca language."[13] "Robbie Jimerson, a graduate student in RIT's computer science program and resident of the Cattaraugus Indian Reservation near Buffalo," who is working on the project, commented: "My grandfather has always said that a joke is funnier in Seneca than it is in English."[14] As of January 2013, a Seneca language app was under development.[15]
+As of fall 2012, Seneca language learners are partnering with fluent mentors, and a newsletter, Gae꞉wanöhgeʼ! Seneca Language Newsletter, is available online.[16]
+Although former Seneca-owned radio station WGWE (whose call sign derives from "gwe," a Seneca word roughly translating to "what's up?") broadcast primarily in English, it featured a daily "Seneca Word of the Day" feature before each noon newscast, broadcast a limited amount of Seneca-language music, and made occasional use of the Seneca language in its broadcasts in a general effort to increase awareness of the Seneca language by the general public.
+In 2013, the first public sports event was held in the Seneca language, when middle school students served as announcers for a lacrosse match.[17]
+Bilingual road signs, such as stop signs and speed limit signs, appear in the Seneca capital of Jimersontown; these signs were erected in 2016. Prior to this, as part of the upgrade to Interstate 86, the names of townships within the Allegany Indian Reservation were marked in Seneca along the highway in Comic Sans.[citation needed]
+Phonology
+[edit]
+Seneca words are written with 13 letters, three of which can be umlauted, plus the letter colon (꞉) and the acute accent mark. Seneca language is generally written in all-lowercase, and capital letters are only used rarely, even then only for the first letter of a word; all-caps is never used, even on road signs. The vowels and consonants are a, ä, e, ë, i, o, ö, h, j, k, n, s, t, w, y, and ʼ.[18][19] In some transliterations, t is replaced by d, and likewise k by g; Seneca does not have a phonemic differentiation between voiced and voiceless consonants (see below in Phonology 2.1: Consonants). The letter j can also be replaced by the three-letter combination tsy. (For example, a creek in the town of Coldspring, New York, and the community near it, bears a name that can be transliterated as either jo꞉negano꞉h or tsyo꞉nekano꞉h.)
+Consonants
+[edit]
+As per Wallace Chafe's 2015 grammar of Seneca, the consonantal and non-vocalic inventory of Seneca is as follows.[20] Note that orthographic representations of these sounds are given in angled brackets where different from the IPA transcription.
+Dental and
+alveolar  Postalveolar
+and palatal  Velar  Glottal
+Nasal  n
+Stop  voiceless  t    k  ʔ ⟨ʼ⟩
+voiced  d    g
+Affricate  voiceless  t͡s ⟨ts⟩  t͡ʃ ⟨č⟩
+voiced  d͡z ⟨dz⟩  d͡ʒ ⟨j⟩
+Fricative  s  ʃ ⟨š⟩    h
+Approximant    j ⟨y⟩  w
+Resonants
+[edit]
+A sign in the Seneca language on the Cattaraugus Reservation. This is also an unorthodox example of the use of capital letters in Seneca.
+j is a palatal semivowel. After [s], it is voiceless and spirantized [ç]. After [h], it is voiceless [j̊], in free variation with a spirant allophone [ç]. After [t] or [k], it is voiced and optionally spirantized [j], in free variation with a spirant allophone [ʝ]. Otherwise it is voiced and not spirantized [j].
+/w/ is a velar semivowel. It is weakly rounded [w̜].
+/n/ is a released apico-alveolar nasal [n̺].[21]
+Obstruents
+[edit]
+/t/ is an apico-alveolar stop [t̺]. It is voiceless and aspirated [t̺ʰ] before an obstruent or an open juncture (but is hardly audible between a nasalized vowel and open juncture). It is voiced and released [d̺] before a vowel and resonant.
+/k/ is a dorso-velar stop [k]. It is voiceless and aspirated [kʰ] before an obstruent or open juncture. It is voiced and released [g] before a vowel or resonant.
+/s/ is a spirant with blade-alveolar groove articulation [s]. It is always voiceless, and is fortified to [s˰][clarification needed] everywhere except between vowels. It is palatalized to [ʃ] before [j],[clarification needed] and lenited to [s˯][clarification needed] intervocalically.[21]
+/dʒ/ is a voiced postalveolar affricate [dʒ], and /dz/ is a voiced alveolar affricate [dz]. Before [i], it is optionally palatalized [dz] in free variation with [d͡ʑ].[clarification needed][8] Nevertheless, among younger speakers, it appears as though /dʒ/ and /dz/ are in the process of merging to [dʒ].[22]
+Similarly, /tʃ/ is a voiceless postalveolar affricate [tʃ], and /ts/ is a voiceless alveolar affricate [ts].[22]
+Laryngeal obstruents
+[edit]
+/h/ is a voiceless segment [h] colored[clarification needed] by an immediately preceding and/or following vowel and/or resonant.
+/ʔ/ is a glottal stop [ʔ], written ⟨ʼ⟩ and commonly substituted with ASCII ⟨´⟩.[8]
+Vowels
+[edit]
+The vowels can be subclassified into the oral vowels /i/, /e/, /æ/, /a/, and /o/, and the nasalized vowels /ɛ/ and /ɔ/. Of these vowels, /æ/ is relatively rare, an innovation not shared with other Five Nations Iroquoian languages; even rarer is /u/, a vowel only used to describe unusually small objects.[21][23] Note that orthographic representations of these sounds are given in angled brackets where different from the IPA transcription.
+Front  Back
+Close  i u
+Close-mid  e o
+Open-mid  ɛ̃ ⟨ë⟩ ɔ̃ ⟨ö⟩
+(Near)Open  æ ⟨ä⟩ ɑ ⟨a⟩
+The orthography described here is the one used by the Seneca Bilingual Education Project. The nasal vowels, /ɛ̃/ and /ɔ̃/, are transcribed with tremas on top: ⟨ë ö⟩. Depending on the phonetic environment, the nasal vowel ⟨ë⟩ may vary between [ɛ̃] and [œ̃], whereas ⟨ö⟩ may vary from [ɔ̃] to [ɑ̃].[23] Long vowels are indicated with a following ⟨:⟩, while stress is indicated with an acute accent over the top. /æ/ is transcribed as ⟨ä⟩.[24]
+Oral vowels
+[edit]
+/i/ is a high front vowel [i].
+/e/ is a high-mid front vowel. Its high allophone [ɪ] occurs in postconsonantal position before [i] or an oral obstruent. Its low allophone [e] occurs in all other environments.
+/æ/ is a low front vowel [æ].
+/a/ is a low back vowel. Its high allophone [ʌ] occurs in postconsonantal position before [i], [w], [j], or an oral obstruent. Its low allophone [ɑ] occurs in all other environments. Before [ɛ] or [ɔ], it is nasalized [æ̃].[clarification needed]
+/o/ is a mid back vowel. It is weakly rounded [ɔ̜]. Its high allophone [ʊ] occurs in postconsonantal position before [i] or an oral obstruent. Its low allophone [o] occurs in all other environments.[21]
+/u/ is a rounded high back vowel [u]. It has also, however, been recorded as unrounded [ɯ].[22]
+Nasal vowels
+[edit]
+/ɛ/ is a low-mid front vowel. It is nasalized [ɛ̃].
+/ɔ/ is a low back vowel. It is weakly rounded and nasalized [ɔ̃].[21]
+Diphthongs
+[edit]
+The following oral diphthongs occur in Seneca: ae, ai, ao, ea, ei, eo, oa, oe, and oi.
+The following nasal diphthongs occur as well: aö, eö, and oë.[clarification needed][25]
+Prosody
+[edit]
+Vowel length is marked with a colon ⟨꞉⟩, and open juncture by word space.[26] Long vowels generally occur in one of two environments: 1. In even-numbered (i.e. falling and even number of syllables from the beginning of the word) word-penultimate syllables not followed by a laryngeal stop; and 2. In odd-numbered penultimate syllables that A. are followed by only one non-vocalic segment before the succeeding vowel, B. are not followed by a laryngeal stop, and C. do not contain the vowel [a] (unless the syllable is word-initial). Moreover, vowels are often lengthened compensitorally as the reflex of a short vowel and an (elided) glottal segment (e.g. vowels are long preceding glottal fricatives elided before sonorants (*V̆hR > V̄R)).[27]
+Stress is either strong, marked with an acute accent mark (e.g. ⟨é⟩), or weak, which is unmarked (e.g. ⟨e⟩).[26] Seneca accented short vowels are typically higher in pitch than their unaccented counterparts, while accented long vowels have been recorded as having a falling pitch. Short vowels are typically accented in a trochaic pattern, when they appear in even-numbered syllables preceding A. a laryngeal obstruent, B. a cluster of non-vocalic segments, or C. an odd-numbered syllable containing either A or B. There does not appear to be any upper or lower limit on how many such syllables can be accented – every even-numbered syllable in a word can be accented, but none need be accented. Syllables can also be stressed by means of accent spreading, if an unaccented vowel is followed immediately by a stressed vowel (i.e. VV́ > V́V́). Additionally, word-initial and word-final syllables are underlyingly unaccented, although they can be given sentence level stress.[28]
+Syllable structure
+[edit]
+Seneca allows both open and closed syllables; a Seneca syllable is considered to be closed when the nucleus is followed by a cluster of multiple consonants. Moreover, [h] appears to be ambisyllabic intervocalically, and can be included in a cluster of multiple non-consonantal segments in the onset.[28]
+Morphology
+[edit]
+Seneca is a polysynthetic, agglutinative language with a rich verbal morphological system, and to a lesser extent, a fairly rich system of nominal morphology as well. Verbs constitute the majority of Seneca words (by one estimate, as much as eighty-five percent of different words),[29] and given the numerous classes of morphemes that can be added to the verb root, the multiple morphemes generally involved, and their variants, a very large number of Seneca verbs is grammatically possible. While most verb forms have multiple allomorphs, in most cases the variants of a morpheme cannot be reliably predicted from its phonological environment.
+Verbal morphology
+[edit]
+Composition of the verb base
+[edit]
+The verb base can be augmented by adding a derivational suffix, a middle voice or reflexive prefix, or an incorporated noun root. The common middle voice prefix describes actions performed by an agent and received by that same agent. Its forms, in descending order or prevalence, are as follows:[30]
+Forms of the middle voice prefix
+Morpheme  Environment
+-at-  Primarily, before roots beginning in vowels or resonants followed by a vowel.
+-ate-  Before most clusters of multiple consonants.
+-ë-  Before n, or laryngeal obstruents followed by n.
+-atë-  In the above environment, but with a historically distinct group of bases
+-ën-  Before some bases beginning with i.
+-an-  In the above environment, but with a historically distinct group of bases.
+-ër-  Before some bases beginning with ah.
+-ëni-, -a-  Each appears with one verb root each, -sʼoht-, "hand," and -tsëh-, "fire," respectively.
+The similar reflexive prefix is nearly semantically identical, the only difference being that the reflexive prefix more clearly distinguishes the two (unitary) roles of agent and recipient. Its forms are not regularly predictable by phonetic environment, and are derived from the underlying form -at-.
+A noun can be incorporated into the verb base by placing it before the middle voice or reflexive prefix (i.e. at the front of the base noun), such that that noun becomes the patient (or often, instrument or manner) of the verb. In between noun-final and prefix/verb root-initial consonants, the "stem-joining" vowel -a- is epenthesized. The following types of derivational suffixes can be added at the end of a base noun to alter the meaning of the verb; these are as follows (given with the underlying form or most common form of the suffix):
+Seneca derivational suffixes
+Name  Form  Translation or meaning  Notes
+Ambulative  -hne-  "while walking"
+Andative  -h-  Indicates that the agent travels to a different location to perform the action.
+Andative plus Purposive  -e-  Indicates that an event is imminent.
+Archaic Causative  -hw-  "cause," "make"  Far less common than the New Causative morpheme.
+Archaic Reversive  -hs-  Reverses the meaning of the verb; can often be translated as "un-" (e.g. "tie" > "untie").  Less common than the New Reversive morpheme.
+Benefactive  -ni-, -ne-  Indicates that an action has a beneficial or detrimental effect on some party; can be translated as "for him/her/them", etc.
+Directive  -n-  Indicates that an action takes place in the direction of a certain place; can be translated as "there", as in, "go there", "fly there".
+Distributive  -hö-  Indicates that the actions affects parties at multiple places in time and space.
+Double Distributive  -nyö-  Occasionally follows the distributive, does not appear to carry additional semantic weight.
+Eventuative  -hsʼ-  "eventually"
+Facilitative  -hsk-  "easily"
+Inchoative  -ʼ-  "become," "get," "come to be"
+Instrumental  -hkw-  "by means of"
+New Causative  -ht-  "cause," "make"  Far more common than the Archaic Causative morpheme.
+New Reversive  -kw-  Reverses the meaning of the verb; can often be translated as "un-" (e.g. "tie" > "untie").  More common than the Archaic Reversive morpheme.
+Aspect suffixes
+[edit]
+Seneca verbs consist of a verb base that represents a certain event or state, which always includes a verb root; this is always followed by an aspect suffix, and almost always preceded by a pronominal prefix. Pronominal prefixes can describe an agent, a patient, or the object of the verb, while aspect suffixes distinguish four verbal aspects: habitual, progressive, stative, and perfect. Bases are classified as "consequential" or "nonconsequential," on the basis of whether or not they "result in a new state of affairs." Nonconsequential bases use habitual aspect suffixes to describe habitual actions, and stative aspect stems to describe progressive actions. Consequential bases use habitual aspect suffixes to describe habitual or progressive actions, and stative aspect stems to describe perfect actions. Some verb roots are said to be stative-only; these typically describe long-lasting states (e.g. "to be heavy," "to be old," etc.). Habitual and stative roots are related to the ending of the verb base, but the relationship has become largely arbitrary, or at least inconsistent. Additionally, there is a common punctual suffix, an aspect suffix added to describe punctual events. It necessarily takes the "modal prefix," which precedes a pronominal prefix, and indicates the relationship of the action described in the verb to reality; these three prefixes are factual, future, and hypothetical. A list of forms of each of the stems is as follows:[31]
+Aspect suffixes in Seneca
+Aspect  Suffixes (listed in descending order of frequency)  Environment
+Forms of the habitual aspect suffix  -ahs, -aʼ, -aʼs, -eʼs, -ëh, -ëhs, -h, -haʼ, -hs, -öhs, -s, -ʼs  Phonologically unconditioned
+Forms of the stative aspect suffix  -eʼ, -ëh, -꞉h, -ih, -öh, -ʼ, -∅  Phonologically unconditioned
+Forms of the punctual aspect suffixes  -ʼ  After a vowel or resonant; in the latter case, the resonant is deleted, and the preceding vowel lengthened compensatorilly (*VR-ʔ > V̄ʔ)
+-꞉ʼ  After vowels, and is clearly related to the above morpheme; it applies to a historically distinct set of verb bases
+-∅  After obstruents
+-t  After glottal stops
+-ëʼ, -aʼ, -a꞉ʼ, -h, -iʼ, -ah, -k, -e꞉ʼ, -꞉h  Phonologically unconditioned, or highly unpredictable
+Pronominal morphology
+[edit]
+The system of pronominal prefixes attached to Seneca verbs is extremely rich, as each pronoun accounts not only for the agent of an action, but for the recipient of that action (i.e. "patient") as well. For example, the first person singular prefix is k- ~ ke- when there is no patient involved, but kö- ~ köy- when the patient is 2sg, kni- ~ kn- ~ ky- when the patient is 2du., and kwa- ~ kwë- ~ kw- ~ ky- when the patient is 2pl. There are thus fifty-five possible pronominal prefixes, depending on who is performing an action, and who is receiving that action. The pronominal prefixes express number as singular, dual, or plural; moreover, in the case of pronominal prefixes describing agents, there is an inclusive/exclusive distinction in the first person plural. In the third person, gender and animacy are expressed as well: a gender distinction is made between masculine entities and "feminine-zoic" entities (i.e. women and animals), and inanimacy is distinguished in singular forms. Moreover, before pronominal prefixes, "prepronominal" prefixes carrying a variety of meanings can be placed to modify the meaning of the verb. The prefixes, in the order in which they precede one another, are as follows:[32]
+Order of prepronominal prefixes
+Negative
+Coincident or contrastive
+Translocative
+Partitive
+Duplicative
+Repetitive or cislocative
+Nominal morphology
+[edit]
+Seneca nominal morphology is far simpler than verbal morphology. Nouns consist of a noun root followed by a noun suffix and a pronominal prefix. The noun suffix appears as either a simple noun suffix (denoting, naturally, that it is a noun), an external locative suffix, denoting that something is "on" or "at" that noun, or an internal locative suffix, denoting that something is "in" that noun. The forms of these are as follows:[33]
+- Simple noun suffix: -aʼ ~ -öʼ (in a nasalizing context)
+- External locative suffix: -aʼgeh
+- Internal locative suffix: -aʼgöh
+Nouns are often preceded by pronominal prefixes, but in this context, they represent possession, as opposed to agency or reception. Nouns without pronominal prefixes are preceded by either the neuter patient prefix yo- ~ yaw- ~ ya-, or the neuter agent prefix ka- ~ kë- ~ w- ~ y-. These morphemes do not hold semantic value, and are historically linked to certain noun roots arbitrarily. Finally, certain prepronominal verbal prefixes can be suffixed to nouns to alter the meaning thereof; in particular, the cislocative, coincident, negative, partitive, and repetitive fall into this group.
+Syntax
+[edit]
+As much of what, in other languages, might be included in a clause is included in the Seneca word, Seneca features free word order, and cannot be neatly categorized along the lines of a subject/object/verb framework. Rather, new information appears first in the Seneca sentence; when a noun is judged by the speaker to be more "newsworthy" than a verb in the same sentence, it is likely to appear before the verb; should it not be deemed to hold such relevance, it typically follows the verb.[34] Particles, the only Seneca words that cannot be classified as nouns or verbs,[29] appear to follow the same ordering paradigm. Moreover, given the agent/participant distinction that determines the forms of pronominal morphemes, it seems appropriate to consider Seneca a nominative-accusative language.[32]
+Coordination
+[edit]
+In Seneca, multiple constituents of a sentence can be conjoined, in a number of ways. They are summarized as follows:[35]
+Seneca conjunctions
+Conjunction  Translation  Notes
+koh  'and'  Usually appears as a postpositional conjunction.
+háéʼgwah or há꞉ʼgwah  'also,' 'too'  Joins "constituents of equal weight;" position varies.
+gi꞉h  'or'  Usually appears between the two alternatives.
+giʼsëh  'maybe'  Usually appears sentence-finally.
+giʼsëh ... giʼsëh  'either ... or'  The first element appears between the two alternatives, where as the second element appears immediately after both (as in English)
+gwa꞉h heh  'but'  Usually appears before the clause that it introduces.
+sëʼëh  'because'  Usually appears before the reason introduced.
+Deixis
+[edit]
+The words utilized in Seneca to identify referents based on their position in time and space are characterized by a proximal/distal distinction, as seen in the following demonstrative pronouns:[36]
+Deictic pronouns
+Pronoun  Meaning  Distance
+në꞉gë꞉h  'this'  Proximal
+në꞉dah  'this one here'
+hi꞉gë꞉h  'that'  Distal
+né꞉neʼ  'that one here'
+neʼhoh  'that,' 'there'
+Sample texts
+[edit]
+"Funny Story"
+[edit]
+As translated by Nils M. Holmer.[37] Note: for clarity, certain graphemes employed by Mr. Holmer have been replaced with their modern, standard equivalents.
+hatinöhsutkyöʼ
+They-had-a-house-it-is-said
+yatatateʼ
+they-are-grandfather-and-grandson
+wayatuwethaʼkyöʼ.
+they-went-hunting-it-is-said.
+tyëkwahkyöʼshö
+All-of-a-sudden-they-say
+katyeʼ
+it-flies
+citeʼö
+a-bird
+hukwa
+nearby
+uswëʼtut
+it-hollow-tree
+katyeʼ
+then-it-is-said
+nekyöʼ
+here
+nehuh
+it-went-into.
+hösakayöʼ.
+In-just-a-little-while
+tatyöʼkyöʼshö
+it-flies
+katyeʼ
+just-a-little-while
+tötakayakëʼt.
+it-flew-again.
+tatyöʼkyöʼshö
+In-just-a-little-while
+skatyeʼ
+it-flew-again
+hösakayöʼ.
+it-went-in.
+tatyöʼshö
+In-just-a-little-while
+katyeʼ
+it-flies
+tötakayakëʼt.
+it-came-out-again.
+hatinöhsutkyöʼ yatatateʼ wayatuwethaʼkyöʼ. tyëkwahkyöʼshö katyeʼ citeʼö hukwa uswëʼtut katyeʼ nekyöʼ nehuh hösakayöʼ. tatyöʼkyöʼshö katyeʼ tötakayakëʼt. tatyöʼkyöʼshö skatyeʼ hösakayöʼ. tatyöʼshö katyeʼ tötakayakëʼt.
+They-had-a-house-it-is-said they-are-grandfather-and-grandson they-went-hunting-it-is-said. All-of-a-sudden-they-say it-flies a-bird nearby it-hollow-tree then-it-is-said here it-went-into. In-just-a-little-while it-flies just-a-little-while it-flew-again. In-just-a-little-while it-flew-again it-went-in. In-just-a-little-while it-flies it-came-out-again.
+A grandfather and a grandson had a house, it is said; they went hunting. All of a sudden a bird came flying (from) near a hollow tree; then, it is said, it flew into it. After a little while it flew in again. After a little while, it flew back (into the hollow tree). After a while it came flying out again, etc.
+"The Burning of Pittsburgh"
+[edit]
+As translated by Nils M. Holmer; unfortunately, the story is not preserved completely.[38] Note: for clarity, certain graphemes employed by Mr. Holmer have been replaced with their modern, standard equivalents.
+wae
+Therefore,
+neʼkyöʼ
+so-it-is-said
+nökweʼöweh
+the-Indians
+ëötinötëʼtaʼ
+they-will-burn-the-city
+työtekëʼ
+Pittsburgh
+skat
+one
+tewënyaʼe
+hundred
+kei (corrected: wis)
+four
+niwashë
+tens
+keiskai
+and-one
+nyushake
+years
+nyuweʼ.
+ago.
+wäönöhtakuʼkeʼö
+They-failed-it-is-said
+a꞉tinötëʼtaʼ
+that-they-burn-the-city
+neʼkeʼö.
+so-it-is-said.
+tyuhateisyöʼkeʼö
+Fallen-timber-it-is-said
+tkayasöh
+where-it-is-called
+waatinötayë꞉.
+they-camped.
+kanyuʼkeʼö
+When-it-is-said
+wäönöhtakuʼ
+they-failed
+a꞉tyueʼtaʼ
+that-they-burn
+kanötayë꞉ʼ
+the-city
+tanëh
+then
+tethönöhtëtyöʼ.
+they-went-back.
+tanë(h)
+Then
+hatyunyaʼtak (?)
+they-used-to-tell
+catek
+Kanöhka'itawi'-it-is-said
+ne
+what-they-tried-to-do
+hënökweʼöweh.
+the-Indians.
+thönöëcatek
+There-they-used-to-own-land
+ne
+the
+hënökweʼöweh.
+Indians.
+tekyöʼ
+Eight
+tyushiyaköh (?)
+years-old
+kanöhkaʼitawiʼ.
+Kanöhka'itawi'
+cyäöwauwiʼ
+When-they-told-him
+nuytiyenöweʼöh
+what-they-tried-to-do
+hënökweʼöweh
+the-Indians
+...
+...
+wae neʼkyöʼ nökweʼöweh ëötinötëʼtaʼ työtekëʼ skat tewënyaʼe {kei (corrected: wis)} niwashë keiskai nyushake nyuweʼ. wäönöhtakuʼkeʼö a꞉tinötëʼtaʼ neʼkeʼö. tyuhateisyöʼkeʼö tkayasöh waatinötayë꞉. kanyuʼkeʼö wäönöhtakuʼ a꞉tyueʼtaʼ kanötayë꞉ʼ tanëh tethönöhtëtyöʼ. tanë(h) {hatyunyaʼtak (?)} catek ne hënökweʼöweh. thönöëcatek ne hënökweʼöweh. tekyöʼ {tyushiyaköh (?)} kanöhkaʼitawiʼ. cyäöwauwiʼ nuytiyenöweʼöh hënökweʼöweh ...
+Therefore, so-it-is-said the-Indians they-will-burn-the-city Pittsburgh one hundred four tens and-one years ago. They-failed-it-is-said that-they-burn-the-city so-it-is-said. Fallen-timber-it-is-said where-it-is-called they-camped. When-it-is-said they-failed that-they-burn the-city then they-went-back. Then they-used-to-tell Kanöhka'itawi'-it-is-said what-they-tried-to-do the-Indians. There-they-used-to-own-land the Indians. Eight years-old Kanöhka'itawi' When-they-told-him what-they-tried-to-do the-Indians ...
+Therefore, it is said, the Indians intended to burn (the city of) Pittsburgh one-hundred-and-forty (fifty) -four years ago. They failed to burn the city, so it is told. At the place which is called Fallen Timber, there they camped. When they failed to burn the city they returned (to the camp). Then they used to tell a boy, whose name was Kanöhka'itawi', of what they tried to do. The Indians used to own the land (they would tell him). Eight years old was Kanöhka'itawi'. When they told him what the Indians tried to do ... (the story was not finished).
+See also
+[edit]
+Seneca people
+Seneca Nation of New York
+Tonawanda Band of Seneca Indians
+Seneca–Cayuga Nation
+Six Nations of the Grand River First Nation
+Notes
+[edit]
+↑ Seneca at Ethnologue (18th ed., 2015) (subscription required)
+↑ Bauer, Laurie (2007). The Linguistics Student's Handbook. Edinburgh.{{cite book}}: CS1 maint: location missing publisher (link)
+1 2 3 4 Chafe 2015, p. 1.
+↑ Evans, Noelle E.C. "Seneca people are reviving their language, which boarding schools tried to erase". NPR. Retrieved July 22, 2025.
+↑ Evans, Noelle. "One man's quest to revive the language he grew up with". NPR. Retrieved July 23, 2025.
+1 2 Holmer 1954, p. 11.
+↑ Chafe 2015, p. 2.
+1 2 3 Chafe 1967, p. 6.
+↑ Dan Herbeck (June 5, 2004). "Seneca Faithkeepers School Tries to Keep Alive the Tribe's Traditional Ways, Language". Canku Ota (Many Paths) An Online Newsletter Celebrating Native America. No. 114. Archived from the original on April 2, 2015. Retrieved September 27, 2012.
+↑ "Faithkeepers School - SNI". Archived from the original on January 6, 2024. Retrieved March 27, 2024.
+↑ Nicole Gugino. "Teacher feted for work with language of the Senecas". The Observer, ObserverToday.com. Archived from the original on January 5, 2011. Retrieved September 27, 2012.
+↑ "RIT Partners with Seneca Nation to Preserve 'Endangered' Language". Retrieved September 27, 2012.
+↑ Tim Louis Macaluso (July 4, 2012). "New life for Seneca language". City Newspaper. Retrieved September 27, 2012.
+↑ "RIT Partners with Seneca Indian Nation to Preserve 'Endangered' Native Language". RIT News. Retrieved September 27, 2012.{{cite web}}: CS1 maint: deprecated archival service (link)
+↑ Diana Louise Carter (January 7, 2013). "Want to speak Seneca? There's an app for that". Press & Sun-Bulletin. Retrieved January 12, 2013.[dead link]
+↑ "Gae꞉wanöhgeʼ!" (PDF). Gae꞉wanöhgeʼ! Seneca Language Newsletter (in English and Seneca). Vol. Gë꞉ih, no. Johdö:h. 2012. Archived (PDF) from the original on December 11, 2018. Retrieved June 18, 2023.
+↑ "Students announce lacrosse games in Seneca language". The Observer, ObserverToday.com. Dunkirk, NY. May 10, 2013. Retrieved May 13, 2013.
+↑ Chafe 1963, p. 4.
+↑ Preston & Voegelin 1949, p. 23.
+↑ Chafe 2015, p. 10.
+1 2 3 4 5 Chafe 1967, pp. 5, 8, 15–18.
+1 2 3 Chafe 2015, p. 9.
+1 2 Campbell, George L. (2004). Compendium of the World's Languages. Taylor & Francis. p. 1474. ISBN 0-415-20297-3.
+↑ Harvey, Christopher (February 22, 2008). "Onödowága – Seneca". The LinguaSphere Online. Retrieved June 27, 2008.
+↑ Holmer 1952, p. 217.
+1 2 Chafe 1960, p. 12.
+↑ Chafe 2015, pp. 12–13.
+1 2 Chafe 2015, pp. 14–15.
+1 2 Chafe 2015, p. 23.
+↑ Chafe 2015, pp. 61–75.
+↑ Chafe 2015, pp. 23–29.
+1 2 Chafe 2015, pp. 31–36.
+↑ Chafe 2015, pp. 86–91.
+↑ Chafe 2015, p. 147.
+↑ Carzis, Peter (2015). A Grammar of the Seneca Language. Oakland: University of California Publications. pp. 149–51. ISBN 978-1-897367-13-1.
+↑ Carzis, Peter (2015). A Grammar of the Seneca Language. Oakland: A Grammar of the Seneca Language. p. 119. ISBN 978-1-897367-13-1.
+↑ Holmer 1954, pp. 61–62.
+↑ Holmer 1954, pp. 63–64.
+References
+[edit]
+Chafe, Wallace L. (1960). "Seneca Morphology I: Introduction". International Journal of American Linguistics. 26: 11–22. doi:10.1086/464550. S2CID 143551063.
+Chafe, Wallace L. (1963). Handbook of the Seneca Language. Albany, NY: New York State Museum and Science Service.
+Chafe, Wallace L. (1967). Seneca Morphology and Dictionary. Smithsonian Institution. hdl:10088/1323. LCCN 65-62172. Retrieved June 14, 2015.
+Chafe, Wallace L. (2007). Handbook of the Seneca Language. Albany, NY: Global Language Press.
+Chafe, Wallace (2015). A Grammar of the Seneca Language. UC Publications in Linguistics. Vol. 149. Oakland: University of California. doi:10.1525/9780520961647. ISBN 978-0-520-28641-2.
+Holmer, Nils M. (1952). "Seneca II". International Journal of American Linguistics. 15 (4): 217–222. doi:10.1086/464175. S2CID 224806464.
+Holmer, Nils M. (1954). The Seneca Language (A Study in Iroquoian). Upsala: Upsala Canadian Studies.
+Preston, W. D.; Voegelin, C. F. (1949). "Seneca I". International Journal of American Linguistics. 15 (1): 23–44. doi:10.1086/464021. S2CID 224806056.
+Chafe, Wallace. "Publications on the Seneca Language". Retrieved January 12, 2013.
+Further reading
+[edit]
+Chafe, Wallace L. (1997). "Sketch of Seneca, an Iroquoian Language". In Goddard, Ives (ed.). Handbook of North American Indians. Vol. 17: Languages. Smithsonian Institution. pp. 551–579. ISBN 0-16-048774-9.
+External links
+[edit]
+Language Geek: Seneca Orthography
+Seneca basic lexicon at the Global Lexicostatistical Database
+Seneca Bible Society Matthew, Mark, & Luke Online
+Seneca Language Site
+v
+t
+e
+Iroquoian languages
+Northern
+Erie
+Laurentian
+Neutral
+Wenro
+Wyandot
+Five Nations
+Cayuga
+Mohawk
+Oneida
+Onondaga
+Seneca
+Susquehannock
+Tuscarora-Nottoway
+Nottoway
+Tuscarora
+Southern
+Cherokee
+Proto-language
+Proto-Iroquoian
+italics indicates an extinct language
+v
+t
+e
+Languages of Oklahoma
+Italics indicate extinct languages * indicates extinct language in Oklahoma but still spoken elsewhere
+Indigenous
+Algic
+Arapaho
+Cheyenne
+Delaware
+Potawatomi
+Mesquakie
+Ottawa
+Shawnee
+Caddoan
+Caddo
+Kitsai
+Pawnee
+Wichita
+Iroquoian
+Cayuga*
+Cherokee
+Seneca
+Wyandot
+Muskogean
+Alabama*
+Chickasaw
+Choctaw
+Hitchiti-Mikasuki
+Koasati
+Muscogee
+Na-Dene
+Mescalero-Chiricahua Apache
+Plains Apache
+Siouan
+Chiwere
+Kansa
+Osage
+Ponca
+Quapaw
+Other
+Comanche
+Kiowa
+Tonkawa
+Yuchi
+Sign languages
+American Sign Language
+Black American Sign Language
+Plains Sign Talk
+Non-Indigenous
+English
+German
+Spanish
+Vietnamese
+Category
+v
+t
+e
+Languages of Canada
+Official languages
+English
+Black
+Afro-Nova Scotian
+Cascadian
+Franglais
+Chiac
+Indigenous
+Lunenburg
+Maritime
+Newfoundland
+Ottawa Valley
+Québec
+Toronto
+French
+Acadian
+Brayon
+Chaouin
+Franglais
+Chiac
+Joual
+Magoua
+Métis
+Newfoundland
+Ontarois
+Québec
+Indigenous languages
+Algonquian
+Abenaki
+Western
+Algonquin
+Blackfoot
+Cree
+Innu
+Maliseet-Passamaquoddy
+Miꞌkmaq
+Munsee
+Naskapi
+Ojibwe
+Ottawa
+Potawatomi
+Inuit
+Inuinnaqtun
+Inuktitut
+Inupiaq
+Inuvialuktun
+Iroquoian
+Cayuga
+Mohawk
+Oneida
+Onondaga
+Seneca
+Tuscarora †
+Wyandot †
+Na-Dene
+Babine-Witsuwitʼen
+Carrier
+Chipewyan
+Dogrib
+Gwichʼin
+Hän
+Kaska
+Nicola †
+Sekani
+Slavey
+Tagish †
+Tahltan
+Tlingit
+Tsetsaut †
+Tsilhqotʼin
+Tsuutʼina
+Tutchone
+Northern
+Southern
+Salishan
+Comox
+Halkomelem
+Lillooet
+Nuxalk
+Okanagan
+Pentlatch †
+Saanich
+Shíshálh
+Shuswap
+Squamish
+Thompson
+Dakotan
+Stoney
+Sioux
+Assiniboine
+Tsimshian
+Coast
+Gitxsan
+Nisgaʼa
+Southern †
+Wakashan
+Ditidaht
+Haisla
+Heiltsuk-Oowekyala
+Kwakʼwala
+Nuu-chah-nulth
+other
+Beothuk †
+Haida
+Kutenai
+Pidgins, creoles and mixed
+Algonquian–Basque pidgin
+Broken Slavey
+Bungee
+Chinook Jargon
+Labrador Inuit Pidgin French
+Michif
+Minority languages
+Canadian Gaelic
+Newfoundland Irish
+Spanish
+Portuguese
+Italian
+German
+Pennsylvania
+Hutterite
+Plautdietsch
+Polish
+Ukrainian
+Russian
+Doukhobor
+Arabic
+Persian
+Hindustani
+Punjabi
+Tamil
+Mandarin
+Cantonese
+Korean
+Vietnamese
+Tagalog
+Sign languages
+American Sign Language
+Black American Sign Language
+Protactile
+Hand Talk
+Oneida Sign Language
+Plateau Sign Language
+Inuit Sign Language
+Maritime Sign Language
+Quebec Sign Language
+Canadian style guides - Canadian dictionaries ‎
+Authority control databases
+International
+GND
+National
+United States
+France
+BnF data
+Spain
+Israel
+Other
+Yale LUX
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Seneca_language&oldid=1378299682"
+Categories:
+Seneca
+Northern Iroquoian languages
+Native American language revitalization
+Indigenous languages of Oklahoma
+Languages of New York (state)
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Use mdy dates from June 2023
+Use American English from September 2025
+All Wikipedia articles written in American English
+Pages containing links to subscription-only content
+Language articles citing Ethnologue 18
+Articles containing Seneca-language text
+Pages with Seneca IPA
+CS1 maint: location missing publisher
+CS1: unfit URL
+CS1 maint: deprecated archival service
+All articles with dead external links
+Articles with dead external links from January 2026
+CS1: long volume value
+CS1 foreign language sources (ISO 639-2)
+All articles with unsourced statements
+Articles with unsourced statements from May 2025
+Pages with plain IPA
+Wikipedia articles needing clarification from November 2013
+Wikipedia articles needing clarification from October 2015
+Search
+Search
+Seneca language
+19 languages   Add topic

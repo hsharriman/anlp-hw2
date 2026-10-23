@@ -1,0 +1,1395 @@
+URL: https://en.wikipedia.org/wiki/Template:Cite_web
+
+Template:Cite web - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Template documentationviewedithistorypurge
+This template is used on approximately 5,460,000 pages, or roughly 8% of all pages.
+To avoid major disruption and server load, any changes should be tested in the template's /sandbox or /testcases subpages, or in your own user subpage. The tested changes can be added to this page in a single edit. Consider discussing changes on the talk page before implementing them.
+This template can only be edited by administrators because it is transcluded onto one or more cascade-protected pages.
+This template is used by the standard installation of AutoWikiBrowser (AWB). If you are planning to make any major changes to this template, move it, or nominate it for deletion, please notify AWB's users and maintainers beforehand at Wikipedia talk:AWB as a courtesy.
+This template is used by one or more bots.
+If you intend to change this template in any significant way, move it, or nominate it for deletion, please inform the bot operators. Thank you. The relevant bots are: KiranBOT
+This template uses Lua:
+Module:Citation/CS1 (sandbox)
+Citation Style 1 templates
+{{Cite arXiv}} arXiv preprints
+{{Cite AV media}} audio and visual media
+{{Cite AV media notes}} AV media liner notes
+{{Cite bioRxiv}} bioRxiv preprints
+{{Cite book}} books and chapters
+{{Cite CiteSeerX}} CiteSeerX papers
+{{Cite conference}} conference papers
+{{Cite document}} short, stand-alone, offline documents
+{{Cite encyclopedia}} edited collections
+{{Cite episode}} radio or TV episodes
+{{Cite interview}} interviews
+{{Cite journal}} academic journals
+{{Cite magazine}} magazines, periodicals
+{{Cite mailing list}} public mailing lists
+{{Cite map}} maps
+{{Cite medRxiv}} medRxiv preprints
+{{Cite news}} news articles
+{{Cite newsgroup}} online newsgroups
+{{Cite podcast}} podcasts
+{{Cite press release}} press releases
+{{Cite report}} reports
+{{Cite serial}} audio or video serials
+{{Cite sign}} signs, plaques
+{{Cite speech}} speeches
+{{Cite SSRN}} SSRN papers
+{{Cite tech report}} technical reports
+{{Cite thesis}} theses
+{{Cite web}} web sources not covered by the above
+See also Specific-source templates
+Citation Style 1 wrapper templates
+v
+t
+e
+This Citation Style 1 template is used to create citations for web sources that are not characterized by another CS1 template. Do not use this template in the "External links" section of articles.
+Usage
+Copy a blank version to use. Almost all parameter names are supported only in lower case (some initialisms, such as |isbn= have upper-case aliases like |ISBN=, which are acceptable for use). Use the "|" (pipe) character between each parameter. Unused parameters may be deleted to avoid clutter in the edit window. Some samples on this documentation page may include the current date. If the date is not current, then purge the page.
+Most-commonly-used parameters in horizontal format
+To cite a web page with a credited author
+{{cite web |last= |first= |date= |title= |url= |website= |location= |publisher= |access-date=}}
+To cite a web page with no credited author
+{{cite web |author=<!-- not stated --> |date= |title= |url= |website= |location= |publisher= |access-date=}}
+To cite an online web page that has been archived
+{{cite web |last= |first= |date= |title= |url= |website= |location= |publisher= |url-status= |archive-url= |archive-date= |access-date=}}
+To cite a web page written in a foreign language
+{{cite web |last= |first= |date= |title= |url= |trans-title= |website= |language= |location= |publisher= |access-date=}}
+To cite and quote an archived, two-author, foreign-language web page re-published as a PDF on an information aggregation service requiring a subscription
+{{cite web |last1= |first1= |last2= |first2= |date= |title= |url= |url-access= |trans-title= |format= |website= |language= |location= |publisher= |url-status= |archive-url= |archive-date= |access-date= |via= |quote=}}
+Full parameter set in horizontal format
+{{cite web |last1= |first1= |author-link1= |last2= |first2= |author-link2= |display-authors= |author-mask1= |author-mask2= |collaboration= |df= |date= |year= |orig-date= |orig-year= |location= |editor-last1= |editor-first1= |editor-link1= |editor-last2= |editor-first2= |editor-link2= |display-editors= |editor-mask1= |editor-mask2= |title= |script-title= |title-link= |url= |url-access= |trans-title= |format= |department= |website= |script-website= |trans-website= |type= |series= |language= |interviewer-last1= |interviewer-first1= |interviewer-link1= |interviewer-last2= |interviewer-first2= |interviewer-link2= |display-interviewers= |interviewer-mask1= |interviewer-mask2= |translator-last1= |translator-first1= |translator-link1= |translator-last2= |translator-first2= |translator-link2= |display-translators= |translator-mask1= |translator-mask2= |others= |name-list-style= |edition= |publication-place= |publisher= |publication-date= |agency= |minutes= |time-caption= |time= |page= |pages= |at= |no-pp= |arxiv= |asin= |asin-tld= |bibcode= |bibcode-access= |biorxiv= |citeseerx= |doi= |doi-access= |doi-broken-date= |eissn= |hdl= |hdl-access= |isbn= |ismn= |issn= |jfm= |jstor= |jstor-access= |lccn= |medrxiv= |mr= |oclc= |ol= |ol-access= |osti= |osti-access= |pmc= |pmc-embargo-date= |pmid= |rfc= |sbn= |ssrn= |s2cid= |s2cid-access= |zbl= |id= |url-status= |archive-url= |archive-format= |archive-date= |access-date= |via= |quote-page= |quote-pages= |quote= |script-quote= |trans-quote= |mode= |ref= |postscript=}}
+Most-commonly-used parameters in vertical format
+To cite a web page with a credited author
+{{cite web
+|last        =
+|first       =
+|date        =
+|title       =
+|url         =
+|website     =
+|location    =
+|publisher   =
+|access-date =
+}}
+To cite a web page with no credited author
+{{cite web
+|author      = <!-- not stated -->
+|date        =
+|title       =
+|url         =
+|website     =
+|location    =
+|publisher   =
+|access-date =
+}}
+To cite a web page article that has been archived
+{{cite web
+|last         =
+|first        =
+|date         =
+|title        =
+|url          =
+|website      =
+|location     =
+|publisher    =
+|url-status   =
+|archive-url  =
+|archive-date =
+|access-date  =
+}}
+To cite a web page written in a foreign language
+{{cite web
+|last        =
+|first       =
+|date        =
+|title       =
+|url         =
+|trans-title =
+|website     =
+|language    =
+|location    =
+|publisher   =
+|access-date =
+}}
+To cite and quote an archived, two-author, foreign-language web page re-published as a PDF on an information aggregation service requiring a subscription
+{{cite web
+|last1        =
+|first1       =
+|last2        =
+|first2       =
+|date         =
+|title        =
+|url          =
+|url-access   =
+|trans-title  =
+|format       =
+|website      =
+|language     =
+|location     =
+|publisher    =
+|url-status   =
+|archive-url  =
+|archive-date =
+|access-date  =
+|via          =
+|quote        =
+}}
+Full parameter set in vertical format
+Parameters Prerequisites Brief instructions / notes Vertical list
+last1    Author's last name or single name author. Don't link.
+{{cite web
+|last1                =
+|first1               =
+|author-link1         =
+|last2                =
+|first2               =
+|author-link2         =
+|display-authors      =
+|author-mask1         =
+|author-mask2         =
+|collaboration        =
+|df                   =
+|date                 =
+|year                 =
+|orig-date            =
+|orig-year            =
+|location             =
+|editor-last1         =
+|editor-first1        =
+|editor-link1         =
+|editor-last2         =
+|editor-first2        =
+|editor-link2         =
+|display-editors      =
+|editor-mask1         =
+|editor-mask2         =
+|title                =
+|script-title         =
+|title-link           =
+|url                  =
+|url-access           =
+|trans-title          =
+|format               =
+|department           =
+|website              =
+|script-website       =
+|trans-website        =
+|type                 =
+|series               =
+|language             =
+|interviewer-last1    =
+|interviewer-first1   =
+|interviewer-link1    =
+|interviewer-last2    =
+|interviewer-first2   =
+|interviewer-link2    =
+|display-interviewers =
+|interviewer-mask1    =
+|interviewer-mask2    =
+|translator-last1     =
+|translator-first1    =
+|translator-link1     =
+|translator-last2     =
+|translator-first2    =
+|translator-link2     =
+|display-translators  =
+|translator-mask1     =
+|translator-mask2     =
+|others               =
+|name-list-style      =
+|edition              =
+|publication-place    =
+|publisher            =
+|publication-date     =
+|agency               =
+|minutes              =
+|time-caption         =
+|time                 =
+|page                 =
+|pages                =
+|at                   =
+|no-pp                =
+|arxiv                =
+|asin                 =
+|asin-tld             =
+|bibcode              =
+|bibcode-access       =
+|biorxiv              =
+|citeseerx            =
+|doi                  =
+|doi-access           =
+|doi-broken-date      =
+|eissn                =
+|hdl                  =
+|hdl-access           =
+|isbn                 =
+|ismn                 =
+|issn                 =
+|jfm                  =
+|jstor                =
+|jstor-access         =
+|lccn                 =
+|medrxiv              =
+|mr                   =
+|oclc                 =
+|ol                   =
+|ol-access            =
+|osti                 =
+|osti-access          =
+|pmc                  =
+|pmc-embargo-date     =
+|pmid                 =
+|rfc                  =
+|sbn                  =
+|ssrn                 =
+|s2cid                =
+|s2cid-access         =
+|zbl                  =
+|id                   =
+|url-status           =
+|archive-url          =
+|archive-format       =
+|archive-date         =
+|access-date          =
+|via                  =
+|quote-page           =
+|quote-pages          =
+|quote                =
+|script-quote         =
+|trans-quote          =
+|mode                 =
+|ref                  =
+|postscript           =
+}}
+first1  last1  Author's first name. Don't link.
+author-link1  last1  Title of Wikipedia article about the first author. Don't link.
+last2  last1  Like last1, but for 2nd author. Don't link. Similar: last3, etc.
+first2  last2  Like first1, but for 2nd author. Don't link. Similar: first3, etc.
+author-link2  last2  Like author-link1, but for 2nd author. Don't link. Similar: author-link3, etc.
+display-authors  last1  Number (number of authors displayed) or etal (more authors)
+author-mask1  last1  See Display options below; not for lists of cited works
+author-mask2  last2
+collaboration  last1
+df
+date
+year
+orig-date date or year
+orig-year date or year
+location publisher can be used for written-at location when publication-place is used for publication place
+editor-last1    Like last1, but for editor. Don't link.
+editor-first1  editor-last1  Like first1, but for editor. Don't link.
+editor-link1  editor-last1  Like author-link1, but for editor. Don't link.
+editor-last2  editor-last1  Like last1, but for 2nd editor. Don't link. Similar: editor-last3, etc.
+editor-first2  editor-last2  Like first1, but for 2nd editor. Don't link. Similar: editor-first3, etc.
+editor-link2  editor-last2  Like author-link1, but for 2nd editor. Don't link. Similar: editor-link3, etc.
+display-editors  editor-last1  Like display-authors, but for editors
+editor-mask1  editor-last1  See Display options below; not for lists of cited works
+editor-mask2  editor-last2
+title  This parameter is required.
+script-title
+title-link title or script-title Name of a Wikipedia article about the work. Do not use if url is provided
+url title or script-title This parameter is required. Do not use if title-link is provided
+url-access url
+trans-title title or script-title
+format url
+department
+website
+script-website
+trans-website website or script-website
+type
+series
+language
+interviewer-last1    Like last1, but for interviewer. Don't link.
+interviewer-first1  interviewer-last1  Like first1, but for interviewer. Don't link.
+interviewer-link1  interviewer-last1  Like author-link1, but for interviewer. Don't link.
+interviewer-last2  interviewer-last1  Like last1, but for 2nd interviewer. Don't link. Similar: interviewer-last3, etc.
+interviewer-first2  interviewer-last2  Like first1, but for 2nd interviewer. Don't link. Similar: interviewer-first3, etc.
+interviewer-link2  interviewer-last2  Like author-link1, but for 2nd interviewer. Don't link. Similar: interviewer-link3, etc.
+display-interviewers  interviewer-last1  Like display-authors, but for interviewers
+interviewer-mask1  interviewer-last1  See Display options below; not for lists of cited works
+interviewer-mask2  interviewer-last2
+translator-last1    Like last1, but for translator. Don't link.
+translator-first1  translator-last1  Like first1, but for translator. Don't link.
+translator-link1  translator-last1  Like author-link1, but for translator. Don't link.
+translator-last2  translator-last1  Like last1, but for 2nd translator. Don't link. Similar: translator-last3, etc.
+translator-first2  translator-last2  Like first1, but for 2nd translator. Don't link. Similar: translator-first3, etc.
+translator-link2  translator-last2  Like author-link1, but for 2nd translator. Don't link. Similar: translator-link3, etc.
+display-translators  translator-last1  Like display-authors, but for translators
+translator-mask1  translator-last1  See Display options below; not for lists of cited works
+translator-mask2  translator-last2
+others
+name-list-style  last2  Set to amp or ampersand to separate the last author with " & "; set to and to separate with " and "
+edition
+publication-place publisher
+publisher
+publication-date
+agency
+minutes
+time-caption time
+time
+page  choose one: page, pages, or at
+pages  choose one: page, pages, or at. Use when content on multiple pages supports the article text.
+at  choose one: page, pages, or at
+no-pp page or pages set to "yes" to suppress the "p." or "pp." before page numbers
+arxiv
+asin
+asin-tld asin
+bibcode
+biorxiv
+citeseerx
+doi
+doi-access doi
+doi-broken-date doi
+eissn
+hdl
+hdl-access hdl
+isbn
+ismn
+issn
+jfm
+jstor
+jstor-access jstor
+lccn
+medrxiv
+mr
+oclc
+ol
+ol-access ol
+osti
+osti-access osti
+pmc
+pmc-embargo-date pmc
+pmid
+rfc
+sbn
+ssrn
+s2cid
+s2cid-access s2cid
+zbl
+id
+url-status archive-url
+archive-url archive-date, url
+archive-format archive-url
+archive-date archive-url
+access-date url
+via
+quote-page  choose one: quote-page, quote-pages
+quote-pages  choose one: quote-page, quote-pages. Use when quote contains contents from multiple pages.
+quote
+script-quote
+trans-quote
+mode  cs1 or cs2
+ref
+postscript
+If a field name is listed in the Prerequisites column, it is a prerequisite for the field to the left.
+Choosing between Template:cite web and Template:cite news
+Previously, editors had to decide whether to use {{cite web}} or {{cite news}} based on these templates' features. In 2014, however, most of the differences between the two templates were eliminated.
+As of 29 July 2016, {{cite web}} and {{cite news}} have the following differences:
+{{Cite news}} can be used for offline (paper) sources whereas {{cite web}} generates a missing URL error when no URL is provided
+{{Cite news}} accepts |issue= and |volume= parameters while {{cite web}} does not (see Help:Citation Style 1 § Pages, Help talk:Citation Style 1/Archive 10 § |volume=, |issue=, |page(s)= and cite magazine and {{cite magazine}}.)
+But, given the same set of valid parameters, their output is exactly the same:
+Cite web: Silverman, Dwight (July 15, 2011). "Microsoft envisions a universal OS, but it might not be called Windows". Houston Chronicle. Hearst Corporation. Retrieved May 26, 2015.
+Cite news: Silverman, Dwight (July 15, 2011). "Microsoft envisions a universal OS, but it might not be called Windows". Houston Chronicle. Hearst Corporation. Retrieved May 26, 2015.
+Examples
+{{cite web |url=https://www.example.org/ |title=My Favorite Things, Part II |last=Doe |first=John |publisher=Open Publishing |date=April 30, 2005 |website=Encyclopedia of Things |access-date=October 21, 2026}}
+Doe, John (April 30, 2005). "My Favorite Things, Part II". Encyclopedia of Things. Open Publishing. Retrieved October 21, 2026.
+{{cite web |url=https://www.example.org/ |title=My Favorite Things, Part II |last=Doe |first=John |date=30 April 2005 |website=Encyclopedia of Things |access-date=21 October 2026}}
+Doe, John (30 April 2005). "My Favorite Things, Part II". Encyclopedia of Things. Retrieved 21 October 2026.
+{{cite web |url=https://www.example.org/ |title=My Favorite Things, Part II |last=Doe |first=John |date=2005-04-30 |access-date=2026-10-21}}
+Doe, John (2005-04-30). "My Favorite Things, Part II". Retrieved 2026-10-21.
+{{cite web |url=https://www.example.org/ |title=My Favorite Things, Part II |last=Doe |first=John |access-date=21 October 2026}}
+Doe, John. "My Favorite Things, Part II". Retrieved 21 October 2026.
+{{cite web |url=https://www.example.org/ |title=My Favorite Things, Part II |access-date=2026-10-21}}
+"My Favorite Things, Part II". Retrieved 2026-10-21.
+{{cite web |url=https://operations.nfl.com/the-rules/nfl-rules-digest/ |title=NFL Rules Digest |website=NFL Football Operations |publisher=[[National Football League]] |access-date=October 21, 2026}}
+"NFL Rules Digest". NFL Football Operations. National Football League. Retrieved October 21, 2026.
+Using "format="
+When this template detects a link whose URL includes an extension of ".pdf" or ".PDF", typical of PDF files, it automatically displays a PDF icon after the link (regardless of whether the link goes to a PDF file or to an HTML landing page, typical of paysites). It also internally acts as if |format=PDF had been specified, which displays " (PDF)" after the icon. (In this case, an explicit |format=PDF parameter would be redundant, so it is not recommended to add it. Users may remove it. Citation bot, when invoked, will remove it. (ref))
+{{cite web |url=https://www.indiapost.gov.in/MBE/DOP_PDFFiles/List_of_Psychotropic_Substances.pdf |title=List of psychotropic substances under international control |publisher=International Narcotics Control Board |access-date=21 October 2026}}
+"List of psychotropic substances under international control" (PDF). International Narcotics Control Board. Retrieved 21 October 2026.
+If the link is to a PDF file that is not automatically recognizable by its extension, this template does not display the PDF icon. You may add the parameter |format=PDF, which displays " (PDF)" after the link (but no PDF icon).
+{{cite web |url=https://www.sample.com/somePDFdocument.000 |title=Some PDF Document |publisher=Sample Int'l |format=PDF |access-date=21 October 2026}}
+"Some PDF Document" (PDF). Sample Int'l. Retrieved 21 October 2026.
+For links to files in other formats, no icon is displayed. For example, for an .odt file, you may add the parameter |format=ODT, which displays " (ODT)" after the link.
+{{cite web |url=https://www.sample.com/someODTdocument.odt |title=Some ODT Document |publisher=Sample Int'l |format=ODT |access-date=21 October 2026}}
+"Some ODT Document" (ODT). Sample Int'l. Retrieved 21 October 2026.
+Foreign-language and translated title
+{{cite web |url=https://www.example.org/ |title=Honi soit qui mal y pense |last=Joliet |first=François |date=30 April 2005 |access-date=21 October 2026 |language=fr |trans-title=Shame on those who think evil of it}}
+Joliet, François (30 April 2005). "Honi soit qui mal y pense" [Shame on those who think evil of it] (in French). Retrieved 21 October 2026.
+Using author-link
+{{cite web |url=https://www.example.org/ |title=My Favorite Things, Part II |last=Doe |first=John |author-link=John Doe |publisher=Open Publishing |date=April 30, 2005 |website=Encyclopedia of Things |access-date=October 21, 2026}}
+Doe, John (April 30, 2005). "My Favorite Things, Part II". Encyclopedia of Things. Open Publishing. Retrieved October 21, 2026.
+Multiple authors
+{{cite web |url=https://www.example.org/ |title=Our Favourite Things |last1=Doe |first1=John |last2=Smith |first2=Peter |last3=Smythe |first3=Jim |publisher=Open Publishing |date=30 April 2005 |website=Encyclopaedia of Things |access-date=21 October 2026}}
+Doe, John; Smith, Peter; Smythe, Jim (30 April 2005). "Our Favourite Things". Encyclopaedia of Things. Open Publishing. Retrieved 21 October 2026.
+No author
+{{cite web |url=https://www.example.org/ |title=Index of Sharp Things |publisher=Open Publishing |date=2005-04-30 |website=Encyclopedia of Things |access-date=2026-10-21}}
+"Index of Sharp Things". Encyclopedia of Things. Open Publishing. 2005-04-30. Retrieved 2026-10-21.
+No author, no publisher
+{{cite web |url=https://www.example.org/ |title=Index of Sharp Things |date=30 April 2005 |website=Encyclopedia of Things |access-date=21 October 2026}}
+"Index of Sharp Things". Encyclopedia of Things. 30 April 2005. Retrieved 21 October 2026.
+{{cite web |url=https://www.example.org/ |title=Index of Sharp Things |date=April 30, 2005 |access-date=October 21, 2026}}
+"Index of Sharp Things". April 30, 2005. Retrieved October 21, 2026.
+{{cite web |url=https://www.incb.org/documents/Psychotropics/forms/greenlist/2024/2311984R.pdf |title=List of psychotropic substances under international control |date=December 2023 |access-date=2026-10-21 |language=ru}}
+"List of psychotropic substances under international control" (PDF) (in Russian). December 2023. Retrieved 2026-10-21.
+Using "archive-url" and "archive-date" (and optionally "url-status") for webpages that have been archived
+By default, if "archive-url" is used, the parameter |url-status=dead is assumed and the resulting main link is to the archived version:
+{{cite web |url=https://www.incb.org/pdf/e/list/green.pdf |title=List of psychotropic substances under international control |date=2005-04-30 |publisher=International Narcotics Control Board |access-date=2026-10-21 |archive-url=https://web.archive.org/web/20050907150136/https://www.incb.org/pdf/e/list/green.pdf |archive-date=2005-09-07}}
+"List of psychotropic substances under international control" (PDF). International Narcotics Control Board. 2005-04-30. Archived from the original (PDF) on 2005-09-07. Retrieved 2026-10-21.
+When |url-status=live is specified, the resulting main link is to the original page:
+{{cite web |url=https://www.hollywoodreporter.com/heat-vision/dc-entertainment-give-classic-batman-824572 |title=DC Entertainment To Give Classic Batman Writer Credit in 'Gotham' and 'Batman v Superman' (Exclusive) |website=The Hollywood Reporter |date=September 18, 2015 |access-date=September 21, 2015 |url-status=live |archive-url=https://web.archive.org/web/20151022181821/https://www.hollywoodreporter.com/heat-vision/dc-entertainment-give-classic-batman-824572 |archive-date=October 22, 2015}}
+"DC Entertainment To Give Classic Batman Writer Credit in 'Gotham' and 'Batman v Superman' (Exclusive)". The Hollywood Reporter. September 18, 2015. Archived from the original on October 22, 2015. Retrieved September 21, 2015.
+With |url-status=unfit or usurped, the original is not linked at all:
+{{cite web |url=https://www.wunderground.com/global/stations/03772.html |title=London, United Kingdom Forecast: Weather Underground (weather and elevation at Heathrow Airport) |publisher=The Weather Underground |access-date=21 October 2026 |url-status=unfit |archive-url=https://web.archive.org/web/20110522171657/https://www.wunderground.com/global/stations/03772.html |archive-date=22 May 2011}}
+"London, United Kingdom Forecast: Weather Underground (weather and elevation at Heathrow Airport)". The Weather Underground. Archived from the original on 22 May 2011. Retrieved 21 October 2026.
+Using "quote"
+{{cite web |url=https://www.webexhibits.org/daylightsaving/c.html |title=Daylight saving time: rationale and original idea |website=WebExhibits |date=2008 |access-date=21 October 2026 |quote=...&nbsp;Lord Balfour came forward with a unique concern: 'Supposing some unfortunate lady was confined with twins&nbsp;...'}}
+"Daylight saving time: rationale and original idea". WebExhibits. 2008. Retrieved 21 October 2026. ... Lord Balfour came forward with a unique concern: 'Supposing some unfortunate lady was confined with twins ...'
+Parameters
+Syntax
+Nested parameters rely on their parent parameters:
+parent
+OR: parent2—may be used instead of parent
+child—may be used with parent (and is ignored if parent is not used)
+OR: child2—may be used instead of child (and is ignored if parent2 is not used)
+Where aliases are listed, only one of the parameters may be defined; if multiple aliased parameters are defined, then only one will show.
+By default, sets of fields are terminated with a period (.).
+COinS
+This template embeds COinS metadata in the HTML output, allowing reference management software to retrieve bibliographic metadata. See Wikipedia:COinS. As a general rule, only one data item per parameter. Do not include explanatory or alternate text:
+use |date=27 September 2007 not |date=27 September 2007 (print version 25 September)
+Use of templates within the citation template is discouraged because many of these templates will add extraneous HTML or CSS that will be included raw in the metadata. Also, HTML entities, for example &nbsp;, &ndash;, or &#160;, should not be used in parameters that contribute to the metadata.
+COinS metadata is created for these parameters
+Note: This table of metadata is displayed in the documentation of all Citation Style 1 templates. Not all of these parameters are supported by every CS1 template. Some of these parameters are mutually exclusive, some are aliases of another parameter, and some require other parameters to be present. A full list of this template's supported parameters, their aliases, and their dependencies is shown in the Usage section near the top of this documentation page.
+|periodical=, |journal=, |newspaper=, |magazine=, |work=, |website=, |encyclopedia=, |encyclopaedia=, |dictionary=
+|chapter=, |script-chapter=, |contribution=, |script-contribution=, |entry=, |script-entry=, |article=, |script-article=, |section=, |script-section=
+|title=, |script-title=, |book-title=
+|publication-place=, |place=, |location=
+|date=, |year=, |publication-date=
+|series=, |version=
+|volume=, |issue=, |number=
+|page=, |pages=, |at=, |quote-page=, |quote-pages=
+|edition=
+|publisher=, |institution=
+|url=, |chapter-url=, |contribution-url=, |section-url=
+|author-last=, |author-last#=, |author#-last=, |author-surname=, |author-surname#=, |author#-surname=, |last=, |last#=, |surname=, |surname#=, |author=, |author#=, |subject=, |subject#=, |host=, |host#=
+|author-first=, |author-first#=, |author#-first=, |author-given=, |author-given#=, |author#-given=, |first=, |first#=, |given=, |given#=
+|degree=
+|arxiv=, |bibcode=, |biorxiv=, |citeseerx=, |doi=, |eissn=, |eprint=, |hdl=, |isbn=, |issn=, |jfm=, |jstor=, |lccn=, |message-id=, |mr=, |oclc=, |osti=, |pmc=, |pmid=, |rfc=, |ssrn=, |s2cid=, |zbl=
+What's new
+What's new or changed recently
+Parameter Description Date
+N/A
+Deprecated
+Deprecated CS1/CS2 parameters
+Deprecated parameter  Replace with  Date
+|citeseerx=  August 2026
+Recently removed CS1/CS2 parameters
+Removed parameter Replace with Date Note
+|authors=  |lastn= / |firstn=, |authorn=, |vauthors=  August 2024
+Description
+Authors
+last: Surname of a single author. Do not wikilink—use author-link instead. For corporate authors or authors for whom only one name is listed by the source, use last or one of its aliases (e.g. |author=Bono). Aliases: surname, author, last1, surname1, author1.
+author: this parameter is used to hold the name of an organizational author (e.g. a committee) or the complete name (first and last) of a single person; for the latter, prefer the use of |first= and |last=. This parameter should never hold the names of more than one author. Supports accept-this-as-written markup. Do not use italics in this field, as doing so produces corrupt metadata.
+first: Given or first names of author; for example: Firstname Middlename or Firstname M. or Firstname M. Sr. Do not wikilink—use author-link instead. Aliases: given, first1, given1. Requires last; first name will not display if last is empty. Use generational and regnal suffixes only in accordance with MOS:JRSR and use honorifics (including Dr., Sir, and similar) only in accordance with MOS:HON.
+OR: for multiple authors, use last1, first1 through lastn, firstn, where n is any consecutive number for an unlimited number of authors (each firstn requires a corresponding lastn, but not the other way around). See the display parameters to change how many authors are displayed. Aliases: surname1, given1 through surnamen, givenn, or author1 through authorn. For an individual author plus an institutional author, you can use |first1=...|last1=...|author2=....
+author-link: Title of existing Wikipedia article about the author—not the author's website; do not wikilink. Aliases: author-link1, author1-link, authorlink.
+OR: for multiple authors, use author-link1 through author-linkn. Aliases: author1-link through authorn-link.
+name-list-style: accepts a limited list of keywords as value. When set to amp, ampersand, or &, inserts an ampersand between the last two names in a name list. When set to and, inserts the conjunction 'and' between the last two names of a name list. When set to vanc, displays name lists in Vancouver style when the lists use the last/first forms of name parameters. (Alternatively, {{CS1 config|name-list-style=vanc}} at the top of the page can do the same to every citation on the pages.)
+vauthors: comma-separated list of author names formatted as in the Vancouver system. (This parameter accepts an easy copy-and-paste from sources that format author lists this way.) (Do not convert lists that have first name(s) to this format, because truncating the given name(s) reduces the identifiability of authors who happen to have common names.) Enclose corporate or institutional author names in doubled parentheses. End with etal if appropriate:
+:|vauthors=Smythe JB, ((Megabux Corp.)), etal
+author-link and author-mask may be used for the individual names in |vauthors= as described above
+authors: deprecated Free-form list of author names; use of this parameter is discouraged because it does not contribute to a citation's metadata; not an alias of last.
+translator-last: Surname of translator. Do not wikilink—use translator-link instead. Aliases: translator-surname, translator1, translator1-last, translator-last1. Supports accept-this-as-written markup.
+translator-first: Given or first names of translator. Do not wikilink—use translator-link instead. Aliases: translator-given, translator1-first, translator-first1.
+OR: for multiple translators, use translator-last1, translator-first1 through translator-lastn, translator-firstn, where n is any consecutive number for an unlimited number of translators (each translator-firstn requires a corresponding translator-lastn, but not the other way around). Aliases: translator1-last, translator1-first through translatorn-last, translatorn-first, or translator1 through translatorn.
+translator-link: Title of existing Wikipedia article about the translator—not the translator's website; do not wikilink. Aliases: translator-link1, translator1-link.
+OR: for multiple translators, use translator-link1 through translator-linkn. Aliases: translator1-link through translatorn-link.
+collaboration: Name of a group of authors or collaborators; requires author, last, or vauthors listing one or more primary authors; follows author name-list; appends "et al." to author name-list.
+others: To record other contributors to the work, including illustrators. For the parameter value, write Illustrated by John Smith.
+Note: When using shortened footnotes or parenthetical referencing styles with templates, do not use multiple names in one field, or else the anchor will not match the inline link.
+Date
+"Wikipedia:Undated" redirects here. For undated signatures, see Template:Undated.
+date: Date of referenced source. Can be full date (day, month, and year) or partial date (month and year, season and year, or year). Use same format as other publication dates in the citations.[date 1] Do not wikilink. Displays after the authors and is enclosed in parentheses. If there is no author, then displays after the website and publisher. For acceptable date formats, see Help:Citation Style 1 § Dates.
+Shortened footnotes target full citations using the year specified in this parameter. A lowercase letter may be suffixed to the year to disambiguate {{sfn}} links to multiple works by the same author in the same year,[more] unless the date is formatted as YYYY-MM-DD. In the latter case, year or ref is required to disambiguate the link targets.
+For approximate year, precede with "c. ", like this: |date=c. 1900.
+For no date, or "undated", use |date=n.d.
+The date of a Web page, PDF, etc. with no visible date can sometimes be established by searching the page source or document code for a created or updated date; a comment for editors such as |date=2021-12-25<!--date from page source-->|orig-date=Original date 2011-01-01 can be added.
+Automatic date formatting: Citation Style 1 and 2 templates, including this template, automatically render dates in all date parameters (such as |date=, |publication-date=, |access-date=, |archive-date=, etc.) except for |orig-date= in the style specified by the article's {{use dmy dates}} or {{use mdy dates}} template. See those templates' documentation for details.
+year: Year of publication. The more flexible |date= parameter also handles a year by itself. Do not use in combination with the |date= parameter, unless both of the following conditions are met:
+Shortened footnotes target multiple citations with same last name and year of publication. (This situation necessitates a CITEREF disambiguator, usually a lowercase letter suffixed to the year.)
+The |date= format is YYYY-MM-DD. (This format prevents the addition of a disambiguating letter to the year.)
+orig-date: Original publication date or year; displays in square brackets after the date (or year). For clarity, please supply specifics. For example: |orig-date=First published 1859 or |orig-date=Composed 1904. As |orig-date= does not support automatic date formatting, use the same date format as defined by |df= (or, if it exists in the article, by |cs1-dates= of a {{use dmy dates}} or {{use mdy dates}} template), or as used in the |date= parameter. Alias: orig-year
+df: date format; sets rendered dates to the specified format; does not support date ranges or seasonal dates; overrides the automatic date formatting described above. Accepts one value which may be one of these:
+dmy – set publication dates to day month year format; access- and archive-dates are not modified;
+mdy – as above for month day, year format
+ymd – as above for year initial numeric format YYYY-MM-DD
+dmy-all – set publication, access-, and archive-dates to day month year format;
+mdy-all – as above for month day, year format
+ymd-all – as above for year initial numeric format YYYY-MM-DD
+↑ Publication dates in references within an article should all have the same format. This may be a different format from that used for archive and access dates. See MOS:DATEUNIFY.
+Editors
+editor-last: surname of editor. Do not wikilink—use editor-link instead. Where the surname is usually written first—as in Chinese—or for corporate authors, simply use editor-last to include the same format as the source. Aliases: editor-last1, editor1-last, editor-surname, editor-surname1, editor1-surname, editor, editor1.
+editor: This parameter is used to hold the complete name of a single editor (first and last), or the name of an editorial committee. This parameter should never hold the names of more than one editor. Supports accept-this-as-written markup.
+editor-first: given or first names of editor, including title(s); example: Firstname Middlename or Firstname M. or Dr. Firstname M., Sr. Do not wikilink—use editor-link instead. Aliases: editor-first1, editor1-first, editor-given, editor-given1, editor1-given.
+OR: for multiple editors, use editor-last1, editor-first1 through editor-lastn, editor-firstn (Aliases: editorn-last, editor-surnamen or editorn-surname; editorn-first, editor-givenn or editorn-given; editorn). For an individual editor plus an institutional editor, you can use |editor-first1=...|editor-last1=... |editor2=....
+editor-link: title of existing Wikipedia article about the editor—not the editor's website; do not wikilink. Aliases: editor-link1.
+OR: for multiple editors, use editor-link1 through editor-linkn (alias editorn-link).
+name-list-style: accepts a limited list of keywords as value; when set to amp, ampersand, or &, inserts an ampersand between the last two names in a name list; when set to and, inserts the conjunction 'and' between the last two names of a name list; when set to vancdisplays name lists in Vancouver style when the lists use the last/first forms of name parameters.
+veditors: comma separated list of editor names in Vancouver style; enclose corporate or institutional names in doubled parentheses. End with etal if appropriate:
+|veditors=Smythe JB, ((Megabux Corp.)), etal
+editor-linkn and editor-maskn may be used for the individual names in |veditors=, as described above
+Display:
+Use display-editors to control the length of the displayed editor name list and to specify when "et al." is included.
+If authors: Authors are first, followed by the included work, then "In" and the editors, then the main work.
+If no authors: Editors appear before the included work; a single editor is followed by "ed."; multiple editors are followed by "eds."
+Title
+(See also Help:Citation Style 1 § Titles and chapters.)
+title: Title of source page on website. Displays in quotation marks. For titles containing quotation marks, convert regular quotation marks (") to single quotation marks ('). See MOS:QINQ for guidance in more complex situations. If script-title is defined, use title to hold a Romanization (if available) of the title in script-title.
+script-title: Original title for languages that do not use a Latin-based script (Arabic, Chinese, Cyrillic, Greek, Hebrew, Japanese, Korean, etc); follows Romanization defined in title (if present). Must be prefixed with one of the supported language codes to help browsers properly display the script:
+... |title=Tōkyō tawā |script-title=ja:東京タワー |trans-title=Tokyo Tower ...
+trans-title: English translation of the title if the source cited is in a foreign language. Displays in square brackets after title. Use of the language parameter is recommended.
+Titles containing certain characters will display and link incorrectly unless those characters are encoded.
+newline [ ] |
+space &#91; &#93; &#124;
+{{bracket|text}} {{pipe}} – see also Help:Table § Rendering pipe itself
+This parameter is required and will generate an error if not defined. On errors, main, help and template pages are placed into Category:Articles with incorrect citation syntax. Set |no-tracking=true to disable categorization; mainly used for documentation where the error is demonstrated.
+website: Title of website (when the website has a clear name, use that rather than the domain name); may be wikilinked. Displays in italics. Aliases: work
+type: Provides additional information about the media type of the source. May alternatively be used to identify the type of manuscript linked to in the title, if this is not the final version of a manuscript (e.g. if a preprint of a manuscript is freely available, but the version of record is behind a paywall). Format in sentence case. Displays in parentheses following the title. The reserved keyword none can be used to disable the display of a type. Examples: Thesis, Booklet, Accepted manuscript, CD liner, Press release. Alias: medium.
+language: The language (or a comma-separated list of the languages) in which the source is written, as either the ISO 639 language code (preferred) or the full language name. Examples: |language=ru; |lang=fr, pt-br; |lang=Russian; |language=French, Portuguese. See the list of supported codes and names. Do not use templates or wikilinks. Displays in parentheses with "in" before the language name or names. When the only source language is English, no language is displayed in the citation. The use of languages recognized by the citation module adds the page to the appropriate subcategory of Category:CS1 foreign language sources. Because cs1|2 templates are often copied from en.wiki to other wikis, the use of language codes is preferred so that language names render in the correct language and form, e.g. espagnol at a French-language wiki instead of the English word "Spanish". Aliases: lang
+URL
+url: URL of an online location where the text of the publication named by title can be found. Cannot be used if title is wikilinked. If applicable, the link may point to the specific page(s) referenced. Remove tracking parameters from URLs, e.g. #ixzz2rBr3aO94 or ?utm_source=google&utm_medium=...&utm_term=...&utm_campaign=.... For linking to pages in PDF files or in Google Books, see WP:PAGELINKS. Do not link to any commercial booksellers, such as Amazon; use |isbn= or |oclc= to provide neutral search links for books. Invalid URLs, including those containing spaces, will result in an error message.
+access-date: Full date when the content pointed to by url was last verified to support the text in the article; do not wikilink; requires url; use the same format as other access and archive dates in the citations.[date 1] Not required for linked documents that do not change. For example, access-date is required for online sources, such as personal websites, that do not have a publication date; see WP:CITEWEB. Access dates are not required for links to published research papers or published books. Note that access-date is the date that the URL was found to be working and to support the text being cited. See "Automatic date formatting" above for details about interaction with {{use dmy dates}} and {{use mdy dates}}. Can be hidden or styled by registered editors. Alias: accessdate.
+archive-url: The URL of an archived snapshot of a web page. Typically used to refer to services such as Internet Archive (see Help:Using the Wayback Machine); requires archive-date and url. By default (overridden by |url-status=live) the archived link is displayed first, with the original link at the end. Alias: archiveurl.
+archive-date: Archive service snapshot date; preceded in display by default text "archived from the original on". Use the same format as other access and archive dates in the citations. This does not necessarily have to be the same format that was used for citing publication dates.[date 1] Do not wikilink; templated dates are discouraged. See "Automatic date formatting" above for details about interaction with {{use dmy dates}} and {{use mdy dates}}. Alias: archivedate.
+url-status: A control parameter to select one of |url= or |archive-url= to link |title=; requires url and archive-url. Use {{dead link}} to mark dead |url= when there is no |archive-url=.
+Accepts multiple keywords:
+dead – (default condition when |url-status= omitted or empty) selects |archive-url=
+live – selects |url=; used when |url= is preemptively archived with |archive-url=
+deviated – selects |archive-url=; used when |url= is still live but no longer supports the text in a Wikipedia article
+unfit – selects |archive-url=; used when |url= links to vice (gambling, pornography), advertising, malware, phishing, compromised, other malicious, or other unsuitable page; links to |url= are suppressed in the rendering. If an entire domain is unsuitable, consider instead usurpation or blacklist. Bot help is available at WP:URLREQ
+usurped – selects |archive-url=; used when the domain in |url= no longer serves its original intent, particularly when the domain has been (mis)appropriated by other entities such as vice, reseller, malware, phishing, compromised, other malicious, and advertising sites; links to |url= are suppressed in the rendering. Bot help is available at WP:URLREQ
+bot: unknown – Editors may encounter this value which is left behind by a bot that has visited the reference and wasn't able to determine the status of the url. The page will be automatically placed in Category:CS1 maint: bot: original URL status unknown when this value is present, and per the instructions in that category, editors manually evaluate the state of the URL and change the parameter value appropriately.
+archive-format: File format of the work referred to by archive-url; for example: DOC or XLS; displayed in parentheses after the archive link. HTML is implied and should not be specified. PDF is auto-detected and should not be specified. Does not change the external link icon (except for PDF). Note: External link icons do not include alt text; thus, they do not add file format information for the visually impaired. (This is not a concern with PDF, because the auto-detection will add "(PDF)" as descriptive text.) See Using |format=
+url-access: See Access indicators discussion
+format: File format of the work referred to by url; for example: DOC or XLS; displayed in parentheses after title. (For media format, use type.) HTML is implied and should not be specified. PDF is auto-detected and should not be specified. Does not change the external link icon (except for PDF). Note: External link icons do not include alt text; thus, they do not add file format information for the visually impaired. (This is not a concern with PDF, because the auto-detection will add "(PDF)" as descriptive text.) See Using |format=
+URLs must begin with a supported URI scheme. http:// and https:// will be supported by all browsers; however, ftp://, gopher://, irc://, ircs://, mailto: and news: may require a plug-in or an external application and should normally be avoided. IPv6 host-names are currently not supported.
+If URLs in citation template parameters contain certain characters, then they will not display and link correctly. Those characters need to be percent-encoded. For example, a space must be replaced by %20. To encode the URL, replace the following characters with:
+Character  space  "  '  <  >  [  ]  {  |  }
+Encoding  %20 %22 %27 %3C %3E %5B %5D %7B %7C %7D
+Single apostrophes do not need to be encoded; however, unencoded multiples will be parsed as italic or bold markup. Single curly closing braces also do not need to be encoded; however, an unencoded pair will be parsed as the double closing braces for the template transclusion.
+1 2 Access-date and archive-date in references should all have the same format – either the format used for publication dates, or YYYY-MM-DD. See MOS:DATEUNIFY.
+Website
+work (required by {{cite journal}} and {{cite magazine}}): Name of the work containing the source; may be wikilinked if relevant. Displays in italics. If the name of the periodical changed over time use the name at the time of the source's publication. If script-work is defined, use work to hold a Romanization (if available) of the title in script-work. Aliases: journal, newspaper, magazine, periodical, website. Use Latin script. For languages written in non-Latin based scripts (Arabic, Chinese, Cyrillic, Greek, Hebrew, Indic, Japanese, Korean, etc.) use a standard Romanization in this field.
+script-work: Work title in its original, non-Latin script; not italicized, follows italicized Romanization defined in work (if present). Must be prefixed with one of the supported language codes to help browsers properly display the script. Leave empty for Latin-based scripts (Czech, French, Turkish, Vietnamese, etc.). Aliases: script-journal, script-newspaper, script-magazine, script-periodical, script-website.
+trans-work: English translation of the work title if the source cited is in a foreign language. Displays in square brackets after work or script-work. Aliases: trans-journal, trans-newspaper, trans-magazine, trans-periodical, trans-website.
+... |work=Zhōngguó piàofáng |script-work=zh:中国票房 |trans-work=China Box Office ...
+department: Title of a regular department, column, or section within the periodical or journal. Examples include "Communication", "Editorial", "Letter to the Editor", and "Review". Displays after title and is in plain text.
+When set, work changes the formatting of other parameters in the same citation:
+title is not italicized and is enclosed in quotes.
+chapter does not display (and will produce an error message).
+Edition, series
+edition: When the publication has more than one edition; for example: "2nd", "Revised", and so forth. Appends the string " ed." after the field, so |edition=2nd produces "2nd ed." Does not display if a periodical field is defined.
+series or version: When the source is part of a series, such as a book series or a journal, where the issue numbering has restarted.
+Publisher
+publisher: Name of publisher; may be wikilinked[1] if relevant. The publisher is the company, organization or other legal entity that publishes the work being cited. For self-published works (i.e., where the publisher is the same as the author or creator) state |publisher=self-published.[2] Do not use the publisher parameter for the name of a work (e.g. a website, book, encyclopedia, newspaper, magazine, journal, etc.). If the name of the publisher changed over time, use the name as stated in the publication or used at the time of the source's publication. Corporate designations such as "Ltd", "Inc.", or "GmbH" are not usually included. This parameter is most commonly used for books, and rarely for websites or periodicals (although it may be used instead of work in some cases). Omit where the publisher's name is substantially the same as the name of the work (for example, The New York Times Co. publishes The New York Times newspaper, so there is no reason to name the publisher). Displays after title.
+place: For news stories with a dateline, the location where the story was written. If the name of the location changed over time, use the name as stated in the publication or used at the time of the source's publication. In earlier versions of the template this was the publication place, and for compatibility, will be treated as the publication place if the publication-place parameter is absent; see that parameter for further information. Alias: location
+publication-place: Geographical place of publication; generally not wikilinked; omit when the name of the work includes the publication place, for example, The Boston Globe, The Times of India. Displays after the title. If the name of the publication place changed over time, use the name as stated in the publication or used at the time of the source's publication. If only one of publication-place, place, or location is defined, it will be treated as the publication place and will show after the title; if publication-place and place or location are defined, then place or location is shown before the title prefixed with "written at" and publication-place is shown after the title.
+publication-date: Date of publication when different from the date the work was written. If date (or year) is also defined and is different, then publication-date displays preceded by "published" and enclosed in parentheses, following publisher. If date (or year) is not defined, publication-date is displayed as date. Use the same format as other dates in the article; do not wikilink.
+via: Name of the content deliverer (if different from publisher). via is not a replacement for publisher, but provides additional detail. It may be used when the article is attributed to a different publication (e.g. in Yahoo News) but cannot be traced, when the content deliverer (e.g. NewsBank) presents the source in a format different from the original, when the URL provided does not make clear the identity of the deliverer, where no URL or DOI is available (e.g. EBSCOhost), or if the deliverer requests attribution. See the access level parameters to display access restrictions, and the agency parameters if the original source is a news agency or wire service.
+agency: The news agency (wire service) that provided the content; examples: Associated Press, Reuters, Agence France-Presse. Do not use for sources published on the agency's own website; e.g. apnews.com or reuters.com; instead, use work or publisher. May be wikilinked if relevant.
+In-source locations
+minutes: Time the event occurs in the source; followed by "minutes in".
+OR: time: Time the event occurs in the source; preceded by default text "Event occurs at".
+time-caption: Changes the default text displayed before time.
+Use only one of |page=, |pages=, or |at=.
+page: The number of a single page in the source that supports the content. Displays preceded by p. unless |no-pp=yes. If hyphenated, use {{hyphen}} to indicate this is intentional (e.g. |page=3{{hyphen}}12), otherwise several editors and semi-automated tools will assume this was a misuse of the parameter to indicate a page range and will convert |page=3-12 to |pages=3{{ndash}}12. Alias: p.
+OR: pages: A range of pages in the source that supports the content. Separate using an en dash (–); separate non-sequential pages with a comma (,); do not use to indicate the total number of pages in the source. Displays preceded by pp. unless |no-pp=yes.
+Hyphens are automatically converted to en dashes; if hyphens are appropriate because individual page numbers contain hyphens, for example: pp. 3-1–3-15, use double parentheses to tell the template to display the value of |pages= without processing it, and use {{hyphen}} to indicate to editors that a hyphen is really intended: |pages=((3{{hyphen}}1{{ndash}}3{{hyphen}}15)). Alternatively, use |at=, like this: |at=pp. 3-1&ndash;3-15. Alias: pp.
+no-pp: Set to yes, y, or true to suppress the p. or pp. notations where this is inappropriate; for example, where |page=Front cover or |pages=passim.
+OR: at: For sources where a page number is not available (such as in digital books), inappropriate or insufficient. This parameter accepts any text, but you are normally encouraged to use one out of section (sec.), column (col.), paragraph (para.); track; act, scene, canto, book, part, folio, stanza, back cover, liner notes, indicia, colophon, dust jacket, verse. For digital books that do not have pages, use the |at= parameter to provide information that would facilitate finding the referenced material in a digital format. For print books, for page (p.) or pages (pp.) ideally use |page= or |pages= possibly in conjunction with |no-pp=yes instead. For hours, minutes and seconds ideally use |minutes= or |time= instead.
+For |quote-page= and |quote-pages= used in conjunction with |quote=, see here.
+Identifiers
+Not to be confused with § Anchor.
+id: A unique identifier, used where none of the specialized identifiers are applicable; wikilink or use an external link template as applicable. For example, |id=NCJ 255676 will append "NCJ 255676" at the end of the citation. You can use templates such as |id={{NCJ|255676}} to append NCJ 255676 instead.
+The following identifiers create links and are designed to accept a single value. Using multiple values or other text will break the link and/or invalidate the identifier. In general, the parameters should include only the variable part of the identifier, e.g. |rfc=822 or |pmc=345678.
+arxiv: arXiv identifier; for example: |arxiv=hep-th/9205027 (before April 2007) or |arxiv=0706.0001 (April 2007 – December 2014) or |arxiv=1501.00001 (since January 2015). Do not include extraneous file extensions like ".pdf" or ".html". Aliases: eprint.
+asin: Amazon Standard Identification Number; if first character of asin value is a digit, use isbn. Because this link favours one specific distributor, include it only if standard identifiers are not available. Example |asin=B00005N5PF. Aliases: ASIN.
+asin-tld: ASIN top-level domain for Amazon sites other than the US; valid values: ae, au, br, ca, cn, de, es, fr, in, it, jp, mx, nl, pl, sa, se, sg, tr, uk. Aliases: none.
+bibcode: bibcode; used by a number of astronomical data systems; for example: 1974AJ.....79..819H. Aliases: none.
+biorxiv: bioRxiv id, as in the entire DOI (e.g. 10.1101/078733 for http://biorxiv.org/content/early/2016/10/01/078733 or https://doi.org/10.1101/078733; 10.1101/2020.07.24.220400 for https://doi.org/10.1101/2020.07.24.220400). Aliases: none.
+citeseerx: (deprecated) CiteSeerX id, a string of digits and dots found in a CiteSeerX URL (e.g. 10.1.1.176.341 for https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.176.341). Aliases: none.
+doi: Digital object identifier; for example: 10.1038/news070508-7. It is checked to ensure it begins with (10.). Aliases: DOI.
+Supports accept-this-as-written markup to indicate valid DOIs using a non-standard format, see below.
+doi-broken-date: Date a valid DOI was found to be non-working/inactive at https://doi.org. Use the same format as other dates in the article. Aliases: none.
+eissn: International Standard Serial Number for the electronic media of a serial publication; eight characters may be split into two groups of four using a hyphen, but not an en dash or a space; example |eissn=1557-2986. Aliases: EISSN.
+Supports accept-this-as-written markup to indicate valid eISSNs using a non-standard format, see below.
+hdl: Handle System identifier for digital objects and other resources on the Internet; example |hdl=20.1000/100. Aliases: HDL.
+isbn: International Standard Book Number; for example: 978-0-8126-9593-9. (See Wikipedia:ISBN and ISBN § Overview.) Hyphens in the ISBN are optional, but preferred. Use the ISBN actually printed on or in the book. Use the 13-digit ISBN – beginning with 978 or 979 – when it is available. If only a 10-digit ISBN is printed on or in the book, use it. ISBNs can be found on the page with the publisher's information – usually the back of the title page – or beneath the barcode as a number beginning with 978 or 979 (barcodes beginning with any other numbers are not ISBNs). For sources with the older 9-digit SBN system, use sbn. Do not convert a 10-digit ISBN to 13-digit by just adding the 978 prefix; the last digit is a calculated check digit and just making changes to the numbers will make the ISBN invalid. This parameter should hold only the ISBN without any additional characters. It is checked for length, invalid characters – anything other than numbers, spaces, and hyphens, with "X" permitted as the last character in a 10-digit ISBN – and the proper check digit. Aliases: ISBN.
+Use the {{Format ISBN}} template within the parameter – in the form |isbn={{Format ISBN|9780812695939}} – if you are unsure of how any particular ISBN should be hyphenated, as the pattern varies by country and publisher.
+Supports accept-this-as-written markup to indicate valid ISBNs using a non-standard format, see below.
+ismn: International Standard Music Number; for example: 979-0-9016791-7-7. Hyphens or spaces in the ISMN are optional. Use the ISMN actually printed on or in the work. This parameter should hold only the ISMN without any additional characters. It is checked for length, invalid characters – anything other than numbers, spaces, and hyphens – and the proper check digit. Aliases: ISMN.
+issn: International Standard Serial Number; eight characters may be split into two groups of four using a hyphen, but not an en dash or a space; example |issn=2049-3630. Aliases: ISSN.
+Supports accept-this-as-written markup to indicate valid ISSNs using a non-standard format, see below.
+jfm: Jahrbuch über die Fortschritte der Mathematik; do not include "JFM" in the value; example |jfm=53.0144.01. Aliases: JFM.
+jstor: JSTOR reference number; for example: |jstor=3793107. Aliases: JSTOR.
+lccn: Library of Congress Control Number. When present, alphabetic prefix characters are to be lower case and without a space; example |lccn=79-57364 or |lccn=2004042477 or |lccn=e09001178. Aliases: LCCN.
+mr: Mathematical Reviews; example |mr=630583. Aliases: MR.
+oclc: OCLC Number for looking up publications in the WorldCat union catalog; example |oclc=9355469. Aliases: OCLC.
+ol: Open Library identifier; do not include "OL" in the value; example |ol=7030731M. Aliases: OL.
+osti: Office of Scientific and Technical Information; example |osti=4367507. Aliases: OSTI.
+pmc: PubMed Central; use article number for open repository full-text of a journal article, e.g. |pmc=345678. Do not include "PMC" in the value. See also the pmid parameter, below; these are two different identifiers. Aliases: PMC.
+pmc-embargo-date: Date that pmc goes live; if this date is in the future, then pmc is not linked until that date. Aliases: none.
+pmid: PubMed; use unique identifier; example |pmid=17322060 See also the pmc parameter, above; these are two different identifiers. Aliases: PMID.
+rfc: Request for Comments; example |rfc=3143. Aliases: RFC.
+sbn: Standard Book Number; example |sbn=356-02201-3. Aliases: SBN.
+Supports accept-this-as-written markup to indicate valid SBNs using a non-standard format, see below.
+ssrn: Social Science Research Network; example |ssrn=1900856. Aliases: SSRN.
+s2cid: Semantic Scholar corpus ID; example |s2cid=37220927. Aliases: S2CID.
+zbl: Zentralblatt MATH; example |zbl=0472.53010 For zbMATH search results like JFM 35.0387.02 use |jfm=35.0387.02. Aliases: ZBL.
+In very rare cases, identifiers are published which do not follow their defined standard format or use non-conforming checksums. These would typically cause an error message to be shown. Do not alter them to match a different checksum. In order to suppress the error message, some identifiers (|doi=, |eissn=, |isbn=, |issn=, and |sbn=) support a special accept-this-as-written markup which can be applied to disable the error-checking (as |<param>=((<value>))). If the problem is down to a mere typographical error in a third-party source, correct the identifier value instead of overriding the error message.
+For some identifiers, it is possible to specify the access status using the corresponding |<param>-access= parameter.
+For {{cite journal}}, some identifiers (specifying free resources) will automatically be linked to the title when |url= and |title-link= are not used to specify a different link target. This behaviour can be overridden by one out of a number of special keywords for |title-link= to manually select a specific source (|title-link=pmc or |title-link=doi) for auto-linking or to disable the feature (|title-link=none).
+It is not necessary to specify a URL to a link identical to a link also produced by an identifier. The |url= parameter (or |title-link=) can then be used for providing a direct deep link to the corresponding document or a convenience link to a resource that would not otherwise be obviously accessible.
+Subscription or registration required
+Shortcut
+WP:URLACCESSWP:URLACCESS
+Citations of online sources that require registration or a subscription are acceptable in Wikipedia as documented in Verifiability § Access to sources. As a courtesy to readers and other editors, editors should signal restrictions on access to material provided via the external links included in a citation. These levels describe requirements or constraints related to accessing and viewing the cited material; they are not intended to indicate the ability to reuse, or the copyright status, of the material, since that status is not relevant to verifying claims in articles.
+Four access levels can be used:
+access indicator for named identifiers:
+free: the source is free to read for anyone
+access indicators for url-holding parameters:
+registration: a free registration with the provider is required to access the source, even if a limited preview, abstract or review may still be available without registration
+limited: free access is subject to limited trial and a subscription is normally required
+subscription: the source is only accessible via a paid subscription with the provider of the source ("paywall")
+As there are often multiple external links with different access levels in the same citation, each value is attributed to a specific external link.
+Access indicators for url-holding parameters
+See also: WP:CONLINK
+Online sources linked by |url=, |article-url=, |chapter-url=, |contribution-url=, |entry-url=, |map-url=, and |section-url= are presumed to be free-to-read. When they are not free-to-read, editors should mark those sources with the matching access-indicator parameter so that an appropriate icon is included in the rendered citation. Because the sources linked by these URL-holding parameters are presumed to be free-to-read, they are not marked as free. If the registration/limited/subscription access to the source goes dead and is no longer available, then remove the access-indicator parameter and add |archive-url= and |archive-date= values if possible.
+URL-holding and access-indicator parameters
+URL  Access  Allowed keywords
+|url=  |url-access= registration
+limited
+subscription
+|article-url=  |article-url-access=
+|chapter-url=  |chapter-url-access=
+|contribution-url=  |contribution-url-access=
+|entry-url=  |entry-url-access=
+|map-url=  |map-url-access=
+|section-url=  |section-url-access=
+For example, this cites a web page that requires registration but not subscription:
+{{cite web |url=https://example.com/nifty_data.php |url-access=registration |date=2021-04-15 |title=Nifty example data}}
+which renders as:
+"Nifty example data". 2021-04-15.
+Access indicator for named identifiers
+Shortcut
+WP:DOIACCESSWP:DOIACCESS
+Links inserted by named identifiers are presumed to lie behind a paywall or registration barrier – exceptions listed below. When they are free-to-read, editors should mark those sources with the matching access-indicator parameter so that an appropriate icon is included in the rendered citation.
+To be clear, these should be flagged when the databases themselves host the free document, not merely a link to another database that hosts them. For example, the following citation has 3 identifiers a DOI, a PMCID, and a PMID.
+Velmovitsky, Pedro Elkind; Kirolos, Merna; Alencar, Paulo; Leatherdale, Scott; Cowan, Donald; Morita, Plinio Pelegrini (2024). "Leveraging mHealth Technologies for Public Health". JMIR Public Health and Surveillance. 10 e49719. doi:10.2196/49719. PMC 11427850. PMID 39265164.
+Clicking on the DOI takes you to a page where the full paper is freely accessible, so flagging with |doi-access=free is appropriated. The PMCID link also takes you to a page where the full paper is freely accessible, and is likewise automatically flagged as free, as virtually all PMCID links are free. The PMID link, however, only takes you to a page that contains links to free versions of the paper (the DOI link and the PMCID link), but does not host a free version itself. Therefore it is not flagged as free.
+Named-identifier and access-indicator parameters
+Identifier  Access  Allowed keywords
+|bibcode=  |bibcode-access= free
+|doi=  |doi-access=
+|hdl=  |hdl-access=
+|jstor=  |jstor-access=
+|ol=  |ol-access=
+|osti=  |osti-access=
+|ssrn=  |ssrn-access=
+|s2cid=  |s2cid-access=
+Some named-identifiers are always free-to-read. For those named identifiers there are no access-indicator parameters; the access level is automatically indicated by the template. These named identifiers are:
+|arxiv=
+|biorxiv=
+|citeseerx=
+|medrxiv=
+|pmc=
+|rfc=
+For an embargoed pmc that will become available in the future, see pmc-embargo-date.
+When the sources linked by these named-identifier parameters are not presumed to carry a free-to-read full text (for instance because they're just abstracting services, host paywalled reviews, or give only basic information about the source), they may not be marked as limited, registration, or subscription. Those named identifiers are
+|asin=/|asin-tld=
+|issn=/|e-issn=
+|isbn=
+|ismn=
+|jfm=
+|lccn=
+|mr=
+|oclc=
+|pmid=
+|sbn=
+|zbl=
+Tracking of free DOIs
+The template is able to recognize known free-to-read DOI registrants, based on a list in Module:Citation/CS1/Configuration. Once a free registrant is identified, the 10.xxxx/... part of the DOI associated with the registrant can be added to the list under local function build_free_doi_registrants_table(). If |doi-access=free is not set, it will place the page in Category:CS1 maint: unflagged free DOI, which is routinely cleared by User:Citation bot.
+The template is also able to recognize known free-to-read journals, assuming they have a clear 10.xxxx/yyyy.... DOI pattern. Once that pattern is identified, it can be added to Module:Citation/CS1/Configuration under local extended_registrants_t = { with the format ['XXXX'] = {'YYYY'},. If there are multiple journals with the same DOI prefix, they can be grouped together with the format ['XXXX'] = {'YYYY', 'ZZZZ', '...'},.
+If you add a free registrant/free journal to the lists in Module:Citation/CS1/Configuration, leave a note at User talk:Citation bot so the bot knows about it.
+Quote
+quote: Relevant text quoted from the source. Displays enclosed in quotes. When supplied, the citation terminator (a period by default) is suppressed, so the quote must include terminating punctuation. If script-quote is defined, use quote to hold a Romanization (if available) of the text in script-quote. When quoting a copyrighted text, only brief quotations to attribute a point of view or idea are permitted; extensive quotations are prohibited.
+script-quote: Original quotation for languages that do not use a Latin-based script (Arabic, Chinese, Cyrillic, Greek, Hebrew, Japanese, Korean, etc.); not italicized, follows italicized Romanization defined in quote (if available). Alias: none. Must be prefixed with one of the supported language codes to help browsers properly display the script:
+... |quote=Tōkyō tawā |script-quote=ja:東京タワー |trans-quote=Tokyo Tower ...
+trans-quote: English translation of the quotation if the source quoted is in a foreign language. Displays in square brackets. Alias: none.
+quote-page: The number of a single page quoted in |quote=. Use either |quote-page= or |quote-pages=, but not both. Should be a subset of the page(s) specified in |page=, |pages= or |at=. Displays preceded by p. unless |no-pp=yes. If hyphenated, use {{hyphen}} to indicate this is intentional (e.g. |quote-page=3{{hyphen}}12). Alias: none.
+OR: quote-pages: A list or range of pages quoted in |quote=. Use either |quote-page= or |quote-pages=, but not both. Should be a subset of the pages specified in |pages= or |at=. Separate using an en dash (–); separate non-sequential pages with a comma (,). Displays preceded by pp. unless |no-pp=yes is defined. Hyphens are automatically converted to en dashes; if hyphens are appropriate because individual page numbers contain hyphens, for example: pp. 3-1–3-15, use double parentheses to tell the template to display the value of |quote-pages= without processing it, and use {{hyphen}} to indicate to editors that a hyphen is really intended: |quote-pages=((3{{hyphen}}1{{ndash}}3{{hyphen}}15)). Alias: none.
+Anchor
+Not to be confused with § Identifiers.
+ref: the citation's HTML anchor identifier, when different from its default. When set, |ref=ID generates an anchor with the given ID (the id= attribute in the citation's <cite id="ID"> HTML tag). Setting |ref=ID identifies the template as a target and allows wikilinking to full references, especially useful with short-form citations like shortened notes and parenthetical referencing. The default anchor ID is suitable for use with {{sfn}} and {{harv}} templates. Since April 2020, the parameter / keyword pair |ref=harv has no special meaning; this deprecated setting should not be used and may be removed from existing cs1|2 templates. To inhibit anchor ID creation, set |ref=none. Aliases: none. See Template:Citation/doc § Anchors for Harvard referencing templates.
+Display options
+mode: Sets element separator, default terminal punctuation, and certain capitalization according to the value provided. For |mode=cs1, element separator and terminal punctuation is a period (.); where appropriate, initial letters of certain words are capitalized ('Retrieved...'). For |mode=cs2, element separator is a comma (,); terminal punctuation is omitted; where appropriate, initial letters of certain words are not capitalized ('retrieved...'). These styles correspond to Citation Style 1 and Citation Style 2 respectively. To override default terminal punctuation use postscript.
+author-mask:
+contributor-mask:
+editor-mask:
+interviewer-mask:
+subject-mask:
+translator-mask:
+Replaces the name of the (first) author with em dashes or text. Set <name>-mask to a numeric value n to set the dash n em spaces wide; set <name>-mask to a text value to display the text without a trailing author separator; for example, "with". The numeric value 0 is a special case to be used in conjunction with <name>-link—in this case, the value of <name>-link will be used as (linked) text. In either case, you must still include the values for all names for metadata purposes. Primarily intended for use with bibliographies or bibliography styles where multiple works by a single author are listed sequentially such as shortened footnotes. Do not use in a list generated by {{reflist}}, <references /> or similar as there is no control of the order in which references are displayed. Mask parameters can take an enumerator in the name of the parameter (e.g. |authorn-mask=) to apply the mask to a specific name.
+display-authors:
+display-contributors:
+display-editors:
+display-interviewers:
+display-subjects:
+display-translators:
+Controls the number of author (or other kind of contributor) names that are displayed. By default, all authors are displayed. To change the displayed number of names, set the parameter to the desired number. For example, |display-authors=2 will display only the first two authors in a citation (and not affect the display of the other kinds of contributors). |display-authors=0 is a special case suppressing the display of all authors including the et al. |display-authors=etal displays all authors in the list followed by et al. Aliases: none.
+postscript: Controls the closing punctuation for a citation; defaults to a period (.); for no terminating punctuation, specify |postscript=none – leaving |postscript= empty is the same as omitting it, but is ambiguous. Additional text, or templates that render more than a single terminating punctuation character, will generate a maintenance message. |postscript= is ignored if quote is defined.
+TemplateData
+This section contains configuration data used by editing tools and automated bots. Changes to this data can result in widespread and unintended effects. For more information see Help:Citation Style 1 § TemplateData
+This is the TemplateData for this template used by TemplateWizard, VisualEditor and other tools. See a monthly parameter usage report for Template:Cite web in articles based on its TemplateData.
+TemplateData for Cite web
+Template:Cite web uses standard parameter set; TemplateData has errors:
+|citeseerx= is not a valid parameter
+Template parameters[Edit template data]
+This template has custom formatting.
+Parameter Description Type Status
+Last name last last1 author author1 author1-last author-last surname1 author-last1 subject1 surname subject
+The surname of the author or given name of a single-name author; don't wikilink, use 'author-link'; can suffix with a numeral to add additional authors
+Line suggested
+First name first given author-first first1 given1 author-first1 author1-first
+Given or first name, middle names, or initials of the author; don't wikilink, use 'author-link'; can suffix with a numeral to add additional authors
+Line suggested
+Author link author-link author-link1 author1-link subject-link subject-link1 subject1-link authorlink
+Title of existing Wikipedia article about the author; can suffix with a numeral to add additional authors
+Page name optional
+Last name 2 last2 author2
+The surname of the second author; don't wikilink, use 'author-link2'.
+Line optional
+First name 2 first2
+Given or first name, middle names, or initials of the second author; don't wikilink.
+Line optional
+Author link 2 author-link2 author2-link
+Title of existing Wikipedia article about the second author.
+Page name optional
+Last name 3 last3 author3
+The surname of the third author; don't wikilink, use 'author-link3'.
+Line optional
+First name 3 first3
+Given or first name, middle names, or initials of the third author; don't wikilink.
+Line optional
+Author link 3 author-link3 author3-link
+Title of existing Wikipedia article about the third author.
+Page name optional
+Last name 4 last4 author4
+The surname of the fourth author; don't wikilink, use 'author-link4'.
+Line optional
+First name 4 first4
+Given or first name, middle names, or initials of the fourth author; don't wikilink.
+Line optional
+Author link 4 author-link4 author4-link
+Title of existing Wikipedia article about the fourth author.
+Page name optional
+Last name 5 last5 author5
+The surname of the fifth author; don't wikilink, use 'author-link5'.
+Line optional
+First name 5 first5
+Given or first name, middle names, or initials of the fifth author; don't wikilink.
+Line optional
+Author link 5 author-link5 author5-link
+Title of existing Wikipedia article about the fifth author.
+Page name optional
+Last name 6 last6 author6
+The surname of the sixth author; don't wikilink, use 'author-link6'.
+Line optional
+First name 6 first6
+Given or first name, middle names, or initials of the sixth author; don't wikilink.
+Line optional
+Author link 6 author-link6 author6-link
+Title of existing Wikipedia article about the sixth author.
+Page name optional
+Last name 7 last7 author7
+The surname of the seventh author; don't wikilink, use 'author-link7'.
+Line optional
+First name 7 first7
+Given or first name, middle names, or initials of the seventh author; don't wikilink.
+Line optional
+Author link 7 author-link7 author7-link
+Title of existing Wikipedia article about the seventh author.
+Page name optional
+Last name 8 last8 author8
+The surname of the eighth author; don't wikilink, use 'author-link8'.
+Line optional
+First name 8 first8
+Given or first name, middle names, or initials of the eighth author; don't wikilink.
+Line optional
+Author link 8 author-link8 author8-link
+Title of existing Wikipedia article about the eighth author.
+Page name optional
+Last name 9 last9 author9
+The surname of the ninth author; don't wikilink, use 'author-link9'.
+Line optional
+First name 9 first9
+Given or first name, middle names, or initials of the ninth author; don't wikilink.
+Line optional
+Author link 9 author-link9 author9-link
+Title of existing Wikipedia article about the ninth author.
+Page name optional
+Last name 10 last10 author10
+The surname of the tenth author; don't wikilink, use 'author-link10'.
+Line optional
+First name 10 first10
+Given or first name, middle names, or initials of the tenth author; don't wikilink.
+Line optional
+Author link 10 author-link10 author10-link
+Title of existing Wikipedia article about the tenth author.
+Page name optional
+Last name 11 last11 author11
+The surname of the eleventh author; don't wikilink, use 'author-link11'.
+Line optional
+First name 11 first11
+Given or first name, middle names, or initials of the eleventh author; don't wikilink.
+Line optional
+Author link 11 author-link11 author11-link
+Title of existing Wikipedia article about the eleventh author.
+Page name optional
+Last name 12 last12 author12
+The surname of the twelfth author; don't wikilink, use 'author-link12'.
+Line optional
+First name 12 first12
+Given or first name, middle names, or initials of the twelfth author; don't wikilink.
+Line optional
+Author link 12 author-link12 author12-link
+Title of existing Wikipedia article about the twelfth author.
+Page name optional
+Last name 13 last13 author13
+The surname of the thirteenth author; don't wikilink, use 'author-link13'.
+Line optional
+First name 13 first13
+Given or first name, middle names, or initials of the thirteenth author; don't wikilink.
+Line optional
+Author link 13 author-link13 author13-link
+Title of existing Wikipedia article about the thirteenth author.
+Page name optional
+Last name 14 last14 author14
+The surname of the fourteenth author; don't wikilink, use 'author-link14'.
+Line optional
+First name 14 first14
+Given or first name, middle names, or initials of the fourteenth author; don't wikilink.
+Line optional
+Author link 14 author-link14 author14-link
+Title of existing Wikipedia article about the fourteenth author.
+Page name optional
+Last name 15 last15 author15
+The surname of the fifteenth author; don't wikilink, use 'author-link15'.
+Line optional
+First name 15 first15
+Given or first name, middle names, or initials of the fifteenth author; don't wikilink.
+Line optional
+Author link 15 author-link15 author15-link
+Title of existing Wikipedia article about the fifteenth author.
+Page name optional
+Author mask author-mask
+Replaces the name of the first author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+String optional
+Display authors display-authors
+Number of authors to display before 'et al.' is used. By default, all authors are displayed. Examples: |display-authors=2 will display only the first two authors in a citation followed by et al. |display-authors=etal displays all authors in the list followed by et al.
+String optional
+Name list style name-list-style
+Set to 'amp' or 'and' to change the separator between the last two names of the name list to ' & ' or ' and ', respectively. Set to 'vanc' to display name lists in Vancouver style.
+Suggested values
+amp and vanc
+String optional
+Source date date
+Full date when the source was published; if unknown, use access-date instead; do not wikilink
+Date suggested
+Year of publication year
+Year of the source being referenced; deprecated in favor of 'date', except for the special case of ISO dates with disambiguating letter
+String optional
+Original date orig-date
+Original date of publication; provide specifics
+Date optional
+Editor last name editor-last editor1-last editor
+The surname of the editor; don't wikilink, use 'editor-link'; can suffix with a numeral to add additional editors.
+Line optional
+Editor first name editor-first editor1-first
+Given or first name, middle names, or initials of the editor; don't wikilink, use 'editor-link'; can suffix with a numeral to add additional editors; alias of 'editor1-first'
+Line optional
+Editor link editor-link editor1-link
+Title of existing Wikipedia article about the editor; can suffix with a numeral to add additional editors
+Page name optional
+Editor last name 2 editor2-last editor2
+The surname of the second editor; don't wikilink, use 'editor2-link'.
+Line optional
+Editor first name 2 editor2-first
+Given or first name, middle names, or initials of the second editor; don't wikilink.
+Line optional
+Editor link 2 editor2-link
+Title of existing Wikipedia article about the second editor.
+Page name optional
+Editor last name 3 editor3-last editor3
+The surname of the third editor; don't wikilink, use 'editor3-link'.
+Line optional
+Editor first name 3 editor3-first
+Given or first name, middle names, or initials of the third editor; don't wikilink.
+Line optional
+Editor link 3 editor3-link
+Title of existing Wikipedia article about the third editor.
+Page name optional
+Editor last name 4 editor4-last editor4
+The surname of the fourth editor; don't wikilink, use 'editor4-link'.
+Line optional
+Editor first name 4 editor4-first
+Given or first name, middle names, or initials of the fourth editor; don't wikilink.
+Line optional
+Editor link 4 editor4-link
+Title of existing Wikipedia article about the fourth editor.
+Page name optional
+Editor last name 5 editor5-last editor5
+The surname of the fifth editor; don't wikilink, use 'editor5-link'.
+Line optional
+Editor first name 5 editor5-first
+Given or first name, middle names, or initials of the fifth editor; don't wikilink.
+Line optional
+Editor link 5 editor5-link
+Title of existing Wikipedia article about the fifth editor.
+Page name optional
+Editor last name 6 editor6-last editor6
+The surname of the sixth editor; don't wikilink, use 'editor6-link'.
+Line optional
+Editor first name 6 editor6-first
+Given or first name, middle names, or initials of the sixth editor; don't wikilink.
+Line optional
+Editor link 6 editor6-link
+Title of existing Wikipedia article about the sixth editor.
+Page name optional
+Editor last name 7 editor7-last editor7
+The surname of the seventh editor; don't wikilink, use 'editor7-link'.
+Line optional
+Editor first name 7 editor7-first
+Given or first name, middle names, or initials of the seventh editor; don't wikilink.
+Line optional
+Editor link 7 editor7-link
+Title of existing Wikipedia article about the seventh editor.
+Page name optional
+Editor last name 8 editor8-last editor8
+The surname of the eighth editor; don't wikilink, use 'editor8-link'.
+Line optional
+Editor first name 8 editor8-first
+Given or first name, middle names, or initials of the eighth editor; don't wikilink.
+Line optional
+Editor link 8 editor8-link
+Title of existing Wikipedia article about the eighth editor.
+Page name optional
+Editor last name 9 editor9-last editor9
+The surname of the ninth editor; don't wikilink, use 'editor9-link'.
+Line optional
+Editor first name 9 editor9-first
+Given or first name, middle names, or initials of the ninth editor; don't wikilink.
+Line optional
+Editor link 9 editor9-link
+Title of existing Wikipedia article about the ninth editor.
+Page name optional
+Others others
+Used to record other (non-author) contributions to the work, such as 'Illustrated by John Smith' or 'Translated by John Smith'. Only one ''others'' parameter is allowed: e.g., 'Illustrated by Jane Doe; Translated by John Smith'
+String optional
+Title title
+The title of the source page on the website; will display with quotation marks added. Usually found at the top of your web browser. Not the name of the website.
+String required
+Script title script-title
+For titles in languages that do not use a Latin-based alphabet (Arabic, Chinese, Cyrillic, Greek, Hebrew, Japanese, Korean, etc.). Prefix with two-character ISO639-1 language code followed by a colon.
+Example
+For Japanese use: |script-title=ja:...
+String optional
+Translated title trans-title
+An English language title, if the source cited is in a foreign language; 'language' is recommended
+String optional
+URL url URL
+The URL (web address) of the source containing the cited information. Starts with "https://...".
+Example
+https://www.metacritic.com/...
+URL required
+URL access level url-access
+Classification of the access restrictions on the URL
+Suggested values
+registration subscription limited
+Example
+'registration', 'subscription' or 'limited'
+String optional
+URL status url-status
+If set to 'live', the title display is adjusted; useful for when the URL is archived preemptively but still live. Set to "dead" or 'usurped' for broken links. Entering 'unfit' or 'usurped' makes the original link not appear at all.
+Suggested values
+dead live usurped unfit deviated
+Default
+'dead' if an Archive URL is entered
+Example
+'dead' or 'live'
+String suggested
+Archive URL archive-url archiveurl
+The URL of an archived copy of a web page, if or in case the URL becomes unavailable; requires 'archive-date'
+Auto value
+URL suggested
+Archive date archive-date archivedate
+Date when the original URL was archived; do not wikilink
+Date suggested
+Archive format archive-format
+Format of the archived copy; do not specify HTML
+Example
+PDF, DOC, XLS
+String optional
+URL access date access-date accessdate
+The full date when the original URL was accessed; do not wikilink
+Date suggested
+Name of the website website work
+Title (name) of the website (or its short URL if no plain-language title is discernible); may be wikilinked; will display in italics. Having both 'publisher' and 'website' is redundant in many cases.
+Example
+[[Rotten Tomatoes]]
+String suggested
+Department department
+Department of the website, if present
+Example
+News, Society, Blog
+Unknown optional
+Series identifier series
+Series identifier when the source is part of a series, such as a book series or a journal
+String optional
+Publisher publisher
+Name of the publisher; may be wikilinked. Having both 'publisher' and 'website' (a.k.a. 'work') is redundant in many cases.
+Example
+[[Fandom, Inc.]] (which owns "Metacritic.com")
+String optional
+Place place
+For news stories with a dateline, the location where the story was written; will be treated as the publication place if publication place is absent; alias of 'location'
+String optional
+Page page
+Page in the source that supports the content; displays after 'p.'
+String optional
+Pages pages
+Pages in the source that support the content (not an indication of the number of pages in the source); displays after 'pp.'
+String optional
+At at
+May be used instead of 'page' or 'pages' where a page number is inappropriate or insufficient
+String optional
+Language language lang
+The language in which the source is written, if not English; use a two-letter language code or the full language name. Do not use icons or templates. Separate multiple languages with commas
+Example
+de, fr, es
+String optional
+Type type
+Additional information about the media type of the source; format in sentence case
+String optional
+Format format
+Format of the work referred to by 'url'; examples: PDF, DOC, XLS; do not specify HTML
+String optional
+Location location
+Location of publisher/publication; not the specific story byline
+Unknown optional
+Place of publication publication-place
+Publication place shows after title; if 'place' or 'location' are also given, they are displayed before the title prefixed with 'written at'
+String optional
+Publication date publication-date
+Date of publication when different from the date the work was written; do not wikilink
+Date optional
+Date format df
+Sets rendered dates to the specified format
+String optional
+Published via via
+Name of the entity hosting the original copy of the work, if different from the publisher. This entity is committed not to alter the work.
+Example
+[[GitHub]], [[SourceForge]], [[CodePlex]], [[YouTube]], [[Vimeo]], [[Dailymotion]], [[Netflix]], [[Archive.org]], [[Wikimedia Commons]], [[grc.com]]
+String optional
+No pp no-pp
+Set to 'y' to suppress the 'p.' or 'pp.' display with 'page' or 'pages' when inappropriate (such as 'Front cover')
+Auto value
+y
+Boolean optional
+arXiv identifier arxiv
+An identifier for arXive electronic preprints of scientific papers
+String optional
+ASIN asin
+Amazon Standard Identification Number; 10 characters
+String optional
+ASIN TLD asin-tld
+ASIN top-level domain for Amazon sites other than the US
+String optional
+Bibcode bibcode
+Bibliographic Reference Code (REFCODE); 19 characters
+String optional
+biorXiv biorxiv
+biorXiv identifier; 6 digits
+Line optional
+CiteSeerX citeseerx
+CiteSeerX identifier; found after the 'doi=' query parameter
+Line deprecated
+DOI doi
+Digital Object Identifier; begins with '10.'
+String optional
+DOI broken date doi-broken-date
+The date that the DOI was determined to be broken
+Auto value
+Date optional
+ISBN isbn
+International Standard Book Number; use the 13-digit ISBN where possible
+String optional
+ISSN issn
+International Standard Serial Number; 8 characters; may be split into two groups of four using a hyphen
+String optional
+jfm code jfm
+Jahrbuch über die Fortschritte der Mathematik classification code
+String optional
+JSTOR jstor
+JSTOR identifier
+String optional
+LCCN lccn
+Library of Congress Control Number
+String optional
+MR mr
+Mathematical Reviews identifier
+String optional
+OCLC oclc
+Online Computer Library Center number
+String optional
+OL ol
+Open Library identifier
+String optional
+OSTI osti
+Office of Scientific and Technical Information identifier
+String optional
+PMC pmc
+PubMed Center article number
+String optional
+PMID pmid
+PubMed Unique Identifier
+String optional
+RFC rfc
+Request for Comments number
+String optional
+SSRN ssrn
+Social Science Research Network
+String optional
+Zbl zbl
+Zentralblatt MATH journal identifier
+String optional
+id id
+A unique identifier used where none of the specialized ones are applicable
+String optional
+Quote quote
+Relevant text quoted from the source; displays last, enclosed in quotes; must include terminating punctuation
+String optional
+Translated quote trans-quote
+English translation of the quotation if the source quoted is in a foreign language. Displays in square brackets.
+String optional
+Ref ref
+An anchor identifier; can be made the target of wikilinks to full references
+String optional
+Postscript postscript
+The closing punctuation for the citation; ignored if 'quote' is defined
+Default
+.
+String optional
+Edition edition
+Specify the edition or revision of the source, when applicable. For example: '2nd' or '5.1'. What you supply here is suffixed by ' ed.'
+Example
+2nd
+Line optional
+Bibcode access level bibcode-access
+If the full text is available from ADS via this Bibcode, type 'free'.
+Auto value
+free
+String optional
+DOI access level doi-access
+If the full text is free to read via the DOI, type 'free'.
+Auto value
+free
+String optional
+HDL access level hdl-access
+If the full text is free to read via the HDL, type 'free'.
+Auto value
+free
+String optional
+Jstor access level jstor-access
+If the full text is free to read on Jstor, type 'free'.
+Auto value
+free
+String optional
+OpenLibrary access level ol-access
+If the full text is free to read on OpenLibrary, type 'free'.
+Auto value
+free
+String optional
+OSTI access level osti-access
+If the full text is free to read on OSTI, type 'free'.
+Auto value
+free
+String optional
+Agency agency
+The news agency (wire service) that provided the content; examples: Associated Press, Reuters, Agence France-Presse
+String optional
+Translator last name translator-last1
+The surname of the translator; don't wikilink, use 'translator-link'; can suffix with a numeral to add additional translators.
+Line optional
+Translator first name translator-first1
+Given or first name, middle names, or initials of the translator; don't wikilink, use 'translator-link1'; can suffix with a numeral to add additional editors
+Line optional
+Translator link translator-link1
+Title of existing Wikipedia article about the translator; can suffix with a numeral to add additional translators
+Page name optional
+See also
+v
+t
+e
+Citation Style 1
+General
+templates
+{{Cite book}}
+books
+{{Cite conference}}
+conference papers
+{{Cite document}}
+short, stand-alone, offline documents
+{{Cite encyclopedia}}
+edited collections
+{{Cite interview}}
+interviews
+{{Cite journal}}
+academic journals
+{{Cite magazine}}
+magazines
+{{Cite mailing list}}
+public mailing lists
+{{Cite map}}
+maps
+{{Cite news}}
+news articles
+{{Cite newsgroup}}
+online newsgroups
+{{Cite press release}}
+press releases
+{{Cite report}}
+unpublished reports
+{{Cite sign}}
+signs, plaques
+{{Cite speech}}
+speeches
+{{Cite tech report}}
+technical reports
+{{Cite thesis}}
+theses
+{{Cite web}}
+web sources
+Preprint templates
+{{Cite arXiv}}
+{{Cite bioRxiv}}
+{{Cite CiteSeerX}}
+{{Cite medRxiv}}
+{{Cite SSRN}}
+Audiovisual-related
+{{Cite AV media}}
+{{Cite AV media notes}}
+{{Cite episode}}
+{{Cite podcast}}
+{{Cite serial}}
+Categories
+Citation Style 1 templates
+Citation Style 1 specific-source templates
+Documentation
+{{Citation Style documentation}}
+Citation Style 1 noticeboard
+v
+t
+e
+Wikipedia referencing
+Policies and guidelines
+Verifiability
+No original research
+Biographies of living persons
+Reliable sources
+Medicine
+Citing sources
+Scientific citations
+General advice
+Citation needed
+Combining sources
+Offline sources
+Referencing styles
+Citing sources
+Citation Style 1
+Citation Style 2
+Bluebook
+Comics
+Citation templates
+Inline citations
+Footnotes
+Punctuation and footnotes
+Shortened footnotes
+Nesting footnotes
+List-defined references
+Help for beginners
+Reference-tags
+Citations quick reference
+Introduction to referencing
+Referencing with citation templates
+Referencing without using templates
+Referencing dos and don'ts
+Citing Wikipedia
+Advanced help
+Cite link labels
+Cite errors
+Citation merging (bundling)
+Cite messages
+Converting between references formats
+Reference display customization
+References and page numbers
+Guidance on source reviewing at FAC
+Cite extension documentation
+Footnote templates
+Citation Style documentation
+Multiple references
+{{Reflist}}
+{{Refbegin}}
+Find references
+How to find sources
+Bibliographies
+Wikipedia Library
+Resource Exchange
+Reference Desk
+Book Sources
+Free newspaper sources
+Citation tools
+(External links)
+Citer
+Citation bot
+MakeRef
+Refill
+WayBack
+OABot
+This template produces COinS metadata; see COinS in Wikipedia for background information.
+The above documentation is transcluded from Template:Cite web/doc. (edit | history)
+Editors can experiment in this template's sandbox (edit | diff) and testcases (edit) pages.
+Add categories to the /doc subpage. Subpages of this template.
+↑ The pipe trick does not work inside references, so be sure to insert a full wikilink.
+↑ Compare archived talk page.
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Template:Cite_web&oldid=753103437"
+Categories:
+Templates used by AutoWikiBrowser
+Pages monitored by Wikipedia bots
+Templates based on the Citation/CS1 Lua module
+Templates generating COinS
+Citation Style 1 templates
+Hidden categories:
+Wikipedia fully protected templates
+CS1 French-language sources (fr)
+CS1 Russian-language sources (ru)
+CS1: unfit URL
+Templates using TemplateData
+Search
+Search
+Template:Cite web
+300 languages   Add topic

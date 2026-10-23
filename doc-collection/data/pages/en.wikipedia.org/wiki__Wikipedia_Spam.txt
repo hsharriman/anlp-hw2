@@ -1,0 +1,293 @@
+URL: https://en.wikipedia.org/wiki/Wikipedia:Spam
+
+Wikipedia:Spam - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Wikipedia guideline
+This page is about different types of spam on Wikipedia. For other pages about advertising and promotion, see Wikipedia:Advertising. For WikiProject Spam, see Wikipedia:WikiProject Spam.
+For inappropriate "spamming" of editors to take part in discussions, see Wikipedia:Canvassing.
+This page documents an English Wikipedia content guideline.
+Editors should generally follow it, though exceptions may apply. Substantive edits to this page should reflect consensus.
+Shortcuts
+WP:SPAMWP:SPAM
+WP:ADSWP:ADS
+This page in a nutshell: Spam is the inappropriate addition of content with the intention of publicizing or advertising something, and is considered harmful to Wikipedia. Use this button to report spam external links to WikiProject Spam:  Report spam
+There are three main types of spam on Wikipedia:
+Advertisements masquerading as articles: Sometimes editors add content that seems more like an advertisement than an encyclopedia article. Even when the promotional material is added in a good-faith effort to improve Wikipedia, it is not appropriate for an encyclopedia article.
+External link spamming: Sometimes editors add inappropriate links to external websites. Adding the same website to multiple articles usually causes other editors to suspect that a spammer is trying to promote the website.
+Reference spamming: Sometimes editors add citations to sources in contexts or volumes that make other editors suspect that the main goal is promoting the author or the work being cited, rather than impartially providing a relevant citation.
+Advertisements masquerading as articles
+Shortcuts
+WP:BROCHUREWP:BROCHURE
+WP:ADMASQWP:ADMASQ
+WP:SPAMPAGEWP:SPAMPAGE
+WP:ARTSPAMWP:ARTSPAM
+See also: Wikipedia:What Wikipedia is not § Wikipedia is not a soapbox or means of promotion
+Articles considered advertisements include those that are solicitations for a business, product or service, or are public relations pieces designed to promote a company, organisation, or individual. Wikispam articles are usually noted for sales-oriented language and external links to a commercial website. However, a differentiation should be made between spam articles and legitimate articles about commercial entities or other organisations.
+Examples of promotional wording
+He has dedicated his life to humanitarian efforts.
+The company transformed into a comprehensive ecosystem to monetize content.
+They have a goal of fostering a community to leverage resources.
+They were there to support everyone during this unprecedented time.
+He is an experienced entrepreneur who values synergy between mission-critical projects.
+They engage in blue-sky thinking to help companies pivot from pain points to the new normal.
+Remove or replace these with concrete, specific facts.
+Blatant examples of advertising masquerading as encyclopedia articles can be tagged for speedy deletion with the template {{db-spam}}. The same applies to pages in userspace, the draft namespace, or any other namespace. Other advertisements posted on Wikipedia can be dealt with by either proposed deletion or listing them on Wikipedia:Articles for deletion. On some occasions, the content can be removed temporarily on the basis of a suspected copyright violation, since the text is often copied from another website and posted anonymously. Before trying to get an advertisement masquerading as an article deleted, please check the article's history to see if an acceptable revision exists there. If so, please revert to the latest acceptable version of the article.
+When an article on an otherwise encyclopedic topic has the tone of an advertisement, the article can often be salvaged by rewriting it in a neutral point of view. Elements of articles about products or services with brand names can also be combined under a common topic or category to facilitate unbiased and collaborative information by including information about the competition and about different alternatives.
+Spam may also occur by hijacking articles. In this case, information is changed to the subject being promoted, and the article is "hijacked" or changed to promote an entirely different subject.
+Tagging articles with spam or prone to spam
+Some articles, especially those pertaining to Internet topics, are prone to aggressive spamming from multiple websites.
+If articles have spam, and you haven't got the time or ability to remove it, you can tag them with {{Advert}}. This template expands to the following:
+This article contains promotional content. Please help improve it by removing promotional language and inappropriate external links, and by adding encyclopedic text written from a neutral point of view.
+See our advice if the article is about you and read our scam warning in case someone asks for money to edit this article. (Learn how and when to remove this message)
+Another possible tag to use is {{External links}}, which expands to the following:
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (Learn how and when to remove this message)
+The third useful template is a substituted template {{subst:No more links}}, visible only while the page is being edited. After spam links have been removed from a Wikipedia article, this template can be substituted into the top of the external links section of the frequently spammed article as a pre-emptive measure.
+<!-- {{No more links}}
+Please be cautious adding more external links.
+Wikipedia is not a collection of links and should not be used for advertising.
+Excessive or inappropriate links will be removed.
+See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for details.
+If there are already suitable links, propose additions or replacements on
+the article's talk page.
+-->
+A fourth template, used for citation spam, is {{refimprove-spam}}, which looks like this:
+This article contains references that appear to be spam. Wikipedia is not a collection of links and should not be used for advertising. Please help improve this article by adding citations to reliable sources. See Wikipedia:External links and Wikipedia:Spam for details. (Learn how and when to remove this message)
+Finally to advise the Wikipedia community to watch an article for abuse you can add to the talk page (under the project banners and other page headers, but before any discussions) {{Prone to spam}} which looks like this:
+This article is prone to spam. Please monitor the References and External links sections.
+External link spamming
+Shortcuts
+WP:LINKSPAMWP:LINKSPAM
+WP:SPAM#LINKWP:SPAM#LINK
+WP:SPAMLINKWP:SPAMLINK
+WP:SPAMLINKSWP:SPAMLINKS
+WP:EXTPROMOWP:EXTPROMO
+Main pages: Links normally to be avoided and Wikipedia:Conflict of interest
+Adding external links to an article or user page for the purpose of promoting a website or a product is not allowed and is considered to be spam. Although the specific links may be allowed under some circumstances, repeatedly adding links will in most cases result in all of them being removed.
+Citation spam
+Shortcuts
+WP:REFSPAMWP:REFSPAM
+WP:CITESPAMWP:CITESPAM
+See also: WP:MEDCOI and WP:EXPERT
+Citation spamming is the illegitimate or improper use of citations, footnotes, or references. Citation spamming is a form of search engine optimization or promotion that typically involves the repeated insertion of a particular citation or reference in multiple articles by a single contributor. Often these are added not to verify article content, but rather to populate numerous articles with a particular citation. Variations of citation spamming include academics and scientists using their editing privileges primarily to add citations to their own work, and people replacing live or dead URLs with links to commercial sites or their own blogs. Citation spamming is a subtle form of spam and should not be confused with legitimate good-faith additions intended to verify article content and help build the encyclopedia.
+Source soliciting
+Source solicitations are messages on article talk pages that explicitly solicit editors to use a specific external source to expand an article. Editors with a conflict of interest should follow Wikipedia policies and best practices scrupulously when soliciting editors to use a specific external source to expand an article. Every article on Wikipedia can be expanded as a matter of course, but the question is in the details on a per-article basis. It is not possible to simply say "all articles of X type can be expanded using Y source".
+There is no hard rule on when this crosses over from being a legitimate attempt to improve the article into being internal spam, but some guidelines and questions to consider:
+Is the source commercial?
+Does the source meet the requirements of Wikipedia:Reliable sources?
+Is the suggestion being made anonymously through the use of a template or category?
+Was the suggestion duplicated across a number of articles at the same time, particularly articles relating to different topics?
+Has there been any discussion (of a specific and substantive nature) on why the source should be used in each article?
+External link spamming with bots
+A few parties now appear to have a spambot capable of spamming wikis from several wiki engines, analogous to the submitter scripts for guestbooks and blogs. They have a database of a few hundred wikis. Typically they insert external links. Like blog spam, they aim to improve the search engine rankings of the external sites, not to directly advertise their product. (This does not work on Wikimedia wikis because of the use of the nofollow directive.)
+If you see a bot inserting external links, please consider checking the other language wikis to see if the attack is widespread. If it is, please contact a sysop on the Meta-Wiki; they can put in a Wikimedia-wide text filter. Any Meta sysop can edit the Wikimedia-wide spam blacklist to add or remove the patterns that are recognized by the filter, with the changes taking effect immediately. New links can also be added to the list if a new spammer should start making the rounds.
+Sysops are authorised to block unauthorised bots on sight. Spambots should be treated as vandal bots. Edits by spambots constitute unauthorised defacement of websites, which is against the law in many countries, and may result in complaints to ISPs and (ultimately) prosecution.
+The link spam problem extends far beyond Wikimedia projects, and is generally worse on smaller wikis where the community struggles to keep it clean. mw:Manual:Combating spam describes features available in MediaWiki (for administrators running this software).
+Inclusion of one spam link is not a reason to include another
+Shortcuts
+WP:OTHERSPAMEXISTSWP:OTHERSPAMEXISTS
+WP:OTHERSPAMWP:OTHERSPAM
+Many times, users can be confused by the removal of spam links because other links that could be construed as spam have been added to the article and not yet removed. The inclusion of a spam link should not be construed as an endorsement of the spam link, nor should it be taken as a reason or excuse to include another.
+Affiliate links
+Even if they are related to the subject or are an official page for the subject, external links containing affiliate or referral codes are considered spam. If the linked webpage is otherwise appropriate, please remove all referral codes from the URL.
+Videos
+Adding links to gratis online videos that promote a site or product is not allowed [see exception below]. Often these videos have been uploaded in violation of their copyright, which adds reason for not linking to them. A video might be a spamming video if:
+It has a banner plastered across the video giving you a website address to go to.
+It has text on the video page that would lead readers to a specific commercial site. For example, "book available at xyzBooks dot net" — [see exception below]
+Exception: Generally, a video is not a spamming video if it refers to the official site associated with the Wikipedia article. For example, if the Wikipedia article is on a movie named "xyzMovie" and the official site for the movie is "xyzMovie.com" then links or references to "xyzMovie.com" are legitimate for a video at a video sharing page. Although all other links on that video page should also be legitimate, some judgement is needed. If the posted video just advertises a bunch of products associated with the movie, then it is a spamming video even though it refers to the official site.
+Bookspam
+Shortcut
+WP:BOOKSPAMWP:BOOKSPAM
+Sometimes Wikipedia sees bookspam, which is the insertion of text mentioning books to call attention to the books, rather than to contribute to the article. This often takes the form of inserting book listings into reference sections although the book is not used as the source of any information in the article. Bookspam is also seen as the addition of books to "external links", "further reading" or similar sections, although the books added do not add any useful and relevant information.
+Avoiding giving an opportunity to spammers
+Shortcut
+WP:SPAMBAITWP:SPAMBAIT
+Examples in articles tend to attract spam, as in these sentences:
+For example, Chevron Corporation has ...
+Social networking has flourished with websites such as Friendster and MySpace, ...
+Examples of detergents include Tide, ...
+The most notable multi-level marketing companies are Amway, ...
+Many people feel Dr Pepper is the best tasting soft drink ... (this is also weasel wording)
+Many blogs arose discussing this (see e.g. Some blog); ...
+Such sentences tend to attract editors to add more examples because it is far easier to add a link to the end of this kind of sentence than to add encyclopedic content. Examples should only be given if they are highly relevant to the article topic, and should always be sourced with independent, reliable sources.
+How not to be a spammer
+Shortcut
+WP:SPAMMERWP:SPAMMER
+See also: Wikipedia:Raising awareness
+Sometimes, people come to Wikipedia with the intention of spamming: creating articles which are mere advertisements or self-promotion, or adding external links to a website over many articles.
+Some people spam Wikipedia without meaning to. That is, they do things which Wikipedians consider to be spamming, without realizing that their actions are not in line with building an encyclopedia. A new editor who owns a business may see that there are articles about other businesses on Wikipedia, and conclude that it would be appropriate to create their own such article. A website operator may see many places in Wikipedia where their site would be relevant, and quickly add several dozen links to it.
+The following guidelines are intended to suggest how not to be a spammer—that is, how to mention a website, product, business, or other resource without appearing to the Wikipedia community that you are trying to abuse Wikipedia for self-promotion.
+Review your intentions. Wikipedia is not a space for personal promotion or the promotion of products, services, web sites, fandoms, ideologies, or memes. If you are here to tell readers how great something is, or to get exposure for an idea or product that nobody has heard of yet, you are in the wrong place. Likewise, if you are here to make sure that the famous Wikipedia cites you as the authority on something (and possibly to pull up your sagging PageRank) you will probably be disappointed, because Wikipedia uses nofollow on all external links, thereby causing search engines to effectively ignore them.
+Contribute cited text, not bare links. Wikipedia is an encyclopedia, not a link farm. If you have a source to contribute, first contribute some facts that you learned from that source, then cite the source. Do not simply direct readers to another site for the useful facts; add useful facts to the article, then cite the site where you found them. You are here to improve Wikipedia—not just to funnel readers off Wikipedia and onto some other site, right? (If not, see No. 1 above.)
+The References section is for references. A reference directs the reader to a work that the writer(s) referred to while writing the article. The References section of a Wikipedia article is not just a list of related works; it is specifically the list of works used as sources. Therefore, do not add a link or reference to the References section if nobody editing the text of the article has actually referred to it.
+Do not make a new article for your own product or website. Most often, when a person creates a new article describing their own work, it is because the work is not yet well-known enough to have attracted anyone else's attention, much less independent and reliable sources against which the content can be verified. Articles of this sort are usually deleted. Wikipedia does indeed have articles about popular products and websites, but it is not acceptable to use Wikipedia to popularize them.
+If your product is truly relevant to an article, others will agree, so try the talk page. We usually recommend that editors be bold in adding directly to articles, but if the above advice makes you concerned that others will regard your contribution as spam, you can find out without taking that risk by describing your work on the article's talk page and asking other editors if it is relevant.
+Do not add an external link to your signature. However, external links to Wikimedia projects are exempt from this rule. For example, Wikimedia Meta-Wiki. (Although Interwiki links are preferable to external links for that purpose.)
+Warning spammers
+When it comes to warning spammers, use the list of spam warning templates. {{subst:uw-spam1}} (general note) is a useful "first warning" to put on the Talk page of a spammer. For new users, {{subst:welcomespam}} is an alternative which should only be used if a user may have added a spam link in good faith.
+Subsequent offenses can be tagged with {{subst:uw-spam2}} (caution), or more strongly, {{subst:uw-spam3}} (warning) and {{subst:uw-spam4}} (final warning). If an editor spams numerous articles systematically, they may be warned with {{subst:uw-spam4im}} (only warning) as the only warning that they will receive before they are blocked. The template {{subst:uw-sblock}} indicates that the spammer has been blocked.
+If you have tagged an article for speedy deletion with {{db-spam}} because it is blatant spam, you may add {{subst:spam-warn}} to the originating editor's talk page to warn them of the impending deletion, and to allow them to possibly edit the article so it is no longer spam.
+Please remember to substitute these templates using for example {{subst:uw-spam1}} instead of {{uw-spam1}}.
+Editors who have enabled the Twinkle feature can use the warn tab to insert these templates.
+Dealing with spam
+Sometimes an article attracts so many improper external links that it "crosses the spam event horizon". Links should be removed and editors should be advised of our policy against promotion. Editors who continually add inappropriate links should receive escalating warnings, and if it continues, should be reported to AIV or 3RR, which may result in them being blocked from editing.
+Spambots
+See also: Spambot
+A spambot is an automated process that will vandalize a wiki by adding spam links to user pages and articles, or by creating a mass of spam pages.
+Operating spambots on the English Wikipedia (or any Wikimedia project) is prohibited by the Terms of Use.
+See also
+Template:Advert – add to salvageable articles written like an advertisement
+Template:Example farm – add when an article has poor or irrelevant examples
+Template:Prone to spam – add when an article attracts too many spam links in its external links section
+Wikipedia:WikiProject Spam – to report spammers
+Wikipedia:Spam blacklist
+Wikipedia:Replies to common objections#Advertisers
+Wikipedia:External links – more guidance and policy on which external links should be included and which should not
+Wikipedia:Linking to external harassment – even more guidance on which links should be included and which should not
+Wikipedia:Notability (organizations and companies) – determining whether an organization is notable enough for inclusion
+Wikipedia:Spam event horizon
+Wikipedia:Manual of Style (trademarks) – spam content often violates this guideline for formatting trademarks within articles
+Wikipedia:Funding Wikipedia through advertisements
+Wikipedia:Vanispamcruftisement
+Wikipedia:Wikipedia Signpost/2013-09-25/Op-ed – "Q&A on Public Relations and Wikipedia," includes discussion regarding the legal implications of anonymous promotional editing
+Wikipedia:WikiProject Spam/Dead link spamming – combatting efforts to disguise the addition of spam links as replacements for dead link templates
+Wikipedia:Spam-only account - accounts that are only used for spam
+Also relevant
+Wikipedia:Advocacy
+Wikipedia:Advocacy articles
+Wikipedia:Activist
+External links
+c2:WikiSpam
+MeatBall:WikiSpam
+CommunityWiki:WikiSpam
+v
+t
+e
+Wikipedia key policies and guidelines (?)
+Five pillars
+Ignore all rules
+Content (?)
+P
+Verifiability
+No original research
+Neutral point of view
+What Wikipedia is not
+Biographies of living persons
+Copyright (Copyright violations)
+Image use
+Article titles
+G
+Notability
+Autobiographies
+Citing sources
+Reliable sources
+Medicine
+Do not include copies of lengthy primary sources
+Plagiarism
+Do not create hoaxes
+Fringe theories
+Patent nonsense
+External links
+Writing articles with large language models
+Removal of AI-generated content
+LLM-assisted translation
+Conduct (?)
+P
+Civility
+Consensus
+Harassment
+Vandalism
+Ignore all rules
+No personal attacks
+Ownership of content
+Edit warring
+Dispute resolution
+Sockpuppetry
+No legal threats
+Child protection
+Paid-contribution disclosure
+G
+Assume good faith
+Conflict of interest
+Disruptive editing
+Do not disrupt Wikipedia to illustrate a point
+Etiquette
+Gaming the system
+Please do not bite the newcomers
+Courtesy vanishing
+Responding to threats of harm
+Talk page guidelines
+Signatures
+Deletion (?)
+P
+Deletion policy
+Proposed deletion
+Biographies
+Speedy deletion
+Attack page
+Oversight
+Revision deletion
+Enforcement (?)
+P
+Administrators
+Banning
+Blocking
+Page protection
+Editing (?)
+P
+Editing policy
+G
+Article size
+Summary style
+Be bold
+Disambiguation
+Hatnotes
+Broad-concept article
+Understandability
+Style
+Manual of Style
+Contents
+Accessibility
+Dates and numbers
+Images
+Layout
+Lead section
+Linking
+Lists
+Classification
+Categories, lists, and navigation templates
+Categorization
+Template namespace
+Project content (?)
+G
+Project namespace
+WikiProjects
+User pages
+Deceased Wikipedians
+User boxes
+Shortcuts
+Subpages
+WMF (?)
+P
+Universal Code of Conduct
+Terms of Use
+List of policies
+Friendly space policy
+Licensing and copyright
+Privacy policy
+List of all policies and guidelines
+P: List of policies
+G: List of guidelines
+Summaries of values and principles
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Spam&oldid=1377451786"
+Categories:
+Wikipedia content guidelines
+Wikipedia spam
+Wikipedia notability
+Hidden categories:
+Wikipedia move-protected project pages
+Wikipedia semi-protected project pages
+Search
+Search
+Wikipedia:Spam
+33 languages   Add topic

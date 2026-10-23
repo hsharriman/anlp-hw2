@@ -5,7 +5,7 @@ Jump to content
 Coordinates: 41°N 78°W﻿ / ﻿41°N 78°W﻿ / 41; -78﻿ (Commonwealth of Pennsylvania)
 Checked
 From Wikipedia, the free encyclopedia
-This is the latest accepted revision, reviewed on 8 October 2026.
+This is the latest accepted revision, reviewed on 21 October 2026.
 U.S. state
 "Penn." redirects here. For other uses, see Penn (disambiguation) and Pennsylvania (disambiguation).
 State in the United States
@@ -114,7 +114,7 @@ Lists of United States state symbols
 Pennsylvania,[b] officially the Commonwealth of Pennsylvania,[c] is a state located in the Mid-Atlantic, Northeastern, Appalachian, and Great Lakes regions of the United States. The state borders Delaware to its southeast, Maryland to its south, forming the Mason–Dixon line, West Virginia to its southwest, Ohio to its west, the Canadian province of Ontario to its northwest via Lake Erie, New York to its north, and the Delaware River and New Jersey to its east. Pennsylvania is the fifth-most populous U.S. state, home to over 13 million residents as of the 2020 United States census, and the ninth-highest state by population density. It is the 33rd-largest state by land area. The largest metropolitan statistical area is the Philadelphia metropolitan area/Delaware Valley, centered on Philadelphia, the state's most populous city and sixth-most populous U.S. city, and an expanding biopharmaceutical, commercial, educational, entrepreneurial/venture capital, industrial, and transportational hub.[8] Pennsylvania's second-largest metropolitan area, Greater Pittsburgh, is centered in and around Pittsburgh, also a biopharmaceutical hub and the Commonwealth's second-largest city. Geographically situated between the two larger metros lies Harrisburg, the capital city of Pennsylvania.
 Pennsylvania's geography is highly diverse. The Appalachian Mountains run through the center of the state, the Allegheny and Pocono mountains span much of Northeastern Pennsylvania, and approximately 59% of the state is forested. Although Pennsylvania technically has no oceanic shoreline, it has 140 miles (225 km) of waterfront along Lake Erie and along the tidal Delaware River, the latter of which reaches the Delaware Bay, a marginal bay of the Atlantic Ocean.[9]
 Pennsylvania was founded in 1681 through a royal land grant to William Penn, the son of the commonwealth's namesake. Before that, between 1638 and 1655, a southeast portion of the state was part of New Sweden, a Swedish colony. Established as a haven for religious and political tolerance, the British colonial-era Province of Pennsylvania was known for its relatively peaceful relations with native tribes, innovative government system, and religious pluralism. Pennsylvania played a vital historical role in the American Revolution and the ultimately successful quest for independence from the British Empire, hosting the First and Second Continental Congress in Philadelphia, the latter of which formed the Continental Army commanded by George Washington in 1775, during the American Revolutionary War, unanimously adopted the Declaration of Independence the following year.[10] On December 12, 1787, Pennsylvania was the second state to ratify the U.S. Constitution after Delaware.
-In the 21st century, Pennsylvania has garnered the nickname "Cellicon State" for the central role of Philadelphia and Pittsburgh in the development of technology and immunotherapies to treat different cancers.[11] AI and STEM education are recognized to hold high-priority status for Pennsylvania's long-term mission and future.
+In the 21st century, Pennsylvania has garnered the nickname "Cellicon State" for the central role of Philadelphia and Pittsburgh in the development of technology and immunotherapies to treat different cancers.[11] Artificial intelligence and STEM education are recognized to hold high-priority status for Pennsylvania's long-term mission and future.
 History
 Main article: History of Pennsylvania
 See also: List of Pennsylvania firsts and List of people from Pennsylvania
@@ -1295,7 +1295,7 @@ IdRef
 NARA
 Yale LUX
 41°N 78°W﻿ / ﻿41°N 78°W﻿ / 41; -78﻿ (Commonwealth of Pennsylvania)
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Pennsylvania&oldid=1379232744"
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pennsylvania&oldid=1381268484"
 Categories:
 Pennsylvania
 1787 establishments in the United States

@@ -1,0 +1,111 @@
+URL: https://en.wikipedia.org/wiki/File:Forts_at_Forks_of_Ohio.png
+
+File:Forts at Forks of Ohio.png - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+Size of this preview: 621 × 409 pixels. Other resolution: 330 × 217 pixels.
+Original file (621 × 409 pixels, file size: 66 KB, MIME type: image/png)
+This is a file from the Wikimedia Commons. Information from its description page there is shown below.
+Commons is a freely licensed media file repository. You can help.
+Summary
+DescriptionForts at Forks of Ohio.png
+English:
+The map places the forts according to the positions of reconstructed elements, such as this bastion of Ft. Duquesne.
+Self-made map of the Forks of the Ohio (Monongahela, Allegheny and Ohio rivers). Shows Fort Pitt and Fort Duquesne. Outlines of the walls (curtains) of the forts traced from the original plans as published in 19th century histories.
+Date   22 March 2009 (original upload date)
+Source   Own work
+Author   en:User:Tomcool
+Licensing
+Tomcool, the copyright holder of this work, hereby publishes it under the following licenses:
+This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+Attribution:
+Tomcool
+You are free:
+to share – to copy, distribute and transmit the work
+to remix – to adapt the work
+Under the following conditions:
+attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.
+https://creativecommons.org/licenses/by-sa/3.0CC BY-SA 3.0 Creative Commons Attribution-Share Alike 3.0 truetrue
+Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled GNU Free Documentation License.http://www.gnu.org/copyleft/fdl.htmlGFDLGNU Free Documentation Licensetruetrue
+You may select the license of your choice.
+Original upload log
+Transferred from en.wikipedia to Commons by MattMoissa.
+The original description page was here. All following user names refer to en.wikipedia.
+Upload date | User | Bytes | Dimensions | Comment
+2009-03-22 04:18:26 | Tomcool | 67645 | 621×409 | A png export of an SVG version of the the same map
+2008-07-04 02:02:01 | Tomcool | 80054 | 743×586 | Correcting typo
+2008-03-24 05:27:46 | Tomcool | 81762 | 743×586 | Adjustments in label placement
+2008-03-24 04:57:48 | Tomcool | 74931 | 743×586 | Refinements after comparing older version of the map against Google Earth imagery
+2008-03-23 20:15:36 | Tomcool | 46763 | 505×439 | Minor adjustment
+2008-03-23 20:06:43 | Tomcool | 46798 | 505×439 | Reconfigured for greater clarity
+2008-03-23 16:04:47 | Tomcool | 58995 | 653×439 | Map of the Forks of the Ohio (Monongahela, Allegheny and Ohio rivers). Shows Fort Pitt and Fort Duquesne. Outlines of the walls (curtains) of the forts traced from the original plans as published in 19th century histories; e.g., Plate IV of "History of Al
+2008-03-22 22:57:51 | Tomcool | 58660 | 653×439 | Map of the Forks of the Ohio (Monongahela, Allegheny and Ohio rivers#. Shows Fort Pitt and Fort Duquesne. Outlines of the walls #curtains) of the fort traced from the original plans as published in 19th century histories.
+Captions
+English
+Add a one-line explanation of what this file represents
+Items portrayed in this file
+depicts
+copyright status
+copyrighted
+copyright license
+GNU Free Documentation License, version 1.2 or later
+Creative Commons Attribution-ShareAlike 3.0 Unported
+source of file
+original creation by uploader
+inception
+22 March 2009
+data size
+67,645 byte
+height
+409 pixel
+width
+621 pixel
+media type
+image/png
+checksum
+315f0acf05e27d5d142bc49a3b786841203ff46c
+determination method or standard: SHA-1
+File history
+Click on a date/time to view the file as it appeared at that time.
+Date/Time Thumbnail Dimensions User Comment
+current 02:05, 5 December 2012  621 × 409 (66 KB) OgreBot (BOT): Reverting to most recent version before archival
+02:05, 5 December 2012  743 × 586 (78 KB) OgreBot (BOT): Uploading old version of file from en.wikipedia; originally uploaded on 2008-07-04 02:02:01 by Tomcool
+02:05, 5 December 2012  743 × 586 (80 KB) OgreBot (BOT): Uploading old version of file from en.wikipedia; originally uploaded on 2008-03-24 05:27:46 by Tomcool
+02:05, 5 December 2012  743 × 586 (73 KB) OgreBot (BOT): Uploading old version of file from en.wikipedia; originally uploaded on 2008-03-24 04:57:48 by Tomcool
+02:05, 5 December 2012  505 × 439 (46 KB) OgreBot (BOT): Uploading old version of file from en.wikipedia; originally uploaded on 2008-03-23 20:15:36 by Tomcool
+02:04, 5 December 2012  505 × 439 (46 KB) OgreBot (BOT): Uploading old version of file from en.wikipedia; originally uploaded on 2008-03-23 20:06:43 by Tomcool
+02:04, 5 December 2012  653 × 439 (58 KB) OgreBot (BOT): Uploading old version of file from en.wikipedia; originally uploaded on 2008-03-23 16:04:47 by Tomcool
+02:04, 5 December 2012  653 × 439 (57 KB) OgreBot (BOT): Uploading old version of file from en.wikipedia; originally uploaded on 2008-03-22 22:57:51 by Tomcool
+14:50, 4 December 2012  621 × 409 (66 KB) MattMoissa {{BotMoveToCommons|en.wikipedia|year={{subst:CURRENTYEAR}}|month={{subst:CURRENTMONTHNAME}}|day={{subst:CURRENTDAY}}}} The tool and the bot are operated by User:Jan Luca and User:Magnus Manske. =={{int:filedesc}}== {{Information |description=[...
+File usage
+The following 5 pages use this file:
+Fort Duquesne
+History of Pittsburgh
+Point State Park
+Samuel Brady
+User:Tomcool
+Global file usage
+The following other wikis use this file:
+Usage on es.wikipedia.org
+Historia de Pittsburgh
+Usage on it.wikipedia.org
+Fort Pitt (Pennsylvania)
+Usage on ja.wikipedia.org
+デュケイン砦
+Usage on nl.wikipedia.org
+Slag bij Monongahela
+Usage on sv.wikipedia.org
+Fort Duquesne
+Metadata
+This file contains additional information, probably added from the digital camera or scanner used to create or digitize it.
+If the file has been modified from its original state, some details may not fully reflect the modified file.
+Horizontal resolution 29.53 dpc
+Vertical resolution 29.53 dpc
+Software used
+www.inkscape.org
+Retrieved from "https://en.wikipedia.org/wiki/File:Forts_at_Forks_of_Ohio.png"
+Search
+Search
+File:Forts at Forks of Ohio.png
+Add topic

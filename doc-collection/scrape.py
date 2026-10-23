@@ -155,6 +155,6 @@ def scrape(start_url, out_dir, max_depth=1, max_pages=50, same_domain=True, dela
 
 
 if __name__ == "__main__":
-    start_url = "https://www.pittsburghpa.gov/files/assets/city/v/1/finance/documents/tax-forms/9626_payroll_tax_regulations.pdf"
+    start_url = "https://www.picklesburgh.com/"
     out_dir = "data/pages"
     scrape(start_url, out_dir, max_depth=1, max_pages=100, sports=False)  # sports=True for team sites

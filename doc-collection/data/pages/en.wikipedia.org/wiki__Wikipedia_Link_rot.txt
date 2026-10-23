@@ -1,0 +1,792 @@
+URL: https://en.wikipedia.org/wiki/Wikipedia:Link_rot
+
+Wikipedia:Link rot - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+How to prevent or repair broken links
+This page is about (primarily) link rot in external links. For broken section links within Wikipedia, see Wikipedia:Database reports/Broken section anchors. For internal links which point to deleted or non-existent articles, see WP:REDLINKS. For other uses, see Wikipedia:Citing sources § Preventing and repairing dead links.
+"WP:LR" redirects here. For Lua requests, see Wikipedia:Lua requests.
+To request URL changes, see WP:Link rot/URL change requests.
+This help page is a how-to guide.
+It explains concepts or processes used by the Wikipedia community. It is not one of Wikipedia's policies or guidelines and may reflect varying levels of consensus.
+Shortcuts
+WP:LRWP:LR
+WP:404WP:404
+WP:ROTWP:ROT
+WP:BADLINKWP:BADLINK
+WP:LINKROTWP:LINKROT
+This page in a nutshell: Steps may be taken to reduce or repair dead external links. Do not remove citations simply because they have URLs which no longer work.
+Like most large websites, Wikipedia suffers from the phenomenon known as link rot, where external links become dead, as the linked web pages or complete websites disappear, change their content, or move without HTTP redirection.[a]
+Link rot is a significant danger to Wikipedia because of the reliability policy, the source citation guideline and the cybersecurity risks that unsafe external links pose to Wikipedia users and editors.
+In general, do not delete cited information solely because the URL to the source does not work any longer. Tools, procedures, and processes are available as outlined in this document.
+Preventing link rot
+Shortcut
+WP:PLRTWP:PLRT
+There are multiple ways to prevent link rot and to make it easier to recover if a website is rearranged later. None of these methods are required by any policy or guideline.
+Automatic archiving
+Links added by editors to the English Wikipedia mainspace are automatically saved to the Wayback Machine within about 24 hours (though in practice not every link is getting saved for reasons ranging from quirks of a website's code to robots.txt preventing a website from being archived). This is done with a program called "NoMore404" which Internet Archive runs and maintains; other language wiki sites are included. It monitors EventStreams API, extracts new external URLs and adds a snapshot to the Wayback. This system became active sometime after 2015, though previous efforts were also made.
+As of 2026, there is a Wikipedia bot and tool called WP:IABOT that automates fixing link rot. It runs continuously, checking all articles on Wikipedia if a link is dead, adding archives to Wayback Machine (if not yet there), and replacing dead links in the wikitext with an archived version. This bot runs automatically but it can also be directed by end users through its web interface. It is available when viewing any page's history, located near the top of the page on the line of "External Tools", with the "Fix dead links" option.
+As of 2026, the periodic bot WP:WAYBACKMEDIC checks for link rot in the archive links themselves. Archive databases are dynamic: archives move or go missing, new ones are added, etc. This bot maintains existing archive links on English Wikipedia. It also archives resources on request at WP:URLREQ. It is a flexible tool that can carry out many custom jobs such as URL migration/move, usurped domains, soft-404 discovery and repair.
+Manual archiving
+See also: Help:Archiving a source
+Note
+Archive links are recommended, but not required. If you can't find a trustworthy option, then don't add a link.
+Suggestions for ways to manually improve archiving:
+Avoid bare URLs. A bare URL looks like this: https://www.example.com Add a description (e.g., the title of the page, the author's name, the publication date, etc.). These can be formatted by hand, but many editors prefer to use citation templates such as {{cite web}} for citations. Do not use citation templates or {{webarchive}} for External links sections per WP:ELCITE and WP:ELDEAD.
+Use a web archiving service such as Internet Archive. A complete list is available at WP:List of web archives on Wikipedia. Within citation templates, put the archive URL in |archive-url= and add an |archive-date=. If the link is still valid, include |url-status=live, otherwise set |url-status=dead.
+To add more than one archive URL, as extra insurance against provider outage, {{webarchive}} accepts up to 10 archive provider URLs. The |format=addlarchives option produces output appropriate for trailing a CS1|2 template. e.g. {{cite web|archive-url=..}}{{webarchive|format=addlarchive|url=..|url2=..|url3..}} will show 4 archive URLs (one from the cite web and three from the webarchive).
+If the link is still live but not yet archived, visit the web site of the archive service of your choice and request that the page be archived.
+Run WP:IABOT on pages via its user interface.
+Alternative methods
+Most citation templates have a |quote= parameter that can be used to store text quotes of the source material. This can be used to store a limited amount of text from the source within the citation template. This is especially useful for sources that cannot be archived with web archiving services. It can also provide insurance against failure of the chosen web archiving service. Storing the entire text of the source is not appropriate under fair use policies, so choose only the most important portions of the text that most support the assertions in the Wikipedia article. Where applicable, public domain materials can be copied to Wikisource.
+Repairing a usurped link
+Main page: Wikipedia:Link rot/Usurpations
+When a domain on the Internet expires, anyone is allowed to pay for and control that domain. Some organizations actively seek these domains and "usurp" them to create spam and scam sites. To repair an external link to one of these sites from Wikipedia, remove the link and replace it with an archived version of the original as described at Wikipedia:Link rot/Usurpations.
+There is an automated system for repairing links to entire usurped domains. See WP:URLREQ to register all links in a domain for usurpation treatment.
+Repairing a dead link
+Shortcut
+WP:DEADLINKWP:DEADLINK
+"WP:DEADLINK" redirects here. For the guideline on what to do when a link is dead (including potential removal of the cited material), see WP:DEADREF.
+There are several ways to try to repair a dead link, detailed below. In general, avoid removing citations (or cited material) simply because a URL no longer works, especially if the citation is formatted with other information (like a title, author, date and publication name) that could alternatively be used to find the source.
+Searching
+If the dead link includes enough information (article title, names, etc.) it is often possible to use it to find the web page at a different location, either on the same site or elsewhere.
+Often web pages simply move within the same site. A site index or site-specific search feature is a useful place to locate the moved page, searching for the title or other information. If these tools are not available, many Internet search engines allow a search on a specified site. For example, with Google add site:en.wikipedia.org to the search string to search English Wikipedia only. Occasionally changing http:// to https:// works.
+Failing this, searching the Web for the page title can find alternative sites. Searching the Web for the data to support can find a different source.
+A technique that often works if precise text from the source is available, usually from an archived copy, is to search either the original domain or the entire Web for an exact "quoted" text string long enough to be likely to be unique, to find a link moved within the original site, to another site, or a different source of the same documentation. Any link found needs quickly checking to be sure that it is either identical, or at least still supports the Wikipedia article text. For example, try searching the Web, or site:en.wikipedia.org, for "a search is likely to find this page because it contains this string".
+If you find a suitable new URL, then you can edit the parameters within the citation. If the citation uses one of the common citation templates (e.g. {{cite web}}, {{cite news}}, {{Citation}}), you can:
+Change the |url= to point to the new URL;
+Change or add |access-date= to refer to the current date unless the new URL is a stable source with a publication date.
+Internet archives
+Check for archived versions at one of the many web archive services. The "Big 2" archive services are web.archive.org and webcitation.org (archive.today was often used, but is now deprecated and not included in reference lists; invocations should be removed). These account for over 90% of all archives on Wikipedia, with web.archive.org being over 80% of all archive links. Other archive services are listed at WP:WEBARCHIVES. Add-ons (extensions) are available for most browsers to search for archived copies, with names such as Resurrect pages.
+Bookmarklets to check common archive sites for archives of the current page
+(all open in a new tab or window)
+Archive site Bookmarklet
+Archive.org
+javascript:void(window.open('https://web.archive.org/web/*/'+location.href))
+UKGWA
+javascript:void(window.open('https://webarchive.nationalarchives.gov.uk/ukgwa/*/'+location.href))
+If multiple archive dates are available, use the one that is most likely to be the contents of the page seen by the editor who entered the reference on the |access-date=. If that parameter is not specified, a search of the article's revision history can be performed to determine when the link was added to the article.
+View the archive to verify that it contains valid page information. Usually dates closer to the time the link was placed in the Wikipedia page, or earlier, are more likely to show valid information.
+If you find a suitable archive URL, then you can add it to the citation. If any of the common citation templates ({{Citation}}) or any "cite" template such as {{cite web}}, {{cite news}}, etc.) is used you can edit as follows:
+Leave the |url= unchanged, pointing to the source URL.
+Add |archive-url=, pointing to the archive URL.
+Add |archive-date=, specifying the date when the archived copy was saved. YYYY-MM-DD format is usually easiest but any format can be used.
+Add or change |url-status=. Use |url-status=dead (the default if omitted when |archive-url= is present) if the old URL does not work. Use |url-status=unfit or |url-status=usurped if the old URL has been usurped for the purposes of spam, advertising, or is otherwise unsuitable (see WP:USURPURL). Use |url-status=live if |url= still works and still gives the correct information, but you want to preemptively add an |archive-url=. |url-status=deviated is also accepted.
+Leave the |access-date= unchanged, referring to the date when a previous editor last accessed the |url=. Some editors consider that once a working |archive-url= has been established, the |access-date= parameter (which is not needed anyway if there is a stable date of publication) is redundant and should be removed.
+Mitigating a dead link
+Shortcut
+WP:MDLIWP:MDLI
+At times, all attempts to repair the link will be unsuccessful. In that event, consider finding an alternative source so that the loss of the original does not harm the verifiability of the article. Alternative sources about broad topics are usually easily located. A simple search engine query might locate an appropriate alternative, but be extremely careful to avoid citing sources which derive their information from Wikipedia itself, and mirrors and forks of Wikipedia, which would violate Wikipedia:Verifiability.
+Sometimes, finding an appropriate source is not possible, or would require more extensive research techniques, such as a visit to a library or the use of a subscription-based database. If that is the case, consider consulting with Wikipedia editors at Wikipedia:WikiProject Resource Exchange, the Wikipedia:Village pump, or Wikipedia:Help desk. Also, consider contacting experts or other interested editors at a relevant WikiProject.
+Sometimes a link is dead because the website moved the URL (e.g. http://example.com moved to http://example.co.uk). If you discover a URL change like this, please submit a request at WP:URLREQ for a url move. A bot will make the change.
+In general, the fact that a URL is broken does not mean that a source has ceased to exist entirely, and a broken URL in a citation does not mean it must be removed. See the guidance at WP:DEADREF for when it is appropriate to remove citations with dead links. Crucially, books, magazines, journals and other print sources exist offline, and continue to do so even if websites go down or change locations; the lack of a functioning URL for a book does nothing to decrease its value as a source for Wikipedia content. Permanently inaccessible convenience links for print sources can be removed, but the reference should be retained. Before removing a citation with a dead URL, consider whether it would be possible to track down the source without using the URL at all; if so, it should probably be kept.
+Keeping dead links
+Shortcut
+WP:KDLWP:KDL
+See also: Wikipedia:Citing sources § Preventing and repairing dead links
+A dead, unarchived source URL may still be useful. Such a link indicates that information was (probably) verifiable in the past, and the link might provide another user with greater resources or expertise with enough information to find the reference. It could also return from the dead. With a dead link, it is possible to determine if it has been cited elsewhere, or to contact the person originally responsible for the source. For example, one could contact the Yale Computer Science department if http://www.cs.yale.edu/~EliYale/Defense-in-Depth-PhD-thesis.pdf[dead link] were dead.
+Place {{dead link|date=October 2026}} after the dead citation, immediately before the </ref> tag if applicable, leaving the original link intact. Marking dead links signals to editors and to link rot bots that this link needs to be replaced with an archived link or a more current source verifying the same information. Placing {{dead link}} also auto-categorizes the article into Articles with dead external links project category, and into specific monthly date range category based on |date= parameter.
+If you attempt to fix the dead links and are unable to, please add the |fix-attempted=yes parameter to {{dead link}}, so that other editors know that the link is likely to be hopelessly dead.
+Do not delete a citation solely because it has been tagged with {{dead link}} for a long time.
+Link rot on non-Wikimedia sites
+Shortcut
+WP:EXTERNALROTWP:EXTERNALROT
+Non-Wikimedia sites are also susceptible to link rot. Following a page move or page deletion, links to Wikipedia pages from other websites may break. In most page moves, a redirect will remain at the old page—this won't cause a problem. But if a page is completely deleted or usurped (i.e. replaced with other content) then link rot will have been caused on any external websites that link to it.
+Replacement of page content with a disambiguation page may still cause link rot, but is less harmful because a disambiguation page is essentially a type of soft redirect that will lead the reader to the required content. If a page is usurped with content for another subject that shares its name, a hatnote may be placed at the top that directs readers to the original content on its new page—this again is a type of soft redirect, but less obvious. In these cases, readers arriving from an external rotten link should be able to find what they're looking for, but the situation is best avoided as they would have to get there via an additional page, potentially giving a poor impression of both Wikipedia and the linking website.
+Because the Wikipedia software does not store Referer information, it will be impossible to tell how many external web pages will be affected by a move or deletion, but the risk of link rot will probably be greatest on older and higher profile pages. In truth, there is not a lot that can be done; maintenance of non-Wikimedia websites is not within the scope of being a Wikimedian, nor in most cases within our capability (although if they can be fixed, it would be helpful to do so). However, it may be good practice to think about the potential impact on other sites when deleting or moving Wikipedia pages, especially if no redirect or hatnote will remain. If a move or deletion is expected to cause significant damage, then this might be a factor to consider in WP:RM, WP:AFD and WP:RFD discussions, although other factors may carry more weight.
+Glossary
+Glossary of terms and concepts. See the book A Link Rot Bestiary.
+Beyond-404. Conceptually and ideally, every link that is dead will return a status code of 404. In the wilds of the Internet, many pages that are "dead" can return other codes. This is the realm beyond-404, and often requires special tools and foreknowledge to detect and fix. It might account for 40% or more of all inoperable links. Some of the beyond-404 types are described in this glossary. Links can be combination of types, for example a URL that is: Mapped redirect --> Soft-404 --> Redirect --> Destination.
+Bot Blocker. Any kind of mechanism that prevents automated tools from detecting the status of a page. Most common are Cloudflare, rate limiters and IP blockers. Bot Blockers can cause false 404s.
+Hard-404 or Dead link. A page that returns 404 status code, a dead link.
+Soft-404. A URL that redirects to a page with different content from the original. For example, https://example.com/page1.html redirects to https://example.com/home.html (redirection to home page). Soft-404s can be domain name squatters, blank pages, spam sites, bot blockers, rate limiters, the possibilities are endless. This is the most common type of "Beyond 404" dead link. Conceptually, the page does not return 404, but is also not returning the intended content, in effect a 404 and thus "soft". Methods of Soft-404 detection including foreknowledge, the redirect URL, the page title, and content on the page.
+Crunchy-404. A URL that falls somewhere between a Soft-404 and Hard-404. The content is different from the original page, but it still has content relevant to the original. Depending on what information the reader seeks, it could be considered a dead link, or a live link, relative to the viewer.
+Redirect. A URL that automatically redirects to another page (301 or 302)
+Missing or Potential redirect. A URL that is inoperable (404), but the desired page might exist on the live web at a different URL. It is missing redirect information.
+Mapped redirect. A missing redirect that has been successfully mapped to the destination URL. Whoever made the map determines what happens next. If the domain owner has the map, they create redirects on the live web that work for everyone. This process is called Redirect mapping. Third parties can attempt to build a map using other techniques such as ruled and inferred redirect mapping.
+Ruled and Inferred redirect mapping. Methods for mapping missing redirects. Ruled redirect mapping works by transformation rules eg. a rule to change ".co.uk" -> ".com". Inferred redirect mapping guesses what the new URL might be by parsing information from other sources, such as the |title= or |date= of a citation. An inferred mapped redirect might have multiple guesses that are added to an inference table which are checked until one is found to work.
+Archived or Ghost redirect. Redirect link rot. For example, a 301 header was deleted and became a 404, but the old 301 information is still preserved in the Wayback Machine. Useful to discover redirect information no longer on the live web. See also Ghostredir repo.
+Soft-200 or False 404. A URL that appears to be dead but is actually live. This can be caused by bot blockers or a misconfiguration.
+URL Move (or Migration). When a URL is moved from one scheme to another, for example migrating https://example.com/main.html to https://arthur.com/main.html .. the remote site changed domain names. Most of the time, sites will leave some of the old URLs behind and not migrate all of them, they typically turn into 404s and missing redirects. When making URL Move on Wikipedia it is thus imperative to verify the new URL works. When it is not possible to verify (such as a Bot Blocker) this is called a "Blind URL Move".
+Content drift. When content at a static URL changes with time. For example team rankings at https://espn.com/mlb/rangers/standings.html changes on a weekly basis. Weather and financial data are other classic examples. Even though the URL may be live, it is functionally dead, the page no longer displays the intended content, it is a variety of soft-404.
+See also
+Wikipedia:WikiProject External links
+Essays
+Wikipedia:Archive your sources
+Wikipedia:Build content to endure
+Wikipedia:Offline sources
+Tools and how-to guides
+Wikipedia:Link rot/URL change requests – request bot help to maintain URLs for a given domain name
+Help:Using the Wayback Machine – how-to guide
+Special:LinkSearch – to find all the pages that contain a particular URL
+Note: LinkSearch can be imperfect. For a more precise search: insource:domain.com insource:/([.]|\/)domain[.]com/.
+Wikipedia:Citing sources/Further considerations#Pre-emptive archiving – brief guide on how to use various archiving services
+Wikipedia:Citing sources#Preventing and repairing dead links
+Wikipedia:External links#Longevity of links – prescribes removal of dead URLs from the "External links" section
+Category:Articles with bare URLs for citations – the backlog of articles containing bare URLs at risk of link rot, sub-categorised by month
+Category:Articles with dead external links – the backlog of articles containing dead links, sub-categorised by month
+Bots
+InternetArchiveBot (IABot) – automatically fixes dead links whenever possible, and tags them when it isn't
+WaybackMedic-automatically fixes dead links that are difficult to determine, other general fixes
+User:Legobot – can mass tag links with {{dead link}}. Requests can be made at User talk:Legoktm.
+External links
+Official Wayback add-on for Firefox and Chrome[b]
+Resurrect Pages, a third-party add-on tool provides links to seven cache/archive websites upon coming across a dead link. (Firefox)
+Webcache, add-on for Opera. (discontinued; newer similar add-ons available)
+weblinkchecker.py—script from the Python Wikipedia Bot collection which finds broken external links.
+Link-dispenser a Toolforge tool that identifies dead links in citations
+Backlink Checker, to search for potential link rot on non-Wikimedia sites
+"Some URLs Are Immortal, Most Are Ephemeral" (Archived 22 September 2024 at the Wayback Machine), detailed analysis of URL lifespans
+Link Rot: Why 20-50% of Web Links Die Within Years and How to Fix It (2026), a well informed article about the myriad reasons link rot exists.
+Notes
+↑ URLs have a median lifespan of about one year.[1]
+↑ Documentation at "Save Pages in the Wayback Machine". Internet Archive Help Center. 24 August 2018.
+References
+↑ "2024-09-20: Some URLs Are Immortal, Most Are Ephemeral". Ws-dl.blogspot.com. Retrieved April 5, 2026.
+v
+t
+e
+Wikipedia essays (?)
+Building, editing, and deletion
+Philosophy
+Articles are more important than policy
+Articles must be written
+All Five Pillars are equally important
+Avoid vague introductions
+Civil POV pushing
+Cohesion
+Competence is required
+Concede lost arguments
+Content philosophies
+Dissent is not disloyalty
+Don't lie
+Don't search for objections
+Duty to comply
+Editing Wikipedia is like visiting a foreign country
+Editors will sometimes be wrong
+Eight simple rules for editing our encyclopedia
+Explanationism
+External criticism of Wikipedia
+Foreign-language Wikipedias are not precedent
+Galileo complex
+Here to build an encyclopedia
+Leave it to the experienced
+Let it cool before proposing a rule
+Levels of competence
+Levels of consensus
+Most ideas are bad
+Need
+Not broken is ugly
+Not editing because of Wikipedia restriction
+Not every article can be a Featured Article
+The one question
+Oversimplification
+Paradoxes
+Pave the path
+Paraphrasing
+Parallelism
+POV and OR from editors, sources, and fields
+Process is important
+Product, process, policy
+Purpose
+Reasonability rule
+Systemic bias
+There is no seniority
+Ten Simple Rules for Editing Wikipedia
+Tendentious editing
+The role of policies in collaborative anarchy
+The rules are principles
+Trifecta
+We are absolutely here to right great wrongs
+Wikipedia in brief
+Wikipedia is an encyclopedia
+Wikipedia is a community
+Wikipedia is not RationalWiki
+Wikipedia is written by humans, for humans
+Yes, Wikipedia is indeed a bureaucracy
+Article construction
+100K featured articles
+Abandoned stubs
+Acronym overkill
+Adding images improves the encyclopedia
+Advanced text formatting
+Akin's Laws of Article Writing
+Alternatives to the "Expand" template
+Amnesia test
+A navbox on every page
+An unfinished house is a real problem
+Archive your sources
+Article revisions
+Articles have a half-life
+Autosizing images
+Avoid mission statements
+Be neutral in form
+Beef up that first revision
+Blind men and an elephant
+BOLD, revert, discuss cycle
+Build content to endure
+Cargoculting
+Cherrypicking
+Chesterton's fence
+Children's lit, adult new readers, & large-print books
+Citation overkill
+Citation underkill
+Common-style fallacy
+Concept cloud
+Creating controversial content
+Criticisms of society may be consistent with NPOV and reliability
+Dictionaries as sources
+Don't cite Wikipedia on Wikipedia
+Don't demolish the house while it's still being built
+Don't get hung up on minor details
+Don't hope the house will build itself
+Don't panic
+Don't "teach the controversy"
+Editing on mobile devices
+Editors are not mindreaders
+Encourage the newcomers
+Endorsements (commercial)
+Featured articles may have problems
+Formatting bilateral relations articles
+Formatting bilateral relations templates
+Fruit of the poisonous tree
+Give an article a chance
+Gotfryd custom
+How to write a featured article
+Identifying and using independent sources
+History sources
+Law sources
+Primary sources
+Science sources
+Style guides
+Tertiary sources
+Ignore STRONGNAT for date formats
+Into the Woulds
+Introduction to structurism
+Link rot
+Mine a source
+Merge Test
+Minors and persons judged incompetent
+"Murder of" articles
+Not every story/event/disaster needs a biography
+Not everything needs a navbox
+Not everything needs a template
+Nothing is in stone
+Obtain peer review comments
+Organizing disambiguation pages by subject area
+Permastub
+Potential, not just current state
+Presentism
+Principle of Some Astonishment
+The problem with elegant variation
+Pro and con lists
+Printability
+Publicists
+Put a little effort into it
+Restoring part of a reverted edit
+Robotic editing
+Sham consensus
+Source your plot summaries
+Specialized-style fallacy
+Spoons versus forks
+Stublet
+Stub Makers
+Run an edit-a-thon
+Temporary versions of articles
+Tertiary-source fallacy
+There are no shortcuts to neutrality
+There is no deadline
+There is a deadline
+The deadline is now
+Topics to avoid
+Try not to leave it a stub
+What is a reliable source
+Understanding Wikipedia's content standards
+Walled garden
+What an article should not include
+Wikipedia is a work in progress
+Wikipedia is not being written in an organized fashion
+The world will not end tomorrow
+Write the article first
+Writing better articles
+Content additions
+Avoid thread mode
+Copyediting reception sections
+Coup
+Don't throw more litter onto the pile
+Gender-neutral language
+Metacoverage
+Myth vs fiction
+No trojan horses
+Proseline
+Reading in a flow state
+Turning biology research into a Wikipedia article
+Use our own words
+We shouldn't be able to figure out your opinions
+Write the article first
+Writing about women
+Writing better articles
+Deletion
+Adjectives in your recommendations
+AfD is not a war zone
+Arguments to avoid in deletion discussions
+Arguments to avoid in deletion reviews
+Arguments to avoid in image deletion discussions
+Arguments to make in deletion discussions
+Avoid repeated arguments
+Before commenting in a deletion discussion
+But there must be sources!
+Confusing arguments mean nothing
+Content removal
+Counting and sorting are not original research
+Delete or merge
+Delete the junk
+Deletion is not cleanup
+Does deletion help?
+Does merging help?
+Don't attack the nominator
+Don't confuse stub status with non-notability
+Don't overuse shortcuts to policy and guidelines to win your argument
+Emptying categories out of process
+Follow the leader
+How the presumption of notability works
+How to save an article nominated for deletion
+I just don't like it
+Identifying blatant advertising
+Identifying test edits
+Immunity
+Keep it concise
+Liar liar pants on fire
+No Encyclopedic Use
+Notability is not everything
+Nothing
+Nothing is clear
+Overzealous deletion
+Relisting can be abusive
+Relist bias
+The Heymann Standard
+Unopposed AFD discussion
+Wikipedia is not Whack-A-Mole
+Why was the page I created deleted?
+What to do if your article gets tagged for speedy deletion
+When in doubt, hide it in the woodwork
+Zombie page
+Civility
+The basics
+Accepting other users
+Apology
+Autistic editors
+Being right isn't enough
+Contributing to complicated discussions
+Divisiveness
+Don't retaliate
+Editors' pronouns
+Edit at your own pace
+Encouraging the newcomers
+Enjoy yourself
+Expect no thanks
+How to be civil
+Maintaining a friendly space
+Negotiation
+Obsessive–compulsive disorder editors
+Please say please
+Relationships with academic editors
+Thank you
+Too long; didn't read
+Truce
+Unblock perspectives
+We are all Wikipedians here
+You have a right to remain silent
+Philosophy
+A thank you never hurts
+A weak personal attack is still wrong
+Advice for hotheads
+An uncivil environment is a poor environment
+Be the glue
+Beware of the tigers!
+Civility warnings
+Deletion as revenge
+DGG's Two-Comment Rule
+Duty to comply
+Failure
+Forgive and forget
+It's not the end of the world
+Nobody cares
+Most people who disagree with you on content are not vandals
+On Wikipedia no one knows you're a dog
+Old-fashioned Wikipedian values
+Profanity, civility, and discussions
+Revert notification opt-out
+Shadowless Fists of Death!
+Staying cool when the editing gets hot
+The grey zone
+The last word
+There is no Divine Right of Editors
+Most ideas are bad
+Nothing is clear
+Reader
+The rules of polite discourse
+There is no common sense
+Two wrongs don't make a right
+Wikipedia clichés
+Wikipedia is not about winning
+Wikipedia should not be a monopoly
+Writing for the opponent
+Dos
+Assume good faith
+Assume the assumption of good faith
+Assume no clue
+Avoid personal remarks
+Avoid the word "vandal"
+Be a humble article creator
+Be excellent to one another
+Be pragmatic
+Beyond civility
+Call a spade a spade
+Candor
+Deny recognition
+Desist
+Discussing cruft
+Drop the stick and back slowly away from the horse carcass
+Encourage full discussions
+Get over it
+How to lose
+Imagine others complexly
+Just drop it
+Keep it concise
+Keep it down to earth
+Mind your own business
+Say "MOBY"
+Mutual withdrawal
+Read before commenting
+Read the room
+Settle the process first
+Wikipedia:Stop it
+You can search, too
+Don'ts
+Because I can
+Civil POV pushing
+Cyberbullying
+Don't accuse someone of a personal attack for accusing of a personal attack
+Don't be a fanatic
+Don't be a jerk
+Don't be an ostrich
+Don't be ashamed
+Don't be a WikiBigot
+Don't be high-maintenance
+Don't be inconsiderate
+Don't be obnoxious
+Don't be prejudiced
+Don't be rude
+Don't be the Fun Police
+Don't bludgeon the process
+Don't call a spade a spade
+Don't call people by their real name
+Don't call the kettle black
+Don't call things cruft
+Don't come down like a ton of bricks
+Don't cry COI
+Don't demand that editors solve the problems they identify
+Don't eat the troll's food
+Don't expect others to remember your pinging rules
+Don't fight fire with fire
+Don't give a fuck
+Don't help too much
+Don't ignore community consensus
+Don't knit beside the guillotine
+Don't make a smarmy valediction part of your signature
+Don't remind others of past misdeeds
+Don't shout
+Don't spite your face
+Don't take the bait
+Don't teach your grandmother to suck eggs
+Don't template the regulars
+Don't throw your toys out of the pram
+Don't tilt at windmills
+Do not insult the vandals
+Griefing
+Hate is disruptive
+Jew-tagging
+Nationalist editing
+No angry mastodons
+just madmen
+No ableism
+No Confederates
+No Nazis
+No queerphobia
+No racists
+No trojan horses
+No, you can't have a pony
+Passive aggression
+POV railroad
+Sealawyering
+Superhatting
+There are no oracles
+There's no need to guess someone's preferred pronouns
+You can't squeeze blood from a turnip
+UPPERCASE
+WikiRelations
+WikiBullying
+WikiCrime
+WikiHarassment
+WikiHate
+WikiLawyering
+WikiLove
+WikiPeace
+Neutrality
+Academic bias
+Activist
+Advocacy
+Avoid thread mode
+Be neutral in form
+Blind men and an elephant
+Cherrypicking
+Civil POV pushing
+Coatrack
+Controversial articles
+Creating controversial content
+Criticisms of society may be consistent with NPOV and reliability
+Criticism
+Describing points of view
+Don't "teach the controversy"
+Endorsements
+Inaccuracy
+Let the reader decide
+Myth vs fiction
+NPOV dispute
+Neutral and proportionate point of view
+Not Wikipedia's fault
+POV and OR from editors, sources, and fields
+Partisans
+Partisanship
+Presentism
+Pro and con lists
+Systemic bias
+Tendentious editing
+There are no shortcuts to neutrality
+Wikipedia:Truth
+We are absolutely here to right great wrongs
+We shouldn't be able to figure out your opinions
+What false balance is not
+What is fringe?
+Why Wikipedia cannot claim the Earth is not flat
+Wikipedia is not RationalWiki
+Yes, it is promotion
+Notability
+Advanced source searching
+All high schools can be notable
+Alternative outlets
+Arguments to avoid in deletion discussions
+Articles with a single source
+Avoid template creep
+Bare notability
+Big events make key participants notable
+Businesses with a single location
+But it's true!
+Common sourcing mistakes
+Clones
+Coatrack
+Diffpicking
+Discriminate vs indiscriminate information
+Drafts are not checked for notability or sanity
+Every snowflake is unique
+Existence ≠ Notability
+Existence does not prove notability
+Extracting the meaning of significant coverage
+Google searches and numbers
+How the presumption of notability works
+High schools
+Historical/Policy/Notability/Arguments
+Inclusion is not an indicator of notability
+Independent sources
+Inherent notability
+Insignificant
+Just because BFDI has an article doesn't mean you can add fancruft about it
+Masking the lack of notability
+Make stubs
+Minimum coverage
+News coverage does not decrease notability
+No amount of editing can overcome a lack of notability
+No one cares about your garage band
+No one really cares
+Notability and tornadoes
+Notability cannot be purchased
+Notability comparison test
+Notability is not everything
+Notability is not a level playing field
+Notability is not a matter of opinion
+Notability is not relevance or reliability
+Notability means impact
+Notabilitymandering
+Not all Vocaloid songs deserve their own article
+Not every single thing Donald Trump does deserves an article
+No special considerations
+Obscurity ≠ Lack of notability
+Offline sources
+One sentence does not an article make
+Overreliance upon Google
+Perennial websites
+Popularity ≠ Notability
+Read the source
+Red flags of non-notability
+Reducing consensus to an algorithm
+Run-of-the-mill
+Solutions are mixtures and nothing else
+Significance is not a formula
+Source content comes first!
+Sources must be out-of-universe
+Subjective importance
+Slow news day
+Third-party sources
+Topics to avoid
+Trivial mentions
+Video links
+Vanispamcruftisement
+What BLP1E is not
+What is and is not routine coverage
+What notability is not
+What to include
+Why was BFDI not on Wikipedia?
+Wikipedia is not Crunchbase
+Wikipedia is not here to tell the world about your noble cause
+Wikipedia is not the place to post your résumé
+Two prongs of merit
+Two sources are good enough
+Vandalism isn't news
+Humorous
+Adminitis
+Ain't no rules says a dog can't play basketball
+Akin's Laws of Article Writing
+Alternatives to edit warring
+ANI flu
+Anti-Wikipedian
+Anti-Wikipedianism
+Articlecountitis
+Asshole John rule
+Assume bad faith
+Assume faith
+Assume good wraith
+Assume stupidity
+Assume that everyone's assuming good faith, assuming that you are assuming good faith
+Avoid using the preview button
+Avoid using wikilinks
+Bad Jokes and Other Deleted Nonsense
+Barnstaritis
+Before they were notable
+Be the fun police
+BOLD, revert, revert, revert cycle
+Boston Tea Party
+Butterfly effect
+CaPiTaLiZaTiOn MuCh?
+Case against LLM-generated articles
+Complete bollocks
+Counting forks
+Counting juntas
+Crap
+Delete the main page
+Diffusing conflict
+Don't abbreviate "Wikipedia" as "Wiki"!
+Don't delete the main page
+Don't-give-a-fuckism
+Don't stuff beans up your nose
+Don't tempt the wrath of the Whatever, from high atop the Thing
+Don't use AI to write about your garage band
+Editcountitis
+Edits Per Day
+Editsummarisis
+Editing under the influence
+Embrace Stop Signs
+Emerson
+Fart
+Five Fs of Wikipedia
+Seven Ages of Editor, by Will E. Spear-Shake
+Go ahead, vandalize
+How many Wikipedians does it take to change a lightbulb?
+How to get away with UPE
+How to put up a straight pole by pushing it at an angle
+How to vandalize correctly
+How to win a citation war
+If you have a pulse
+Ignore all essays
+Ignore all user warnings
+Ignore every single rule
+Is that even an essay?
+Keep beating the horse
+List of really, really, really stupid article ideas that you really, really, really should not create
+Mess with the templates
+My local pond
+Newcomers are delicious, so go ahead and bite them
+Legal vandalism
+List of jokes about Wikipedia
+My little brother did it
+LTTAUTMAOK
+No climbing the Reichstag dressed as Spider-Man
+No episcopal threats
+No one cares about your garage band
+No one really cares
+No, really
+No self attacks
+Notability is not eternal
+Oops Defense
+Play the game
+Please be a giant dick, so we can ban you
+Please bite the newbies
+Please do not murder the newcomers
+Pledge of Tranquility
+Project S.C.R.A.M.
+R-e-s-p-e-c-t
+Requests for medication
+Requirements for adminship
+Rouge admin
+Rouge editor
+Sarcasm is really helpful
+Sausages for tasting
+Spaling Muich?
+Template madness
+The AI mark of shame
+The first rule of Wikipedia
+The Five Pillars of Untruth
+The Night Before Wikimas
+The Truth
+Things that should not be surprising
+The WikiBible
+Watchlistitis
+We are deletionist!
+Why is BFDI on Wikipedia?
+Why you shouldn't write articles with ChatGPT, according to ChatGPT
+Why you shouldn't write on talk pages with ChatGPT, according to ChatGPT
+Wikipedia is an MMORPG
+WTF? OMG! TMD TLA. ARG!
+Yes, falsely
+Yes legal threats
+Yes personal attacks
+You don't have to be mad to work here, but
+You should not write meaningless lists
+About
+About essays
+Essay guide
+Value of essays
+Difference between policies, guidelines and essays
+Don't cite essays as if they were policy
+Avoid writing redundant essays
+Finding an essay
+Quote your own essay
+Policies and guidelines
+About policies and guidelines
+Policies
+Guidelines
+How to contribute to Wikipedia guidance
+Policy writing is hard
+Essay search
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Link_rot&oldid=1375498571"
+Categories:
+Wikipedia how-to
+Wikipedia essays about building the encyclopedia
+Wikipedia maintenance
+Hidden categories:
+Wikipedia semi-protected project pages
+Webarchive template wayback links
+Search
+Search
+Wikipedia:Link rot
+50 languages   Add topic

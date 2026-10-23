@@ -1,0 +1,1445 @@
+URL: https://en.wikipedia.org/wiki/Wikipedia:Template_messages/Cleanup
+
+Wikipedia:Template index/Cleanup - Wikipedia
+Jump to content
+From Wikipedia, the free encyclopedia
+< Wikipedia:Template index
+(Redirected from Wikipedia:Template messages/Cleanup)
+"WP:TC" redirects here. For the Wikipedia Task Center, see Wikipedia:Task Center. For WikiProject Tropical cyclones, see Wikipedia:WikiProject Tropical cyclones. For the Wikipedia Triple Crown, see Wikipedia:Triple Crown.
+For general help on tagging pages, see Wikipedia:Tagging pages for problems.
+Wikipedia information page
+This is an information page.
+It is not a Wikipedia policy or guideline; rather, its purpose is to explain certain aspects of Wikipedia's norms, customs, technicalities, or practices. It may reflect varying levels of consensus.
+Shortcuts
+WP:TCWP:TC
+WP:CLEANUPTAGWP:CLEANUPTAG
+WP:CTAGSWP:CTAGS
+This page in a nutshell: Add template messages to inform readers and editors of specific problems with articles or sections, but do not use them as a badge of shame.
+Template messages (maintenance tags, cleanup tags, cleanup messages) may be added to articles needing cleanup. Their purposes are to foster improvement of the encyclopedia by alerting editors to changes that need to be made. Cleanup tags are meant to be temporary notices that lead to an effort to fix the problem, not a permanent badge of shame to show that you disagree with an article, or a method of warning readers about an article.
+Unless otherwise noted, cleanup messages should be placed at the top of the page, before other templates, images, or infoboxes, but after hatnotes (see Wikipedia:Hatnote § Placement). Cleanup messages should be placed directly on the article or file, not on its talk page. Certain tags can be placed at the beginning of an individual section, and others can be placed within the text itself (inline).
+A date parameter is added by a bot, or you can add it yourself with |date=October 2026.
+What to remember
+Before you tag an article, please remember the following:
+Don't tag an article if you can easily and confidently fix the problem.
+The goal is an improved article, not a tagged article.
+Do some research to attempt to solve the problem before tagging.
+Don't put the burden of doing so on another editor if you are capable of fixing the problem yourself with a simple search or consulting a reference work.
+Don't perform "drive-by" tagging.
+Tags must be accompanied by either a comment on the article's talk page explaining the problem and beginning a discussion on how to fix it or, for simpler and more obvious problems, a remark using the reason parameter (available in all templates, regardless of whether it appears in the documentation) as shown below. At the very least, tagging editors must be willing to follow through with substantive discussion.
+Don't perform "drive-by" de-tagging.
+Likewise, please provide a similar rationale for removing a template, unless your preceding edits have clearly fixed the announced problem. See also when not to remove a template.
+Don't insert tags that are similar or redundant.
+For example, most articles that read like essays have an inappropriate tone, and in fact they end up being automatically grouped in the same category, so it is unnecessary to tag with both {{tone}} and {{essay-like}}.
+If an article has many problems, tag only the highest priority issues.
+A lengthy list is often less helpful than a shorter one. (See also: Wikipedia:Tag bombing and Wikipedia:Tagging pages for problems § Over-tagging)
+If multiple tags are necessary, consider using the {{multiple issues}} template.
+This will help to avoid cluttering the article with tags and eclipsing the article's content.
+Don't add tags for trivial or minor problems, especially if an article needs a lot of work.
+For example, there is little point in noting grammatical problems for a section that needs to be completely re-written to comply with content policies. Focus on the biggest one, two, or three problems.
+Does the article meet inclusion requirements?
+Before placing templates on a page it is worthwhile to cast a critical eye over the page to determine whether indeed it should be included in Wikipedia. Some articles can be tagged for speedy deletion or nominated for a deletion discussion at Wikipedia:Articles for deletion.
+Best practices
+In obscure or unpopular articles
+On pages that have received little attention from editors or readers, cleanup templates can be used as a way to call attention to problems that need to be addressed by editors. Editors who want to help address these problems should look through the various cleanup categories such as maintenance and articles with content issues and try to address the problems so that the templates can be removed. Editors who frequently tag articles should also address the backlogs.
+In heavily monitored articles
+On pages that are being edited by a number of users, cleanup templates are used to inform readers and editors of ongoing discussions and attempts to fix the problems on the page. Such templates can be used to attract uninvolved users to discussions and cleanup efforts, and they can also serve as a warning to casual readers that the article may have problems and be subject to noticeable changes. In general, an editor who places a template message to indicate a problem like this should explain their rationale fully on the talk page of the article. If the consensus of the other editors is that there is a problem or an editorial dispute that deserves such a clean-up template, then the editors should work to fix the problem as quickly and cleanly as possible so the template message can be removed. If the consensus is that there is no problem, then the message can be removed immediately. For heavily monitored articles, please do not add or remove template messages of this sort without using the talk page.
+Use in sections
+Many of these cleanup tags require you to place |article as the first parameter when you use the tag at the top of an article. When you want the template to refer to just one section, however, you replace |article with |section (where the | is a pipe key | found on most keyboards as a shift-backslash ⇧ Shift+\. See the specific template below to determine if such "section use" is supported and appropriate.
+Overarching copyright issues
+Templates in this section identify possible violations of Wikipedia's licensing requirements, as defined in the Wikimedia Terms of use.
+Tag  Text that will be shown (and usage notes)
+{{close paraphrasing}}
+category links talk edit
+This article contains close paraphrasing of copyrighted sources. Relevant discussion may be found on the talk page. Please help improve this article by rewriting it in your own words. (Learn how and when to remove this message)
+{{Copying within Wikipedia}}
+category links talk edit
+This article's edit history is not complete. Some of the article text's edit history exists at a different location due to copying and pasting between articles. This may be a violation of the CC BY-SA or GFDL if proper attribution was not made in an edit summary. Please see Wikipedia:Merging and Wikipedia:Splitting for details of when such copying and pasting is acceptable and when it is not, and how to correctly attribute using links in the edit summaries. You can also read Wikipedia:Copying within Wikipedia for an overview of the issues.
+{{copypaste}}
+category links talk edit
+This article or section may have been copied and pasted from another location, possibly in violation of Wikipedia's copyright policy. Please review the source and remedy this by editing this article to remove any non-free copyrighted content and attributing free content correctly, or flagging the content for deletion. Please be sure that the supposed source of the copyright violation is not itself a Wikipedia mirror.
+{{non-free}}
+category links talk edit
+This article may contain improper use of non-free material. Please review their use according to the criteria and guidelines. (Learn how and when to remove this message)
+{{unattributed translation}}
+category links talk edit
+Content in this article appears to be missing required attribution as a translation from another Wikipedia. It may require retroactive attribution to comply with Wikipedia's licensing requirements. See Copying within Wikipedia and Repairing insufficient attribution. (Learn how and when to remove this message)
+Combined message boxes
+Do not use this as the only message box on the article or section; it should be used with at least two other message boxes sandwiched inside it.
+Tag  Text that will be shown (and usage notes)
+{{multiple issues}}
+links talk edit
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+The neutrality of this article is disputed. Relevant discussion may be found on the talk page. Please do not remove this message until conditions to do so are met. (May 2009) (Learn how and when to remove this message)
+This article includes a list of references, related reading, or external links, but its sources remain unclear because it lacks inline citations. Please help improve this article by introducing more precise citations. (Aug 2010) (Learn how and when to remove this message)
+This article may contain excessive or inappropriate references to self-published sources. Please help improve it by removing references to unreliable sources where they are used inappropriately. (March 2011) (Learn how and when to remove this message)
+This biography of a living person needs additional citations for verification. Please help by adding reliable sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if potentially libelous or harmful.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (March 2012) (Learn how and when to remove this message)
+(Learn how and when to remove this message)
+{{multiple issues|
+section=yes}}
+links talk edit
+This section has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these messages)
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (January 2008) (Learn how and when to remove this message)
+This section's factual accuracy is disputed. Relevant discussion may be found on the talk page. Please help to ensure that disputed statements are reliably sourced. (June 2009) (Learn how and when to remove this message)
+This section needs expansion with: examples and additional citations. You can help by making an edit requestadding missing information. (June 2012)
+(Learn how and when to remove this message)
+Cleanup
+Use one of these general tags when none of the more specific tags fits.
+General
+Tag  Text that will be shown (and usage notes)
+{{cleanup}}
+category links talk edit
+This article may require cleanup to meet Wikipedia's quality standards. No cleanup reason has been specified. Please help improve this article if you can; the talk page may contain suggestions.
+This applies to general problems not addressed by other tags.
+Please consider using specific cleanup tags first, as specific tags help other editors to easily identify problems in an article.
+Use the reason parameter: cleanup|reason= to specify issues identified (it may be a link to comments on the talk page).
+{{cleanup AfD}}
+category links talk edit
+This article was nominated for discussion and requires cleanup. Consensus was formed on this article's discussion. Please help improve it if you can; the discussion may contain suggestions. (Learn how and when to remove this message)
+Use this tag where an AFD discussion closes with a consensus of "keep and cleanup."
+{{cleanup MOS}}
+category links talk edit
+This article needs editing to comply with Wikipedia's Manual of Style. Please help improve the content. (Learn how and when to remove this message)
+{{cleanup rewrite}}
+category links talk edit
+This article may need to be rewritten to comply with Wikipedia's quality standards. Relevant discussion may be found on the talk page. You can help. The talk page may contain suggestions.
+Use this tag where an article or section needs extensive revision.
+Following a merge or split
+See also: Wikipedia:Template_index/Merging and Wikipedia:Template_index/Splitting
+{{cleanup merge}}
+links talk edit
+This article may need to be cleaned up because another article has been merged into it.
+{{cleanup split}}
+links talk edit
+This article or section may need to be cleaned up or summarized. It has been split from/to .
+Copy editing
+Some articles just need someone with a good grasp of editing technique to give them a once-over.
+{{copy edit}}
+category links talk edit
+This article may require copy editing for spelling, grammar, style, cohesion, or tone. You can assist by editing it. (Learn how and when to remove this message)
+Inline with article text
+{{copy edit inline}}
+category links talk edit  [needs copy edit]
+This template tags a statement for basic copyediting, and should be placed after the statement.
+{{verify spelling}}
+category links talk edit  [spelling?]
+Specific subjects
+These templates are all "general cleanup" templates, but tie into a specific subject matter or WikiProjects.
+Semi-general
+Tag  Text that will be shown (and usage notes)
+{{cleanup biography}}
+category links talk edit
+This biography may need cleanup. Please review the Manual of Style for biographies and help improve the article.
+{{cleanup higher education}}
+category links talk edit
+This article about higher education may require cleanup. Please review editing advice and help improve this article.
+{{cleanup school}}
+category links talk edit
+This school-related article may require cleanup. Please review editing advice and help improve this article.
+{{game guide}}
+category links talk edit
+This article about video games may require cleanup. Please review the Manual of Style and help improve this article.
+{{localist}}
+category links talk edit
+This article on a place of local interest may need more verifiable information to establish that the place is notable. Please review the essay guide and help improve the article. (Learn how and when to remove this message)
+Imported from elsewhere
+{{CIA World Factbook only}}
+category links talk edit
+This article was imported from the CIA World Factbook. Please help rewrite it to comply with Wikipedia's Manual of Style.
+{{cleanup Congress bio}}
+category links talk edit
+This article was imported from the Biographical Directory of the United States Congress. Please help rewrite it to comply with Wikipedia's Manual of Style.
+Based on external content
+{{Update-EB}}
+category links talk edit
+This article is largely based on an article in the out-of-copyright Encyclopædia Britannica Eleventh Edition, which was produced in 1911. It should be brought up to date to reflect subsequent history or scholarship (including the references, if any). When you have completed the review, replace this notice with a simple note on this article's talk page.
+Plot summaries
+{{all plot}}
+category links talk edit
+This article consists almost entirely of a plot summary. Please help improve the article by providing more real-world context. (Learn how and when to remove this message)
+{{long plot}}
+category links talk edit
+This article's plot summary may be too long or excessively detailed. Please help improve it by removing unnecessary details and making it more concise. (Learn how and when to remove this message)
+{{improve plot}}
+category links talk edit
+This article's plot summary needs to be improved. Please help do so. Relevant discussion may be found on the talk page. (Learn how and when to remove this message)
+{{no plot}}
+category links talk edit
+This article needs a plot summary. Please add one in your own words.
+Fiction
+See also: Wikipedia:Manual of Style/Writing about fiction
+{{fiction}}
+category links talk edit
+This article needs clearer distinction between fact and fiction. Please review the Manual of Style and help improve this article. (Learn how and when to remove this message)
+This is not for factual or accuracy disputes.
+{{fiction trivia}}
+category links talk edit
+This article may contain minor, trivial, or unrelated fictional references. Trivia or references unimportant to the overall plot of a work of fiction should be edited to explain their importance or be deleted.
+For use in fiction-specific articles that have way too many trivial examples. (Ex.: For an article specifically about famous fictional horses that mentions the fact that Sesame Street once told kids how to spell "horse", or that one of the animals you can kill in an online game is a horse.)
+{{in-universe}}
+category links talk edit
+This article describes a work or element of fiction in a primarily in-universe style. Please help rewrite it to explain the fiction more clearly and provide non-fictional perspective. (Learn how and when to remove this message)
+See template documentation for list of topic-specific sub-templates.
+{{in popular culture}}
+category links talk edit
+This article may contain irrelevant references to popular culture. Please help improve it by removing such content and adding citations to reliable, independent sources.
+For use when a nonfiction article has become overcrowded with too many references to fiction or other pop culture. (Ex.: Article on horses having a long section of TV shows, movies, video games, etc. that have "horse" in the name or feature horses in some way.)
+Other
+{{cleanup taxon}}
+links talk edit
+This taxon may be invalid. Redirect to the correct taxon or request deletion by adding a {{subst:prod|concern=TEXT}} tag. See this article's talk page for more information.
+{{cleanup TLS}}
+links talk edit
+This timeline of spaceflight may require cleanup to ensure consistency with other timeline of spaceflight articles. See Wikipedia:WikiProject Spaceflight/Timeline of spaceflight working group for guidelines on how to improve the article.
+Details
+{{further reading cleanup}}
+category links talk edit
+This "further reading" section may need cleanup. Please read the editing guide and help improve the section. (Learn how and when to remove this message)
+{{kayfabe}}
+category links talk edit
+This article may contain material discouraged by the manual of style for professional wrestling. Please help by removing content such as information written in Kayfabe, or an in-universe perspective, and rewrite in an encyclopedic style.
+{{USRD-wrongdir}}
+category links talk edit
+This article about roads may need to be written in a south-to-north or west-to-east direction. Please review standards for U.S. road articles and help improve this article.
+Inline with article text
+{{needs IPA}}
+category links talk edit  [needs IPA]
+Style of writing
+See also: Wikipedia:Five pillars, Wikipedia:What Wikipedia is not, and Wikipedia:Manual of Style/Words to watch
+Overall article or section
+Tag  Text that will be shown (and usage notes)
+{{cleanup press release}}
+category links talk edit
+This article reads like a press release or a news article and may be largely based on routine coverage. Please help improve it by adding independent secondary sources. (Learn how and when to remove this message)
+{{debate}}
+category links talk edit
+This article is written like a debate. Please help rewrite it in a neutral, encyclopedic style.
+{{dictionary definition}}
+category links talk edit
+This article appears to be a dictionary definition. Please help expand it to present the subject encyclopedically.
+{{directory}}
+category links talk edit
+This article is written like a directory. Please help rewrite it in a neutral, encyclopedic style, potentially as a list. If this is not possible, it will likely be merged, redirected, or deleted.
+{{essay-like}}
+category links talk edit
+This article is written like a personal reflection, personal essay, or argumentative essay that states a Wikipedia editor's personal feelings or presents an original argument about a topic. Please help improve it by rewriting it in an encyclopedic style. (Learn how and when to remove this message)
+{{obituary}}
+category links talk edit
+This article is written like an obituary. Please help rewrite it in a neutral, encyclopedic style.
+{{research paper}}
+category links talk edit
+This article is written like a research paper or a scientific journal. Please help rewrite it in a neutral, encyclopedic style and simplify overly technical phrases.
+{{resume-like}}
+category links talk edit
+This biographical article is written like a résumé. Please help improve it by revising it to be neutral and encyclopedic.
+{{review}}
+category links talk edit
+This article is written like a review. Please help rewrite it in a neutral, encyclopedic style.
+{{science review}}
+category links talk edit
+This article reads like a scientific review article and potentially contains biased syntheses of primary sources. Please replace inadequate primary references with secondary sources. See the talk page for details. (Learn how and when to remove this message)
+{{story}}
+category links talk edit
+This article is written like a story. Please help rewrite it in a neutral, encyclopedic style.
+{{term paper}}
+category links talk edit
+This article is written like a term paper. Please help rewrite it in a neutral, encyclopedic style.
+{{textbook}}
+category links talk edit
+This article is written like a textbook. Please help rewrite it in a neutral, encyclopedic style.
+{{travel guide}}
+category links talk edit
+This article is written like a travel guide. Please help rewrite it in a neutral, encyclopedic style or move its content to Wikivoyage.
+Specific content
+{{abbreviations}}
+category links talk edit
+This article may contain confusing or ambiguous abbreviations. Please review the Manual of Style, help improve this page, and discuss this issue on the talk page. (Learn how and when to remove this message)
+{{academic booster}}
+category links talk edit
+This article contains academic boosterism which primarily serves to praise or promote the subject and may be a sign of a conflict of interest. Please improve this article by removing peacock terms, weasel words, and other promotional material. (Learn how and when to remove this message)
+{{anachronism}}
+category links talk edit
+This article contains statements that are anachronistic. Please help improve it by updating, clarifying, or removing such statements. (Learn how and when to remove this message)
+{{buzzword}}
+category links talk edit
+This article appears to contain a large number of buzzwords. Please help improve it by replacing such wording with clear, neutral, encyclopedic terms. (Learn how and when to remove this message)
+{{colloquial}}
+links talk edit
+This article may contain colloquial terms, phrases or words. Articles should use literal, encyclopedic language. Please improve this article or discuss this issue on the talk page. See Wikipedia's guide to writing better articles for suggestions. (Learn how and when to remove this message)
+{{how-to}}
+category links talk edit
+This article contains instructions or advice. Wikipedia is not a guidebook; please help rewrite such content to be encyclopedic or move it to Wikiversity, Wikibooks, or Wikivoyage. (Learn how and when to remove this message)
+{{neologism}}
+category links talk edit
+This article may document a neologism or protologism in such a manner as to promote it. Please add more reliable sources to establish its current use and the impact the term has had on its field. Otherwise, consider renaming or deleting the article. (Learn how and when to remove this message)
+{{peacock}}
+category links talk edit
+This article contains wording that promotes the subject in a subjective manner without imparting real information. Please remove or replace such wording and instead of making proclamations about a subject's importance, use facts and attribution to demonstrate that importance. (Learn how and when to remove this message)
+{{pro and con list}}
+category links talk edit
+This article contains a pro and con list. Please help rewrite it into consolidated sections based on topics.
+{{schedule}}
+links talk edit
+This article contains a television or radio schedule. Please help rewrite such content as prose.
+{{self-reference cleanup}}
+links talk edit
+This article may contain inappropriate self-references to the Wikipedia project or to itself. Please address the problem by removing references to Wikipedia or to the article as a document.
+{{weasel}}
+category links talk edit
+This article contains weasel words: vague phrasing that often accompanies biased or unverifiable information. Such statements should be clarified or removed. (Learn how and when to remove this message)
+Grammar
+{{cleanup tense}}
+category links talk edit
+This article uses tenses incorrectly. Please help improve it by using past tense if its subject is historic, future tense if it is upcoming, and present tense if it is not time-based (e.g. in fiction).
+{{inappropriate person}}
+category links talk edit
+This article uses first-person (I, we) or second-person (you) inappropriately. Please help rewrite it to use a more formal, encyclopedic tone.
+{{you}}
+category links talk edit
+This article uses second-person (you) inappropriately. Please help rewrite it to use a more formal, encyclopedic tone.
+Neutrality, readability, and tone
+{{fan POV}}
+category links talk edit
+This article may be written from a fan's point of view, rather than a neutral point of view. Please clean it up to conform to a higher standard of quality, and to make it neutral in tone. (Learn how and when to remove this message)
+{{technical}}
+category links talk edit
+This article may be too technical for most readers to understand. Please help improve it to make it understandable to non-experts, without removing the technical details. (Learn how and when to remove this message)
+{{tone}}
+category links talk edit
+This article's style of writing may not reflect the encyclopedic tone used on Wikipedia. See Wikipedia's guide to writing better articles for suggestions. (Learn how and when to remove this message)
+Inline with article text
+{{peacock inline}}
+category links talk edit  [peacock prose]
+See also: WP:PEACOCK
+{{weasel inline}}
+category links talk edit  [weasel words]
+Structure, formatting, and sections
+See also: Help:Section, Wikipedia:Manual of Style (headings), and Wikipedia:Manual of Style/Layout
+Organisation
+Tag  Text that will be shown (and usage notes)
+{{cleanup reorganize}}
+category links talk edit
+This article may be in need of reorganization to comply with Wikipedia's layout guidelines. Please help by editing the article to make improvements to the overall structure. (Learn how and when to remove this message)
+{{sections}}
+category links talk edit
+This article needs to be divided into sections. Please help do so in accordance with Wikipedia's Manual of Style.
+{{too many sections}}
+category links talk edit
+This article may have too many section headings. Please help consolidate the article. (Learn how and when to remove this message)
+{{trivia}}
+category links talk edit
+This article contains a collection of miscellaneous information. Please help improve it by relocating relevant information into other sections or articles.
+Naming
+{{rename section}}
+category links talk edit
+This section's title may not reflect its contents or does not comply with standard formatting. You can help Wikipedia by thinking of a more appropriate title and renaming the section. This may require further changes like splitting the section's contents. (Learn how and when to remove this message)
+{{television incorrect naming style}}
+category links talk edit
+The name of this television article uses a disambiguation style that does not follow WP:NCTV or WP:NCBC and needs attention. If you are removing this template without fixing the naming style to one supported by WP:NCTV, please add the article to Category:Television articles with disputed naming style.
+Lead section
+See also: Wikipedia:Manual of Style/Lead section
+{{lead extra info}}
+category links talk edit
+This article's lead section contains information that is not included elsewhere in the article. If this information is appropriate for the lead, it should also be included in the article's body. Relevant discussion may be found on the talk page. (Learn how and when to remove this message)
+{{lead missing}}
+category links talk edit
+This article has no lead section. Please add one in your own words.
+{{lead rewrite}}
+category links talk edit
+This article's lead section may need to be rewritten. Please review the lead guide and help improve the lead of this article if you can. (Learn how and when to remove this message)
+{{lead too long}}
+category links talk edit
+This article's lead section may be too long. Please read the length guidelines and help move details into the article's body. (Learn how and when to remove this message)
+{{lead too short}}
+category links talk edit
+This article's lead section may be too short to adequately summarize the key points. Please consider expanding the lead to provide an accessible overview of all important aspects of the article. (Learn how and when to remove this message)
+Length
+{{summarize section}}
+category links talk edit
+This section may be too long or excessively detailed. Please consider summarising the material. (Learn how and when to remove this message)
+{{very long}}
+category links talk edit
+This page may be too long to read and navigate comfortably. Consider splitting content into sub-articles, condensing it, or adding subheadings. Please discuss this issue on the article's talk page.
+Duplication
+{{duplication}}
+category links talk edit
+This article duplicates the scope of other articles. Please discuss this issue and help introduce a summary style to the article.
+{{overview section}}
+category links talk edit
+This overview section duplicates the intended purpose of the article's lead section, which should provide an overview of the subject. Please merge it with the introduction, move its content to other sections, or retitle the section to give it a clear scope.
+Summarisation
+{{bad summary}}
+category links talk edit
+This article may need to summarise its corresponding main article in better quality. Please help out to edit this article and make improvements to the summary. (Learn how and when to remove this message)
+{{summarize}}
+category links talk edit
+This section should include a summary of, or be summarized in, another article. See Wikipedia:Summary style for information on how to incorporate it into this article's main text, or the main text of another article.
+{{summary style}}
+category links talk edit
+This article may benefit from being shortened by the use of summary style. Summary style may involve the splitting of sections of text to one or more sub-topic articles which are then summarized in the main article.
+Colour
+{{cleanup colors}}
+category links talk edit
+This page or section uses color as the only way to convey important information. To meet Wikipedia's web accessibility guidelines, please help improve this page or section so it is easier to read by disabled people by adding an additional means for these readers to access the relevant information. See the guides to editing for accessibility at contrast and colors.
+{{dark mode problems}}
+category links talk edit
+This article has problems when viewed in dark mode. Desktop readers can switch to light mode temporarily using the eyeglasses icon at the top of the page. You can help fix these problems; see the official how-to.
+{{overcoloured}}
+category links talk edit
+This article may overuse or misuse colour, making it hard to understand for colour-blind users. Please remove or fix instances of distracting or hard-to-read colours or remove coloured links that may impede users' ability to distinguish links from regular text, or links coloured for purely aesthetic reasons. Colouring also may not appear correctly in dark mode. See the guides to editing for accessibility of contrast and colour.
+Potentially unwanted content
+See also: Wikipedia:What Wikipedia is not
+Message boxes
+Tag  Text that will be shown (and usage notes)
+{{AI-generated}}
+category links talk edit
+This article may incorporate text from a large language model, which is prohibited in Wikipedia articles. It may include hallucinated information, copyright violations, claims not verified in cited sources, original research, or fictitious references. Any such material should be removed. (Learn how and when to remove this message)
+{{AI-generated section}}
+links talk edit
+This section may incorporate text from a large language model, which is prohibited in Wikipedia articles. It may include hallucinated information, copyright violations, claims not verified in cited sources, original research, or fictitious references. Any such material should be removed. (Learn how and when to remove this message)
+{{link spam}}
+category links talk edit
+This page or section may contain link spam masquerading as content. Spam on Wikipedia consists of external links mainly intended to promote a website. If you are familiar with the content of the external links, please help by removing promotional links in accordance with Wikipedia:External links.
+Inline with article text
+{{spam link}}
+category links talk edit  [spam link?]
+Context, statistics, and detail
+Excessive content
+Tag  Text that will be shown (and usage notes)
+{{excessive citations}}
+category links talk edit
+This article may contain an excessive number of citations. Please help improve it by removing low-quality or irrelevant citations or redistribute them. (Learn how and when to remove this message)
+{{excessive examples}}
+category links talk edit
+This article may contain excessive or irrelevant examples. Please help improve it by removing less pertinent examples and elaborating on existing ones. (Learn how and when to remove this message)
+{{game trivia}}
+category links talk edit
+This article may contain excessive or off-topic gaming-related detail. Please help make this article more focused. (Learn how and when to remove this message)
+{{overly detailed}}
+category links talk edit
+This article contains an excessive amount of intricate detail. Please help improve it by spinning off or relocating relevant information and removing excessive detail that goes against Wikipedia's inclusion policy. (Learn how and when to remove this message)
+{{over-quotation}}
+category links talk edit
+This article contains too many or overly lengthy quotations. Please help  summarise the quotations. Consider transferring direct quotations to Wikiquote or excerpts to Wikisource. (Learn how and when to remove this message)
+{{too many charts}}
+category links talk edit
+This article contains too many tables, charts, or datasets that lack context or explanation. Relevant discussion may be found on the talk page. Please help clean them up or elaborate on them using prose text. (Learn how and when to remove this message)
+{{too many see alsos}}
+category links talk edit
+This "see also" section may contain an excessive number of entries. Please ensure that only the most relevant links are given, that they are not red links, and that any links are not already in this article. (Learn how and when to remove this message)
+Over-focus
+{{almanac}}
+category links talk edit
+This article concentrates unduly on statistical information. Wikipedia is not an indiscriminate collection of information and long lists of statistics may be confusing to readers and reduce the readability and neatness of our articles. In addition, articles should contain sufficient explanatory text to put statistics within the article in their proper context for a general reader. Please discuss this issue on the talk page. (Learn how and when to remove this message)
+{{generalize}}
+category links talk edit
+The examples and perspective in this article may not represent a full view of the subject. Please improve this article by adding more general information and discuss the issue on the talk page. (Learn how and when to remove this message)
+{{human-centric}}
+category links talk edit
+This article about biology may be excessively human-centric. Please improve coverage for other species and discuss this issue on the talk page. (Learn how and when to remove this message)
+{{specific}}
+category links talk edit
+This article focuses too much on specific examples. Please help improve it by adding sources that evaluate within broader context. Relevant discussion may be found on the talk page. (Learn how and when to remove this message)
+Context
+{{cleanup book}}
+category links talk edit
+This article lacks context for people who have not read the book. Please help improve it by adding some. See Wikipedia's Manual of Style for guidance. (Learn how and when to remove this message)
+{{context}}
+category links talk edit
+This article provides insufficient context for those unfamiliar with the subject. Please help improve the article by providing more context for the reader. (Learn how and when to remove this message)
+{{cleanup film}}
+category links talk edit
+This article lacks context for people who have not watched the film. Please help improve it by adding some. See Wikipedia's Manual of Style for guidance. (Learn how and when to remove this message)
+{{time-context}}
+category links talk edit
+This article is about an event or subject that may not be current but does not specify the time period. Please help improve it to include this information. The talk page may contain suggestions.
+Off-topic
+Articles occasionally contain content which is otherwise valid, but appears unrelated to the nominal topic of the article.
+{{off topic}}
+category links talk edit
+This section may contain material unrelated to the topic of the article. Please help improve this section or discuss this issue on the talk page. (Learn how and when to remove this message)
+Also takes "other article" parameter
+Expand and add
+Missing content
+Tag  Text that will be shown (and usage notes)
+{{cleanup ICHD}}
+category links talk edit
+This headache disorder article lacks information about its ICHD-2 diagnostic criteria and/or classification. Please help improve it by adding such information. (Learn how and when to remove this message)
+Articles lacking ICHD information
+{{empty section}}
+category links talk edit
+This section is empty. You can help by adding to it.
+{{cleanup road junction list}}
+category links talk edit
+This Wikipedia page contains a bulleted list or table of intersections which should be presented in a properly formatted junction table. Please consult this guideline for information on how to create one. Please improve this Wikipedia page if you can.
+{{kmposts}}
+category links talk edit
+This section is missing kilometre posts for junctions. Please help add them.
+Place above road junction lists that do not contain kilometreposts.
+{{lacking ISBN}}
+category links talk edit
+This article lacks ISBNs for books it lists. Please help add this information or run the citation bot.
+Place {{lacking ISBN|date=October 2026}} at the head of the relevant section(s). Remember that books published before 1974 may not have ISBNs (though more recent editions should).
+{{lacking overview}}
+category links talk edit
+This article lacks an overview of its topic. You can help by writing the lead section.
+{{metricate}}
+category links talk edit
+This article lacks conversions for SI units. Please help add them to this article, preferably using {{convert}}.
+{{mileposts}}
+category links talk edit
+This section is missing mileposts for junctions. Please help add them.
+Place above road junction lists that do not contain mileposts.
+{{missing information}}
+links talk edit
+This article is missing information about Articles to be expanded. Please expand the article by making an edit requestto include this information. Further details may exist on the talk page.
+When calling this template, you must pass it a parameter. A template call like {{Missing information|why bananas are yellow}} generates "This article is missing information about why bananas are yellow."
+Expansion
+{{AthAbbr needed}}
+category links talk edit
+This article requires the use of {{AthAbbr}} templates to make its content clearer for those not familiar with athletics. Please help add them. (Learn how and when to remove this message)
+{{cleanup lang}}
+category links talk edit
+This article should specify the language of its non-English content using {{lang}} or {{langx}}, {{transliteration}} for transliterated languages, and {{IPA}} for phonetic transcriptions, with an appropriate ISO 639 code. Wikipedia's multilingual support templates may also be used. See why.
+{{expand language}}
+category links talk edit
+You can help expand this article with text translated from the corresponding article in another language. Click [show] for important translation instructions.
+Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.
+You must provide copyright attribution in the edit summary accompanying your translation by providing an interlanguage link to the source of your translation. A model attribution edit summary is (using German): Content in this edit is translated from the existing German Wikipedia article at [[:de:Exact name of German article]]; see its history for attribution.
+You may also add the template {{Translated||Error: No language code specified}} to the talk page.
+For more guidance, see Wikipedia:Translation.
+Articles needing translation from foreign-language Wikipedias
+Typically used as one of 170 language-specific templates such as {{Expand Italian|date=October 2026}}
+{{expand section}}
+category links talk edit
+This section needs expansion. You can help by making an edit requestadding missing information.
+When calling this template, you may pass it a parameter. A template call like {{expand section|examples and additional citations}} generates: "This section requires expansion with: examples and additional citations."
+{{formula missing descriptions}}
+category links talk edit
+This article contains formulas that need descriptions. Please help clarify variables, symbols, and constants. (Learn how and when to remove this message)
+{{legend needed section}}
+category links talk edit
+This section has color coding, typographical symbols, or uncommon abbreviations that should be explained in a legend. Please help improve the section and read the Manual of Style for guidelines. (Learn how and when to remove this message)
+{{no alt text}}
+category links talk edit
+This article contains images without alternative text. Alternative text helps readers who use screen readers to access Wikipedia due to visual impairment. Please help improve Wikipedia by adding descriptive text to images. See the Manual of Style for guidelines. (Learn how and when to remove this message)
+Expert needed
+Tag  Text that will be shown (and usage notes)
+{{expert needed}}
+category links talk edit
+This article needs attention from an expert in PROJECTNAME. Please add a reason or a talk parameter to this template to explain the issue with the article. WikiProject PROJECTNAME may be able to help recruit an expert.
+Before adding this template, start a section on the article discussion page describing what you wish the expert to address, and put the section name in the |talk= parameter. {{Expert needed talk}} may be used on the talk page for this purpose.
+Time-sensitive
+See also: Wikipedia:Manual of Style/Dates and numbers and Category:Temporal templates
+Message boxes
+Tag  Text that will be shown (and usage notes)
+{{time-context}}
+category links talk edit
+This article is about an event or subject that may not be current but does not specify the time period. Please help improve it to include this information. The talk page may contain suggestions.
+{{update}}
+category links talk edit
+This Wikipedia page needs to be updated. Please help update this Wikipedia page to reflect recent events or newly available information. Relevant discussion may be found on  the talk page.
+{{update|inaccurate=y}}
+category
+The factual accuracy of this Wikipedia page may be compromised due to out-of-date information. Please help update this Wikipedia page to reflect recent events or newly available information. Relevant discussion may be found on  the talk page.
+Inline with article text
+{{as of}}
+category links talk edit  As of {{{1}}}[update]
+Used within prose to attribute a specific time to information that may quickly become dated, such as population statistics.
+{{clarify timeframe}}
+category links talk edit  [timeframe?]
+For tagging WP:DATED problems
+{{update after}}
+category links talk edit  [needs update]
+For facts that likely will need updating at a specific future date
+{{update inline}}
+category links talk edit  [needs update]
+For facts that need updating now
+Major edits
+Tag  Text that will be shown (and usage notes)
+{{in use}}
+category links talk edit
+This project page is actively undergoing a major edit for a little while. To help avoid edit conflicts, do not edit it while this notice is displayed.
+This page was last edited 37 days ago, at 23:46, 15 September 2026 (UTC) (refresh). Please remove this template if this page hasn't been edited for a significant time. If you added this notice, remember to remove it or replace it with {{under construction}} between editing sessions.
+{{recently revised}}
+category links talk edit
+This project page recently underwent a major revision or rewrite and may need further review. You can help Wikipedia by assisting in the revision.
+This project page was last edited 37 days ago, at 23:46, 15 September 2026 (UTC) (refresh). Please remove this notice if this project page has not been edited in several days.
+{{under construction}}
+category links talk edit
+This project page is undergoing significant expansion or restructuring. You are welcome to assist in its construction by editing it as well.
+This project page was last edited 37 days ago, at 23:46, 15 September 2026 (UTC) (refresh). Please remove this notice if this project page has not been edited in several days. You might want to temporarily replace this notice with {{In use}} during active editing sessions.
+{{recent death}}
+category links talk edit
+This article is currently being heavily edited as its subject has recently died. Information about their death may change rapidly. Please update outdated or incomplete information with citations to reliable sources. (Learn how and when to remove this message)
+Contradiction and confusion
+Note: Templates relevant for when articles are confusing or hard to understand due specifically to translation issues can be found at Wikipedia:Template index/Translation.
+Message boxes
+Tag  Text that will be shown (and usage notes)
+{{confusing}}
+category links talk edit
+This article may be confusing or unclear to readers. Please help clarify the article. There might be a discussion about this on the talk page. (Learn how and when to remove this message)
+Use this tag in articles that need broad cleanup to eliminate confusion and discrepancies.
+{{contradicts other}}
+category links talk edit
+This article appears to contradict another article. Please discuss at the talk page and do not remove this message until the contradictions are resolved.
+{{contradicts others}}
+category links talk edit
+This article appears to contradict the articles example and illustration. Please discuss at the talk page and do not remove this message until the contradictions are resolved.
+Use these tags in articles that appear to contradict themselves or each other.
+{{misleading}}
+category links talk edit
+This article contains content that may be misleading to readers. Please help improve it by clarifying such content. Relevant discussion may be found on the talk page.
+Use this tag when the article is not factually wrong, but leads the reader to draw incorrect conclusions.
+{{self-contradictory}}
+category links talk edit
+This article or section appears to contradict itself. Please see the talk page for more information.
+{{unclear date}}
+category links talk edit
+This article contains relative time references such as now, soon, upcoming. Please help add absolute time references.
+{{unfocused}}
+category links talk edit
+This article may lack focus or be about more than one topic. Please help improve this article, possibly by splitting it or creating a disambiguation page. Relevant discussion may be found on the talk page. (Learn how and when to remove this message)
+Use this tag when the writing is clear, but the article as a whole doesn't concentrate on a single theme.
+Inline with article text
+{{contradictory inline}}
+category links talk edit  [contradictory]
+Use this for specific sentences which contradict themselves or a nearby sentence.
+{{expand acronym}}
+links talk edit  [expand acronym]
+Use this to mark acronyms and abbreviations that are not written in full at first occurrence.
+{{inconsistent}}
+category links talk edit  [inconsistent]
+Use this to mark statements that are inconsistent with other parts of the article.
+{{vague}}
+category links talk edit  [vague]
+Use this for specific sentences needing clarification.
+Importance, relevance, and notability
+See also: Wikipedia:What Wikipedia is not (importance conveyed by sources) and Wikipedia:Notability (coverage by sources).
+Message boxes
+Tag  Text that will be shown (and usage notes)
+{{content}}
+category links talk edit
+The relevance of particular information in (or previously in) this article is disputed. The information may have been removed or included by an editor as a result. Please see discussion on the talk page considering whether its inclusion is warranted.
+{{importance section}}
+links talk edit
+This section may contain information not important or relevant to the article's subject. Please help improve this section. (Learn how and when to remove this message)
+{{notability}}
+category links talk edit
+The topic of this article may not meet Wikipedia's general notability guideline. Please help demonstrate the notability of the topic by citing reliable secondary sources that are independent of the topic and provide significant coverage of it beyond a mere trivial mention. If notability cannot be shown, the article is likely to be merged, redirected, or deleted.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+An optional parameter can be added to specify the applicable guideline; e.g.: {{notability|biographies}}, {{notability|fiction}}. See the template documentation for a list of supported values.
+Inline with article text
+{{importance inline}}
+links talk edit  [importance?]
+Inline version of {{importance section}}
+Accuracy, weighting, and neutrality
+See also: Wikipedia:Neutral point of view, Wikipedia:Dispute resolution, and Wikipedia:Verifiability
+Truthfulness and factual accuracy
+Tag  Text that will be shown (and usage notes)
+{{dispute about}}
+category links talk edit
+The factual accuracy of part of this article is disputed. The dispute is about {{{1}}}. Please help to ensure that disputed statements are reliably sourced. See the relevant discussion on the talk page. (Learn how and when to remove this message)
+{{disputed}}
+category links talk edit
+This article's factual accuracy is disputed. Relevant discussion may be found on the talk page. Please help to ensure that disputed statements are reliably sourced. (Learn how and when to remove this message)
+{{disputed chem}}
+category links talk edit
+This chemical structure or diagram's factual accuracy is disputed.
+Page last edited 37 days ago
+{{{1}}}.
+Please discuss the issue on this diagram's talk page.
+See also: Wikipedia structure drawing guide.
+Usage: {{Disputed chem|why}} – All: Category:Disputed chemical diagrams
+{{disputed map}}
+category links talk edit
+The factual accuracy of the map included in this page is disputed. Relevant discussion may be found on the talk page. Please help replace the disputed map with another suitable one or improve it if possible. (Learn how and when to remove this message)
+{{disputed section}}
+category links talk edit
+This section's factual accuracy is disputed. Relevant discussion may be found on the talk page. Please help to ensure that disputed statements are reliably sourced. (Learn how and when to remove this message)
+{{hoax}}
+category links talk edit
+This article contains material that may constitute a hoax. Please carefully verify any reliably sourced claims and add reliable sources for any uncited claims. If the claims cannot be verified, consider removing the section in question and/or nominating the article for deletion. Please see the talk page for details.
+{{speculation}}
+category links talk edit
+This article may contain unsourced predictions, speculative material, or accounts of events that might not occur. Information must be verifiable and based on reliable published sources. Please help improve it by removing unsourced speculative content. (Learn how and when to remove this message)
+Focus and weighting
+{{coatrack}}
+category links talk edit
+This article may relate to a different subject or has undue weight on an aspect of the subject. Please help relocate relevant information and remove irrelevant content.
+{{cleanup weighted}}
+category links talk edit
+This article may be weighted too heavily towards only one aspect of its subject. Please help improve it by introducing more general information. Relevant discussion may be found on the talk page.
+{{fringe theories}}
+category links talk edit
+This article may present fringe theories, without giving appropriate weight to the mainstream view and explaining the responses to the fringe theories. Please help improve it or discuss the issue on the talk page. (Learn how and when to remove this message)
+{{geographical imbalance}}
+category links talk edit
+This article may not provide balanced coverage on a geographical region. Please improve this article or discuss the issue on the talk page.
+{{globalize}}
+category links talk edit
+The examples and perspectives in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (Learn how and when to remove this message)
+{{recentism}}
+category links talk edit
+This article appears to be slanted towards recent events. Please try to keep recent events in historical perspective and add more content related to non-recent events. (Learn how and when to remove this message)
+{{too few opinions}}
+category links talk edit
+The examples and perspective in this article may not include all significant viewpoints. Please improve the article or discuss the issue. (Learn how and when to remove this message)
+{{unbalanced}}
+category links talk edit
+This article may be unbalanced towards certain viewpoints. Please help improve it by adding information on neglected viewpoints. Relevant discussion may be found on the talk page.
+{{undue weight}}
+category links talk edit
+This article may lend undue weight to certain ideas, incidents, or controversies. Relevant discussion may be found on the talk page. Please help improve it by rewriting it in a balanced fashion that contextualises different points of view. (Learn how and when to remove this message)
+Neutrality
+{{autobiography}}
+category links talk edit
+This article is an autobiography or has been extensively edited by the subject or by someone connected to the subject. It may need editing to conform to Wikipedia's neutral point of view policy. There may be relevant discussion on the talk page.
+See our advice if the article is about you and read our scam warning in case someone asks for money to edit this article. (Learn how and when to remove this message)
+{{cherry-picked}}
+category links talk edit
+This article's sources may have been cherry-picked. Its accuracy and/or neutrality is potentially compromised. Please help improve it by introducing a greater range of sources and ensuring they lend equal weight to varying viewpoints.
+{{COI}}
+category links talk edit
+A major contributor to this article appears to have a close connection with its subject. It may require cleanup to comply with Wikipedia's content policies, particularly neutral point of view. Please discuss further on the talk page.
+See our advice if the article is about you and read our scam warning in case someone asks for money to edit this article. (Learn how and when to remove this message)
+{{criticism section}}
+category links talk edit
+This "criticism" or "controversy" section may compromise the article's neutrality. Please help integrate negative information into other sections or remove undue focus on minor criticisms and controversies.
+{{paid contributions}}
+category links talk edit
+This article contains paid contributions. It may require cleanup to comply with Wikipedia's content policies, particularly neutral point of view. Please discuss further on the talk page.
+{{political POV}}
+category links talk edit
+The political neutrality of this article is disputed. This article may contain biased or partisan political opinions about a political party, event, person, or government stated as facts. Relevant discussion may be found on the talk page. Please do not remove this message until the conditions to do so have been met. (Learn how and when to remove this message)
+{{POV}}
+category links talk edit
+The neutrality of this article is disputed. Relevant discussion may be found on the talk page. Please do not remove this message until conditions to do so are met. (Learn how and when to remove this message)
+{{promotional}}
+category links talk edit
+This article contains promotional content. Please help improve it by removing promotional language and inappropriate external links, and by adding encyclopedic text written from a neutral point of view.
+See our advice if the article is about you and read our scam warning in case someone asks for money to edit this article. (Learn how and when to remove this message)
+{{undisclosed paid}}
+category links talk edit
+This article may have been created or edited in return for undisclosed payments, a violation of Wikipedia's terms of use. It may require cleanup to comply with Wikipedia's content policies, particularly neutral point of view.
+See our advice if the article is about you and read our scam warning in case someone asks for money to edit this article.
+Inline with article text
+{{according to whom}}
+category links talk edit  For weasel words ("It was said..." It was thought...")
+[according to whom?]
+{{clarify}}
+category links talk edit  Do not use without first taking some steps to research the apparent problem
+[clarification needed]
+{{contentious label inline}}
+category links talk edit  [contentious label]
+{{dubious}}
+category links talk edit  [dubious – discuss]
+{{editorialising}}
+category links talk edit  [editorialising]
+{{editorializing}}
+category links talk edit  [editorializing]
+{{excessive citations inline}}
+category links talk edit  For abuse of citations, per Wikipedia:Citation overkill.
+[excessive citations]
+{{original research inline}}
+category links talk edit  [original research?]
+{{POV statement}}
+category links talk edit  [neutrality is disputed]
+{{unbalanced opinion}}
+category links talk edit  [unbalanced opinion?]
+{{undue weight inline}}
+category links talk edit  [undue weight? – discuss]
+{{when}}
+category links talk edit  For ambiguous or vague time references of various kinds.
+[when?]
+{{who}}
+category links talk edit  For weasel words ("Many say..." Some people think...")
+[who?]
+Sources, references, and citations
+See also: Wikipedia:Verifiability, Wikipedia:No original research, Wikipedia:Reliable sources, and Wikipedia:Citing sources
+Biographies of living persons
+Tag  Text that will be shown (and usage notes)
+{{BLP living dead}}
+category links talk edit
+The subject of this  biographical article is shown as being deceased on a Wikipedia article in another language, and possibly on Wikidata. Please help to find reliable sources to confirm whether this individual is alive or dead, or correct any mis-categorization on the relevant foreign-language article(s). Further usage instructions for this template can be found here.
+{{BLP more footnotes needed}}
+category links talk edit
+This biography of a living person includes a list of general references but lacks sufficient corresponding inline citations. Please help improve this article by introducing more precise citations. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if potentially libelous or harmful. (Learn how and when to remove this message)
+{{BLP no footnotes}}
+category links talk edit
+This biography of a living person includes a list of references, related reading, or external links, but its sources remain unclear because it lacks inline citations. Please help improve this article by introducing more precise citations. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if potentially libelous or harmful. (Learn how and when to remove this message)
+{{BLP one source}}
+category links talk edit
+This biography of a living person relies largely or entirely on a single source. Please help by adding reliable sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if potentially libelous or harmful.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{BLP primary sources}}
+category links talk edit
+This biography of a living person relies too much on references to primary sources. Please help by adding secondary or tertiary sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if potentially libelous or harmful.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{BLP self-published}}
+category links talk edit
+This biography of a living person relies entirely on self-published sources. Please help by adding reliable, independent sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if potentially libelous or harmful.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{BLP sources}}
+category links talk edit
+This biography of a living person needs additional citations for verification. Please help by adding reliable sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if potentially libelous or harmful.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{BLP unreferenced}}
+category links talk edit
+This biography of a living person does not include any references or sources. Please help by adding reliable sources. Contentious material about living persons that is unsourced or poorly sourced must be removed immediately, especially if potentially libelous or harmful.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+Add, improve, remove
+General
+{{circular}}
+category links talk edit
+This article cites Wikipedia (or sources that take information from Wikipedia) in a circular manner. Please help improve this article by repairing any insufficient attribution if necessary and adding citations to reliable sources. Unsourced or poorly sourced material may be challenged and removed.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{cite check}}
+category links talk edit
+This article contains citations that may not verify the text. Please help improve it by checking for citation inaccuracies and resourcing or removing material failing verification. (Learn how and when to remove this message)
+{{more citations needed}}
+category links talk edit
+This article needs more citations. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{no reliable sources}}
+category links talk edit
+This article does not cite any reliable sources. Reliable sources are necessary to demonstrate that a particular subject is notable enough to warrant an article. Please help by identifying at least one reliable source that gives significant coverage of the topic, and adding it to this article. If at least two such sources cannot be found, the article may be considered for deletion. (Learn how and when to remove this message)
+{{no significant coverage}}
+category links talk edit
+This article does not cite any sources containing significant coverage. Please help improve this article by adding citations to sources containing significant coverage.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{old news}}
+category links talk edit
+This article may be excessively based on old or outdated news reports. Please update this article with better sources. (Learn how and when to remove this message)
+{{one source}}
+category links talk edit
+This article relies on a single source. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{only primary sources}}
+category links talk edit
+This page only references primary sources. Please improve this article by adding secondary or tertiary sources. Unsourced material may be challenged and removed.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{original research}}
+category links talk edit
+This article may contain original research. Please improve it by verifying the claims made and adding inline citations. Statements consisting only of original research should be removed. (Learn how and when to remove this message)
+{{primary sources}}
+category links talk edit
+This article relies excessively on references to primary sources. Please improve this article by adding secondary or tertiary sources.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{religious text primary}}
+category links talk edit
+This article uses texts from within a religion or faith system without referring to secondary sources that critically analyse them. Please help improve this article. (Learn how and when to remove this message)
+{{self-published}}
+category links talk edit
+This article may contain excessive or inappropriate references to self-published sources. Please help improve it by removing references to unreliable sources where they are used inappropriately. (Learn how and when to remove this message)
+{{self-sourcing examples}}
+category links talk edit
+This article gives self-sourcing popular culture examples whose notability is not verifiable or meaningful in the context of the main topic. Please help improve this article by adding citations to reliable sources and remove less pertinent examples. Unsourced or poorly sourced material may be challenged or removed. (Learn how and when to remove this message)
+{{sources exist}}
+category links talk edit
+An editor has determined that sufficient sources exist to establish the subject's notability. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{spam references}}
+category links talk edit
+This article contains references that appear to be spam. Wikipedia is not a collection of links and should not be used for advertising. Please help improve this article by adding citations to reliable sources. See Wikipedia:External links and Wikipedia:Spam for details. (Learn how and when to remove this message)
+{{synthesis}}
+category links talk edit
+This article or section possibly contains original synthesis. Source material should verifiably mention and relate to the main topic. Relevant discussion may be found on the talk page. (Learn how and when to remove this message)
+{{tertiary sources}}
+category links talk edit
+This article relies excessively on references to tertiary sources. Please improve this article by adding secondary or primary sources.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{third-party}}
+category links talk edit
+This article may rely excessively on sources too closely associated with the subject, potentially preventing it from being verifiable and neutral. Please help improve this article by replacing such sources with more appropriate citations to reliable, independent sources. (Learn how and when to remove this message)
+{{unreferenced}}
+category links talk edit
+This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{unreliable sources}}
+category links talk edit
+Some of this article's listed sources may not be reliable. Please help improve this article by looking for better, more reliable sources. Unreliable citations may be challenged and removed. (Learn how and when to remove this message)
+{{user-generated}}
+category links talk edit
+This article may contain improper references to user-generated content. Please help improve it by removing references to unreliable sources, where they are used inappropriately, and replacing them with references to reliable sources. Content that is not properly verifiable may be challenged and removed. (Learn how and when to remove this message)
+{{verifiability}}
+category links talk edit
+The verifiability of the claims made in this article is disputed. Please help improve this article by verifying its references and removing any that are not reliable or do not support the article. Relevant discussion may be found on the talk page. (Learn how and when to remove this message)
+{{verify sources}}
+category links talk edit
+An editor has expressed concern that this article may have a number of irrelevant and questionable citations. Please help improve this article by verifying these references and challenge or remove any that are not reliable or do not support the article. (Learn how and when to remove this message)
+Specific
+{{media IMDb refimprove}}
+category links talk edit
+This media article uses IMDb for verification. IMDb may not be a reliable source for film and television information and is generally only cited as an external link. Please help by replacing IMDb with third-party reliable sources. Unsourced material may be challenged and removed. (Learn how and when to remove this message)
+{{more medical citations needed}}
+category links talk edit
+This article needs more reliable medical references for verification or relies too heavily on primary sources. Please review the contents of the article and add the appropriate references if you can. Unsourced or poorly sourced material may be challenged and removed. Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR
+{{more science citations needed}}
+category links talk edit
+This scientific article needs additional citations to secondary or tertiary sources. Help add sources such as review articles, monographs, or textbooks. Please also establish the relevance for any primary research articles cited. Unsourced or poorly sourced material may be challenged and removed. (Learn how and when to remove this message)
+{{no significant coverage (sports)}}
+category links talk edit
+This sports biography does not cite any sources containing significant coverage. Please help improve this article by adding citations to sources containing significant coverage. Sports biographies without significant coverage violate the requirement for such articles and may be deleted.
+Find sources: "Cleanup" – news · newspapers · books · scholar · JSTOR (Learn how and when to remove this message)
+{{NRIS only}}
+category links talk edit
+This article lacks inline citations besides NRIS, a database which provides minimal and sometimes ambiguous information. Please help ensure the accuracy of the information in this article by providing inline citations to additional reliable sources. (Learn how and when to remove this message)
+{{unreferenced law}}
+category links talk edit
+This law-related article does not cite its references or sources. You can help Wikipedia by including appropriate citations, which can be found through legal research. Unsourced or poorly sourced material may be challenged and removed. (Learn how and when to remove this message)
+{{unreferenced medical section}}
+category links talk edit
+This section has no medical references for verification or relies exclusively on non-medical sources. Please review the contents of the section and add the appropriate references if you can. Unsourced or poorly sourced material may be challenged and removed. (Learn how and when to remove this message)
+Expansion and cleanup
+{{biblio}}
+category links talk edit
+This article's citations lack bibliographical information. Please read the guide to citations and add information such as author, title, date of publication, publisher, ISBN, pages cited, etc. (Learn how and when to remove this message)
+{{citation style}}
+category links talk edit
+This article has an unclear citation style. The references used may be made clearer with a different or consistent style of citation and footnoting. (Learn how and when to remove this message)
+{{citations broken}}
+category links talk edit
+This article  uses citations that link to broken or outdated sources. Please improve the article by addressing link rot or discuss this issue on the talk page. (Learn how and when to remove this message)
+{{cleanup bare URLs}}
+category links talk edit
+This article uses bare URLs, which are uninformative and vulnerable to link rot. Please help convert them to full citations. Several templates and tools are available for formatting help, such as reFill (documentation) and the Citation bot (documentation). (Learn how and when to remove this message)
+{{duplicated citations}}
+category links talk edit
+This article contains one or more duplicated citations. It is recommended to use named references to consolidate citations that are used multiple times. (Learn how and when to remove this message)
+{{format footnotes}}
+category links talk edit
+This article contains inline citations that are not properly formatted. Please improve this article by correcting them. (Learn how and when to remove this message)
+{{full citations needed}}
+category links talk edit
+This article needs more complete citations for verification. Please help add missing citation information so that sources are clearly identifiable. (Learn how and when to remove this message)
+{{ibid}}
+category links talk edit
+Constructs such as ibid., loc. cit. and idem are discouraged by Wikipedia's style guide for footnotes, as they are easily broken. Please improve this article by replacing them with named references (quick guide), or an abbreviated title. (Learn how and when to remove this message)
+{{more footnotes needed}}
+category links talk edit
+This article includes a list of general references but lacks sufficient corresponding inline citations. Please help improve this article by introducing more precise citations. (Learn how and when to remove this message)
+{{no footnotes}}
+category links talk edit
+This article includes a list of references, related reading, or external links, but its sources remain unclear because it lacks inline citations. Please help improve this article by introducing more precise citations. (Learn how and when to remove this message)
+{{page numbers improve}}
+category links talk edit
+This article cites its sources but its page reference ranges are too broad or are incorrect. Please help improve it by specifying more precise page ranges. (Learn how and when to remove this message)
+{{page numbers needed}}
+category links talk edit
+This article cites its sources but does not provide page references. Please help improve it by providing page numbers for existing citations. (Learn how and when to remove this message)
+{{parenthetical referencing}}
+category links talk edit
+This article uses parenthetical referencing, which is deprecated on Wikipedia. Please help improve this article if you can. (Learn how and when to remove this message)
+{{shallow references}}
+category links talk edit
+This article uses shallow references to the home page or some other high level page of a website that contains the cited document. Please edit the article so that the hyperlink points to the cited document.
+{{text-source}}
+category links talk edit
+This article may contain bundled citations with poor text–source integrity. Please help improve this article by verifying its sources, moving citations closer to the claims they support, and removing original synthesis. (Learn how and when to remove this message)
+Inline with article text
+{{according to whom}}
+links talk edit  [according to whom?]
+{{additional citation needed}}
+links talk edit  [additional citation(s) needed]
+{{attribution needed}}
+links talk edit  [attribution needed]
+{{better source needed}}
+links talk edit  [better source needed]
+{{better source needed example}}
+links talk edit  [better source needed]
+Links to self-sourcing examples
+{{by whom}}
+links talk edit  [by whom?]
+{{chronology citation needed}}
+links talk edit  [chronology citation needed]
+{{circular reference}}
+links talk edit  [circular reference]
+When the sources copy Wikipedia material directly
+{{circular reporting}}
+links talk edit  [circular reporting?]
+For the subtler case when you suspect the sources are based on facts first published at Wikipedia, but they didn't copy it directly
+{{citation needed}}
+links talk edit  [citation needed]
+{{citation needed span}}
+links talk edit  The sun is hot.[citation needed]
+{{clarify}}
+links talk edit  [clarification needed]
+{{copyvio link}}
+links talk edit  [infringing link?]
+{{dead link}}
+links talk edit  [dead link]
+{{disambiguation needed}}
+links talk edit  [disambiguation needed]
+{{disputed inline}}
+links talk edit  [disputed – discuss]
+{{dubious}}
+links talk edit  [dubious – discuss]
+{{episode needed}}
+links talk edit  [episode needed]
+{{example needed}}
+links talk edit  [example needed]
+{{example needed span}}
+links talk edit  This is a claim that needs one or more examples.[example needed]
+{{excessive citations inline}}
+category links talk edit  [excessive citations]
+For abuse of citations, per Wikipedia:Citation overkill.
+{{explain}}
+links talk edit  [further explanation needed]
+{{failed verification}}
+links talk edit  [failed verification]
+{{full citation needed}}
+links talk edit  [full citation needed]
+{{how}}
+links talk edit  [how?]
+{{medical citation needed}}
+links talk edit  [medical citation needed]
+{{medical citation needed span}}
+links talk edit  This is an uncited biomedical claim.[medical citation needed]
+{{nonspecific}}
+links talk edit  [not specific enough to verify]
+{{not verified in body}}
+links talk edit  [not verified in body]
+{{original research inline}}
+links talk edit  [original research?]
+{{page needed}}
+links talk edit  [page needed]
+{{primary source inline}}
+links talk edit  [non-primary source needed]
+{{quantify}}
+links talk edit  [quantify]
+{{quote without source}}
+links talk edit  [quote needs citation]
+{{registration required}}
+category links talk edit  (registration required)
+{{request quotation}}
+links talk edit  [need quotation to verify]
+{{season needed}}
+links talk edit  [season and episode needed]
+{{self-published inline}}
+category links talk edit  [self-published source?]
+{{self-published source}}
+category links talk edit  [self-published source]
+{{specify}}
+category links talk edit  [specify]
+{{synthesis inline}}
+links talk edit  [improper synthesis?]
+{{third-party inline}}
+links talk edit  [independent source needed]
+{{unreliable medical source}}
+links talk edit  [unreliable medical source?]
+{{unreliable source?}}
+links talk edit  [unreliable source?]
+{{update after}}
+links talk edit  [needs update]
+{{user-generated inline}}
+category links talk edit  [user-generated source?]
+{{user-generated source}}
+category links talk edit  [user-generated source]
+{{vague}}
+links talk edit  [vague]
+{{verify quote}}
+links talk edit  [verify]
+{{verify source}}
+links talk edit  [verification needed]
+{{volume needed}}
+links talk edit  [volume and issue needed]
+{{when}}
+links talk edit  [when?]
+{{where}}
+links talk edit  [where?]
+{{which}}
+links talk edit  [which?]
+{{who}}
+links talk edit  [who?]
+{{whose quote}}
+links talk edit  [who said this?]
+{{why}}
+links talk edit  [why?]
+{{year missing}}
+links talk edit  [year missing]
+Use when the year of publication of a source is needed
+{{year needed}}
+links talk edit  [year needed]
+Use when the date of an event is needed
+Links for search
+{{find sources}}
+links talk edit  Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · TWL
+{{search}}
+links talk edit
+wp
+g
+b
+)
+Categories
+Tag  Text that will be shown (and usage notes)
+{{disputed category}}
+category links talk edit
+The inclusion of one or more of the categories on this page is disputed. Please see the relevant discussion on the talk page.
+{{improve categories}}
+category links talk edit
+This page needs additional or more specific categories. Please help out by adding categories to it so that it can be listed with similar articles.
+{{recategorize}}
+category links talk edit
+This article appears to be both in categories to be diffused and in their subcategories, or is in too many categories, and may need cleanup. Please help improve this page to make sure its categories are appropriate and meet Wikipedia's quality standards.
+{{uncategorized}}
+category links talk edit
+This page has not been added to any categories. Please help out by adding categories to it so that it can be listed with similar pages.
+Place this at the bottom of an uncategorised article/category if you are unsure of which categories apply.
+{{unreferenced category}}
+category links talk edit
+This article contains unreferenced categories. Please help improve this article by adding citations to reliable sources. Unsourced categories may be challenged and removed. (Learn how and when to remove this message)
+Images and other media
+For tips on requesting images see: Wikipedia:Requested pictures.
+See also: Help:Files, Help:Pictures, Wikipedia:Images, Wikipedia:Uploading images, Wikipedia:File copyright tags, and Wikipedia:Image use policy
+For template messages related to the clean up of images, see: Wikipedia:Template index/File namespace#Format and quality.
+Expand and add
+Tag  Text that will be shown (and usage notes)
+{{improve images}}
+category links talk edit
+This page needs  images. Please consider adding images so that it can be better illustrated.
+Cleanup
+{{cleanup image}}
+category links talk edit
+This image may require cleanup to meet Wikipedia's quality standards. No cleanup reason has been specified. Please see Wikipedia's picture tutorial, image help, and image use policy for further information, or check the talk page. For assistance, refer to the Graphics Lab.
+{{cleanup image captions}}
+category links talk edit
+Some of the image captions in this Wikipedia page may require cleanup to comply with Wikipedia's guidelines. Please improve this Wikipedia page if you can. (Learn how and when to remove this message)
+{{cleanup images}}
+category links talk edit
+This article's images may require adjustments to formatting, placement, or size. Please see Wikipedia's picture and image placement policies for further information.
+Excess
+{{cleanup gallery}}
+links talk edit
+This section contains an excessive or unencyclopedic gallery of images. Please help improve it by removing unnecessary or indiscriminate images, and by moving relevant images beside adjacent text in accordance with Wikipedia's Manual of Style. (Learn how and when to remove this message)
+{{cleanup gallery anatomy}}
+category links talk edit
+This gallery of anatomic features needs cleanup to abide by the medical manual of style. Galleries containing indiscriminate images of the article subject are discouraged; please improve or remove the gallery accordingly.
+{{too many photos}}
+category links talk edit
+This article contains too many images for its overall length. Relevant discussion may be found on the talk page. Please help improve this article by removing indiscriminate collections of images or by adjusting images that are sandwiching text in accordance with Wikipedia's Manual of Style. (Learn how and when to remove this message)
+Factual accuracy
+{{image hoax}}
+category links talk edit
+The truthfulness of this image has been questioned, and it is believed that it may constitute a hoax. Please add reliable sources to its description page or comment on its talk page to show that it is not a manipulated photo or that it does not present misleading information. If the image cannot be suitably verified, consider placing it at files for discussion. Further information and discussion may be found on its talk page.
+Wikipedia suspected hoax images
+AI
+{{upscaled images}}
+category links talk edit
+This article contains images which have been upscaled using AI. This will have introduced speculative and possibly inaccurate details. Such images should be replaced with their original versions. Relevant discussion may be found on the talk page.
+Talk pages
+{{audio requested}}
+category links talk edit
+It is requested that one or more audio files be included in this article to improve its quality.
+{{diagram requested}}
+category links talk edit
+It is requested that one or more  diagrams be included in this article to improve its quality. Specific illustrations, plots, or diagrams can be requested at the Graphics Lab. Please replace this template with a more specific media request template where possible.
+For more information, refer to discussion on this page and/or the listing at Wikipedia:Requested images.
+Wikipedia requested diagram images
+Wikipedia requested diagram images
+{{image requested}}
+category links talk edit
+It is requested that an image or photograph of Template index be included in this article to improve its quality. Please replace this template with a more specific media request template where possible.
+The Free Image Search Tool or Openverse Creative Commons Search may be able to locate suitable images on Flickr and other websites. Upload
+This template should be used on talk pages. Please add one or more subject categories into the template.
+Use of= to add detailed information on the request.
+Use in= to define locations.
+{{map requested}}
+category links talk edit
+Map needed
+It is requested that a map or maps be included in this article to improve its quality.
+Wikipedia requested maps
+Lists
+See also: Wikipedia:Manual of Style/Lists
+Create
+Tag  Text that will be shown (and usage notes)
+{{create list}}
+category links talk edit
+This article may be better presented in list format to meet Wikipedia's quality standards. Please help improve this article by converting it into a standalone or embedded list.
+Use this tag where an article needs to be changed into list format.
+Add and expand
+{{list years}}
+category links talk edit
+This list or list section may be better with years. Please help improve this list or discuss it on the talk page.
+Cleanup
+{{cleanup list}}
+category links talk edit
+This article may contain unverified or indiscriminate information in embedded lists. Please help clean up the lists by removing items or incorporating them into the text of the article.
+For use in non-list articles or sections where potentially unwanted lists need to be salvaged before being deleted
+{{convert to Episode list}}
+links talk edit
+This article uses a non-standard episode list. Please convert it to use {{Episode list}}.
+{{list scope}}
+category links talk edit
+This list contains entries that may be out of scope and need to be evaluated for removal. Please help clean it up by removing items that do not meet the inclusion criteria agreed upon on the talk page.
+To identify a list on Wikipedia that has entries that may be out of scope.
+{{unsorted list}}
+category links talk edit
+This article contains a list that has not been properly sorted. See MOS:LISTSORT for more information. Please improve this article if you can.
+Use this tag where a list of works is in reverse-chronological order or otherwise contravenes the Wikipedia:Manual of Style (lists of works).
+Inclusion and exclusion criteria
+{{famous}}
+category links talk edit
+This list of "famous" or "notable" people has no clear inclusion or exclusion criteria. Please help improve this article by defining clear inclusion criteria to contain only subjects that fit those criteria. (Learn how and when to remove this message)
+For use in articles with unclear criteria for a list of "famous" or "notable" persons.
+{{list missing criteria}}
+category links talk edit
+This list has no precise inclusion criteria as described in the Manual of Style for standalone lists. Please improve this article by adding inclusion criteria, or discuss this issue on the talk page.
+Transform
+{{list to table}}
+category links talk edit
+This list (which may have dates, numbers, etc.) may be better in a sortable table format. Please help improve this list or discuss it on the talk page.
+For use where lists could be better presented as tables.
+{{prose}}
+category links talk edit
+This article is in list format but may read better as prose. You can help by converting this article, if appropriate. Editing help is available.
+Use this tag where a list needs cleanup.
+{{proseline section}}
+category links talk edit
+This section is in list format but may read better as prose. You can help by converting this section, if appropriate. Editing help is available.
+{{too many list sections}}
+category links talk edit
+This article has too many list sections that may read better as prose. You can help by converting these sections, if appropriate. Editing help is available.
+Disputes
+{{disputed list}}
+category links talk edit
+The inclusion of certain items in this list is disputed. Please see the relevant discussion on the talk page.
+To identify a list on Wikipedia that has content whose truth, factual nature, and/or relevance to the topic is in dispute.
+{{list dispute}}
+links talk edit
+The inclusion or exclusion of items from this list or length of this list is disputed. Please discuss this issue on the talk page.
+Specific lists
+{{alumni}}
+category links talk edit
+This list of alumni may not follow Wikipedia's verifiability policy. Please help improve it by adding reliable sources for existing names which prove they are alumni. Unsourced names may be challenged and removed. (Learn how and when to remove this message)
+Inline with article text
+{{list entry too long}}
+category links talk edit  [List entry too long]
+For use when a list item is excessively large due to indiscriminate trivia or a need to merge or split
+Tables
+Create
+Tag  Text that will be shown (and usage notes)
+{{needs table}}
+links talk edit
+This article should be written as a table. Please improve this article to meet Wikipedia's quality standards, or discuss this issue on the talk page. Editing help is available.
+Cleanup
+{{convert to Episode table}}
+links talk edit
+This article uses a non-standard episode table. Please convert it to use {{Episode table}}.
+{{convert to Series overview}}
+links talk edit
+This article uses a non-standard series overview table. Please convert it to use {{Series overview}}.
+{{rank order}}
+links talk edit
+This table may be more easily updated if the rank-order column (1,2,3) is removed and a row number column is added instead. Alphabetical order may also help. See examples here.
+{{table accessibility cleanup}}
+links talk edit
+One or more tables in this article are not accessible to all readers and need to be fixed. Please help improve the article and read the data table tutorial guideline for help. (Learn how and when to remove this message)
+Wiki tech
+Most of these issues are covered in the main Manual of Style.
+Links
+Tag  Text that will be shown (and usage notes)
+{{cleanup red links}}
+category links talk edit
+This article's use of red links may need cleanup. Please help improve this article.
+{{dead end}}
+category links talk edit
+This article does not contain any links to other Wikipedia articles. Please help improve it by adding links that are relevant to the context within the existing text. (Learn how and when to remove this message)
+Use this to mark articles or sections that completely lack internal links.
+{{external links}}
+category links talk edit
+This article's use of external links may not follow Wikipedia's policies or guidelines. Please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (Learn how and when to remove this message)
+{{overlinked}}
+category links talk edit
+This article may contain too many links. Please help improve it by removing duplicated or irrelevant links. See Wikipedia's Manual of Style for guidance. (Learn how and when to remove this message)
+{{underlinked}}
+category links talk edit
+This article needs more links to other articles to help integrate it into the encyclopedia. Please help improve this article by adding links that are relevant to the context within the existing text. (Learn how and when to remove this message)
+Use this to mark articles or sections with too few internal links.
+Disambiguation pages
+{{dablinks}}
+category links talk edit
+This article currently links to a large number of disambiguation pages (or back to itself). Please help direct these ambiguous links to articles dealing with the specific content intended. Read the FAQ.
+Use this on a page that links to a large number of disambiguation pages.
+This template is sometimes placed automatically by DPL bot.
+{{disambiguation cleanup}}
+category links talk edit
+This page is a list of project pages associated with the same title or shortcut.
+If an internal link led you here, you may wish to change the link to point directly to the intended page.
+Note: This page may need to be cleaned up to meet Wikipedia's quality standards. Further information might be found on the talk page.
+Use this for disambiguation pages not written according to the style in Wikipedia:Manual of Style (disambiguation pages).
+Replace {{disambiguation}} with this.
+{{incoming links}}
+category links talk edit
+This disambiguation page is currently linked from a large number of articles. Please help direct these ambiguous links to articles dealing with the specific content intended. (Learn how and when to remove this message)
+Use this on a page with general links that should be more specific.
+Infoboxes
+See also: Help:Infobox and Category:Infobox templates
+General
+{{cleanup infobox}}
+category links talk edit
+This page's infobox may require expansion, verification, or otherwise need cleanup. Please ensure it meets Wikipedia's guidelines. Relevant discussion may be found on the talk page. You may also want to view the infobox template page to see the full parameter list and get guidance on the usage of that infobox.
+{{Infobox too large}}
+category links talk edit
+The infobox on this page may contain an excessive amount of indiscriminate data or imagery. Please help to improve this article's infobox in accordance with the Manual of Style for infoboxes. (Learn how and when to remove this message)
+{{infobox requested}}
+category links talk edit
+This article lacks an infobox. You may wish to add one, so that the article resembles the standard display for this subject. This talk page may contain the banner of a relevant project, that provides the standardized infobox for this type of article. See also Category:Infobox templates, and Wikipedia:WikiProject Infoboxes.
+This template should be used on talk pages.
+Also has functionality to indicate that only a section in a page needs one. See the template page for more info.
+{{missing fields}}
+links talk edit
+This page has an infobox that is missing one or more vital fields and needs to be updated.
+Please consult the relevant WikiProject or this category to find the appropriate usage.
+{{new infobox}}
+category links talk edit
+This article has a deprecated, substituted, or incorrect infobox and needs a new one. Please consult the relevant WikiProject or infobox template category to find an appropriate replacement.
+Pages needing an infobox conversion
+This template should be used on talk pages.
+{{single infobox request}}
+category links talk edit
+An {{Infobox song}} has been requested for this article. Please select the appropriate infobox and format it according to the guidelines.
+This template should be used on talk pages.
+Specific
+{{missing taxobox}}
+links talk edit
+This article needs an appropriate taxobox. You can help Wikipedia by adding one.
+{{mycomorphbox missing}}
+links talk edit
+This article would benefit from the addition of a Mycomorphbox which lists traits used to identify this mushroom.
+You can help Wikipedia by adding one.
+Templates
+{{citations broken from PEIS limit}}
+category links talk edit
+This page exceeds the post-expand include size limit. Some references and templates may not render properly on this page.
+{{malformed template}}
+links talk edit
+This article may contain one or more malformed  templates. Templates contained within this article may need fixing or updating. (Learn how and when to remove this message)
+Bottom of page
+{{orphan}}
+category links talk edit
+This article is an orphan, as no other articles link to it. Please introduce links to this page from related articles.
+Use this for articles that aren't linked to from any other pages.
+{{uncategorized}}
+category links talk edit
+This page has not been added to any categories. Please help out by adding categories to it so that it can be listed with similar pages.
+Place this at the bottom of an uncategorised article/category if you are unsure of which categories apply.
+Other
+{{cleanup HTML}}
+category links talk edit
+This article uses HTML markup. Please help improve it by converting HTML markup to wiki markup where appropriate. For help finding or replacing problematic tags, see these instructions.
+If the article needs HTML changed into wiki-markup
+Use this if the article has non-English text but lacks {{lang}}, {{transl}}, or other multilingual support templates.
+Other article tags
+There are also tags available for:
+merging articles;
+moving articles;
+splitting articles; and
+translation of articles.
+Open tasks
+Wikipedia backlog by category
+Wikipedia:Backlog lists tasks that should be done to improve Wikipedia (assuming the cleanup templates were placed correctly). Helping reduce backlogs is an important issue, so please feel free to help out.
+Click any linked number for that category's articles prioritized by their number of incoming links.
+Backlog categories
+General
+Administrative
+Assessment
+Stub sorting
+Template parameter
+Lacking references
+Needs references: 31,826
+Needs more references: 542,757
+Needs more references (BLP): 39,959
+Needs in-text citations: 109,638
+Needs reliable references: 100,502
+Has unsourced quotes: 679
+Has unsourced statements: 586,604
+Fix one!
+Accuracy
+Uses broken or outdated citations: 200
+Needs factual verification: 13,750
+Needs references list: 50
+Needs references clean up: 6,964
+Accuracy disputes: 15,722
+Neutrality disputed: 2,184
+Needs updating: 45,633
+Has original research: 17,323
+Self-contradictory: 954
+Content
+Copied and pasted: 52
+Needs context: 2,650
+Needs coordinates: 69,736
+Too technical: 3,446
+Uses improper non-free content: 16
+Uses in-universe perspective: 1,092
+Plot summary needs attention: 8,150
+Of unclear notability: 55,860
+Popular low quality articles (top 5000 by pageviews with low ORES class predictions)
+Links
+Has dead external links: 360,612
+Needs external links cleanup: 1,997
+Layout
+Needs expansion: 52,391
+Needs to be split: 867
+Style
+Needs clarification: 6,067
+Has peacock terms: 635
+Uses promotional tone: 22,570
+Has weasel words: 19,401
+With style issues: 20,621
+File description
+Copy to Wikimedia Commons: 85,052
+Incomplete renaming requests: 1
+Needs author: 5,357
+File quality
+Has inappropriate JPEG compression: 2,481
+Logos that should be in SVG format: 2,748
+Should be in PNG format: 221
+Has watermarks: 150
+Non-free file use
+Needs size reduction: 159
+File licensing
+Has disputed copyright information: 394
+Meta
+Quality content
+Featured article candidates: 52
+Featured article review: 19
+Featured list candidates: 35
+Featured list review: 7
+Unreviewed good article nominations: 826
+Other
+Needs cleanup: 33,677
+Needs cleanup (disambiguations): 97
+Needs expert attention: 1,526
+Needs infobox conversion: 122
+Is orphaned: 52,889
+Needs to be wikified: 19,604
+Overpopulated categories: 64
+New articles
+Articles for creation: 3,337
+(refresh)
+See also
+Wikipedia:Responsible tagging
+Wikipedia:Tagging pages for problems
+Wikipedia:Twinkle
+Wikipedia:WikiProject Stub sorting/Stub types
+Template:Inline cleanup tags Template:Wikipedia template messages
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Wikipedia:Template_index/Cleanup&oldid=1375119409"
+Categories:
+Wikipedia information pages
+Wikipedia template administration
+Hidden categories:
+Wikipedia semi-protected project pages
+Possible CC BY-SA or GFDL violations due to copying within Wikipedia
+Television articles with incorrect naming style
+Image captions for cleanup/Without examples
+Articles with gallery cleanup tags
+Missing taxobox
+Missing mycomorphbox
+Pages where post-expand include size is exceeded
+Wikipedia cleanup
+Search
+Search
+Wikipedia:Template index/Cleanup
+33 languages   Add topic
