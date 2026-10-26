@@ -1,0 +1,761 @@
+URL: https://en.wikipedia.org/wiki/Pittsburgh_Light_Rail
+
+Pittsburgh Light Rail - Wikipedia
+Jump to content
+Route map:
+From Wikipedia, the free encyclopedia
+Light rail system in Pittsburgh, Pennsylvania
+Pittsburgh Light Rail
+A Blue Line train crosses the Panhandle Bridge and approaches First Avenue station in April 2023
+Overview
+Owner Pittsburgh Regional Transit
+Locale Pittsburgh
+Transit type Light rail
+Number of stations
+53[1]
+Annual ridership
+3,104,400 (2025)[2]
+Website rideprt.org
+Operation
+Began operation
+1984; 42 years ago (1984)
+Technical
+System length 26.2 mi (42.2 km)[1]
+Track gauge 5 ft 2+1⁄2 in (1,588 mm) Pennsylvania trolley gauge
+Electrification Overhead line, 650 V DC[3]
+System map
+Show interactive map
+Legend
+Allegheny
+US 19 / PA 65
+North Side
+I-279
+Allegheny River Tunnel
+under Allegheny River
+Gateway
+Wood Street
+Penn Station
+occasional use
+Steel Plaza
+Panhandle Tunnel
+First Avenue
+I-376 / US 22 / US 30
+Panhandle Bridge over
+Monongahela River
+Brown Line
+PA 837
+Station Square
+Arlington Ave
+Mount Washington
+Transit Tunnel
+Warrington Ave
+Brown Line
+South Hills Junction
+Red
+Blue Silver
+Palm Garden
+Boggs
+PA 51
+Dawn
+Morse Steps
+Traymore
+McKinley Park
+Pennant
+Bon Air
+Westfield
+Edgebrook
+Fallowfield viaduct
+Fallowfield
+Denise
+Hampshire
+PA 51
+Coast
+Ansonia
+Belasco
+South Bank
+Boustead
+Central
+Shiras
+Inglewood
+Neeld
+Glenbury
+Stevenson
+Paris
+Potomac
+McNeilly
+Kelton
+Spinning Wheels
+Dormont Junction
+Killarney
+Mt. Lebanon Tunnel
+Cooley
+Mt. Lebanon
+Linden Grove
+Poplar
+Memorial Hall
+Arlington
+Poplar Avenue
+Castle Shannon
+Park
+Overbrook Junction
+Willow
+Red
+Blue Silver
+Martin Villa
+St. Anne's
+Smith Road
+Washington Junction
+Blue Red
+Silver
+Casswell
+Mine 3
+Highland
+Hillcrest
+Santa Barbara
+Lindermer
+Bethel Village
+Center
+Dorchester
+Lytle
+47D
+Mesta
+South Hills Village
+South Park
+South Hills Village
+Rail Center
+Munroe
+Bethel Church
+Latimer
+Fort Couch
+Sarah
+Brookside Boulevard
+Logan
+Brookside Farms
+King's School
+Walthers
+Beagle
+Drake
+Sandy Creek
+PA 88
+West Library
+Hicks
+Pleasant
+Library
+Key
+Blue Line
+Former stop
+Red Line
+Non-accessible stop
+Silver Line
+Accessible station
+Former Brown Line
+Interchange station
+Two services
+Multiple services
+This diagram:
+view
+talk
+edit
+Show route diagram
+The Pittsburgh Light Rail (commonly known as The T or the Trolley) is a 26.2-mile (42.2 km) light rail system in Pittsburgh, Pennsylvania, serving the city and surrounding suburbs. The system operates as a deep-level subway in Downtown Pittsburgh, but runs mostly at-grade in suburban areas south of the city. It is largely linear in a north–south direction, with one terminus near the central business district and two termini in the South Hills. The system is owned and operated by Pittsburgh Regional Transit.
+The system is one of the surviving first-generation streetcar systems in North America, with portions of the network dating to 1903, when they were operated by the Pittsburgh Railways.[4] It is one of three light rail systems in the United States that continues to use the broad 5 ft 2+1⁄2 in (1,588 mm) Pennsylvania trolley gauge rather than the 4 ft 8+1⁄2 in (1,435 mm) standard gauge. In 2025, the system had a ridership of 3,104,400.
+History
+[edit]
+Background
+[edit]
+PCC car in Pittsburgh, 1968
+The privately-owned Pittsburgh Railways Company was formed on January 1, 1902, following a period of consolidation among several street railway companies between 1895 and 1905. The Consolidated Traction Company, chartered in 1895, and the United Traction Company, chartered in 1896, absorbed a number of smaller operators and converted their systems to electric operation.[5][6] Pittsburgh Railways emerged from this process when the Southern Traction Company acquired operating rights over both companies.[7]
+The system expanded during the early 20th century. It operated 1,100 streetcars over 400 miles (640 km) of track and carried 178.7 million passengers annually.[8] At its peak, Pittsburgh Railways maintained 68 streetcar routes and a fleet of 666 PCC cars, one of the largest in North America, and the first operator of the PCC cars.[9][10] Portions of these routes remain in use as part of the present-day light rail network, with some infrastructure dating to 1903–1909.[4]
+However, the company experienced financial instability, entering bankruptcy in 1918 and again in 1938, emerging from the latter in 1951.[11] On July 26, 1936, it received PCC streetcar No. 100 from the St. Louis Car Company, which entered service the following month as the first PCC streetcar to operate in regular revenue service.[12][13] Large-scale abandonment of streetcar lines began in the late 1950s, often associated with highway or bridge construction.[14]
+By the early 1960s, Pittsburgh Railways continued to operate more than 600 PCC cars on 41 routes, making it one of the largest remaining streetcar systems in the United States. On March 1, 1964, the system was acquired by the newly established Port Authority of Allegheny County (PAT), which also assumed operations of more than 30 other transit companies in the region, including bus operators and the incline lines. The state had hoped the consolidation would help stabilize the system as the private companies all had separate fare structures, labor agreements, and, in some cases, overlapping routes, while ridership had declined in the preceding years.[15]
+PAT undertook a program to consolidate and modernize transit operations. Most streetcar routes were converted to bus operation, reflecting lower operating and maintenance costs and reduced capital requirements. By the early 1970s, only a small number of streetcar routes remained, primarily those using the Mount Washington Transit Tunnel to reach the South Hills, retained in part because they operated on private rights-of-way separate from street traffic.[15]
+Prototype Skybus vehicle as used on the demonstration track at the Allegheny County Fairgrounds
+PAT also began planning for new fixed guideway transit, proposing to build two busways and a people mover system developed by the Pittsburgh-based Westinghouse Electric Corporation, known as the Skybus.[16] The initial 11-mile (18 km) Skybus line would have originated at South Hills Village, followed the existing streetcar right-of-way through the Mt. Lebanon and Beechview neighborhoods before reaching Downtown Pittsburgh via the Wabash Tunnel.[17][18]: 68–69
+While construction of the busways proceeded, by the late 1970s, the Skybus proposal was set aside due to public opposition.[16]
+Train of CAF LRV rolling stock crossing the Monongahela River on the Panhandle Bridge
+Downtown subway and Beechview Line (Stage I)
+[edit]
+Planning shifted toward reconstructing the remaining streetcar lines as a modern light rail system, resulting in the "Stage I" plan, the first phase of a broader program to develop a new light rail network. The project included reconstruction of the Beechview line, construction of a short branch to South Hills Village, and a 1.1-mile (1.8 km) subway through downtown. Reconstruction of the existing line included double-tracking formerly single-track segments, replacing jointed rail with continuous welded rail, and upgrading the overhead power system to modern catenary.
+Only the busiest stops were rebuilt with high-level platforms, while lower-ridership stops retained low-level, street-level boarding. Because this work preceded the Americans with Disabilities Act of 1990, full systemwide accessibility was not required. The design also allowed continued operation of PCC cars on unmodified portions of the network, with some shared stations providing both high- and low-level boarding.[19]
+Construction began on December 10, 1980, following federal funding approval, and incorporated existing infrastructure including the Panhandle Bridge and the Panhandle Tunnel, which was acquired from Conrail in 1980 for $8.15 million. The first modern light rail cars began operating on April 15, 1984 between the South Hills Village and Castle Shannon stations through the newly opened Mt. Lebanon Tunnel.[20] The downtown subway opened on July 3, 1985, with demonstration service terminating at the newly constructed Station Square station. Street-running service through downtown and across the Smithfield Street Bridge ended on July 6, 1985, with full service across the subway, the rebuilt Beechview line, and the South Hills Village branch beginning the following day.[15][21]
+Funding for upgrades to the segment of the line between Castle Shannon and South Hills Junction was approved on May 8, 1985, including $20 million in federal grants. The entire Stage I project was declared complete on May 22, 1987, at a total cost of $522 million, which included the purchase of 55 light rail vehicles.[22]
+The subway through downtown was constructed using cut-and-cover methods under Liberty and Fifth avenues, serving Gateway, Wood Street, and Steel Plaza stations. At Steel Plaza, the new tunnel connected to the existing Panhandle Tunnel, which extended to Penn Station and the Panhandle Bridge over the Monongahela River. From there, the line continued to Station Square, located at the northern portal of the Mount Washington Transit Tunnel. The tunnel had been modified in 1973 for joint use by rail and buses on the South Busway. South of the tunnel, the line served a rebuilt South Hills Junction before continuing onto the Palm Garden Trestle, which was reconstructed in 1977 for the South Busway, and then entered the Beechview line, which is largely located in the median of surface streets in the Beechview neighborhood. Reconstruction of the existing line included double-tracking formerly single-track segments, replacing jointed rail with continuous welded rail, and upgrading the overhead power system to modern catenary.
+Overbrook Line (Stage II)
+[edit]
+The line from South Hills Junction to Castle Shannon via Overbrook (now called the Overbrook Line, part of the Blue and Silver lines) was first constructed by the Pittsburgh and Castle Shannon Railroad (P&CSRR) between 1872 and 1874.[23] In 1905, Pittsburgh Railways leased the route, and between 1909 and 1910, converted it to dual gauge, retaining the existing narrow gauge for the coal-hauling trains and adding the broad 5 ft 2+1⁄2 in (1,588 mm) Pennsylvania trolley gauge for passenger service using streetcars. While the line was electrified with overhead power, the coal trains continued to use existing steam locomotives.
+While the Beechview line was rebuilt during the 1980s, the Overbrook line remained largely unchanged and continued to be operated using PCC cars. The reconstruction of this line would be part of the Stage II project, to be performed at a future date pending additional funding. However, the condition of the track and infrastructure of the Overbrook line continued to deteriorate and in 1993, Pittsburgh Regional Transit determined the line to be unsuitable for safe operation in its current state and suspended service on the line. The line remained dormant until 1999, when the PRT broke ground on the Overbrook Line reconstruction project.[citation needed]
+The rebuilt Overbrook line was essentially an entirely new line built along the original line's right of way. As had been done with the Beechview line prior, the rebuilt line was completely double-tracked with continuously welded rail, pandrol clip fixation, upgraded catenary and signaling, and other improvements. The rebuilt line included eight accessible stations with high-level platforms; unlike the Beechview line, no street-level stops were retained. The Overbrook line reopened in June 2004, at a total cost of $386 million, including the cost of purchasing 28 LRVs.[22] Coinciding with the opening, Pittsburgh Regional Transit purchased 28 additional light rail cars to support the line and increase overall system capacity. At this time, the 55 existing cars were completely rehabilitated as well. In addition, as part of the Stage II project, upgrades to the traction power network, Operations Control Center, and signals and communications had been implemented.[citation needed]
+The First Avenue station was added in 2001; service to Penn Station was suspended on September 2, 2007.[citation needed]
+North Shore Connector
+[edit]
+Main article: North Shore Connector
+Re-construction of the Gateway station, August 2011
+The finished North Shore Connector includes Allegheny station, serving the Heinz Field and Carnegie Science Center.
+In January 1999, Pittsburgh Regional Transit began undertaking environmental analysis and planning and began construction of a light rail line to connect Pittsburgh's Downtown and North Shore. Federal funding was approved for the extension on February 6, 2004.[citation needed]
+The main project involved twin-bore tunnels below the Allegheny River to connect a refurbished Gateway Station, which was the former Downtown terminus, to North Side station, located just west of PNC Park, and Allegheny station, located just north of Heinz Field. The completed project opened to the public on March 25, 2012. The North Side station serves PNC Park, the Andy Warhol Museum, Allegheny Center and numerous office buildings in the vicinity. The Allegheny station serves Heinz Field, the Carnegie Science Center, the National Aviary, the Community College of Allegheny County, the Rivers Casino, and other nearby businesses.[citation needed]
+Unexpectedly high bids from construction companies had stalled construction, originally scheduled to begin in fall 2005. The entire project was budgeted at $435 million, with approximately 80% ($348 million) coming from the Federal Transit Administration.[24] Pittsburgh Regional Transit began construction in October 2006, with the first bore completed on July 10, 2008, and the second bore under the Allegheny River completed in early 2009.[25] Service began on March 25, 2012, with a final cost of $523.4 million.[26]
+2024–2028 rail replacement projects
+[edit]
+From 2024 to 2028, PRT is undertaking a system-wide program of track rehabilitation across the network.[27] The work includes phased closures, single-tracking, and temporary service reroutes.
+In 2024, sections of the Red Line were closed for track replacement, resulting in single-tracking operations, shuttle bus substitutions, and a temporary Red Line Short service between Dormont Junction and Overbrook Junction. During part of this period, Red Line trains were also rerouted over the Blue Line alignment.[28]
+v
+t
+e
+Subway Local
+Legend
+January 2-February 6, 2025[29]
+Allegheny
+US 19 / PA 65
+North Side
+I-279
+Allegheny River Tunnel
+under Allegheny River
+Gateway
+Wood Street
+Penn Station
+Open Feb.-Mar 2025
+Steel Plaza
+Panhandle Tunnel
+First Avenue
+I-376 / US 22 / US 30
+(Penn Lincoln Parkway)
+Panhandle Bridge over
+Monongahela River
+Brown Line
+PA 837
+West Carson Street
+Station Square
+Arlington Ave
+Mount Washington
+Transit Tunnel
+Warrington Ave
+Brown Line
+South Hills Junction
+Red Blue Silver
+February 6-February 28, 2025[29]
+Allegheny
+US 19 / PA 65
+North Side
+I-279
+Allegheny River Tunnel
+under Allegheny River
+Gateway
+Wood Street
+Penn Station
+Open Feb.-Mar 2025
+Steel Plaza
+Panhandle Tunnel
+First Avenue
+I-376 / US 22 / US 30
+(Penn Lincoln Parkway)
+Panhandle Bridge over
+Monongahela River
+Brown Line
+PA 837
+West Carson Street
+Station Square
+Arlington Ave
+Mount Washington
+Transit Tunnel
+[30]
+Warrington Ave
+Brown Line
+South Hills Junction
+Red Blue Silver
+February 28-December 25, 2025[31]
+Allegheny
+US 19 / PA 65
+North Side
+I-279
+Allegheny River Tunnel
+under Allegheny River
+Gateway
+Wood Street
+Penn Station
+Open Feb.-Mar 2025
+Steel Plaza
+Panhandle Tunnel
+First Avenue
+I-376 / US 22 / US 30
+(Penn Lincoln Parkway)
+Panhandle Bridge over
+Monongahela River
+Brown Line
+PA 837
+West Carson Street
+Station Square
+Arlington Ave
+Mount Washington
+Transit Tunnel[30]
+Allen Street (temporary stop)
+Brown Line
+South Hills Junction
+Red Blue Silver
+Key
+Red/Blue/Silver Lines
+Subway Local
+Allentown detour
+Temporarily closed
+Shuttle bus
+In early 2025, reconstruction of concrete track-support structures (plinths) in the downtown subway required staged closures between First Avenue, Steel Plaza, and Gateway. This resulted in truncated light rail service, shuttle bus substitutions, and the operation of a temporary Subway Local service within the affected segment.[29]
+Later in 2025, closure of the Mount Washington Transit Tunnel led to major service reroutes, including diversion of the Blue and Red lines via the Allentown alignment and temporary adjustments to Silver Line service patterns.[31]
+Additional rehabilitation projects are planned, including track replacement in the Mt. Lebanon Tunnel (2026–2027)[32] and rehabilitation of the Panhandle Bridge (2025–2028), both of which are expected to require periods of single-tracking and service adjustments.[33]
+Fleet and depot
+[edit]
+Current fleet
+[edit]
+Pittsburgh Regional Transit operates a fleet of 76 LRVs as of 2006:
+Image  Fleet numbers  Model  Built  Notes
+4201‍–‍4255  Siemens SD-400  1985‍–‍1987  Rebuilt by CAF in 2005‍–‍2006 and renumbered from 4101‍–‍4155.
+Seven units salvaged for parts, then scrapped.[34]
+4301‍–‍4328  CAF LRV  2003‍–‍2004
+Car interior, showing the low-platform and high-platform doors
+Trains are typically operated in two-car consists. The system includes both exclusive right-of-way segments and mixed-traffic sections that run along public streets. Stations located within roadways generally feature low-level platforms, while many of those on dedicated rights-of-way are equipped with high-level platforms. To accommodate both configurations, light rail vehicles are fitted with two sets of doors near the front: a lower set with steps for street-level boarding and a higher set that provides level boarding from high platforms.
+Doors on the second car open only at select stations with high-level platforms. As of 2026[update], these stations are Allegheny, North Side, Gateway, Wood Street, Steel Plaza, First Avenue, Station Square, South Hills Junction, Memorial Hall, Washington Junction, South Hills Village, Lytle, and Library.[35]
+As of 2023, plans were in development to replace the aging fleet.[36]
+Retired PCC fleet
+[edit]
+Pittsburgh PCC 4001 as a static display in front of the South Hills Village depot
+Main article: Port Authority 4000-series PCC
+The final four PCC streetcars were retired in 1999, all of which had operated on the 47D Drake line. They were part of a group of twelve 4000-series cars rebuilt in the 1980s by the Port Authority from the 1700-series PCCs built in 1949. The rebuild program, undertaken during the Stage I project, enabled continued service on lines that could not yet accommodate newer light rail vehicles. The cars combined new propulsion, control, and interior components with reconditioned trucks, motors, and structural elements. Alongside the 12 cars that were extensively modernized, four retained more original features. After the beginning of the Stage I LRV service, the PCCs operated mainly on the Overbrook corridor, including the 47D, 47L Library via Overbrook, and 47S South Hills Village via Overbrook routes, and were limited to low-level boarding, requiring shared stations to provide both high- and low-level platforms. Following the closure of the Overbrook line in 1993, fewer cars were needed.
+Depot
+[edit]
+The South Hills Village Rail Center, where PRT stores its rail fleet
+The South Hills Village Rail Center (SHVRC) is located adjacent to South Hills Village station, near the shopping mall of the same name, and serves as the primary storage, service, and maintenance facility for the light rail system. All revenue light rail vehicles and some maintenance-of-way equipment are stored at the facility. Constructed in the mid-1980s, the facility consists of ten 400-foot (120 m) bays used for maintenance, painting, and washing of LRVs. There are also outdoor storage tracks. It is located at the southern terminus of both the Red and Blue lines.[37][38]
+Lines
+[edit]
+Route map of the three lines on the Pittsburgh light rail system
+The "T" has three active lines along with several discontinued lines.
+Red Line
+[edit]
+Main article: Red Line (Pittsburgh)
+The Red Line, formerly 42S, runs between South Hills Village and Downtown Pittsburgh via the Beechview neighborhood. Six stops serve Upper St. Clair and Bethel Park before merging with the Blue Line at Washington Junction. The Red Line splits again before Overbrook Junction and the Red Line heads toward the suburbs of Castle Shannon, Mt. Lebanon, and Dormont. After entering Pittsburgh city limits, the route features a variety of closely spaced stops through Beechview, where bus service is limited due to the hilly terrain, despite a dense population. Fifteen stops occur between the split in the lines and their re-juncture at South Hills Junction. The route then enters the Mount Washington Transit Tunnel. The remaining stations in Downtown are at Station Square, First Avenue, Steel Plaza, and Wood Street. In March 2007, the closure of the Palm Garden Bridge for refurbishment suspended the 42S for five months; it reopened in September 2007.[39][40]
+Silver Line
+[edit]
+Main article: Silver Line (Pittsburgh)
+The Silver Line, formerly 44L, 47L, and Blue Line–Library,[41] begins near the Washington County–Allegheny County line in the Library neighborhood of South Park. Fifteen stops serve Library, Bethel Park, and South Park before the line merges with the Blue Line at Washington Junction. Some weekday and all weekend trips end at Washington Junction, where a timed transfer to the Blue Line allows continuing a trip to Overbrook and Downtown. For the trips that serve Downtown, the line splits again before Overbrook Junction station on the Red Line, as the Blue Line instead follows the Overbrook route. The line then makes eight well-spaced stops on its arc through the Overbrook, Brookline, Carrick, Beltzhoover, and Bon Air neighborhoods of southern Pittsburgh. The line merges with the Red Line at South Hills Junction before entering the Mount Washington Transit Tunnel. The remaining stations are at Station Square, First Avenue, Steel Plaza, Wood Street, Gateway, North Side, and Allegheny. To avoid confusion with "Blue Line–South Hills Village", the line was renamed to "Silver Line–Library" on March 15, 2020.[42]
+Blue Line
+[edit]
+Main article: Blue Line (Pittsburgh)
+The Blue Line service was established on May 16, 2005, as the 47S South Hills Village via Overbrook. Pittsburgh Regional Transit introduced the route in conjunction with the opening of a new parking garage at South Hills Village station, with the aim of relieving congestion on the Red Line generated by increased ridership. The service also functioned as a limited-stop option, as the Overbrook routing offers higher average speeds and fewer stops.[43] The Blue Line operates over the South Hills Village branch (shared with the Red Line) and the Overbrook route (shared with the Silver Line), continuing through the Mount Washington Transit Tunnel and the downtown subway.
+Discontinued lines
+[edit]
+47D Drake
+[edit]
+Main article: 47D Drake
+When light rail service began, PCC trolley service continued between Drake and downtown via the Overbrook line. When safety concerns prompted the closure of the Overbrook line in 1993, the Drake line was cut back to Castle Shannon, and later Washington Junction. At these stations, riders could transfer to another line or a bus to continue to downtown. In September 1999, the agency withdrew the four remaining active-service PCCs from service and closed the Drake line altogether.[44]
+47 Shannon
+[edit]
+47 Shannon was the name given to services that ran to Castle Shannon station from points south (South Hills Junction, Drake or Library) operated with PCC cars. At Castle Shannon, riders could transfer to another line or a bus to continue to downtown. The line's turnaround point, the Shannon Loop, was located just past the station at Mt. Lebanon Boulevard. This loop no longer exists.
+Brown Line
+[edit]
+Main article: Brown Line (Pittsburgh)
+The Brown Line, formerly 52, ran from South Hills Junction over Mount Washington and across the Monongahela River to downtown Pittsburgh, terminating at Wood Street. It was the only downtown route that did not stop at Station Square nor use the Mount Washington tunnel. The line supplemented the 46K bus, running four times each during the morning rush and three times during the evening rush. A throwback to the days of the streetcars, the Brown Line did not feature stations or street-level boarding stops but instead allowed for boarding and unloading at designated 46K bus stops. The steepest grade on the entire light rail system is on this line, about 10 percent.[25]
+This service was discontinued on March 27, 2011, following system-wide cuts. The line is still in existence, and is used as a bypass to the Mount Washington Tunnel when closed.
+As of February 2021, Pittsburgh Regional Transit's newly released 25-year plan includes the possibility of reviving service on the Allentown line due to continuing growth of the neighborhood.[45]
+44L and 44S
+[edit]
+The 44L Library Short and the 44S Castle Shannon-Beechview were truncated versions of the Blue Line–Library and Red Line, respectively. The 44L ran from Library to Washington Junction. The 44S ran between Overbrook Junction and Traymore. It was introduced for six months in 2007 when the closure of the Palm Garden Bridge cut off the Beechview line from Downtown. The 44S was discontinued when the Palm Garden Bridge re-opened.[40]
+Future
+[edit]
+Since November 1993 the Authority has studied the so-called "Spine Line"[46] to the Oakland neighborhood, which is the third largest center for commuters in the commonwealth and the home to Carlow University, the University of Pittsburgh, Carnegie Mellon University, the Pittsburgh Technology Center, the University of Pittsburgh Medical Center and Phipps Conservatory. Former Chief Executive of Allegheny County Dan Onorato hoped to eventually extend the light-rail system east to Oakland[47] and west to Pittsburgh International Airport.[48] In 2009, Onorato, along with Congressman Mike Doyle, requested approximately $7 million in funding from the federal government for preliminary planning of the extension.[49]
+The Pittsburgh Post-Gazette took a strong editorial stance in late 2012 for a workable extension to the northern suburbs all the way to Cranberry.[50]
+See also
+[edit]
+Railways portal
+List of Pittsburgh Light Rail stations
+Incidents on the Pittsburgh Light Rail
+References
+[edit]
+1 2 "Agency Profile". Port Authority of Allegheny County. 2013. Archived from the original on July 3, 2013. Retrieved August 11, 2013.
+↑ "Transit Ridership Report Fourth Quarter 2025" (PDF). American Public Transportation Association. February 20, 2026. Retrieved February 27, 2026.
+↑ Jane's urban transport systems 2003–2004. Webb, Mary; Pattison, Tony; Clarke, Jackie (eds.) (22nd ed.). Coulsdon, Surrey [England]: Jane's Information Group. 2003. p. 417. ISBN 0-7106-2565-0. OCLC 52982468.{{cite book}}: CS1 maint: others (link)
+1 2 Demery, Leroy W. Jr. (October 25, 2010). "U.S. Urban Rail Transit Lines Opened From 1980: Appendix". publictransit.us. Archived from the original on November 3, 2013. Retrieved November 2, 2013.
+↑ Pittsburgh And The Pittsburgh Spirit. Pittsburgh: Chamber of Commerce of Pittsburgh. 1928. p. 197. Retrieved October 18, 2009.
+↑ MRS. S. KUSSART (1925). THE EARLY HISTORY OF THE FIFTEENTH WARD OF THE CITY OF PITTSBURGH. Bellevue (Pittsburgh), Pa.: Suburban Printing Company. p. 57. Retrieved December 2, 2010.
+↑ "Historic Pittsburgh – Chronology by Year: 1902". Retrieved October 18, 2009.
+↑ Johnna A. Pro (August 30, 1999). "Pittsburgh's trolley history". Pittsburgh Post-Gazette. Archived from the original on September 29, 2007. Retrieved April 12, 2007.
+↑ Andrew D. Young, Eugene F. Provenzo (1978). The history of the St. Louis Car Company, "Quality Shops". Howell-North Books. p. 196 (photo caption). ISBN 0-8310-7114-1.
+↑ "South Hills Junction – cars that passed by – Car 100". March 7, 2008. Retrieved August 7, 2009.
+↑ Railroad Magazine. March 1954.
+↑ Andrew D. Young, Eugene F. Provenzo (1978). The history of the St. Louis Car Company, "Quality Shops". Howell-North Books. p. 196 (photo caption). ISBN 0-8310-7114-1.
+↑ "South Hills Junction – cars that passed by – Car 100". March 7, 2008. Retrieved August 7, 2009.
+↑ The Southern California Traction Review Volume 17 No. 4 – Pittsburgh Railway Co. Annual Report (1958). 1959. Retrieved November 20, 2009.
+1 2 3 Blackley, Katie (January 29, 2018). "How Pittsburgh transit evolved from horse-drawn streetcars to the modern T". 90.5 WESA. Retrieved April 23, 2026.
+1 2 "T FAQs". Port Authority of Allegheny County. Archived from the original on March 18, 2007. Retrieved April 23, 2026.
+↑ Spatter, Sam (July 10, 1969). "PAT Votes To Ask U.S. Aid For Skybus". Pittsburgh Press. Archived from the original on April 10, 2016. Retrieved December 23, 2011.
+↑ McKinney, Jerome B.; Lawrence Cabot Howard (1998). Public administration: balancing power and accountability. ABC-CLIO. ISBN 9780275955656. Archived from the original on April 10, 2016. Retrieved December 23, 2011.
+↑ Novak, Andrew (January–March 2017). "The PCCs of Pittsburgh – Part 2" (PDF). Timepoints. 131 (1–3). Electric Railway Historical Association of Southern California.
+↑ "Pittsburgh Post-Gazette – Google News Archive Search". news.google.com. Retrieved March 16, 2018.
+↑ Sellin, M. V.; Morgan, S. J. (May 1986). "Pittsburgh light rail progress". Modern Tramway. UK: Ian Allan Ltd. pp. 155–165. ISSN 0144-1655.
+1 2 "T Quick Facts". Port Authority of Allegheny County. Archived from the original on April 25, 2009. Retrieved April 22, 2026.
+↑ "Historic American Engineering Record – Pittsburgh & Castle Shannon Railroad, Reflectorville Viaduct, Overbrook Trolley Line, crossing near Edgebrook Avenue, Pittsburgh, Allegheny County, PA". Library of Congress. Retrieved March 20, 2010.
+↑ Cleary, Caitlin (September 9, 2006). "U.S. gives green light to tunnel under river". Pittsburgh Post-Gazette. Archived from the original on September 29, 2007. Retrieved April 14, 2007.
+1 2 Schmitz, Jon (November 26, 2010). "North Shore Connector said to be on schedule and under budget". Pittsburgh Post-Gazette. Archived from the original on November 29, 2010. Retrieved December 28, 2010.
+↑ Schmitz, Jon (March 12, 2012). "Trains ready to roll under the river to North Shore". Pittsburgh Post-Gazette. Archived from the original on March 13, 2012. Retrieved March 21, 2012.
+↑ "2024 Rail Investments". Pittsburgh Regional Transit. Retrieved January 23, 2025.
+↑ "May–August 2024 Track Replacement Projects". Pittsburgh Regional Transit. Retrieved January 23, 2025.
+1 2 3 "January-February, 2025". wwwe. Retrieved January 23, 2025.
+1 2 Closed from February 23 to October 2025, at which point all Blue, Red, and Silver Line trains will be redirected onto the former Brown Line, and the tracks from First Avenue to will be taken over by an expanded Subway Local.
+1 2 "February 2025-October 2025". www.rideprt.org. Retrieved January 23, 2025.
+↑ "Mt. Lebanon Tunnel Rail Replacement". Pittsburgh Regional Transit.
+↑ "Panhandle Bridge rehab". Pittsburgh Regional Transit. Retrieved January 23, 2025.
+↑ PRT Scraps Seven LRVs. Pittsburgh Regional Transit. August 6, 2025. Retrieved April 24, 2026 – via YouTube.
+↑ "Blue Line and Silver Line timetable" (PDF). Pittsburgh Regional Transit. February 22, 2026. Retrieved April 22, 2026.
+↑ Blazina, Ed (December 20, 2023). "Pittsburgh Regional Transit applies for $100 million federal grant to begin replacing light rail trains". Pittsburgh Union Progress. Retrieved June 23, 2024.
+↑ "Pittsburgh Regional Transit South Hills Village Rail Center Design". GFT. Retrieved April 24, 2026.
+↑ "South Hills Rail Center". RailWorks Corporation. Retrieved April 24, 2026.
+↑ Grata, Joe (February 26, 2007). "Bus, trolley riders warned of closing of bridge over Route 51". Pittsburgh Post-Gazette. Archived from the original on September 29, 2007. Retrieved April 11, 2007.
+1 2 Grata, Joe (August 21, 2007). "S. Hills bus, trolley disruptions ending Sept. 2". Pittsburgh Post-Gazette. Archived from the original on August 25, 2007.
+↑ "Silver Line Schedule" (PDF).
+↑ Dague, Tyler (February 18, 2020). "Port Authority to rename a light rail service to Silver Line Library". Pittsburgh Post-Gazette. Retrieved March 16, 2020.
+↑ Boren, Jeremy (May 7, 2005). "Port Authority dedicates parking garage". Pittsburgh Tribune-Review. Retrieved April 22, 2026 – via NewsBank.
+↑ "Drivers and riders say goodbye at the end of the Drake line". Associated Press. August 31, 1999.
+↑ "Port Authority unveils plan that includes light-rail, busway extensions".
+↑ "Spine Line Corridor Study" (PDF). briem.com. Retrieved March 16, 2018.
+↑ Schmitz, Jon (February 24, 2010). "Oakland transit line explored – Pittsburgh Post-Gazette". Pittsburgh Post-Gazette.
+↑ Grata, Joe (November 11, 2007). Getting Around: Transportation wish list would cost billions, The Pittsburgh Post-Gazette.
+↑ Schmitz, Jon (May 18, 2009). Congress members submit wish lists for transit, The Pittsburgh Post-Gazette.
+↑ Creagh, Kevin M.; DiMiceli, Steve (December 23, 2012). "The Next Page: Go north, light rail". The Pittsburgh Post-Gazette. Archived from the original on November 3, 2014. Retrieved August 11, 2013.
+External links
+[edit]
+KML file (edit · help)
+Template:Attached KML/Pittsburgh Light Rail
+KML is from Wikidata
+Wikimedia Commons has media related to Pittsburgh Light Rail and Trams in Pittsburgh.
+Official website
+Jon Bell's photos of Pittsburgh Light Rail vehicles and stations
+Photos of heritage and modern Pittsburgh Light Rail vehicles and stations at nycsubway.org
+Map
+Shawn Bennear's Photo History of Transit In Pittsburgh
+v
+t
+e
+Pittsburgh Regional Transit
+Light rail
+Blue
+Red
+Silver
+list of stations
+Inclines
+Duquesne
+Monongahela
+historical list
+Buses and busways
+Bus routes
+East Busway
+South Busway
+West Busway
+I-279 HOV
+Former lines
+47D Drake
+Brown Line
+PATrain
+Skybus (unimplemented)
+Equipment
+Current
+Light rail fleet
+Siemens SD-400
+CAF LRV
+Former
+PCC streetcar
+4000-series
+Infrastructure
+Mt. Lebanon Tunnel
+Mt. Washington Tunnel
+North Shore Connector
+Panhandle Bridge
+Panhandle Tunnel
+Wabash Tunnel
+v
+t
+e
+City of Pittsburgh
+Government
+Airport
+Convention Center
+City Council
+City Hall
+Courthouse
+District Attorney
+Education
+Events
+Fire
+InterGov
+Libraries
+Mayor
+Parks
+Police
+Port
+Regional
+Sheriff
+Transit
+Water
+Economy
+Allegheny Conference
+Duquesne Club
+Chamber of Commerce
+Corporations
+Economic Club
+HYP Club
+Stock Exchange
+Other topics
+Colleges and universities
+Culture
+cookie table
+theatre
+Green Man
+Pittsburgh Parking Chair
+Picklesburgh
+Pittsburgh steak
+Dialect
+Jagoff
+Yinzer
+Flag
+Fictional settings
+Filming
+films
+television
+History
+name
+timeline
+Jewish history
+2018 synagogue shooting
+Pittsburgh toilet
+Hospitals
+Media
+Museums
+Neighborhoods
+Nicknames
+Notable Pittsburghers
+Region
+combined statistical area
+Skyscrapers
+Sports
+Transportation
+Category
+v
+t
+e
+Currently operating light rail and streetcar systems in the United States
+Arizona
+Phoenix Valley Metro Rail & Streetcar
+A Line
+B Line
+S Line
+Tucson Sun Link
+Arkansas
+Little Rock Metro Streetcar
+Fort Smith Trolley
+California
+Los Angeles Metro Rail
+A, C, E, and K Lines
+Sacramento RT
+San Diego Trolley
+San Francisco Muni
+Cable cars
+F Market & Wharves
+Muni Metro
+Santa Clara VTA
+Colorado
+Denver
+RTD light rail
+Denver Trolley
+Fort Collins Municipal Railway
+Florida
+Tampa TECO Line Streetcar
+Georgia
+Atlanta Streetcar
+Illinois
+MetroLink (shared with Missouri)
+Louisiana
+New Orleans streetcars
+Maryland
+Baltimore Light RailLink
+Massachusetts
+Boston
+MBTA Green Line
+Mattapan Line
+Lowell Park Trolley
+Michigan
+Detroit QLine
+Minnesota
+Minneapolis-St. Paul Metro
+Blue Line
+Green Line
+Como-Harriet Streetcar
+Excelsior Streetcar
+Lake Superior Railroad Museum
+Missouri
+KC Streetcar
+St. Louis
+Loop Trolley
+MetroLink
+New Jersey
+Hudson–Bergen Light Rail
+Newark Light Rail
+New York
+Buffalo Metro Rail
+North Carolina
+Charlotte
+Lynx Blue Line
+CityLynx Gold Line
+Ohio
+Connector (Cincinnati)
+Cleveland
+RTA Blue, Green, and Waterfront Lines
+Oklahoma
+Oklahoma City Streetcar
+El Reno Heritage Express
+Oregon
+Portland
+MAX Light Rail
+Portland Streetcar
+Willamette Shore Trolley
+Astoria Riverfront Trolley
+Pennsylvania
+Philadelphia SEPTA Metro
+T, G, and D
+Pittsburgh Light Rail
+Tennessee
+Memphis MATA Trolley
+Texas
+Dallas DART rail
+Red Line
+Blue Line
+Green Line
+Orange Line
+Dallas Streetcar
+Dallas M-Line Trolley
+El Paso Streetcar
+Houston METRORail
+Galveston Island Trolley
+Utah
+Salt Lake City
+TRAX
+S Line
+Virginia
+Norfolk The Tide
+Washington
+Seattle
+Link light rail
+Seattle Streetcar
+Tacoma T Line
+Wisconsin
+Milwaukee The Hop
+Kenosha Transit
+Italics denote non-transit streetcar lines, operating only on limited dates and usually not year-round, for tourism or educational purposes.
+v
+t
+e
+Surviving first-generation streetcar systems in North America
+New Orleans (1835)
+Toronto (1861)
+San Francisco (cable cars) (1878)
+Boston (1889)
+Pittsburgh (1904)
+Philadelphia (1906)
+Mexico City (1910)
+Shaker Heights (1913)
+San Francisco (Muni Metro) (1917)
+Cleveland (1920)
+Milton (1929)
+Newark (1935)
+v
+t
+e
+Public transportation in Greater Pittsburgh
+Bus services
+Pittsburgh Regional Transit
+list of bus routes
+Beaver
+Butler
+Fayette
+Freedom
+IndiGO
+Mid Mon Valley
+Mountain Line
+New Castle
+Town & Country
+University of Pittsburgh
+Westmoreland
+Bus rapid transit
+MLK Jr. East Busway
+South Busway
+West Busway
+Light rail
+Blue Line
+Red Line
+Silver Line
+Inclines
+Duquesne
+Monongahela
+Amtrak
+Floridian
+Pennsylvanian
+Airports
+Pittsburgh International
+Arnold Palmer
+Allegheny
+Beaver
+Butler
+Eddie Dew
+Greene
+Greensburg Jeannette
+Herron
+Jefferson
+Jimmy Stewart
+Joe Hardy
+Lakehill
+McVille
+Monroeville
+New Castle
+Pittsburgh Northeast
+Rostraver
+Washington
+Wheeling
+Zelienople
+Stations
+Grant Street Transportation Center (bus)
+Union Station (train)
+Discontinued
+47D Drake
+Broadway Limited
+Brown Line
+Capitol Limited
+Fort Pitt
+List of streetcar routes in Pittsburgh
+Parkway Limited
+PATrain
+Skybus
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Pittsburgh_Light_Rail&oldid=1363880165"
+Categories:
+Light rail in Pennsylvania
+Electric railways in Pennsylvania
+Pittsburgh Regional Transit
+Underground rapid transit in the United States
+5 ft 2½ in gauge railways in the United States
+Streetcars in Pennsylvania
+Passenger rail transportation in Pennsylvania
+Transportation in Pittsburgh
+650 V DC railway electrification
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Use American English from April 2024
+All Wikipedia articles written in American English
+Use mdy dates from April 2026
+CS1 maint: others
+All articles with unsourced statements
+Articles with unsourced statements from November 2024
+Articles with unsourced statements from August 2013
+Articles containing potentially dated statements from 2026
+All articles containing potentially dated statements
+Pages using gadget WikiMiniAtlas
+Articles using KML from Wikidata
+Official website different in Wikidata and Wikipedia
+Pages using the Kartographer extension
+Search
+Search
+Pittsburgh Light Rail
+9 languages   Add topic

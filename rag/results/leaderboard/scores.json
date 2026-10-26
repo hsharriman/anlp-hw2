@@ -1,0 +1,7 @@
+{
+  "_note": "Scores reported by the course leaderboard (150 questions, references not released). overall = mean(F1, recall, ROUGE-L, (judge - 1) / 4 * 100). Earlier submissions only had the overall score recorded.",
+  "corpus2_hybrid-w0.5_fallback_qwen30b.json": {"overall": 51.03},
+  "corpus3_hybrid-w0.5_fallback_match-prompt_qwen30b.json": {"overall": 52.12, "F1": 50.59, "Recall": 48.03, "ROUGE-L": 43.71, "judge": 3.647},
+  "corpus3_hybrid-w0.5_fallback_match-prompt_sentence_qwen30b.json": {"overall": 62.76, "F1": 55, "Recall": 77, "ROUGE-L": 50, "judge": 3.7},
+  "corpus3_hybrid-w0.5_fallback_match-prompt_concise_qwen30b.json": {"overall": 66.13, "F1": 63.50, "Recall": 74.96, "ROUGE-L": 58.07, "judge": 3.720}
+}

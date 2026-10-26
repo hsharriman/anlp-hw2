@@ -1,0 +1,40 @@
+URL: https://www.pittsburghzoo.org/experiences/events/
+
+Events - Pittsburgh Zoo & Aquarium
+Skip to content
+What’s Happening at the Zoo
+You may also like to check out Daily Activities, Classes, or events at the International Conservation Center.
+See All Scheduled Programs
+Oct 2
+thru
+Nov 1
+Jack O'Lantern Extravaganza
+6:00 PM to 11:00 PM
+Oct 17
+select btw.
+Oct 24
+ZooBoo
+10:00 AM to 3:00 PM
+Oct 24
+World Gibbon Day
+10:30 AM to 3:00 PM
+Nov 5
+Rock 'n' Roar: Autumn Nights
+6:30 PM to 10:00 PM
+Nov 13
+Orange is for Orangutan Day
+10:30 AM to 3:00 PM
+Nov 27
+thru
+Jan 3
+Zoo Lights Drive-Thru
+5:00 PM to 10:00 PM
+Dec 5
+select btw.
+Dec 20
+Brunch with Santa
+Select Times
+Dec 27
+National Visit the Zoo Day
+10:30 AM to 3:00 PM
+{"post_type":"pza-events","posts_per_page":-1,"post_status":"publish","orderby":"date","order":"ASC"}

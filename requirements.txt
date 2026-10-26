@@ -1,0 +1,9 @@
+# RAG system (rag/). Data-collection scripts have their own: doc-collection/requirements.txt
+transformers>=4.51
+sentence-transformers>=3.0
+torch>=2.2
+faiss-cpu>=1.8
+bm25s>=0.2
+PyStemmer>=2.2
+numpy>=1.26
+mlx-lm>=0.25   # reader LLM on Apple silicon

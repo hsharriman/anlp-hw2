@@ -1,0 +1,350 @@
+URL: https://en.wikipedia.org/wiki/South_Busway
+
+South Busway - Wikipedia
+Jump to content
+Route map:
+From Wikipedia, the free encyclopedia
+Busway in Pittsburgh, Pennsylvania
+"Yellow Line (Pittsburgh)" redirects here. For the belt road designation around Pittsburgh, see Yellow Belt (Pennsylvania).
+South Busway
+Bus exiting the Mount Washington Transit Tunnel at the northern end of the South Busway
+Overview
+Locale Pittsburgh
+Termini
+Station Square
+Glenbury
+Stations 12
+Service
+Type Bus rapid transit
+System Pittsburgh Regional Transit
+History
+Opened December 1977
+Technical
+Line length 4.3 mi (6.9 km)
+Operating speed 40 mph (64 km/h) (top)[1]
+Route map
+South Busway highlighted in yellow  Show interactive map
+Legend
+to Downtown via Smithfield St Bridge
+Station Square
+■ ■ ■
+Mount Washington Transit Tunnel
+to Haberman Av
+South Hills Junction
+■ ■ ■
+to Warrington Av
+Palm Garden
+■
+PA 51
+Dawn
+■
+to Liberty Av
+to Pioneer Av
+Pioneer
+Edgebrook
+Whited
+South Bank
+■ ■
+Central
+Inglewood
+Overbrook
+Glenbury
+to Glenbury St
+All stations are accessible
+This diagram:
+view
+talk
+edit
+Show route diagram
+The South Busway is a two-lane bus rapid transit highway serving southern portions of the city of Pittsburgh. The busway runs for 4.3 miles (6.9 km) from the Mt. Washington Transit Tunnel across the Monongahela River from Downtown Pittsburgh to the Overbrook neighborhood of the city, bypassing the crowded Pennsylvania Route 51 (Saw Mill Run Boulevard). It is owned and maintained by Pittsburgh Regional Transit, the public transit provider for Allegheny County and the Pittsburgh region.
+Background
+[edit]
+In the 1960s, the Port Authority began phasing out streetcar lines and replacing them with buses. The creation of a rail rapid transit system was also discussed, and one of the target routes was a corridor bordering Route 51 through the Brookline and Overbrook neighborhoods. While light rail would be developed during the following decade, the Port Authority decided to use the corridor to allows buses to avoid the crowded, narrow, and stop light-filled Route 51. In 1977, a two-lane route was constructed in a valley close to the road. Unlike later American busways, including the city's Martin Luther King Jr. East Busway (opened in 1983) and West Busway (opened in 2000), the route was not designed as a route in itself and does not feature the amenities associated with modern BRTs, such as branded buses, special stations, or other rail-like features. Instead, standard bus shelters are included and no routes terminate at the end of the busway. The main goal of the road is to allow for suburban buses to operate more quickly and to encourage the use of public transportation by allowing riders to avoid a highly congested highway. Following the naming convention of each busway being designated by a color, bus routes that use the South Busway begin with a "Y" for yellow.
+The busway shared portions of its right of way with the city's light rail line. A section from the Glenbury to the South Bank stops was shared with the Overbrook line, and another section just after the Pioneer Avenue stop continues to share right of way from that point to South Hills Junction with the Beechview line. In 1993, the Overbrook line was suspended, and the right of way was exclusively busway. When the Overbrook line was rebuilt, it did not resume sharing the busway, rather, a new grade-separated private right of way was built parallel to the busway, with only the South Bank stop serving as the connection point between the rail line and busway.
+The Institute for Transportation and Development Policy (ITDP), under its BRT Standard, has classified the South Busway as a "Basic BRT" corridor.[2]
+Routes
+[edit]
+Nine routes travel the busway. The Yellow colored "Y" routes serve the length of the busway, entering and exiting at its southern terminus at Glenbury station. Four local routes (39 Brookline, 40 Mt Washington, 41 Bower Hill, and 44 Knoxville) branch of off the busway to serve city neighborhoods. From north to south, all routes use the Mount Washington Transit Tunnel, Routes 40 and 44 enter and exit the busway at Warrington Avenue (just before Palm Garden station), route 41 enters and exits using a spur ramp to Liberty Avenue serving Dawn station before returning to city streets, and route 39 enters and exits at a ramp to Pioneer Avenue just before the Pioneer Station.
+Route  Route Name  Destination  Service  Notes
+39   Brookline  Brookline  Daily
+40   Mt. Washington  Duquesne Heights  Daily
+41   Bower Hill  Bridgeville  Daily
+44   Knoxville  St. Clair/Baldwin  Daily
+Y1   Large Flyer  Large  Weekday peak  Follows same routing as Y46, but has stop restrictions and makes fewer stops on Route 51.
+Y45   Baldwin Manor Flyer  South Park  Weekday peak
+Y46   Elizabeth Flyer  Elizabeth  Daily  Select weekday trips serve Large Park and Ride.
+Y47   Curry Flyer  CCAC South  Mon–Sat  Weekday trips extend to CCAC South.
+Y49   Prospect Flyer  CCAC South  Daily
+Stations
+[edit]
+Station Neighborhood Routes Notes
+Station Square South Shore  39   40   41   44   Y1   Y45   Y46   Y47   Y49   Pittsburgh Light Rail: Blue Red Silver
+Monongahela Incline
+Park and ride: 160 spaces
+South Hills Junction Mount Washington  Pittsburgh Light Rail: Blue Red Silver
+Palm Garden  39   41   44   Y1   Y45   Y46   Y47   Y49   Pittsburgh Light Rail: Red
+40  stops nearby on ramp to Warrington Av
+Dawn Beechview  41   Pittsburgh Light Rail: Red
+Located on ramp to Liberty Avenue
+Pioneer Brookline  Y1   Y45   Y46   Y47   Y49   39  stops nearby on ramp to Pioneer Av
+Edgebrook
+Whited St
+South Bank  Pittsburgh Light Rail: Blue Silver
+Central
+Inglewood
+Overbrook Overbrook
+Glenbury Southern terminus of the busway.
+See also
+[edit]
+Martin Luther King Jr. East Busway
+West Busway
+Pittsburgh Light Rail
+References
+[edit]
+↑ Pittsburgh, Pennsylvania - South, East, and West Busways (PDF) (Report). Transportation Research Board. p. 8. Retrieved December 29, 2022.
+↑ "BRT Rankings". Institute for Transportation and Development Policy. 2020. Retrieved April 26, 2020.
+External links
+[edit]
+Wikimedia Commons has media related to South Busway.
+KML file (edit · help)
+Template:Attached KML/South Busway
+KML is from Wikidata
+Port Authority Customer Information – South Busway
+v
+t
+e
+Pittsburgh Regional Transit
+Light rail
+Blue
+Red
+Silver
+list of stations
+Inclines
+Duquesne
+Monongahela
+historical list
+Buses and busways
+Bus routes
+East Busway
+South Busway
+West Busway
+I-279 HOV
+Former lines
+47D Drake
+Brown Line
+PATrain
+Skybus (unimplemented)
+Equipment
+Current
+Light rail fleet
+Siemens SD-400
+CAF LRV
+Former
+PCC streetcar
+4000-series
+Infrastructure
+Mt. Lebanon Tunnel
+Mt. Washington Tunnel
+North Shore Connector
+Panhandle Bridge
+Panhandle Tunnel
+Wabash Tunnel
+v
+t
+e
+Public transportation in Greater Pittsburgh
+Bus services
+Pittsburgh Regional Transit
+list of bus routes
+Beaver
+Butler
+Fayette
+Freedom
+IndiGO
+Mid Mon Valley
+Mountain Line
+New Castle
+Town & Country
+University of Pittsburgh
+Westmoreland
+Bus rapid transit
+MLK Jr. East Busway
+South Busway
+West Busway
+Light rail
+Blue Line
+Red Line
+Silver Line
+Inclines
+Duquesne
+Monongahela
+Amtrak
+Floridian
+Pennsylvanian
+Airports
+Pittsburgh International
+Arnold Palmer
+Allegheny
+Beaver
+Butler
+Eddie Dew
+Greene
+Greensburg Jeannette
+Herron
+Jefferson
+Jimmy Stewart
+Joe Hardy
+Lakehill
+McVille
+Monroeville
+New Castle
+Pittsburgh Northeast
+Rostraver
+Washington
+Wheeling
+Zelienople
+Stations
+Grant Street Transportation Center (bus)
+Union Station (train)
+Discontinued
+47D Drake
+Broadway Limited
+Brown Line
+Capitol Limited
+Fort Pitt
+List of streetcar routes in Pittsburgh
+Parkway Limited
+PATrain
+Skybus
+v
+t
+e
+Currently operating bus rapid transit systems in the United States
+Alabama
+Birmingham Xpress
+California
+Fresno FAX Q
+Los Angeles
+G Line
+J Line
+Silver Streak
+Oakland Tempo
+San Bernardino sbX
+San Diego Rapid
+San Francisco
+Geary
+Van Ness
+San Jose VTA Rapid
+Stockton San Joaquin RTD Express
+Colorado
+Denver Flatiron Flyer
+Fort Collins MAX
+Roaring Fork Valley VelociRFTA
+Connecticut
+Hartford–New Britain CT Fastrak
+Florida
+Jacksonville First Coast Flyer
+Orlando Lynx Lymmo
+South Dade TransitWay
+St. Petersburg SunRunner
+Georgia
+Atlanta Rapid A Line
+Illinois
+Chicagoland Pace Pulse
+Indiana
+Gary Broadway Metro Express
+Indianapolis
+Red Line
+Purple Line
+Kentucky
+Louisville Rapid
+Maryland
+Silver Spring-Burtonsville Park and Ride (Flash BRT)
+Massachusetts
+Boston MBTA Silver Line
+Michigan
+Grand Rapids
+Silver Line
+Laker Line
+Minnesota
+Minneapolis-Saint Paul
+A Line
+B Line
+C Line
+D Line
+E Line
+Gold Line
+Orange Line
+Red Line
+U of M Transitway
+Missouri
+Kansas City Metro Area Express
+Nebraska
+Omaha Rapid Bus Transit
+Nevada
+Reno RTC Rapid
+Las Vegas Red Line
+New Jersey
+go bus
+Route 9 BBS
+New Mexico
+Albuquerque Rapid Transit (ART)
+New York
+Albany-Schenectady-Troy BusPlus
+New York City MTA Select Bus Service
+Rockland-Westchester HudsonLink
+Ohio
+Cleveland HealthLine
+Columbus CMAX
+Oklahoma
+Tulsa Aero
+Oklahoma City RAPID NW
+Oregon
+Eugene Emerald Express
+Portland Frequent Express
+Pennsylvania
+Pittsburgh
+MLK East Busway
+South Busway
+West Busway
+Texas
+Austin CapMetro Rapid
+El Paso Sun Metro Brio
+Houston METRORapid Silver Line
+San Antonio VIA Primo
+Utah
+Salt Lake City region
+Ogden Express
+Utah Valley Express
+Midvalley Express
+Virginia
+Arlington-Alexandria Metroway
+Richmond GRTC Pulse
+Washington
+King County RapidRide
+Snohomish County Swift
+Spokane City Line
+Vancouver The Vine
+Wisconsin
+Milwaukee CONNECT 1
+Madison Metro Rapid A Line
+Retrieved from "https://en.wikipedia.org/w/index.php?title=South_Busway&oldid=1376068801"
+Categories:
+Pittsburgh Regional Transit
+Bus rapid transit in Pennsylvania
+South Busway
+Hidden categories:
+Articles with short description
+Short description is different from Wikidata
+Use American English from April 2024
+All Wikipedia articles written in American English
+Use mdy dates from April 2024
+Pages with no gauge entered in Infobox rail line
+Commons category link from Wikidata
+Pages using gadget WikiMiniAtlas
+Articles using KML from Wikidata
+Pages using the Kartographer extension
+Search
+Search
+South Busway
+Add languages   Add topic

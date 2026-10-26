@@ -1,0 +1,13 @@
+Retrieval on the final corpus: share of the 102 short-answer public questions with a reference answer in the top k chunks.
+
+| Retriever | hit@1 | hit@3 | hit@5 | hit@10 | hit@20 | MRR@20 |
+|---|---|---|---|---|---|---|
+| sparse (BM25) | 81.4 | 90.2 | 90.2 | 93.1 | 94.1 | 0.858 |
+| dense (MiniLM) | 47.1 | 60.8 | 72.5 | 77.5 | 85.3 | 0.570 |
+| dense (BGE-base) | 71.6 | 79.4 | 86.3 | 94.1 | 95.1 | 0.776 |
+| hybrid RRF (BM25 + MiniLM) | 68.6 | 80.4 | 86.3 | 91.2 | 95.1 | 0.765 |
+| hybrid RRF (BM25 + BGE) | 80.4 | 89.2 | 93.1 | 94.1 | 94.1 | 0.856 |
+| hybrid weighted a=0.3 (BM25 + BGE) | 82.4 | 91.2 | 94.1 | 94.1 | 94.1 | 0.871 |
+| hybrid weighted a=0.5 (BM25 + BGE) | 83.3 | 91.2 | 94.1 | 94.1 | 94.1 | 0.878 |
+| hybrid weighted a=0.7 (BM25 + BGE) | 80.4 | 88.2 | 92.2 | 94.1 | 94.1 | 0.855 |
+| weighted a=0.5 + rerank top 50 | 87.3 | 91.2 | 92.2 | 95.1 | 95.1 | 0.898 |

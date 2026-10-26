@@ -1,0 +1,18 @@
+W1025 17:46:21.628000 90831 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 7907.99it/s]
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 6577.41it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6888.47it/s]
+102 short-answer questions from public_evaluation_data.json
+
+retriever                               hit@1    hit@3    hit@5    hit@10   hit@20   MRR@20
+-------------------------------------------------------------------------------------------
+sparse (BM25)                            81.4%   90.2%   90.2%   93.1%   94.1%  0.858   (0s)
+dense (MiniLM)                           47.1%   60.8%   72.5%   77.5%   85.3%  0.570   (1s)
+dense (BGE-base)                         71.6%   79.4%   86.3%   94.1%   95.1%  0.776   (1s)
+hybrid RRF (BM25 + MiniLM)               68.6%   80.4%   86.3%   91.2%   95.1%  0.765   (1s)
+hybrid RRF (BM25 + BGE)                  80.4%   89.2%   93.1%   94.1%   94.1%  0.856   (2s)
+hybrid weighted a=0.3 (BM25 + BGE)       82.4%   91.2%   94.1%   94.1%   94.1%  0.871   (1s)
+hybrid weighted a=0.5 (BM25 + BGE)       83.3%   91.2%   94.1%   94.1%   94.1%  0.878   (1s)
+hybrid weighted a=0.7 (BM25 + BGE)       80.4%   88.2%   92.2%   94.1%   94.1%  0.855   (1s)
+weighted a=0.5 + rerank top 50           87.3%   91.2%   92.2%   95.1%   95.1%  0.898   (194s)

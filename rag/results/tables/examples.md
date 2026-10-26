@@ -1,0 +1,49 @@
+Example outputs on public questions.
+
+**Q45** (schedule lookup: retrieval needed): What team will the Pittsburgh Penguins play against on November 5, 2026?  
+Reference: Boston Bruins
+- Closed-book: The Pittsburgh Penguins will play against the Boston Bruins on November 5, 2026.
+- BM25: The Pittsburgh Penguins will play against the Boston Bruins on November 5, 2026.
+- Dense: Boston Bruins
+- Hybrid (short): Boston Bruins
+- Hybrid (concise): The Pittsburgh Penguins will play against the Boston Bruins on November 5, 2026.
+
+**Q3** (art collection: exact title match (BM25 helps)): Which artist is credited for the Carnegie Museum of Art painting “Metamorphosis (Homage to Kafka)”?  
+Reference: Manuel Rivera
+- Closed-book: Salvador Dalí
+- BM25: Manuel Rivera
+- Dense: Manuel Rivera
+- Hybrid (short): Manuel Rivera
+- Hybrid (concise): Manuel Rivera
+
+**Q5** (descriptive question with a long reference): What is the significance of the NavLab project at CMU?  
+Reference: The NavLab (Navigation Laboratory) project at CMU pioneered self-driving car research in the 1980s and 1990s, leading to advancements in autonomous vehicle technology.
+- Closed-book: Pioneered autonomous vehicle technology.
+- BM25: The NavLab project at CMU was significant because it pioneered autonomous vehicle technology, laying the foundation for modern self-driving cars through research and development in navigation, perception, and control systems.
+- Dense: The NavLab project at CMU was a pioneering initiative in autonomous vehicle research, demonstrating the first fully autonomous vehicle to drive across the United States in 1995.
+- Hybrid (short): The NavLab project at CMU is significant because it was a pioneering initiative in autonomous vehicle research, developing some of the first self-driving cars, including NavLab 1 and NavLab 5, which demonstrated long-distance autonomous navigation and laid the foundation for modern autonomous driving technology.
+- Hybrid (concise): The NavLab project at CMU pioneered autonomous vehicle technology, advancing self-driving car research and development.
+
+**Q61** (answer in a schedule table): Which 2026 Pitt men's basketball opponent plays at Canastra Hammer Arena?  
+Reference: Rider
+- Closed-book: 2026 Pitt men's basketball opponent at Canastra Hammer Arena: West Virginia.
+- BM25: None.
+- Dense: None of the opponents listed played at Canastra Hammer Arena.
+- Hybrid (short): None.
+- Hybrid (concise): The 2026 Pitt men's basketball opponent that plays at Canastra Hammer Arena is the University of Memphis.
+
+**Q88** (model knowledge suffices): Which major company was founded in Pittsburgh in 1869?  
+Reference: The H.J. Heinz Company, known for its food products, was founded in Pittsburgh in 1869.
+- Closed-book: U.S. Steel
+- BM25: Heinz
+- Dense: Westinghouse Air and Brake Company
+- Hybrid (short): H. J. Heinz Company
+- Hybrid (concise): The H. J. Heinz Company was founded in Pittsburgh in 1869.
+
+**Q33** (event venue): What venue hosts the Pittsburgh Savoyards' Winter 2026 production of A Christmas Carol?  
+Reference: The Margaret Partee Performing Arts Center hosts the Pittsburgh Savoyards' Winter 2026 production of A Christmas Carol.
+- Closed-book: Carnegie Hall at Carnegie Mellon University
+- BM25: Gargaro Theater
+- Dense: Byham Theater
+- Hybrid (short): Gargaro Theater
+- Hybrid (concise): The Gargaro Theater hosts the Pittsburgh Savoyards' Winter 2026 production of A Christmas Carol.

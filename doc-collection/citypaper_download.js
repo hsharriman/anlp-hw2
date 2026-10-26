@@ -1,12 +1,12 @@
-// Download all Pittsburgh City Paper event listing pages as one HTML file for citypaper_events.py.
+// Download all Pittsburgh City Paper event listing pages as one HTML file for `python events.py citypaper`.
 //
 // community.pghcitypaper.com blocks scripts, so this runs in your own browser session:
 //   1. Open https://community.pghcitypaper.com/events?to=2026-12-31&from=2026-10-23
 //   2. Open DevTools (Cmd+Option+J), paste this whole file into the Console, press Enter.
-//   3. Move the downloaded citypaper_events.html into doc-collection/citypaper/
+//   3. Move the downloaded citypaper_events.html into doc-collection/raw_pages/citypaper/
 // Pages are fetched one at a time with a pause in between, like clicking through them.
 // If no download appears, the HTML is kept in window.citypaperHTML: run copy(window.citypaperHTML)
-// in the console, then in a terminal: pbpaste > doc-collection/citypaper/citypaper_events.html
+// in the console, then in a terminal: pbpaste > doc-collection/raw_pages/citypaper/citypaper_events.html
 (async () => {
   const FROM = "2026-10-23";
   const TO = "2026-12-31";
