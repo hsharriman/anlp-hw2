@@ -1,7 +1,9 @@
 #!/bin/bash
-# Every system variant of the report on public_evaluation_data.json (157 questions), final corpus;
-# answers go to rag/results/public/. Then: python rag/evaluate.py rag/results/public/*.json
-# (the corpus 1 and corpus 2 outputs in that folder came from earlier versions of the document collection)
+# Every system variant of the report on public_evaluation_data.json (157 questions); answers go to
+# rag/results/public/. Then: python rag/evaluate.py rag/results/public/*.json
+# The corpus3_* runs (styles and ablations) used corpus 3 (2,709 docs, before the deep crawl:
+# scrape.py deep); the corpus4_* runs use the final corpus. Corpus 1 and 2 outputs came from earlier
+# versions of the document collection.
 set -e
 cd "$(dirname "$0")/.."
 Q=public_evaluation_data.json
@@ -15,6 +17,7 @@ run() { name=$1; shift; [ -f "$OUT/$name.json" ] && { echo "skip $name"; return;
 run corpus3_rag_hybrid-w0.5_fallback_match-prompt_qwen30b          --style short
 run corpus3_rag_hybrid-w0.5_fallback_match-prompt_sentence_qwen30b --style sentence
 run corpus3_rag_hybrid-w0.5_fallback_match-prompt_concise_qwen30b  --style concise
+run corpus3_rag_hybrid-w0.5_fallback_match-prompt_adaptive_qwen30b --style adaptive
 
 # ablations: one factor at a time against the final pipeline, short answers because the public
 # references are mostly short
@@ -26,3 +29,7 @@ run corpus3_rag_hybrid-rrf_qwen30b   --retrieval hybrid --fusion rrf --style sho
 run corpus3_rag_hybrid-w0.5_rerank-m3_qwen30b --style short --reranker bge-reranker-v2-m3 --rerank 50
 run corpus3_closed-book_qwen8b       --mode closed-book --reader qwen3-8b --style short
 run corpus3_rag_hybrid-w0.5_qwen8b   --reader qwen3-8b --style short
+
+# final corpus (corpus 4: + 2-link crawl of the recommended sites)
+run corpus4_rag_hybrid-w0.5_fallback_match-prompt_qwen30b          --style short
+run corpus4_rag_hybrid-w0.5_fallback_match-prompt_concise_qwen30b  --style concise

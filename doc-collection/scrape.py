@@ -1,6 +1,7 @@
 """Generic page collection: crawling, HTML/PDF to text, and pages saved from a browser.
 
     python scrape.py seeds [category ...]    crawl the seed URLs in sources.json (1 link deep)
+    python scrape.py deep [host ...]         the DEEP_SITES, 2 links deep
     python scrape.py sitemap <sitemap index URL> <section> ...
                                              every page in a site's XML sitemaps, e.g. Visit Pittsburgh:
                                              https://www.visitpittsburgh.com/sitemaps-1-sitemap.xml
@@ -22,12 +23,13 @@ import time
 from collections import deque
 from pathlib import Path
 from urllib.parse import unquote, urldefrag, urljoin, urlparse
+from urllib.robotparser import RobotFileParser
 
 import pdfplumber
 import requests
 from bs4 import BeautifulSoup, NavigableString
 
-from common import HERE, PAGES, get, save_doc
+from common import HEADERS, HERE, PAGES, get, save_doc
 
 # login, ticket and shop pages, matched against the host and path
 # e.g. shop.steelers.com, /tickets/, /my-account
@@ -107,9 +109,10 @@ def pdf_to_text(data):
 # --- link crawling ---------------------------------------------------------------------------------
 
 def scrape(start_url, out_dir=PAGES, max_depth=1, max_pages=50, same_domain=True, delay=1.0, min_words=100,
-           sports=False):
+           sports=False, prefix=None, robots=None):
     """Breadth-first crawl from start_url, saving up to max_pages pages of at least min_words words.
-    Links are followed to max_depth levels, on the same site (PDFs anywhere)."""
+    Links are followed to max_depth levels, on the same site (PDFs anywhere); with `prefix`, only
+    under that path (e.g. /penguins/ on nhl.com). `robots`: a RobotFileParser whose rules are obeyed."""
     out_dir = Path(out_dir)
     domain = urlparse(start_url).netloc
     queue = deque([(start_url, 0)])
@@ -118,6 +121,9 @@ def scrape(start_url, out_dir=PAGES, max_depth=1, max_pages=50, same_domain=True
 
     while queue and saved < max_pages:
         url, depth = queue.popleft()
+        if robots and not robots.can_fetch(HEADERS["User-Agent"], url):
+            print(f"robots  {url}")
+            continue
         try:
             response = get(url)
         except requests.RequestException as e:
@@ -147,6 +153,8 @@ def scrape(start_url, out_dir=PAGES, max_depth=1, max_pages=50, same_domain=True
         n_words = len(text.split())
         if n_words < min_words:
             print(f"thin    {url} ({n_words} words)")  # not saved, but its links are still followed
+        elif robots and (out_dir / filename_for(url, is_pdf)).exists():
+            pass  # deep crawl: already collected, keep the earlier copy
         else:
             path = save_page(out_dir, url, text, is_pdf)
             saved += 1
@@ -160,6 +168,10 @@ def scrape(start_url, out_dir=PAGES, max_depth=1, max_pages=50, same_domain=True
                 continue
             if same_domain and urlparse(link).netloc != domain and not link.lower().endswith(".pdf"):
                 continue
+            if prefix and not urlparse(link).path.startswith(prefix):
+                continue
+            if robots and urlparse(link).query:  # deep crawl: calendar filters repeat the event pages
+                continue
             seen.add(link)
             queue.append((link, depth + 1))
 
@@ -172,6 +184,50 @@ def crawl_seeds(categories=(), out_dir=PAGES):
     for source in json.load(open(HERE / "sources.json")):
         if not categories or source["category"] in categories:
             scrape(source["url"], out_dir, max_depth=1, max_pages=50, sports=source["category"] == "sports")
+
+
+# Recommended sites the 1-link seed crawl covered thinly: their about, visit, FAQ, contact, board,
+# careers and promotions pages are 2 links from the home page, and many are short (a phone number,
+# parking or a dress code), so the deep crawl keeps pages of 30+ words. Event calendars saved from a
+# browser (pittsburgh.events, City Paper, events.cmu.edu) block scripts and are not crawled.
+# (start URL, max pages, path prefix, sports)
+DEEP_SITES = [
+    ("https://www.cmu.edu/", 300, None, False),
+    ("https://trustarts.org/", 200, None, False),
+    ("https://carnegiemuseums.org/", 150, None, False),
+    ("https://carnegiemnh.org/", 150, None, False),
+    ("https://carnegieart.org/", 150, None, False),
+    ("https://carnegiesciencecenter.org/", 150, None, False),
+    ("https://www.warhol.org/", 100, None, False),
+    ("https://www.heinzhistorycenter.org/", 200, None, False),
+    ("https://www.thefrickpittsburgh.org/", 200, None, False),
+    ("https://pittsburghopera.org/", 200, None, False),
+    ("https://www.pittsburghsymphony.org/", 200, None, False),
+    ("https://www.pittsburghpa.gov/Home", 200, None, False),
+    ("https://www.nhl.com/penguins/", 150, "/penguins/", True),
+    ("https://www.mlb.com/pirates", 150, "/pirates", True),
+    ("https://www.steelers.com/", 150, None, True),
+    ("https://littleitalydays.com/", 50, None, False),
+    ("https://www.picklesburgh.com/", 50, None, False),
+    ("https://www.pghtacofest.com/", 50, None, False),
+    ("https://pittsburghrestaurantweek.com/", 50, None, False),
+    ("https://bananasplitfest.com/", 50, None, False),
+]
+
+
+def crawl_deep(start_url, max_pages, prefix=None, sports=False, out_dir=PAGES):
+    """One DEEP_SITES entry: 2 links deep, pages of 30+ words, obeying the site's robots.txt."""
+    # fetched with our own User-Agent: RobotFileParser.read() uses urllib's, which some sites refuse
+    # with a 403, and a 401/403 makes it disallow everything
+    robots = RobotFileParser()
+    response = get(urljoin(start_url, "/robots.txt"))
+    if response.status_code in (401, 403):
+        print(f"skip    {start_url}: robots.txt refused ({response.status_code})")
+        return
+    robots.parse(response.text.splitlines() if response.status_code == 200 else [])
+    delay = max(1.0, float(robots.crawl_delay(HEADERS["User-Agent"]) or 0))
+    scrape(start_url, out_dir, max_depth=2, max_pages=max_pages, min_words=30, sports=sports,
+           prefix=prefix, robots=robots, delay=delay)
 
 
 # --- sitemaps --------------------------------------------------------------------------------------
@@ -343,6 +399,10 @@ if __name__ == "__main__":
     command, args = (sys.argv[1], sys.argv[2:]) if len(sys.argv) > 1 else ("", [])
     if command == "seeds":
         crawl_seeds(args)
+    elif command == "deep":  # python scrape.py deep [host substring ...]
+        for url, n, prefix, sports in DEEP_SITES:
+            if not args or any(a in url for a in args):
+                crawl_deep(url, n, prefix, sports)
     elif command == "sitemap":
         crawl_sitemap(args[0], args[1:])
     elif command == "wiki-lists":

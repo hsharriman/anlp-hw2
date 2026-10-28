@@ -1,0 +1,102 @@
+URL: https://www.nhl.com/penguins/fans/cookie-policy
+
+Fans | Pittsburgh Penguins | Pittsburgh Penguins
+Skip to Main Content
+Navigation Menu
+Pittsburgh Penguins Cookie Policy
+Cookie Policy
+Date of Last Revision: May 25, 2018
+This cookie policy (the "Cookie Policy") describes how https://www.nhl.com/penguins/ and other websites that link to this Cookie Policy (the "Websites") use cookies and similar technologies. Please note that the Websites are part of NHL.com, and the NHL and its partners may use cookies not described by this Cookie Policy to collect or permit others to collect information on the Websites.
+1.WHAT ARE COOKIES?
+The Websites place small data files called cookies on your device accessing the Websites to ensure that the Websites function properly, to track how you use the Websites, to improve the Websites and your user experience, and to tailor the Websites to your interests. The type of Personal Information that each specific cookie on the Websites processes is described in section 4 ("Which specific cookies does the Penguin Parties use?").
+For more information about cookies, please visit www.allaboutcookies.org.
+2.WHICH TYPES OF COOKIES DO THE PENGUINS PARTIES USE?
+The Websites use the following categories of cookies on this:
+Strictly Necessary Functionality Cookies: These cookies are essential to enable you to move around the Websites and use their features (e.g., user authentication). Because these cookies are necessary for the functioning of the website.
+Other Functionality Cookies: These cookies allow the Websites to remember the choices that you make (e.g. language or the region you are in) and provide enhanced, more personal features.
+Performance Cookies: These cookies collect information about how you use the Websites, e.g. which pages you visit most often, to improve how the Websites work.
+Targeting/Social Media/Advertising Cookies: These cookies are used to deliver advertisements considered relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaigns. They remember that you have visited the Websites and this information may be shared with other organizations, e.g. advertisers. Social media cookies help connect you to your social media networks and share content through social media.
+Please see below a more detailed list of the cookies we use on the Website.
+The Websites use cookies that expire once you close your browser (called session cookies) as well as cookies that stay on your device until you delete them or they expire (called persistent cookies).
+3.HOW CAN YOU CONTROL COOKIES?
+Strictly necessary cookies are necessary to provide the Websites to you.
+You may manually delete the cookies on your device or configure the settings of your browser to activate, disable or delete cookies. Detailed instructions are provided by your browser. If you disable or delete cookies, however, you may have to manually adjust some preferences every time you visit the Websites and some services and functionalities may not work.
+4.WHICH SPECIFIC COOKIES DO THE PENGUIN PARTIES USE?
+We use the following cookies on the Websites:
+(a)Strictly Necessary Functionality Cookies
+Company
+Purpose of cookies
+Click Dimensions (cuvid)
+ClickDimensions: Determines unique visitors to the Websites and for security.
+Click Dimensions (cusid)
+ClickDimensions: This cookie is used to establish and continue a user session with the site.
+Click Dimensions (cuvon)
+ClickDimensions: Used to signal the last time a visitor viewed a page.
+Click Dimensions (cd_optout_accountkey)
+ClickDimensions: Stores tracking opt out.
+Google Tag Manager
+Manage tracking tags on the Websites
+(b)Other Functionality Cookies
+Name of cookie
+Purpose of cookies
+Livefyre
+Support commenting on content
+(c)Performance Cookies
+Name of cookie
+Purpose of cookies
+Google Analytics
+Track website usage activity
+Crazy Egg
+Track website usage activity
+Mixpanel
+Track website usage activity
+New Relic
+Track website usage activity
+GA Audiences
+Track website usage activity
+(d)Targeting/Social Media/Advertising Cookies
+Company
+Purpose of cookies
+Quantcast
+Target, display, and track online advertising
+DoubleClick
+Target, display, and track online advertising
+Adobe Test & Target
+Target, display, and track online advertising
+Adobe Audience Manager
+Target, display, and track online advertising
+AppNexus
+Target, display, and track online advertising
+ScoreCard Research Beacons
+Target, display, and track online advertising
+Google AdWords Conversion
+Target, display, and track online advertising
+DoubleClick Floodlight
+Target, display, and track online advertising
+DoubleClick Bid Manager
+Target, display, and track online advertising
+FreeWheel
+Target, display, and track online advertising
+Twitter Advertising
+Target, display, and track online advertising
+Facebook Custom Audience
+Target, display, and track online advertising
+Google Dynamic Remarketing
+Target, display, and track online advertising
+Google Publisher Tags
+Target, display, and track online advertising
+DoubleClick Ad Exchange
+Target, display, and track online advertising
+Facebook Impressions
+Target, display, and track online advertising
+Facebook Connect
+Support social media functions
+Twitter Button
+Support social media functions
+Twitter Syndication
+Support social media functions
+5.HOW MAY THIS COOKIE POLICY BE CHANGED?
+The Penguin Parties may, in its sole discretion, change this Cookie Policy from time to time. Any and all changes to the Penguin Parties' Cookie Policy will be reflected here and the date of new versions are posted will be stated at the top of this Cookie Policy. Please revisit this Cookie Policy when you return to the Websites.
+6.HOW CAN YOU CONTACT US?
+If you have any questions regarding our Cookie Policy, please email our Data Privacy Officer at [email protected].
+Close

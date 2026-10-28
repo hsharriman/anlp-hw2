@@ -4,14 +4,14 @@ CMU 11-711 (Advanced NLP) Assignment 2. The system answers factual questions abo
 Carnegie Mellon University: it retrieves passages from a document collection we built, then a
 local open-weight LLM answers from them. The assignment handout is in [handout.md](handout.md).
 
-| Component | Choice |
-|---|---|
-| Knowledge resource | 2,909 pages from 46 sites (Wikipedia, city/CMU/visitor sites, event calendars, sports, museums), cleaned and deduplicated to 2,709 documents and 48,020 chunks |
-| Chunking | our own: token-based, at most 200 tokens with 40 tokens of overlap, paragraph-aware |
-| Sparse retrieval | BM25 ([bm25s](https://github.com/xhluca/bm25s)), English stopwords and stemming |
-| Dense retrieval | [BAAI/bge-base-en-v1.5](https://huggingface.co/BAAI/bge-base-en-v1.5) embeddings in a FAISS flat inner-product index ([all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) as the baseline) |
-| Hybrid retrieval | our own: weighted fusion of min-max-normalized scores (α = 0.5) or Reciprocal Rank Fusion, over each retriever's top 100 |
-| Reader | [Qwen3-30B-A3B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507), a mixture-of-experts model (30.5B total parameters, 3.3B active; released July 2025), 4-bit, run locally with [MLX](https://github.com/ml-explore/mlx-lm); [Qwen3-8B](https://huggingface.co/Qwen/Qwen3-8B) as a smaller comparison |
+| Component          | Choice                                                                                                                                                                                                                                                                                                                      |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Knowledge resource | 5,063 pages from 47 sites (Wikipedia, city/CMU/visitor sites, event calendars, sports, museums), cleaned and deduplicated to 4,562 documents and 60,032 chunks                                                                                                                                                              |
+| Chunking           | our own: token-based, at most 200 tokens with 40 tokens of overlap, paragraph-aware                                                                                                                                                                                                                                         |
+| Sparse retrieval   | BM25 ([bm25s](https://github.com/xhluca/bm25s)), English stopwords and stemming                                                                                                                                                                                                                                             |
+| Dense retrieval    | [BAAI/bge-base-en-v1.5](https://huggingface.co/BAAI/bge-base-en-v1.5) embeddings in a FAISS flat inner-product index ([all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) as the baseline)                                                                                                    |
+| Hybrid retrieval   | our own: weighted fusion of min-max-normalized scores (α = 0.5) or Reciprocal Rank Fusion, over each retriever's top 100                                                                                                                                                                                                    |
+| Reader             | [Qwen3-30B-A3B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507), a mixture-of-experts model (30.5B total parameters, 3.3B active; released July 2025), 4-bit, run locally with [MLX](https://github.com/ml-explore/mlx-lm); [Qwen3-8B](https://huggingface.co/Qwen/Qwen3-8B) as a smaller comparison |
 
 No RAG framework (LangChain, LlamaIndex, ...) is used; chunking, retrieval, fusion and prompting
 are implemented in `rag/`.
@@ -38,9 +38,9 @@ rag/
   evaluate.py            exact match, F1, answer recall, ROUGE-L against reference answers
   eval_retrieval.py      retrieval-only evaluation (is a reference answer in the top k?)
   report_tables.py       the tables in the report, from the files in rag/results/
-  pseudocode.md          what each function does and why
   experiments.sh         every system variant on the public evaluation set
   results/               system outputs (public/ and leaderboard/)
+system_outputs/          answers on the unseen test set (make_outputs.sh writes system_output_{1,2,3}.json)
 handout.md               the assignment
 ```
 
@@ -64,15 +64,16 @@ Models download from Hugging Face on first use. If `~/.cache/huggingface` is not
 The collected pages are in the repository (`doc-collection/data/pages/`), so this step is only
 needed to refresh them. Run the scripts from `doc-collection/`:
 
-| Command | What it collects |
-|---|---|
-| `python scrape.py seeds [category ...]` | each seed in `sources.json` and the pages it links to on the same site; `scrape()` was also called directly for deeper crawls (Symphony, Opera: 2 levels, 150 pages) and for smaller sites (choirs, zoo, Vintage Grand Prix, Mr. Smalls) |
-| `python scrape.py sitemap https://www.visitpittsburgh.com/sitemaps-1-sitemap.xml event partnerDirectory pages landingPages blogDirectory` | every Visit Pittsburgh page listed in its XML sitemaps (events, directory of restaurants/venues/organizations, blog) |
-| `python scrape.py wiki-lists` | Wikipedia articles linked from Pittsburgh list pages (museums, bridges, landmarks, sports, colleges) |
-| `python scrape.py social` | each organization's social media accounts (sites link them only in page footers, which the text conversion drops) |
-| `python events.py [cmu downtown improv mrsmalls]` | event calendars from their JSON feeds or markup, one paragraph or line per event with full dates |
-| `python sports.py [schedules rosters college]` | Steelers, Pirates and Penguins schedules, rosters and coaches (MLB and NHL JSON APIs, steelers.com); Pitt, Robert Morris, Duquesne and Chatham schedules for every sport |
-| `python cmoa_collection.py` | Carnegie Museum of Art paintings (about 1,500), from the collection site's search API |
+| Command                                                                                                                                   | What it collects                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `python scrape.py seeds [category ...]`                                                                                                   | each seed in `sources.json` and the pages it links to on the same site; `scrape()` was also called directly for deeper crawls (Symphony, Opera: 2 levels, 150 pages) and for smaller sites (choirs, zoo, Vintage Grand Prix, Mr. Smalls) |
+| `python scrape.py deep [host ...]`                                                                                                        | 2-link crawl of 20 recommended sites (`DEEP_SITES`), keeping pages of 30+ words (about, visit, FAQ, board, careers, promotions pages); obeys robots.txt and its crawl delay                                                              |
+| `python scrape.py sitemap https://www.visitpittsburgh.com/sitemaps-1-sitemap.xml event partnerDirectory pages landingPages blogDirectory` | every Visit Pittsburgh page listed in its XML sitemaps (events, directory of restaurants/venues/organizations, blog)                                                                                                                     |
+| `python scrape.py wiki-lists`                                                                                                             | Wikipedia articles linked from Pittsburgh list pages (museums, bridges, landmarks, sports, colleges)                                                                                                                                     |
+| `python scrape.py social`                                                                                                                 | each organization's social media accounts (sites link them only in page footers, which the text conversion drops)                                                                                                                        |
+| `python events.py [cmu downtown improv mrsmalls]`                                                                                         | event calendars from their JSON feeds or markup, one paragraph or line per event with full dates                                                                                                                                         |
+| `python sports.py [schedules rosters college]`                                                                                            | Steelers, Pirates and Penguins schedules, rosters and coaches (MLB and NHL JSON APIs, steelers.com); Pitt, Robert Morris, Duquesne and Chatham schedules for every sport                                                                 |
+| `python cmoa_collection.py`                                                                                                               | Carnegie Museum of Art paintings (about 1,500), from the collection site's search API                                                                                                                                                    |
 
 Some sites block scripts, so their pages were saved by hand from a browser into `raw_pages/` and
 converted:
@@ -104,15 +105,14 @@ and `rag/data/chunks.jsonl`.
 python rag/index.py            # BM25 + both dense indexes; --models bge-base to build only one
 ```
 
-About 11 minutes on the M2 Pro, mostly embedding 48k chunks with BGE.
+About 11 minutes on the M2 Pro, mostly embedding 60k chunks with BGE.
 
 ## 4. Answering questions
 
 ```bash
-# test set -> the three submission files (only the best-scoring one is graded)
-python rag/run.py --questions test_questions.json --out system_outputs/system_output_1.json --style concise
-python rag/run.py --questions test_questions.json --out system_outputs/system_output_2.json --style sentence
-python rag/run.py --questions test_questions.json --out system_outputs/system_output_3.json --style short
+# test set -> system_outputs/system_output_{1,2,3}.json: concise, sentence, short
+# styles (only the best-scoring file is graded)
+system_outputs/make_outputs.sh test_questions.json
 
 # leaderboard format (adds "andrewid")
 python rag/run.py --questions leaderboard_queries.json --out rag/results/leaderboard/out.json --andrewid ANDREWID
@@ -122,16 +122,16 @@ python rag/run.py --questions leaderboard_queries.json --out rag/results/leaderb
 a .txt file with one question per line. Defaults are the final system: hybrid weighted fusion
 (α = 0.5) of BM25 and BGE, 5 passages, Qwen3-30B-A3B, concise answers. Other options:
 
-| Option | Values |
-|---|---|
-| `--mode` | `rag` or `closed-book` (no retrieval) |
-| `--retrieval`, `--fusion`, `--alpha` | `sparse` / `dense` / `hybrid`; `weighted` / `rrf`; weight of the dense score |
-| `--dense-model` | `bge-base` or `minilm` |
-| `--k` | passages given to the reader (default 5) |
-| `--reranker`, `--rerank` | e.g. `bge-reranker-v2-m3` to rescore the top 50 with a cross-encoder (off by default) |
-| `--reader` | `qwen3-30b-a3b` or `qwen3-8b` |
-| `--style` | `concise` (one sentence of at most 15 words), `sentence`, `short` (only the answer phrase), `adaptive`, `concise-strict` |
-| `--no-fallback` | keep refusals instead of retrying with 10 passages and then without retrieval |
+| Option                               | Values                                                                                                                   |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| `--mode`                             | `rag` or `closed-book` (no retrieval)                                                                                    |
+| `--retrieval`, `--fusion`, `--alpha` | `sparse` / `dense` / `hybrid`; `weighted` / `rrf`; weight of the dense score                                             |
+| `--dense-model`                      | `bge-base` or `minilm`                                                                                                   |
+| `--k`                                | passages given to the reader (default 5)                                                                                 |
+| `--reranker`, `--rerank`             | e.g. `bge-reranker-v2-m3` to rescore the top 50 with a cross-encoder (off by default)                                    |
+| `--reader`                           | `qwen3-30b-a3b` or `qwen3-8b`                                                                                            |
+| `--style`                            | `concise` (one sentence of at most 15 words), `sentence`, `short` (only the answer phrase), `adaptive`, `concise-strict` |
+| `--no-fallback`                      | keep refusals instead of retrying with 10 passages and then without retrieval                                            |
 
 Retrieval for all questions runs first and its models are freed before the reader loads, so
 both fit in memory. Each run also writes `<out>.details.jsonl` with the retrieved passages per
@@ -143,7 +143,7 @@ question. About 5 seconds per question.
 python rag/evaluate.py rag/results/public/*.json      # EM, F1, recall, ROUGE-L vs public_evaluation_data.json
 python rag/eval_retrieval.py                          # hit@k and MRR of each retriever
 ./rag/experiments.sh                                  # all variants (skips ones already run)
-python rag/report_tables.py                           # report tables -> rag/results/tables/
+python rag/report_tables.py                           # report tables (LaTeX) -> rag/results/tables/
 ```
 
 ## Models and data policy

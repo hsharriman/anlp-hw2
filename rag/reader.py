@@ -123,11 +123,14 @@ class Reader:
                         sampler=self.sampler, verbose=False)
         return clean(text)
 
-
 REFUSAL = re.compile(r"not (available|specified|listed|mentioned|provided|included|found)|"
                      r"do(es)? not (contain|provide|mention|specify|include|list|have)|"
                      r"(don't|do not) have (any )?(information|details|data)|no information|passage|"
-                     r"^no \w+( \w+)? (is |are )?(listed|scheduled|found|available)", re.I)
+                     r"^no \w+( \w+)? (is |are )?(listed|scheduled|found|available)|"
+                     # "not publicly available", "does not publicly disclose", "has no listed concert",
+                     # "based on the provided information"
+                     r"not publicly|does not (publicly )?disclose|\bno (listed|scheduled|known|specific) \w+|"
+                     r"based on (the )?(provided )?(information|details)( provided| given| available)?", re.I)
 
 
 def is_refusal(answer):

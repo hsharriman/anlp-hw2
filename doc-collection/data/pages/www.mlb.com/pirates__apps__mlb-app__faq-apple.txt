@@ -1,0 +1,243 @@
+URL: https://www.mlb.com/pirates/apps/mlb-app/faq-apple
+
+MLB App Frequently Asked Questions for Apple Devices | Pittsburgh Pirates
+Log in
+MLB Frequently Asked Questions
+MLB
+Apple Devices
+Android Devices
+MLB for Apple Devices
+The MLB app gives you access to live game broadcasts, scores and schedules, breaking news, and more. The #1 source for live baseball on your iOS device, the MLB app is the official app of Major League Baseball.
+Table of Contents
+Supported Devices
+Getting Started
+Subscription Management
+Navigation and Usage
+Troubleshooting
+Contact Us
+Supported Devices
+Supported Apple devices must be running a 16.0 or greater operating system.
+How to Check the Operating System
+To find your device's software version on an iPhone, iPad, or iPod Touch, go to Settings > General > About
+More information about your iOS operating system is available on the Apple website.
+Back to Top
+Getting Started
+Choosing a Level of Access
+The MLB app is a free download from the Apple App Store, and offers both free and optional paid subscription features. Free access to the MLB app includes breaking news, scores, and much more.
+At Bat and MLB.TV subscribers can download the MLB app at no additional cost and can access At Bat or MLB.TV subscription features through the MLB app. See the "At Bat or MLB.TV Login Information" section below for login and redemption information.
+MLB.TV subscribers that own MLB.TV through their Extra Innings package can download the MLB app at no additional cost, and can access MLB.TV subscription features through the MLB app. Please visit the "I own MLB.TV through my Pay TV Provider" section below for instructions on redeeming MLB.TV through Extra Innings.
+Subscribe to At Bat or MLB.TV
+At Bat and MLB.TV subscriptions can be purchased from Apple iTunes at a monthly or seasonal rate. Please see the "Subscription Information and Management" section for additional information about Apple iTunes in-app purchases.
+At Bat or MLB.TV Subscriber Login
+Subscribers who already own At Bat or MLB.TV, or have connected an in-app iTunes purchase of At Bat or MLB.TV to their MLB account, can access subscription features by entering their MLB email and password in the MLB app. If they've already logged-in to their MLB account using either the MLB app, Ballpark app, or Safari on their iPhone (regardless of if the apps are currently installed), their credentials will automatically appear, and they can simply tap on "Continue with MLB" to login. If you haven't logged into your MLB account using the MLB app, Ballpark app, or Safari on your iPhone before, please follow these steps:
+Open the MLB app
+Tap on the "Browse" icon in the top right of your home tab
+Scroll down until you see "Account Settings" and tap on it
+Tap on "Log In," and enter your MLB email and password
+How to Restore an iTunes Purchase
+Verify that the the 16.1.1 version or later of the MLB app is installed. You can check this by tapping "About the MLB App" in Account Settings icon in the top left corner.
+Tap on the Browse menu, accessed in the upper right of the Home tab.
+Tap on "Restore Account" under the Help Section.
+Restore your purchase using the "Restore" button on the bottom of the paywall.
+NOTE: A restore can only be completed on devices which share the same Apple ID as the initial purchase. Prior to attempting to restore an Apple iTunes purchase, navigate to the Account Settings accessed in the top left of your home tab and ensure that you are logged out.
+iOS customers must stream from the MLB.TV app and not via the device browser.
+I own MLB.TV through my Pay TV Provider
+If you purchased MLB.TV through your pay TV provider, please follow the steps below to activate MLB.TV access through the MLB app:
+Tap here to select your pay TV provider
+Select your provider
+Login using your provider credentials. If you're unsure of this information, please contact your provider.
+Link your provider credentials with a new or existing MLB account
+After linking your credentials, open the MLB app and tap on the "Subscriber Login" option when prompted with the initial paywall
+Login using your MLB account
+Back to Top
+Subscription Management
+Apple App Store In-App Purchase and Cancellation Information
+If you've purchased a subscription to At Bat or MLB.TV directly through in-app purchase from the Apple App Store (not directly from the MLB website), please review the information below..
+Purchasing an Apple App Store Subscription
+In-app purchases are purchased from and billed by the Apple App Store, not MLB. These purchases are subject to the terms and conditions of the Apple App Store. All billing and refund inquiries must be directed to the Apple App Store. MLB does not have access to Apple App Store accounts or transactions. If you wish to confirm the type of subscription that has been purchased from the Apple App Store, please consult your Apple App Store account or receipt, as each subscription will have a unique billing name.
+An At Bat or MLB.TV annual purchase is valid for one year and will be re-billed every year by the Apple App Store until canceled by the user. The Apple App Store will send an email well in advance of renewal containing a hyperlink to manage the subscription. The Apple App Store subscriptions can be managed from a mobile device or computer that uses the same Apple ID as the initial purchase. MLB cannot manage Apple App Store subscriptions. Apple App Store cancellation steps are listed below for your convenience.
+The MLB.TV All Access Monthly purchase is valid for 30 days and will be re-billed every 30 days, year-round by the Apple App Store until canceled by the user. The Apple App Store will send a monthly email well in advance of renewal containing a hyperlink to manage the subscription. The Apple App Store subscriptions can be managed from a mobile device or computer that uses the same Apple ID as the initial purchase. MLB cannot manage Apple App Store subscriptions. Apple App Store cancellation steps are listed below for your convenience.
+Accessing your Apple App Store In-App Purchase on other Supported Devices
+A major benefit of connecting your Apple App Store purchase to an MLB account is being able to access the purchase across your compatible Apple and Android devices. You will also have access to At Bat on the web. Connecting a purchase to an MLB account also allows Customer Service to better assist you with inquiries and troubleshooting. You will have an opportunity to connect your purchase to an MLB account after making the purchase, or it can be completed at a later time. You can only connect an Apple App Store purchase to one MLB account. If you connect the purchase to a second MLB account, the first account will lose all entitlements.
+Open the MLB app
+Tap on the "Browse" icon in the top right of your home tab
+Scroll down until you see "Account Settings" and tap on it
+Tap on "Connect Purchase to MLB" and log in with your registered MLB account email and password or register for a new account
+Restoring a previous Apple App Store purchase
+Subscribers who have made an in-app purchase through the Apple App Store on a mobile device will use the Restore button on the paywall, for example, when re-installing the application on an existing Apple or new Apple device. A restore can only be completed on devices which share the same Apple ID as the initial purchase. Prior to attempting to restore an Apple App Store purchase, please go to the MLB app > Account section, and ensure that you are logged out.
+Canceling an Apple App Store Monthly Subscription
+On your iPhone, iPad, or iPod Touch:
+Open the Settings app
+Tap your name, then tap Subscriptions*
+Tap the subscription that you want to manage. Don't see the subscription that you're looking for?
+Choose a different subscription option, or tap Cancel Subscription. If you don’t see Cancel Subscription, the subscription is already canceled and won't renew.
+*If you don't see "Subscriptions" in the Settings app, tap "App Store" instead. Tap your Apple ID (which is usually your email address), then tap on "View Apple ID." Sign in, scroll down to Subscriptions, then tap on "Subscriptions."
+Back to Top
+Navigation and Usage
+Watching MLB.TV, At Bat, and MLB Network
+Live or archived MLB.TV games
+To access MLB.TV live or on-demand content, tap on the "Watch" tab from the bottom navigation bar. Select the "Games" sub-tab to see a listing of available MLB.TV games. You can scroll to previous dates using the left and right arrows. Tap on a game to select from the game feeds available.
+At Bat
+At Bat is available for live and on-demand games, and allows you to listen to home and away radio broadcasts without blackouts. Audio archives are not available on mobile devices, but can be accessed with your subscription on the web. Live At Bat can be accessed by navigating to the "Watch" or "Scores" tab, then tapping on "Audio" icon in the upper right hand corner. At Bat does not broadcast pre-game or post-game content. You may experience silence during these periods, as well as during rain delays or commercials. If you're experiencing difficulty with live At Bat, please visit the "Troubleshooting" section to view steps you can take to resolve the issue.
+MLB Play
+MLB Play is available in the main MLB app and MLB.com! This includes popular daily baseball trivia, puzzle games, and games with cash prizes. More information on MLB Play »
+Gameday 3D
+Gameday 3D Live is available for all games for MLB At Bat Audio and MLB.TV subscribers on our web and mobile app platforms. Any fan with a MLB account can access Gameday 3D Live for all MLB.TV Free Games of the Day, and 3D Replay is available for many highlights within Gameday's Detailed At Bat view.
+MiLB.TV
+Watch more than 7,000 streamed games for affiliates of all 30 clubs with the free MiLB MiLB app using your At Bat subscription.
+Please tap here to download MiLB App.
+Watch on iPad®, iPhone®, or iPod touch® (iOS 16.0 or higher.)
+MLB Network
+Subscribers of participating Pay TV providers offering the MLB Network will have the ability to watch MLB Network content through the MLB app after successfully authenticating with their Pay TV username and password. MLB Network content can be accessed by tapping on the "Watch" tab from the bottom navigation bar, then tapping on "MLB Network." If you're experiencing an issue with your Pay TV username and password, you're not authorized to view the content, or your Pay TV provider is not listed or does not offer the MLB Network, please contact your Pay TV provider directly.
+MLB Network Frequently Asked Questions »
+MLB.TV Free Game of the Day
+The MLB.TV Free Game of the Day is subject to blackout restrictions. To access the Free Game of the Day, tap on the "Watch" tab on the bottom navigation bar, select "Games," then tap on the labeled game. Next, you must register your email with MLB. To register for a free account, follow the instructions below:
+In the MLB app, tap on the "Login" button in the top left of your home tab
+Login with your registered MLB account, or create a new account
+Viewing with Chromecast
+The MLB app supports the ability to cast highlights and other video on-demand content, as well as archived MLB.TV content to a Chromecast device.
+Cast Requirements
+Your mobile and Chromecast devices MUST be connected to the same Wifi network to utilize this feature.
+Please ensure that you have the latest version of the MLB app and iOS operating system, as well as the latest Chromecast firmware, to utilize this feature. If you're experiencing difficulty with Chromecast setup, please visit https://support.google.com/chromecast, or contact Google directly. While the MLB app will update automatically for most devices, you may need to manually apply the updates from the device App Store. If your Chromecast has not updated to the latest firmware, please leave your Chromecast powered on overnight. The firmware build will be pushed and the device will reboot itself when it has the new firmware.
+Casting from the MLB app to a Chromecast device can be controlled by tapping on the Chromecast icon within the MLB app on the top left of the app, or while viewing a feed.
+Apple Watch Support
+With your Apple Watch and supported Apple mobile device, you will have access to breaking news, notifications, player cards, and Gameday Pitch-by-Pitch. Favorite teams and push notifications are configured through the MLB app on your Apple mobile device. You can configure which notifications are pushed to the Apple Watch from the Apple Watch app on your mobile device.
+Push notifications will be displayed upon receipt. Lowering the wrist or tapping the "Dismiss" button will dismiss a notification. If a favorite team has been configured, the glance will display game information for the team. If a favorite team has not been configured, the glance will display information about the first game from the scoreboard.
+Upon initial launch of the Watch app, if you've selected a favorite team, you will be presented with that team's view. Long pressing on that view will allow you to view the complete scoreboard or view other team views. Tapping on a scoreboard entry will display the game view along with news and access to player cards. If a favorite team has not been selected, you will be presented with the scoreboard view on initial launch where you can access the game view or team views.
+Settings
+MLB app "Settings" can be accessed by tapping on the "Browse" icon in the top right of your home tab. Scroll down until you see the "Account Settings" row towards the bottom of the list.
+MLB Account
+The MLB Account setting allows a user to log in with their registered MLB email and password. At Bat and MLB.TV subscribers who have connected a purchase to their MLB account will use this option to view live and on-demand games.
+Push Notifications
+The MLB app can deliver push notifications to your device during the season, if enabled. See the "Subscribing to Push Notifications" section for additional information on subscribing and managing your push notifications.
+Connect Purchase to MLB
+A major benefit of connecting your Apple App Store purchase to an MLB account is being able to access the purchase across your compatible devices. You will have an opportunity to connect your purchase to an MLB account after making the purchase, or it can be completed at a later time. You can only connect an Apple App Store purchase to one MLB account. If you connect the purchase to a second MLB account, the first account will lose all entitlements.
+Tap on "Connect Purchase to MLB" and log in with your registered MLB account email and password or register for a new account.
+Screen Auto-Lock
+Setting it to "Off" will prevent the screen from going dark while the application is open; this is useful when using Gameday or watching video.
+Hide Scores
+Slide the toggle to "On" or "Off" to enable or disable the hide scores functionality
+Default View
+Set the tab that the app will open up to if you'd like it to be something else other than Home.
+Viewing Team Information
+In order to view a specific team's news, highlights, schedule, ticketing, standings, and roster, you will want to access their Team Page. You can also configure a "Favorite Team," which will create an additional tab for quick access to this information.
+Viewing Non-Favorite Team Information
+Tap on the "Browse" icon from the top navigation
+Tap on "Teams"
+Tap on a team
+Setting a "Favorite Team"
+Tap on the "Browse" icon in the upper right of your home tab
+Scroll down until you see "Account Settings" and tap on it
+Tap on "My Teams and Players"
+Tap on the "Favorite Team" row to launch the favorite team picker
+Select your favorite team
+Managing a "Favorite Team"
+Tap on the "Browse" icon in the upper right of your home tab
+Scroll down until you see "Account Settings" and tap on it
+Tap on "My Teams and Players"
+Tap on "Edit" in the upper right
+Select your favorite team
+Changing Your App Icon
+The MLB app has the ability to create one or more "Favorite Team" shortcuts on the home screen of your Apple device. These shortcuts will open the MLB app directly to the Favorite Team tab that you want to view.
+Tap on the "Browse" icon in the upper right of your home tab
+Scroll down until you see "Account Settings" and tap on it
+Select the row that says "Set Home Screen Icon"
+Tap on your preferred team icon
+To revert, tap on "Reset to MLB"
+Subscribing to Push Notifications
+During initial launch, if a Favorite Team is selected, you will be prompted to choose which notifications you would like to enable.
+MLB app users can choose from MLB News, Team News notifications, Team Game notifications (Game Start, Game End, Lead Change), Player Notifications (On Deck, Key Highlights, and Player Story Recap) and Exclusive Offers
+Ensure notifications are enabled at the operating system level (Required)
+From the device home screen, tap on "Settings."
+Tap on "Notification Center."
+Scroll down and tap on MLB app.
+Configure notifications to your preference.
+Set the alert style to "Banners" or "Alerts."
+Banners will appear across the top of your device screen and quickly disappear; alerts will overlay the screen and require an acknowledgement.
+Enabling "Sounds" will play a sound when a notification is received
+"Show in Notification Center" will display notifications when viewing your notification center by swiping down from the top of your screen; you can also configure how many notifications you would like to see.
+"Show on Lock Screen" will allow you to view notifications from the device lock screen and notification center.
+Configuring Push Notifications in the MLB App
+Navigate to the "Account Settings" page, then Notifications
+Ensure Notifications toggle is set to "On."
+Subscribing or Unsubscribing from a Team Calendar
+The MLB app allows you to overlay a team's complete schedule onto your native Apple calendar application.
+Subscribing with No "Favorite Team(s)" Defined
+From within the MLB app, tap on the "Browse" icon
+Tap on "Teams" from the list
+Tap on the team you're wishing to subscribe to
+Tap on "Schedule"
+Tap on the "Subscribe" icon in the upper right of the screen
+When the process has completed, you may "View Events" to open the calendar or tap "Done" to return to the MLB app
+Subscribing with "Favorite Team(s)" Defined
+Tap on "Favorite Team" tab
+Tap on a team
+Tap on "Download"
+To view TV providers in your area, enter your Zip Code, or simply skip this step
+Select your calendar (Google or Apple)
+Unsubscribing
+From the Apple device home screen, tap on the "Settings" icon
+Scroll down to "Mail, Contacts, Calendars" and tap
+Tap on "Subscribed Calendars"
+Tap on the calendar you would like to unsubscribe from
+Tap on "Delete Account," and tap a second time to confirm
+Back to Top
+Troubleshooting
+General Troubleshooting
+**ENSURE THAT YOU HAVE THE LATEST DEVICE OPERATING SYSTEM AND MLB APP VERSION PRIOR TO TROUBLESHOOTING**
+If you're experiencing difficulty with the MLB app, please follow the steps below.
+Navigate to your Apple device home screen
+Double tap on the home button to open the application tray
+Swipe up on all of the open applications to close them out
+Tap the home button or on the screen to close the application tray
+Press and hold the power button at the top of the device and the physical home button simultaneously. Continue holding these buttons until the screen goes black and then an Apple logo appears.
+The device may take a few minutes to return to the Apple device home screen
+Once the device returns to the home screen, please try launching the application again
+If you still experience issues after following the above steps, please switch your connectivity from cellular to Wifi or Wifi to cellular. While Wifi connections are typically an improvement over cellular, that is not always the case. Please understand that "bar" indicators on devices indicate the strength of a signal, but not network congestion or integrity, which can impact application performance. For personal Wifi connections, we recommend restarting your internet modem and router, even if other devices are working properly.
+At Bat Troubleshooting
+In addition to the troubleshooting information below, please review the "General Troubleshooting" section, as it may contain steps to correct the behavior that you're experiencing.
+While an At Bat stream may say "playing" prior to the start of a game, you will only hear silence. At Bat does not broadcast pre-game or post-game shows, and may not broadcast during rain delays or commercials.
+If you're receiving "Authentication Failed" or "Authorizing" errors when attempting to play live MLB, please navigate to the MLB app > Account Settings, then tap on "Log Out." Re-enter your registered MLB email and password. You may receive this message if you recently reset your MLB password, but did not update the stored login information, or if you don't have an active subscription.
+If you're receiving "Connection" errors and have purchased At Bat or MLB.TV from Apple iTunes, please attempt to initially connect or re-connect your purchase to a new or existing MLB account. Navigate to the MLB app Browse > Account, tap on "MLB Account," then tap on "Log Out." Re-enter your MLB account email and password (or create a new account), then connect your purchase by tapping on "Connect purchase to MLB."
+MLB.TV/MLB Network Troubleshooting
+In addition to the troubleshooting information below, please review the "General Troubleshooting" section, as it may contain steps to correct the behavior you're experiencing.
+MLB.TV/MLB Network live and archived content is subject to blackout restrictions and relies on location data provided by the MLB app for verification.
+The following factors may affect successful blackout verification:
+Location services are not enabled on the device
+GPS satellites are not visible due to being indoors/away from windows
+A cellular data or Wifi hotspot, satellite, hotel, or corporate/VPN internet connection is being used.
+You're attempting to access while traveling in motion (plane, train, or car).
+Please follow the steps below to ensure your location settings are enabled on the device:
+From the Apple device home screen, tap "Settings"
+Tap "Privacy"
+Tap "Location Services"
+Ensure location services are "On" at the device level
+Scroll down to the application and ensure location services are enabled for the application
+Return to the main menu and choose "General"
+Tap "Reset" from the list
+Tap "Reset Location & Privacy" and confirm
+Navigate to your Apple device home screen, and try launching the application again
+If you're accessing the game from a cellular connection or mobile hotspot, attempting to access from a Wifi connection as cellular connections can often route your data well outside the current viewing location. You may also attempt to enable airplane mode for a minute, disable airplane mode, and the device may connect to a different tower with different routing.
+As an MLB.TV subscriber, how do I redeem paid subscription features on a mobile device?
+MLB.TV subscribers can download the MLB app from Apple iTunes and tap on the "Subscriber Login" button to enter your MLB account registered email and password.
+How do I enable or disable Closed Captioning in the MLB app?
+When viewing MLB.TV content, you can tap the "CC" button on the video player to enable or disable closed captioning. Please note that the device "Closed Captioning" settings may override the application. If you're unable to disable closed captioning in the MLB app, please navigate to your device Settings > General > Accessibility > Subtitles & Captioning section, and ensure "Closed Captions + SDH" is disabled. If this setting is already "disabled" and closed captioning still can't be controlled in the app, you may need to toggle the setting "On/Off" to reset it within the operating system.
+I forgot my password. What should I do?
+From the MLB Account screen, tap "Forgot Password." Enter your MLB account email and we will send a new password to that address.
+How do I log out of the MLB app?
+From the MLB Account screen, tap "Log Out."
+Back to Top
+Contact Us
+MLB Customer Service
+If you have any questions or require troubleshooting assistance, please visit mlb.com/support.
+Live game support is available until the conclusion of the last game each day.
+Ticketing Support
+If you experience any difficulty with or have questions about ticketing purchases, please contact the Club Box Office for immediate support. More Info »
+Accessibility
+We're available to respond to your closed captioning questions and needs.
+For immediate closed captioning issues:
+Phone: 866-239-1284
+Fax: 212-652-1760
+Email: csresponse@mlb.com
+If you need further assistance, please email publicrelations@mlb.com.
+Back to Top

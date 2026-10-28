@@ -1,0 +1,61 @@
+URL: https://www.mlb.com/pirates/ballpark/information/go-ahead-pay
+
+Pirates Wallet | Pittsburgh Pirates
+Log in
+Pirates Wallet
+A new way to pay for your favorite ballpark treat!
+Pirates Wallet provides a seamless way for fans to manage their ticket entitlements and concession credit in one centralized wallet experience. Pirates Wallet is available to fans using the MLB Ballpark app at PNC Park concession and retail locations, some restrictions may apply based on the credit or discount. Please see Terms of Use and Privacy Policy for more information.
+The MLB Ballpark App is available for download on both iOS and Android
+How to use Pirates Wallet
+Step 1
+Open or download the MLB Ballpark app
+Step 2
+Select the Pirates Wallet card on the Home Tab or the Pirates Wallet tile on the Team Tab
+Step 3
+If you do not have a card saved on file, add a credit or debit card to save your payment method
+Step 4
+If you have a card saved on file from a previous ticket purchase, your card will be saved in your wallet and is ready to use!
+Step 5
+Select “Scan & Pay” to present or scan a unique QR code that includes your payment card and any applicable loaded value or discounts for concession and merchandise purchases at the ballpark
+Step 6
+To use an applicable discount by itself, select the benefit card to present or scan only that QR code
+Frequently Asked Questions
+What is Pirates Wallet and how does it work?
+Pirates Wallet is a centralized payment system integrated into the MLB Ballpark app that allows fans to quickly and easily pay for tickets, concessions and merchandise at the ballpark. Fans only need to store their credit card information once, and they can use it for all in-venue purchases without having to re-enter payment details, while also being able to access any value, discounts, or other Club provided benefits. This simplifies the in-venue purchasing process by providing a single payment method for food and merchandise while streamlining transactions, reducing friction, and allowing fans to focus more on enjoying the game rather than worrying about utilizing multiple payment methods for one transaction.
+What are the main features and benefits of using Pirates Wallet?
+Pirates Wallet centralizes your wallet, making your ballpark experience smoother and more enjoyable.
+One-Time Setup: Add your payment card once, and never have to enter it again.
+All-In-One Wallet: Use online or in-app for ticket purchases, or at the ballpark for concessions and merchandise.
+Seamless Integration: Pay with Pirates Wallet across multiple platforms (in-app, in-person, various locations at the ballpark).
+Access and Combine Additional Benefits: Access Club provided entitlements such as loaded ticket value or season ticket holder discounts while combining with your payment card on file for one combined scan & pay.
+How do I add a new payment card into my Pirates Wallet?
+Fans can add new cards into their wallet two ways: by adding a new card through the MLB Ballpark app, or saving a card on file when purchasing tickets to a game. Adding a card through the MLB Ballpark app will also add the card on the fan’s MyTickets account and vice versa.
+To add a new card through the MLB Ballpark app, access the Pirates Wallet wallet from the Home Tab. If you do not have a card saved on file, follow the instructions to add a card. After adding a card on file, fans also have the option to save multiple cards to their wallet by selecting the "Add" button. When you save a card on file during a ticket purchase, the card will also now be available in the MLB Ballpark app the next time a fan visits the ballpark.
+How do I remove a payment card from my Pirates Wallet?
+Fans can remove a card in the MLB Ballpark app by tapping on the card and selecting “Remove this Card” in the wallet.
+Fans can also remove a card by logging into their account on pirates.com/mytickets, selecting My Account and the Payment Info option to manage cards on file. Removing a card from the MLB Ballpark app will also remove the card on the fan’s MyTickets account and vice versa.
+How does "Scan & Pay" work? Will any of my discounts, entitlements, or loaded values be applied?
+"Scan & Pay" will apply all of your wallet benefits into one easy QR code to scan at time of payment. The transaction will be processed in the following order:
+Apply discounts (if applicable)
+Apply loaded value (if applicable)
+Apply stored value (if applicable)
+Charge remaining balance to card on file (last used payment card)
+If I have multiple loaded value amounts, can I choose which one I want to use during a purchase?
+Yes, fans can choose to scan the loaded value cards individually or edit which loaded value amounts on the "Scan & Pay" view by selecting the "Edit" button on the consolidated QR code screen.
+If I have multiple payment cards in my wallet, can I choose which one I want to use during a purchase?
+Yes, fans can choose to scan the payment cards individually or edit which payment card on the "Scan & Pay" view by selecting the "Edit" button on the consolidated QR code screen.
+Can I use Pirates Wallet at all concession stands and team stores?
+Yes, Pirates Wallet is accepted at all concession stands and team stores at the ballpark.
+Is Pirates Wallet secure and how does it protect my payment information?
+Yes, Pirates Wallet is designed with security in mind. Payment information is securely tokenized and stored, ensuring that sensitive data is protected.
+Inside PNC Park
+Ballpark Information
+Gameday Guide
+PNC Park Tours
+Concerts & Events
+Plan Your Special Event
+Pirates Clubhouse Store
+Features, Facts & Firsts
+Concourse Map
+Let's Go Bucs, Let's Go Green.
+Experience History at PNC Park

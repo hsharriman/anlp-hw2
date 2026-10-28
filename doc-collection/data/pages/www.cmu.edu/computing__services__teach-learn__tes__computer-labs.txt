@@ -1,0 +1,71 @@
+URL: https://www.cmu.edu/computing/services/teach-learn/tes/computer-labs/
+
+Computer Labs - Computing Services - Office of the CIO - Carnegie Mellon University
+Carnegie Mellon University ———     Search   Search  Search this site only
+Computing Services
+Office of the CIO
+Office of the CIO › Computing Services ›  Services  ›  Teaching and Learning  ›  Technology-Enhanced Spaces  › Computer Labs
+Computer Labs
+Public computer labs are available across campus to support teaching and learning activities. They offer Windows, Mac, and/or Linux computers, depending on the space. Labs may include projection capabilities for resident and instructor devices and student workstations with "bring your own device" connections. Printers, scanners, and a library of software titles are also available. External hard drives or jump drives are compatible.
+Standard technology in all computer labs includes:
+single display for projection
+instructor computer with touch panel
+input connections for laptop/mobile devices
+Note: Computer Labs should be used for coursework, not as high-performance computing devices. Students should check with their departments to see if they have High Performance Computing (HPC) machines or utilize Research Computing resources. These devices may be rebooted daily or weekly. Excessive use of CPU time on the shared resources may violate the Computing Policy.
+Hours & Availability
+All computer labs are available for drop-in use 24/7 without appointment unless reserved. Check Today's Schedule for details.
+Most computer labs are available to schedule for classes or service projects (with the exception of the labs in Morewood and Residence on Fifth). Review reservation information for details.
+Eligibility
+To Use - All students, faculty, and staff.
+To Reserve - Faculty and staff can reserve an academic or professional development class with priority considerations. Students can reserve for community service projects with limitations.
+Request
+Reserve through 25Live (exceptions noted in lab Locations)
+Additional lab software (faculty)
+Borrow equipment available in CFA
+Additional lab equipment (Indicate the course and professor's name, device type, and date needed.)
+Locations
+Buildings & GuidesMap
+Get Help
+Monday - Thursday, 8:30 a.m. - 10 p.m.
+Friday, 8:30 a.m. - 6 p.m.
+Saturday, noon - 8 p.m. (Cyert & CFA)
+Computer Lab Operators may be available to provide in-person assistance at the following locations.
+Baker 140C
+CFA 322
+Cyert 100B
+Wean 5206
+Frequently Asked Questions
+How do I access software?
+After you log in to a lab computer, click App Access How To on the desktop to learn how to access software requiring additional setup, including Adobe products, COMSOL, SPSS, Minitab, SolidWorks, Visual Studio Code, and other software packages.
+Software that does not require setup can be opened from the apps menu.
+How do I save files in a computer lab?
+You have three options for saving your work in the Computer Lab or Virtual Andrew: cloud storage, MyFiles, and sandbox. Before you log off, we recommend that you save your files to Google Drive or CMU Box.
+How do I log off a lab computer?
+Remember to log off or sign out of your account when you finish using a computer in the lab.
+Windows
+Click Start.
+Click on your user account picture or name (lower-left corner).
+Select Sign out.
+Mac
+Click the Apple icon (top left corner).
+Select Log Out.
+A message may appear asking you to confirm the log out. If so, click Log Off.
+Is there usage guidelines for the computer labs?
+Yes, there are usage guidelines that should be adhered to in tandem with Carnegie Mellon Computing Policy. Those who fail to abide by these guidelines may be asked to leave the computer lab, and Campus Police may be notified.
+About
+Computing Services InfoCenter
+Spotlight Awards and Recognition
+News
+Service Status
+Log In to Services
+Computing Services Help Center
+412-268-4357 (HELP)
+Submit Support Request
+Computing Services
+Office of the CIO
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Legal Info
+www.cmu.edu
+© 2026 Carnegie Mellon University

@@ -1,0 +1,43 @@
+URL: https://www.cmu.edu/visit/visitor-information/wall-of-student-projects
+
+Wall of Student Projects | CMU Visit
+Skip to main content
+Visit CMU
+What can we help you find?
+Popular Searches
+About Pittsburgh
+Visitor Information
+Wall of Student Projects
+The Pathfinder
+Created by: Ashveen Banga, Mikayla Alsopp, Jasmine Su
+Description: The Pathfinder is part of a service design that we created during the course Designing w/CARE: Co-Creating Solutions for Complex Care Coordination in Oncology (51-436/51-636). Within the course, we were tasked with re-imagining the Chemo Binder, a resource that gynecologic cancer patients at UPMC are given post-diagnosis that is intended to help them navigate the physical, emotional, and mental aspects of gynecological cancer. However, many patients find the resource dense and overwhelming, especially given that the patient demographic is older and has lower levels of health literacy.
+Ciphering Materiality - 3:5 Brick
+Created by: Andrew Chan, Sonny Tang, Misri Patel (Advisor)
+Description: Based on the principles of architecture formation, we developed a way to computationally design a brick that wouldn't require plaster and use natural resources from Nashik, India. The final designed brick meticulously leverages the capability of the mortice/tendon language found commonly in Japanese architecture that has had profound examples in history. To then become a staple that builds off of itself. The result leads to a brick that could provide a unique facade with thermal benefits from its rough texture and its composition.
+HCII 30 Year Anniversary Celebration Project
+Created by: Airla Fan, Jennie Wei, Evelyn Lui, Samanvita Singhania & Dan Saffer (Advisor)
+Description: To celebrate HCII's 30th year anniversary and clearly articulate the contributions researchers within HCII have made to the academic community and beyond.
+Waveform Paper Radio
+Created by: Aimee Li, Mark Baskinger (Advisor)
+Description: Academic work created because I wanted to achieve movement that only paper can. When the radio is turned on by moving the slider, the paper strips lift and create waves. Moving the slider further increases volume, which also increases the waves. This mimics amplitude of a radio wave. The other slider tunes to different stations, and the waves fluctuate to indicate frequency change. In short, each station creates a unique paper wave pattern.
+Orli
+Created by: Sojung Pak, Joan Lee, Juhi Kedia, Dina El-Zanfaly (Advisor)
+Description: Orli is an interactive desk lamp that reflects AI's behavior in response to our digital habits. Orli makes the invisible nature of AI visible, communicates through behavior, intentionally irks the user, and provides self-determined limits for AI usage. In our project, we utilized an interactive desk lamp as a medium to explore and make visible the pervasive influence of artificial intelligence (AI) on our digital habits. The lamp, an everyday object, dynamically responds to digital interactions, symbolizing AI's ubiquity and making its usually invisible activities tangible. By using motion and light to reflect AI's actions and states, we aimed to visualize AI's integration into daily routines and provoke reflection on its implications.
+Bridging Generational Gap Through Architecture: Tree House
+Created by: Ethan Jeon, Tommy Yang, Chelsea Jno Baptiste (Professor), Trevor Orgill (Teaching fellow)
+Description: Bridging Generational Gap through architecture: Tree House Communication serves as the cornerstone in bridging generational disparities, and this architecture masterpiece, tailored for a three-generation family, embodies this ethos through its innovative design. Seamlessly intertwining spaces both physically and sensorially, the building draws inspiration from the organic form of a tree, with each room representing distinct yet interconnected branches and leaves. At the heart of this familial sanctuary lies a central atrium, akin to the sturdy stem of a tree, which anchors the design and serves as a focal point for the family's interactions. Through its thoughtful layout and sensory engagement, the design encourages spontaneous connections and shared experiences, fostering a profound sense of unity among its diverse inhabitants. In essence, this architectural marvel stands as a testament to the transformative power of design in nurturing familial bonds across generations.
+Cookie Monster Cooking
+Created by: Ethan Huang, Dina El-Zanfaly
+Description: Currently, websites employ digital cookies to collect user data for individualized user experiences when browsing. However, by clicking Accept All Cookies, users give the website full control over data such as their search history, location, and more. In this project, I look at how I can use AI to redesign invasive data collection methods such as web cookies—to recommend a tasty cookie recipe at the end of the week.
+Leather and Brass Computer Mouse
+Created by: Felix Cooper, Mark Baskinger (Advisor) and Josiah Stadelmeier (Advisor)
+Description: This is for a class in the design school called Experimental Forms. I created this mouse as an exploration of materials and repeatable manufacturing of products, this is mouse 1/3. I wanted to create an object that felt anachronistic to our lives.
+Stolas Magnifying Glass
+Created by: Sapna Tayal, Mark Baskinger (Advisor)
+Description: A magnifying glass is an object many come across at certain points during childhood, but aren't typically kept around or taken care of for long. I wanted to look into behaviors magnifying glasses inherently encourage, and consider the connection one makes with their tool.
+Evaluating in Vivo Mouse Tissue in Growth Into Silk Fibroin Scaffolds
+Created by: Nate Roblin
+Description: Microporous 3D biomaterials provide an environment for tissue regeneration by mimicking material properties of the naturally occurring extracellular matrix. Mouse tissue ingrowth into subcutaneously implanted silk fibroin scaffolds can be visualized using a combination of fluorescent microscopy techniques.
+F-Shaped Inclusion in Cast Al Alloy
+Created by: Ella Angwin
+Description: This image is a 'f' shaped impurity in a sample of sand cast A356 aluminum alloy.

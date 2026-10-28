@@ -1,0 +1,1322 @@
+URL: https://assets.culturaldistrict.org/culturaldistrict/system/assets/20260501/2023-2024-form-990-t_pdc-11bacfdc.pdf
+
+** PUBLIC DISCLOSURE COPY **
+990-T Exempt Organization Business Income Tax Return OMB No. 1545-0047
+Form
+(and proxy tax under section 6033(e))
+2023
+For calendar year 2023 or other tax year beginning SEP 1, 2023 , and ending AUG 31, 2024 .
+Go to www.irs.gov/Form990T for instructions and the latest information.
+Department of the Treasury Open to Public Inspection for
+Internal Revenue Service Do not enter SSN numbers on this form as it may be made public if your organization is a 501(c)(3). 501(c)(3) Organizations Only
+A Check box if Name of organization ( Check box if name changed and see instructions.) D Employer identification number
+address changed.
+B Exempt under section Print PITTSBURGH SYMPHONY INC. 25-0986052
+X 501(c )( 3 ) or Number, street, and room or suite no. If a P.O. box, see instructions. E Group exemption number
+Type (see instructions)
+408(e) 220(e) 600 PENN AVENUE
+408A 530(a) City or town, state or province, country, and ZIP or foreign postal code
+529(a) 529A PITTSBURGH, PA 15222-3209 F Check box if
+C Book value of all assets at end of year 187,593,015. an amended return.
+G Check organization type X 501(c) corporation 501(c) trust 401(a) trust Other trust State college/university
+6417(d)(1)(A) Applicable entity
+H Check if filing only to claim Credit from Form 8941 Refund shown on Form 2439 Elective payment amount from Form 3800
+I Check if a 501(c)(3) organization filing a consolidated return with a 501(c)(2) titleholding corporation 
+J Enter the number of attached Schedules A (Form 990-T)  2
+K During the tax year, was the corporation a subsidiary in an affiliated group or a parent-subsidiary controlled group? Yes X No
+If "Yes," enter the name and identifying number of the parent corporation
+L The books are in care of BRIDGET MEACHAM KOWALSKI Telephone number (412)392-4809
+Part I Total Unrelated Business Taxable Income
+1 Total of unrelated business taxable income computed from all unrelated trades or businesses (see instructions) ~ 1 6,721.
+2 Reserved ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2
+3 Add lines 1 and 2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3 6,721.
+4 Charitable contributions (see instructions for limitation rules) ~~S~T~M~T~ ~1~~~~~S~T~M~T~ ~2~~~~~~~~~ 4 0.
+5 Total unrelated business taxable income before net operating losses. Subtract line 4 from line 3 ~~~~~~~~~ 5 6,721.
+6 Deduction for net operating loss. See instructions ~~~~~~~~~~~~~~~~~S~T~A~T~E~M~E~N~T~ ~3~~~~ 6 6,721.
+7 Total of unrelated business taxable income before specific deduction and section 199A deduction.
+Subtract line 6 from line 5 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 7
+8 Specific deduction (generally $1,000, but see instructions for exceptions) ~~~~~~~~~~~~~~~~~~~~ 8 1,000.
+9 Trusts. Section 199A deduction. See instructions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 9
+10 Total deductions. Add lines 8 and 9~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10 1,000.
+11 Unrelated business taxable income. Subtract line 10 from line 7. If line 10 is greater than line 7, enter zero  11 0.
+Part II Tax Computation
+1 Organizations taxable as corporations. Multiply Part I, line 11 by 21% (0.21) ~~~~~~~~~~~~~~~~~ 1 0.
+2 Trusts taxable at trust rates. See instructions for tax computation. Income tax on the amount on
+Part I, line 11, from: Tax rate schedule or Schedule D (Form 1041) ~~~~~~~~~~~~~~~ 2
+3 Proxy tax. See instructions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3
+4 Other tax amounts. See instructions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4
+5 Alternative minimum tax ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 5
+6 Tax on noncompliant facility income. See instructions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6
+7 Total. Add lines 3 through 6 to line 1 or 2, whichever applies  7 0.
+Part III Tax and Payments
+1a Foreign tax credit (corporations attach Form 1118; trusts attach Form 1116) ~~~~ 1a
+b Other credits (see instructions) ~~~~~~~~~~~~~~~~~~~~~~~~~~ 1b
+c General business credit. Attach Form 3800 (see instructions) ~~~~~~~~~~~~ 1c
+d Credit for prior-year minimum tax (attach Form 8801 or 8827) ~~~~~~~~~~~~ 1d
+e Total credits. Add lines 1a through 1d ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1e
+2 Subtract line 1e from Part II, line 7  2 0.
+3a Amount due from Form 4255 ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3a
+b Amount due from Form 8611 ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3b
+c Amount due from Form 8697 ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3c
+d Amount due from Form 8866 ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3d
+e Other amounts due (see instructions) ~~~~~~~~~~~~~~~~~~~~~~~ 3e
+f Total amounts due. Add lines 3a through 3e ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3f 0.
+4 Total tax. Add lines 2 and 3f (see instructions). Check if includes tax previously deferred under
+section 1294. Enter tax amount here ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4 0.
+5 Current net 965 tax liability paid from Form 965-A, Part II, column (k)  5 0.
+LHA For Paperwork Reduction Act Notice, see instructions. 323701 11-20-23 Form 990-T (2023)
+63
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+Form 990-T (2023) Page2
+Part III Tax and Payments
+(continued)
+6a Payments: Preceding year's overpayment credited to the current year  6a
+b Current year's estimated tax payments. Check if section 643(g) election
+applies ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6b
+c Tax deposited with Form 8868 ~~~~~~~~~~~~~~~~~~~~~~~~~~ 6c
+d Foreign organizations: Tax paid or withheld at source (see instructions) ~~~~~~ 6d
+e Backup withholding (see instructions) ~~~~~~~~~~~~~~~~~~~~~~~ 6e
+f Credit for small employer health insurance premiums (attach Form 8941) ~~~~~ 6f
+g Elective payment election amount from Form 3800 ~~~~~~~~~~~~~~~~ 6g
+h Payment from Form 2439~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6h
+i Credit from Form 4136 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6i
+j Other (see instructions) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6j
+7 Total payments. Add lines 6a through 6j  7
+8 Estimated tax penalty (see instructions). Check if Form 2220 is attached ~~~~~~~~~~~~~~~~~ 8
+9 Tax due. If line 7 is smaller than the total of lines 4, 5, and 8, enter amount owed ~~~~~~~~~~~~~~~ 9
+10 Overpayment. If line 7 is larger than the total of lines 4, 5, and 8, enter amount overpaid ~~~~~~~~~~~~ 10
+11 Enter the amount of line 10 you want: Credited to 2024 estimated tax Refunded 11
+Part IV Statements Regarding Certain Activities and Other Information (see instructions)
+1 At any time during the 2023 calendar year, did the organization have an interest in or a signature or other authority Yes No
+over a financial account (bank, securities, or other) in a foreign country? If "Yes," the organization may have to file
+FinCEN Form 114, Report of Foreign Bank and Financial Accounts. If "Yes," enter the name of the foreign country
+here X
+2 During the tax year, did the organization receive a distribution from, or was it the grantor of, or transferor to, a
+foreign trust?~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ X
+If "Yes," see instructions for other forms the organization may have to file.
+3 Enter the amount of tax-exempt interest received or accrued during the tax year ~~~~~~~~~~~ $
+4 Enter available pre-2018 NOL carryovers here $ 1,340,691. Do not include any post-2017 NOL carryover
+shown on Schedule A (Form 990-T). Don't reduce the NOL carryover shown here by any deduction reported on Part I, line 6.
+5 Post-2017 NOL carryovers. Enter the Business Activity Code and available post-2017 NOL carryovers. Don't reduce
+the amounts shown below by any NOL claimed on any Schedule A, Part II, line 17 for the tax year. See instructions.
+Business Activity Code Available post-2017 NOL carryover
+$
+$
+$
+$
+6a Reserved for future use ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+b Reserved for future use 
+Part V Supplemental Information
+Provide any additional information. See instructions.
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is true,
+Sign correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Here May the IRS discuss this return with
+SENIOR VP & CFO
+the preparer shown below (see
+Signature of officer Date Title instructions)? X Yes No
+Print/Type preparer's name Preparer's signature Date Check if PTIN
+Paid self-employed
+SARAH R. PIOT SARAH R. PIOT P01358891
+Preparer
+Use Only Firm's name SCHNEIDER DOWNS & CO., INC. Firm's EIN 25-1408703
+ONE PPG PLACE, SUITE 1700
+Firm's address PITTSBURGH, PA 15222 Phone no. 412-261-3644
+Form 990-T (2023)
+323711 11-20-23
+64
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+PITTSBURGH SYMPHONY INC. 25-0986052
+}}}}}}}}}}}}}}}}}}}}}}}} }}}}}}}}}}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FORM 990-T CONTRIBUTIONS STATEMENT 1
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+DESCRIPTION/KIND OF PROPERTY METHOD USED TO DETERMINE FMV AMOUNT
+}}}}}}}}}}}}}}}}}}}}}}}}}}}} }}}}}}}}}}}}}}}}}}}}}}}}}}}} }}}}}}}}}}}}}}
+CHARITABLE CONTRIBUTIONS FROM N/A
+K-1S 18.
+}}}}}}}}}}}}}}
+TOTAL TO FORM 990-T, PART I, LINE 4 18.
+~~~~~~~~~~~~~~
+65 STATEMENT(S) 1
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+PITTSBURGH SYMPHONY INC. 25-0986052
+}}}}}}}}}}}}}}}}}}}}}}}} }}}}}}}}}}
+FORM 990-T CONTRIBUTIONS SUMMARY STATEMENT 2
+QUALIFIED CONTRIBUTIONS SUBJECT TO 100% LIMIT
+QUALIFIED CONTRIBUTIONS SUBJECT TO 25% LIMIT
+CARRYOVER OF PRIOR YEARS UNUSED CONTRIBUTIONS
+FOR TAX YEAR 2018
+FOR TAX YEAR 2019
+FOR TAX YEAR 2020
+FOR TAX YEAR 2021
+FOR TAX YEAR 2022
+TOTAL CARRYOVER
+TOTAL CURRENT YEAR 10% CONTRIBUTIONS 18
+TOTAL CONTRIBUTIONS AVAILABLE 18
+TAXABLE INCOME LIMITATION AS ADJUSTED 0
+EXCESS CONTRIBUTIONS 18
+EXCESS 100% CONTRIBUTIONS 0
+TOTAL EXCESS CONTRIBUTIONS 18
+ALLOWABLE CONTRIBUTIONS DEDUCTION 0
+TOTAL CONTRIBUTION DEDUCTION 0
+66 STATEMENT(S) 2
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+PITTSBURGH SYMPHONY INC. 25-0986052
+}}}}}}}}}}}}}}}}}}}}}}}} }}}}}}}}}}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FORM 990-T PRE 2018 NOL SCHEDULE STATEMENT 3
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+PRE-2018 NOL CARRY FORWARD FROM PRIOR YEAR 1,340,691.
+PRE-2018 NOL DEDUCTION INCLUDED IN PART I, LINE 6 6,721.
+SCHEDULE A PORTION OF PRE-2018 NOL
+SCHEDULE A ENTITY SCHEDULE A SHARE
+}}}}}}}}}}}}}}}}} }}}}}}}}}}}}}}}}
+50 0.
+51 0.
+TOTAL SCHEDULE A SHARE OF PRE-2018 NOL 0.
+NET OPERATING DEDUCTION 6,721.
+BALANCE AFTER PRE-2018 NOL DEDUCTION 0.
+EXPIRING NET OPERATING LOSSES 0.
+CARRY FORWARD OF NET OPERATING LOSS 1,333,970.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FORM 990-T PRE-2018 NET OPERATING LOSS DEDUCTION STATEMENT 4
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+LOSS
+PREVIOUSLY LOSS AVAILABLE
+TAX YEAR LOSS SUSTAINED APPLIED REMAINING THIS YEAR
+}}}}}}}} }}}}}}}}}}}}}} }}}}}}}}}}}}}} }}}}}}}}}}}}}} }}}}}}}}}}}}}}
+08/31/04 208,688. 208,688. 0. 0.
+08/31/05 18,008. 18,008. 0. 0.
+08/31/07 120,642. 120,642. 0. 0.
+08/31/08 81,446. 81,446. 0. 0.
+08/31/09 408,549. 408,549. 0. 0.
+08/31/10 643,600. 103,296. 540,304. 540,304.
+08/31/11 390,288. 0. 390,288. 390,288.
+08/31/12 208,615. 0. 208,615. 208,615.
+08/31/13 162,213. 0. 162,213. 162,213.
+08/31/16 39,271. 0. 39,271. 39,271.
+}}}}}}}}}}}}}} }}}}}}}}}}}}}}
+NOL CARRYOVER AVAILABLE THIS YEAR 1,340,691. 1,340,691.
+~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~
+67 STATEMENT(S) 3, 4
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+1
+SCHEDULE A
+Unrelated Business Taxable Income OMB No. 1545-0047
+(Form 990-T)
+From an Unrelated Trade or Business
+2023
+Go to www.irs.gov/Form990T for instructions and the latest information.
+D In e te p r a n r a tm l R e e n v t e o n f u t e h e S T e r r e v a ic s e ury Do not enter SSN numbers on this form as it may be made public if your organization is a 501(c)(3). O 5 p 0 e 1 n (c t )( o 3 ) P O ub rg li a c n I i n z s a p ti e o c n t s io O n n f l o y r
+A Name of the organization B Employer identification number
+PITTSBURGH SYMPHONY INC. 25-0986052
+C Unrelated business activity code (see instructions) 540000 D Sequence: 1 of 2
+E Describe the unrelated trade or business PROGRAM ADVERTISING
+Part I Unrelated Trade or Business Income (A) Income (B) Expenses (C) Net
+1a Gross receipts or sales 80,734.
+b Less returns and allowances c Balance 1c 80,734.
+2 Cost of goods sold (Part III, line 8) ~~~~~~~~~~~~~~ 2
+3 Gross profit. Subtract line 2 from line 1c~~~~~~~~~~~~ 3 80,734. 80,734.
+4a Capital gain net income (attach Schedule D (Form 1041 or Form
+1120)). See instructions ~~~~~~~~~~~~~~~~~~~ 4a
+b Net gain (loss) (Form 4797) (attach Form 4797). See instructions) 4b
+c Capital loss deduction for trusts ~~~~~~~~~~~~~~~ 4c
+5 Income (loss) from a partnership or an S corporation (attach
+statement) ~~~~~~~~~~~~~~~~~~~~~~~~~~ 5
+6 Rent income (Part IV) ~~~~~~~~~~~~~~~~~~~~~ 6
+7 Unrelated debt-financed income (Part V)~~~~~~~~~~~~ 7
+8 Interest, annuities, royalties, and rents from a controlled
+organization (Part VI) ~~~~~~~~~~~~~~~~~~~~~ 8
+9 Investment income of section 501(c)(7), (9), or (17)
+organizations (Part VII) ~~~~~~~~~~~~~~~~~~~~ 9
+10 Exploited exempt activity income (Part VIII) ~~~~~~~~~~ 10
+11 Advertising income (Part IX)~~~~~~~~~~~~~~~~~~ 11
+12 Other income (see instructions; attach statement) ~~~~~~~ 12
+13 Total. Combine lines 3 through 12  13 80,734. 80,734.
+Part II Deductions Not Taken Elsewhere. See instructions for limitations on deductions. Deductions must be
+directly connected with the unrelated business income
+1 Compensation of officers, directors, and trustees (Part X) ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1
+2 Salaries and wages ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2
+3 Repairs and maintenance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3
+4 Bad debts ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4
+5 Interest (attach statement). See instructions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 5
+6 Taxes and licenses ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6
+7 Depreciation (attach Form 4562). See instructions ~~~~~~~~~~~~~~~ 7
+8 Less depreciation claimed in Part III and elsewhere on return ~~~~~~~~~~ 8a 8b
+9 Depletion~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 9
+10 Contributions to deferred compensation plans ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10
+11 Employee benefit programs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11
+12 Excess exempt expenses (Part VIII) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12
+13 Excess readership costs (Part IX) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13
+14 Other deductions (attach statement) ~~~~~~~~~~~~~~~~~~~~~~S~E~E~ ~S~T~A~T~E~M~E~N~T~ ~5~ 14 74,013.
+15 Total deductions. Add lines 1 through 14 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15 74,013.
+16 Unrelated business income before net operating loss deduction. Subtract line 15 from Part I, line 13,
+column (C) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16 6,721.
+17 Deduction for net operating loss. See instructions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17 0.
+18 Unrelated business taxable income. Subtract line 17 from line 16  18 6,721.
+For Paperwork Reduction Act Notice, see instructions. Schedule A (Form 990-T) 2023
+LHA 323741 01-19-24
+68
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+1
+Schedule A (Form 990-T) 2023 Page 2
+Part III Cost of Goods Sold Enter method of inventory valuation
+1 Inventory at beginning of year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1
+2 Purchases ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2
+3 Cost of labor ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3
+4 Additional section 263A costs (attach statement) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4
+5 Other costs (attach statement) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 5
+6 Total. Add lines 1 through 5 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6
+7 Inventory at end of year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 7
+8 Cost of goods sold. Subtract line 7 from line 6. Enter here and in Part I, line 2 ~~~~~~~~~~~~~~~ 8
+9 Do the rules of section 263A (with respect to property produced or acquired for resale) apply to the organization?  Yes No
+Part IV Rent Income (From Real Property and Personal Property Leased With Real Property)
+1 Description of property (property street address, city, state, ZIP code). Check if a dual-use. See instructions.
+A
+B
+C
+D
+A B C D
+2 Rent received or accrued
+a From personal property (if the percentage of
+rent for personal property is more than 10%
+but not more than 50%)~~~~~~~~~~~~~~
+b From real and personal property (if the
+percentage of rent for personal property exceeds
+50% or if the rent is based on profit or income) ~~
+c Total rents received or accrued by property.
+Add lines 2a and 2b, columns A through D ~~~~
+3 Total rents received or accrued. Add line 2c, columns A through D. Enter here and on Part I, line 6, column (A) 0.
+Deductions directly connected with the income
+4 in lines 2a and 2b (attach statement) ~~~~~~~
+5 Total deductions. Add line 4, columns A through D. Enter here and on Part I, line 6, column (B) 0.
+Part V Unrelated Debt-Financed Income (see instructions)
+1 Description of debt-financed property (street address, city, state, ZIP code). Check if a dual-use. See instructions.
+A
+B
+C
+D
+A B C D
+2 Gross income from or allocable to debt-financed
+property ~~~~~~~~~~~~~~~~~~~~~
+3 Deductions directly connected with or allocable
+to debt-financed property
+a Straight line depreciation (attach statement) ~~~
+b Other deductions (attach statement) ~~~~~~~
+c Total deductions (add lines 3a and 3b,
+columns A through D)~~~~~~~~~~~~~~~
+4 Amount of average acquisition debt on or allocable
+to debt-financed property (attach statement) ~~~
+5 Average adjusted basis of or allocable to debt-
+financed property (attach statement) ~~~~~~~
+6 Divide line 4 by line 5 ~~~~~~~~~~~~~~~ % % % %
+7 Gross income reportable. Multiply line 2 by line 6 ~
+8 Total gross income (add line 7, columns A through D). Enter here and on Part I, line 7, column (A) ~~~~~~~ 0.
+9 Allocable deductions. Multiply line 3c by line 6
+10 Total allocable deductions. Add line 9, columns A through D. Enter here and on Part I, line 7, column (B) ~~~ 0.
+11 Total dividends-received deductions included in line 10  0.
+323721 01-19-24 Schedule A (Form 990-T) 2023
+69
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+1
+Schedule A (Form 990-T) 2023 Page 3
+Part VI Interest, Annuities, Royalties, and Rents From Controlled Organizations (see instructions)
+Exempt Controlled Organizations
+1. Name of controlled 2. Employer 3. Net unrelated 4. Total of specified 5. Part of column 4 6. Deductions directly
+organization identification income (loss) payments made that is included in the connected with
+controlling organiza-
+number (see instructions) income in column 5
+tion's gross income
+(1)
+(2)
+(3)
+(4)
+Nonexempt Controlled Organizations
+7. Taxable Income 8. Net unrelated 9. Total of specified 10. Part of column 9 11. Deductions directly
+income (loss) payments made that is included in the connected with
+controlling organization's
+(see instructions) income in column 10
+gross income
+(1)
+(2)
+(3)
+(4)
+Add columns 5 and 10. Add columns 6 and 11.
+Enter here and on Part I, Enter here and on Part I,
+line 8, column (A). line 8, column (B).
+Totals  0. 0.
+Part VII Investment Income of a Section 501(c)(7), (9), or (17) Organization (see instructions)
+1. Description of income 2 . Amount of 3. Deductions 4. Set-asides 5. Total deductions
+income directly connected (attach statement) and set-asides
+(attach statement) (add cols 3 and 4)
+(1)
+(2)
+(3)
+(4)
+Add amounts in Add amounts in
+column 2. Enter column 5. Enter
+here and on Part I, here and on Part I,
+line 9, column (A). line 9, column (B).
+Totals  0. 0.
+Part VIII Exploited Exempt Activity Income, Other Than Advertising Income (see instructions)
+1 Description of exploited activity:
+2 Gross unrelated business income from trade or business. Enter here and on Part I, line 10, column (A) ~~~~ 2
+3 Expenses directly connected with production of unrelated business income. Enter here and on Part I,
+line 10, column (B) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3
+4 Net income (loss) from unrelated trade or business. Subtract line 3 from line 2. If a gain, complete
+lines 5 through 7 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4
+5 Gross income from activity that is not unrelated business income ~~~~~~~~~~~~~~~~~~~~~~ 5
+6 Expenses attributable to income entered on line 5 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6
+7 Excess exempt expenses. Subtract line 5 from line 6, but do not enter more than the amount on line
+4. Enter here and on Part II, line 12  7
+Schedule A (Form 990-T) 2023
+323731 01-19-24
+70
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+1
+Schedule A (Form 990-T) 2023 Page 4
+Part IX Advertising Income
+1 Name(s) of periodical(s). Check box if reporting two or more periodicals on a consolidated basis.
+A
+B
+C
+D
+Enter amounts for each periodical listed above in the corresponding column.
+A B C D
+2 Gross advertising income ~~~~~~~~~~~~
+Add columns A through D. Enter here and on Part I, line 11, column (A) ~~~~~~~~~~~~~~~~~~~~ 0.
+a
+3 Direct advertising costs by periodical ~~~~~~~
+a Add columns A through D. Enter here and on Part I, line 11, column (B) ~~~~~~~~~~~~~~~~~~~~ 0.
+4 Advertising gain (loss). Subtract line 3 from line
+2. For any column in line 4 showing a gain,
+complete lines 5 through 8. For any column in
+line 4 showing a loss or zero, do not complete
+lines 5 through 7, and enter -0- on line 8 ~~~~~
+5 Readership costs~~~~~~~~~~~~~~~~~
+6 Circulation income ~~~~~~~~~~~~~~~~
+7 Excess readership costs. If line 6 is less than
+line 5, subtract line 6 from line 5. If line 5 is less
+than line 6, enter -0-~~~~~~~~~~~~~~~~
+8 Excess readership costs allowed as a
+deduction. For each column showing a gain on
+line 4, enter the lesser of line 4 or line 7 ~~~~~~
+a Add line 8, columns A through D. Enter the greater of the line 8a columns total or -0- here and on
+Part II, line 13 0.
+Part X Compensation of Officers, Directors, and Trustees (see instructions)
+3. Percentage 4. Compensation
+1. Name 2. Title of time devoted attributable to
+to business unrelated business
+(1) %
+(2) %
+(3) %
+(4) %
+Total. Enter here and on Part II, line 1  0.
+Part XI Supplemental Information (see instructions)
+323732 01-19-24 Schedule A (Form 990-T) 2023
+71
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+PITTSBURGH SYMPHONY INC. 25-0986052
+}}}}}}}}}}}}}}}}}}}}}}}} }}}}}}}}}}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FORM 990-T (A) OTHER DEDUCTIONS STATEMENT 5
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+DESCRIPTION AMOUNT
+}}}}}}}}}}} }}}}}}}}}}}}}}
+PRINTING AND PRODUCTION 34,443.
+ADMINISTRATIVE PERSONNEL 2,544.
+USHER EXPENSE 19,522.
+PROGRAM EDITOR 16,189.
+G/A EXPENSE 1,315.
+}}}}}}}}}}}}}}
+TOTAL TO SCHEDULE A, PART II, LINE 14 74,013.
+~~~~~~~~~~~~~~
+72 STATEMENT(S) 5
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+2
+SCHEDULE A
+Unrelated Business Taxable Income OMB No. 1545-0047
+(Form 990-T)
+From an Unrelated Trade or Business
+2023
+Go to www.irs.gov/Form990T for instructions and the latest information.
+D In e te p r a n r a tm l R e e n v t e o n f u t e h e S T e r r e v a ic s e ury Do not enter SSN numbers on this form as it may be made public if your organization is a 501(c)(3). O 5 p 0 e 1 n (c t )( o 3 ) P O ub rg li a c n I i n z s a p ti e o c n t s io O n n f l o y r
+A Name of the organization B Employer identification number
+PITTSBURGH SYMPHONY INC. 25-0986052
+C Unrelated business activity code (see instructions) 901101 D Sequence: 2 of 2
+E Describe the unrelated trade or business QUALIFYING PARTNERSHIP INTERESTS
+Part I Unrelated Trade or Business Income (A) Income (B) Expenses (C) Net
+1a Gross receipts or sales
+b Less returns and allowances c Balance 1c
+2 Cost of goods sold (Part III, line 8) ~~~~~~~~~~~~~~ 2
+3 Gross profit. Subtract line 2 from line 1c~~~~~~~~~~~~ 3
+4a Capital gain net income (attach Schedule D (Form 1041 or Form
+1120)). See instructions ~~~~~~~~~~~~~~~~~~~ 4a 110,438. 110,438.
+b Net gain (loss) (Form 4797) (attach Form 4797). See instructions) 4b
+c Capital loss deduction for trusts ~~~~~~~~~~~~~~~ 4c
+5 Income (loss) from a partnership or an S corporation (attach
+statement) ~S~T~A~T~E~M~E~N~T~ ~6~~~~~~~~~~~~~~~ 5 58,476. 58,476.
+6 Rent income (Part IV) ~~~~~~~~~~~~~~~~~~~~~ 6
+7 Unrelated debt-financed income (Part V)~~~~~~~~~~~~ 7
+8 Interest, annuities, royalties, and rents from a controlled
+organization (Part VI) ~~~~~~~~~~~~~~~~~~~~~ 8
+9 Investment income of section 501(c)(7), (9), or (17)
+organizations (Part VII) ~~~~~~~~~~~~~~~~~~~~ 9
+10 Exploited exempt activity income (Part VIII) ~~~~~~~~~~ 10
+11 Advertising income (Part IX)~~~~~~~~~~~~~~~~~~ 11
+12 Other income (see instructions; attach statement) ~~~~~~~ 12
+13 Total. Combine lines 3 through 12  13 168,914. 168,914.
+Part II Deductions Not Taken Elsewhere. See instructions for limitations on deductions. Deductions must be
+directly connected with the unrelated business income
+1 Compensation of officers, directors, and trustees (Part X) ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1
+2 Salaries and wages ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2 10,284.
+3 Repairs and maintenance ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3
+4 Bad debts ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4
+5 Interest (attach statement). See instructions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 5
+6 Taxes and licenses ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6 64.
+7 Depreciation (attach Form 4562). See instructions ~~~~~~~~~~~~~~~ 7
+8 Less depreciation claimed in Part III and elsewhere on return ~~~~~~~~~~ 8a 8b
+9 Depletion~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 9
+10 Contributions to deferred compensation plans ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10
+11 Employee benefit programs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11
+12 Excess exempt expenses (Part VIII) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12
+13 Excess readership costs (Part IX) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13
+14 Other deductions (attach statement) ~~~~~~~~~~~~~~~~~~~~~~S~E~E~ ~S~T~A~T~E~M~E~N~T~ ~7~ 14 240,071.
+15 Total deductions. Add lines 1 through 14 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15 250,419.
+16 Unrelated business income before net operating loss deduction. Subtract line 15 from Part I, line 13,
+column (C) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16 -81,505.
+17 Deduction for net operating loss. See instructions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17 0.
+18 Unrelated business taxable income. Subtract line 17 from line 16  18 -81,505.
+For Paperwork Reduction Act Notice, see instructions. Schedule A (Form 990-T) 2023
+LHA 323741 01-19-24
+73
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+2
+Schedule A (Form 990-T) 2023 Page 2
+Part III Cost of Goods Sold Enter method of inventory valuation
+1 Inventory at beginning of year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1
+2 Purchases ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2
+3 Cost of labor ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3
+4 Additional section 263A costs (attach statement) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4
+5 Other costs (attach statement) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 5
+6 Total. Add lines 1 through 5 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6
+7 Inventory at end of year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 7
+8 Cost of goods sold. Subtract line 7 from line 6. Enter here and in Part I, line 2 ~~~~~~~~~~~~~~~ 8
+9 Do the rules of section 263A (with respect to property produced or acquired for resale) apply to the organization?  Yes No
+Part IV Rent Income (From Real Property and Personal Property Leased With Real Property)
+1 Description of property (property street address, city, state, ZIP code). Check if a dual-use. See instructions.
+A
+B
+C
+D
+A B C D
+2 Rent received or accrued
+a From personal property (if the percentage of
+rent for personal property is more than 10%
+but not more than 50%)~~~~~~~~~~~~~~
+b From real and personal property (if the
+percentage of rent for personal property exceeds
+50% or if the rent is based on profit or income) ~~
+c Total rents received or accrued by property.
+Add lines 2a and 2b, columns A through D ~~~~
+3 Total rents received or accrued. Add line 2c, columns A through D. Enter here and on Part I, line 6, column (A) 0.
+Deductions directly connected with the income
+4 in lines 2a and 2b (attach statement) ~~~~~~~
+5 Total deductions. Add line 4, columns A through D. Enter here and on Part I, line 6, column (B) 0.
+Part V Unrelated Debt-Financed Income (see instructions)
+1 Description of debt-financed property (street address, city, state, ZIP code). Check if a dual-use. See instructions.
+A
+B
+C
+D
+A B C D
+2 Gross income from or allocable to debt-financed
+property ~~~~~~~~~~~~~~~~~~~~~
+3 Deductions directly connected with or allocable
+to debt-financed property
+a Straight line depreciation (attach statement) ~~~
+b Other deductions (attach statement) ~~~~~~~
+c Total deductions (add lines 3a and 3b,
+columns A through D)~~~~~~~~~~~~~~~
+4 Amount of average acquisition debt on or allocable
+to debt-financed property (attach statement) ~~~
+5 Average adjusted basis of or allocable to debt-
+financed property (attach statement) ~~~~~~~
+6 Divide line 4 by line 5 ~~~~~~~~~~~~~~~ % % % %
+7 Gross income reportable. Multiply line 2 by line 6 ~
+8 Total gross income (add line 7, columns A through D). Enter here and on Part I, line 7, column (A) ~~~~~~~ 0.
+9 Allocable deductions. Multiply line 3c by line 6
+10 Total allocable deductions. Add line 9, columns A through D. Enter here and on Part I, line 7, column (B) ~~~ 0.
+11 Total dividends-received deductions included in line 10  0.
+323721 01-19-24 Schedule A (Form 990-T) 2023
+74
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+2
+Schedule A (Form 990-T) 2023 Page 3
+Part VI Interest, Annuities, Royalties, and Rents From Controlled Organizations (see instructions)
+Exempt Controlled Organizations
+1. Name of controlled 2. Employer 3. Net unrelated 4. Total of specified 5. Part of column 4 6. Deductions directly
+organization identification income (loss) payments made that is included in the connected with
+controlling organiza-
+number (see instructions) income in column 5
+tion's gross income
+(1)
+(2)
+(3)
+(4)
+Nonexempt Controlled Organizations
+7. Taxable Income 8. Net unrelated 9. Total of specified 10. Part of column 9 11. Deductions directly
+income (loss) payments made that is included in the connected with
+controlling organization's
+(see instructions) income in column 10
+gross income
+(1)
+(2)
+(3)
+(4)
+Add columns 5 and 10. Add columns 6 and 11.
+Enter here and on Part I, Enter here and on Part I,
+line 8, column (A). line 8, column (B).
+Totals  0. 0.
+Part VII Investment Income of a Section 501(c)(7), (9), or (17) Organization (see instructions)
+1. Description of income 2 . Amount of 3. Deductions 4. Set-asides 5. Total deductions
+income directly connected (attach statement) and set-asides
+(attach statement) (add cols 3 and 4)
+(1)
+(2)
+(3)
+(4)
+Add amounts in Add amounts in
+column 2. Enter column 5. Enter
+here and on Part I, here and on Part I,
+line 9, column (A). line 9, column (B).
+Totals  0. 0.
+Part VIII Exploited Exempt Activity Income, Other Than Advertising Income (see instructions)
+1 Description of exploited activity:
+2 Gross unrelated business income from trade or business. Enter here and on Part I, line 10, column (A) ~~~~ 2
+3 Expenses directly connected with production of unrelated business income. Enter here and on Part I,
+line 10, column (B) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3
+4 Net income (loss) from unrelated trade or business. Subtract line 3 from line 2. If a gain, complete
+lines 5 through 7 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4
+5 Gross income from activity that is not unrelated business income ~~~~~~~~~~~~~~~~~~~~~~ 5
+6 Expenses attributable to income entered on line 5 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6
+7 Excess exempt expenses. Subtract line 5 from line 6, but do not enter more than the amount on line
+4. Enter here and on Part II, line 12  7
+Schedule A (Form 990-T) 2023
+323731 01-19-24
+75
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+2
+Schedule A (Form 990-T) 2023 Page 4
+Part IX Advertising Income
+1 Name(s) of periodical(s). Check box if reporting two or more periodicals on a consolidated basis.
+A
+B
+C
+D
+Enter amounts for each periodical listed above in the corresponding column.
+A B C D
+2 Gross advertising income ~~~~~~~~~~~~
+Add columns A through D. Enter here and on Part I, line 11, column (A) ~~~~~~~~~~~~~~~~~~~~ 0.
+a
+3 Direct advertising costs by periodical ~~~~~~~
+a Add columns A through D. Enter here and on Part I, line 11, column (B) ~~~~~~~~~~~~~~~~~~~~ 0.
+4 Advertising gain (loss). Subtract line 3 from line
+2. For any column in line 4 showing a gain,
+complete lines 5 through 8. For any column in
+line 4 showing a loss or zero, do not complete
+lines 5 through 7, and enter -0- on line 8 ~~~~~
+5 Readership costs~~~~~~~~~~~~~~~~~
+6 Circulation income ~~~~~~~~~~~~~~~~
+7 Excess readership costs. If line 6 is less than
+line 5, subtract line 6 from line 5. If line 5 is less
+than line 6, enter -0-~~~~~~~~~~~~~~~~
+8 Excess readership costs allowed as a
+deduction. For each column showing a gain on
+line 4, enter the lesser of line 4 or line 7 ~~~~~~
+a Add line 8, columns A through D. Enter the greater of the line 8a columns total or -0- here and on
+Part II, line 13 0.
+Part X Compensation of Officers, Directors, and Trustees (see instructions)
+3. Percentage 4. Compensation
+1. Name 2. Title of time devoted attributable to
+to business unrelated business
+(1) %
+(2) %
+(3) %
+(4) %
+Total. Enter here and on Part II, line 1  0.
+Part XI Supplemental Information (see instructions)
+323732 01-19-24 Schedule A (Form 990-T) 2023
+76
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+PITTSBURGH SYMPHONY INC. 25-0986052
+}}}}}}}}}}}}}}}}}}}}}}}} }}}}}}}}}}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FORM 990-T (A) INCOME (LOSS) FROM PARTNERSHIPS STATEMENT 6
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+NET INCOME
+DESCRIPTION OR (LOSS)
+}}}}}}}}}}}}}}}} }}}}}}}}}}}}}}
+PARTNERSHIP 1 - ORDINARY BUSINESS INCOME (LOSS) 2,313.
+PARTNERSHIP 2 - ORDINARY BUSINESS INCOME (LOSS) -481.
+PARTNERSHIP 3 - ORDINARY BUSINESS INCOME (LOSS) -20,269.
+PARTNERSHIP 4 - ORDINARY BUSINESS INCOME (LOSS) -38,766.
+PARTNERSHIP 5 - ORDINARY BUSINESS INCOME (LOSS) -396.
+PARTNERSHIP 6 - ORDINARY BUSINESS INCOME (LOSS) -10.
+PARTNERSHIP 7 - ORDINARY BUSINESS INCOME (LOSS) 229.
+PARTNERSHIP 8 - ORDINARY BUSINESS INCOME (LOSS) -3.
+PARTNERSHIP 9 - ORDINARY BUSINESS INCOME (LOSS) 426.
+PARTNERSHIP 10 - ORDINARY BUSINESS INCOME (LOSS) 14,357.
+PARTNERSHIP 11 - ORDINARY BUSINESS INCOME (LOSS) 21,775.
+PARTNERSHIP 12 - ORDINARY BUSINESS INCOME (LOSS) 35,960.
+PARTNERSHIP 13 - ORDINARY BUSINESS INCOME (LOSS) 48,670.
+PARTNERSHIP 14 - ORDINARY BUSINESS INCOME (LOSS) 4,316.
+PARTNERSHIP 15 - ORDINARY BUSINESS INCOME (LOSS) 5,497.
+PARTNERSHIP 16 - ORDINARY BUSINESS INCOME (LOSS) -18.
+PARTNERSHIP 17 - ORDINARY BUSINESS INCOME (LOSS) -72.
+PARTNERSHIP 18 - ORDINARY BUSINESS INCOME (LOSS) -432.
+PARTNERSHIP 19 - ORDINARY BUSINESS INCOME (LOSS) 457.
+PARTNERSHIP 20 - ORDINARY BUSINESS INCOME (LOSS) 9,117.
+PARTNERSHIP 21 - ORDINARY BUSINESS INCOME (LOSS) -33,290.
+PARTNERSHIP 22 - ORDINARY BUSINESS INCOME (LOSS) -13.
+PARTNERSHIP 23 - ORDINARY BUSINESS INCOME (LOSS) 3,156.
+PARTNERSHIP 24 - ORDINARY BUSINESS INCOME (LOSS) 338.
+PARTNERSHIP 25 - ORDINARY BUSINESS INCOME (LOSS) 939.
+PARTNERSHIP 26 - ORDINARY BUSINESS INCOME (LOSS) 1,978.
+PARTNERSHIP 27 - ORDINARY BUSINESS INCOME (LOSS) 2,698.
+}}}}}}}}}}}}}}
+TOTAL INCLUDED ON SCHEDULE A, PART I, LINE 5 58,476.
+~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FORM 990-T (A) OTHER DEDUCTIONS STATEMENT 7
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+DESCRIPTION AMOUNT
+}}}}}}}}}}} }}}}}}}}}}}}}}
+INVESTMENT ADVISORY FEES 121,485.
+ACCOUNTING FEES 35,488.
+INTANGIBLE DRILLING COSTS 83,098.
+}}}}}}}}}}}}}}
+TOTAL TO SCHEDULE A, PART II, LINE 14 240,071.
+~~~~~~~~~~~~~~
+77 STATEMENT(S) 6, 7
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+SCHEDULE D Capital Gains and Losses OMB No. 1545-0123
+(Form 1120) Attach to Form 1120, 1120-C, 1120-F, 1120-FSC, 1120-H, 1120-IC-DISC, 1120-L, 2023
+Department of the Treasury 1120-ND, 1120-PC, 1120-POL, 1120-REIT, 1120-RIC, 1120-SF, or certain Forms 990-T.
+Internal Revenue Service Go to www.irs.gov/Form1120 for instructions and the latest information.
+Name Employer identification number
+PITTSBURGH SYMPHONY INC. 25-0986052
+Did the corporation dispose of any investment(s) in a qualified opportunity fund during the tax year? ~~~~~~~~~~~~ Yes X No
+If "Yes," attach Form 8949 and see its instructions for additional requirements for reporting your gain or loss.
+Part I Short-Term Capital Gains and Losses - Assets Held One Year or Less
+See instructions for how to figure the amounts (h) Gain or (loss)
+to enter on the lines below. (d) (e) (g) Adjustments to gain Subtract column (e) from
+Proceeds Cost or loss from Form(s) 8949,
+This form may be easier to complete if you (sales price) (or other basis) Part I, line 2, column (g) column (d) and combine the
+round off cents to whole dollars. result with column (g)
+1a Totals for all short-term transactions
+reported on Form 1099-B for which basis
+was reported to the IRS and for which you
+have no adjustments (see instructions).
+However, if you choose to report all these
+transactions on Form 8949, leave this line
+blank and go to line 1b 
+1b Totals for all transactions reported on
+Form(s) 8949 with Box A checked 
+2 Totals for all transactions reported on
+Form(s) 8949 with Box B checked 
+3 Totals for all transactions reported on
+Form(s) 8949 with Box C checked  24. 461. -437.
+4 Short-term capital gain from installment sales from Form 6252, line 26 or 37 ~~~~~~~~~~~~~~~~~~~~~~ 4
+5 Short-term capital gain or (loss) from like-kind exchanges from Form 8824 ~~~~~~~~~~~~~~~~~~~~~~ 5
+6 Unused capital loss carryover (attach computation) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6 ( )
+7 Net short-term capital gain or (loss). Combine lines 1a through 6 in column h  7 -437.
+Part II Long-Term Capital Gains and Losses - Assets Held More Than One Year
+See instructions for how to figure the amounts (h) Gain or (loss)
+to enter on the lines below. (d) (e) (g) Adjustments to gain Subtract column (e) from
+Proceeds Cost or loss from Form(s) 8949,
+This form may be easier to complete if you (sales price) (or other basis) Part II, line 2, column (g) column (d) and combine the
+round off cents to whole dollars. result with column (g)
+8a Totals for all long-term transactions reported
+on Form 1099-B for which basis was
+reported to the IRS and for which you have
+no adjustments (see instructions). However,
+if you choose to report all these transactions
+on Form 8949, leave this line blank and go to
+line 8b 
+8b Totals for all transactions reported on
+Form(s) 8949 with Box D checked 
+9 Totals for all transactions reported on
+Form(s) 8949 with Box E checked 
+10 Totals for all transactions reported on
+Form(s) 8949 with Box F checked  13,077. 6,627. 6,450.
+11 Enter gain from Form 4797, line 7 or 9 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11 104,425.
+12 Long-term capital gain from installment sales from Form 6252, line 26 or 37 ~~~~~~~~~~~~~~~~~~~~~~ 12
+13 Long-term capital gain or (loss) from like-kind exchanges from Form 8824 ~~~~~~~~~~~~~~~~~~~~~~ 13
+14 Capital gain distributions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 14
+15 Net long-term capital gain or (loss). Combine lines 8a through 14 in column h  15 110,875.
+Part III Summary of Parts I and II
+16 Enter excess of net short-term capital gain (line 7) over net long-term capital loss (line 15) ~~~~~~~~~~~~~~~~ 16
+17 Net capital gain. Enter excess of net long-term capital gain (line 15) over net short-term capital loss (line 7) ~~~~~~~~~ 17 110,438.
+18 Add lines 16 and 17. Enter here and on Form 1120, page 1, line 8, or the applicable line on other returns ~~~~~~~~~~ 18 110,438.
+Note: If losses exceed gains, see Capital Losses in the instructions.
+LHA For Paperwork Reduction Act Notice, see the Instructions for Form 1120. Schedule D (Form 1120) 2023
+321051
+12-26-23
+78
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+Sales and Other Dispositions of Capital Assets OMB No. 1545-0074
+8949
+2023
+Form
+File with your Schedule D to list your transactions for lines 1b, 2, 3, 8b, 9, and 10 of Schedule D.
+Department of the Treasury Attachment 12A
+Internal Revenue Service Go to www.irs.gov/Form8949 for instructions and the latest information. Sequence No.
+Name(s) shown on return Social security number or
+taxpayer identification no.
+PITTSBURGH SYMPHONY INC. 25-0986052
+Before you check Box A, B, or C below, see whether you received any Form(s) 1099-B or substitute statement(s) from your broker. A substitute
+statement will have the same information as Form 1099-B. Either will show whether your basis (usually your cost) was reported to the IRS by your
+broker and may even tell you which box to check.
+Part I Short-Term. Transactions involving capital assets you held 1 year or less are generally short-term (see instructions). For long-term
+transactions, see page 2.
+Note: You may aggregate all short-term transactions reported on Form(s) 1099-B showing basis was reported to the IRS and for which no adjustments or
+codes are required. Enter the totals directly on Schedule D, line 1a; you aren't required to report these transactions on Form 8949 (see instructions).
+You must check Box A, B, or C below. Check only one box. If more than one box applies for your short-term transactions, complete a separate Form 8949, page 1, for each applicable box.
+If you have more short-term transactions than will fit on this page for one or more of the boxes, complete as many forms with the same box checked as you need.
+(A) Short-term transactions reported on Form(s) 1099-B showing basis was reported to the IRS (see Note above)
+(B) Short-term transactions reported on Form(s) 1099-B showing basis wasn't reported to the IRS
+X (C) Short-term transactions not reported to you on Form 1099-B
+1 (a) (b) (c) (d) (e) Adjustment, if any, to gain or (h)
+Description of property Date acquired Date sold or Proceeds Cost or other loss. If you enter an amount Gain or (loss).
+(Example: 100 sh. XYZ Co.) (Mo., day, yr.) disposed of (sales price) basis. See the i c n o l c u o m lu n m ( n f) ( . g S ) e , e e n in te s r t r a u c c o ti d o e n s in . Subtract column (e)
+Note below and from column (d) &
+(Mo., day, yr.) see Column (e) in (f) (g) combine the result
+the instructions Code(s) a A d m ju o s u tm nt e o n f t with column (g)
+PARTNERSHIP 1 402. -402. C
+PARTNERSHIP 7 1. -1. C
+PARTNERSHIP 11 24. -24. C
+PARTNERSHIP 12 16. -16. C
+PARTNERSHIP 13 18. -18. C
+PARTNERSHIP 18 8. 8. C
+PARTNERSHIP 19 16. 16. C
+2 Totals. Add the amounts in columns (d), (e), (g), and (h) (subtract
+negative amounts). Enter each total here and include on your
+Schedule D, line 1b (if Box A above is checked), line 2 (if Box B
+above is checked), or line 3 (if Box C above is checked)  24. 461. -437.
+Note: If you checked Box A above but the basis reported to the IRS was incorrect, enter in column (e) the basis as reported to the IRS, and enter an
+adjustment in column (g) to correct the basis. See Column (g) in the separate instructions for how to figure the amount of the adjustment.
+323011 01-05-24 LHA For Paperwork Reduction Act Notice, see your tax return instructions. Form 8949 (2023)
+79
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+Form 8949 (2023) Attachment Sequence No. 12A Page 2
+Name(s) shown on return. Name and SSN or taxpayer identification no. not required if shown on page 1 Social security number or
+taxpayer identification no.
+PITTSBURGH SYMPHONY INC. 25-0986052
+Before you check Box D, E, or F below, see whether you received any Form(s) 1099-B or substitute statement(s) from your broker. A substitute
+statement will have the same information as Form 1099-B. Either will show whether your basis (usually your cost) was reported to the IRS by your
+broker and may even tell you which box to check.
+Part II Long-Term. Transactions involving capital assets you held more than 1 year are generally long-term (see instructions). For short-term transactions,
+see page 1.
+Note: You may aggregate all long-term transactions reported on Form(s) 1099-B showing basis was reported to the IRS and for which no adjustments or
+codes are required. Enter the totals directly on Schedule D, line 8a; you aren't required to report these transactions on Form 8949 (see instructions).
+You must check Box D, E, or F below. Check only one box. If more than one box applies for your long-term transactions, complete a separate Form 8949, page 2, for each applicable box.
+If you have more long-term transactions than will fit on this page for one or more of the boxes, complete as many forms with the same box checked as you need.
+(D) Long-term transactions reported on Form(s) 1099-B showing basis was reported to the IRS (see Note above)
+(E) Long-term transactions reported on Form(s) 1099-B showing basis wasn't reported to the IRS
+X (F) Long-term transactions not reported to you on Form 1099-B
+1 (a) (b) (c) (d) (e) Adjustment, if any, to gain or (h)
+Description of property Date acquired Date sold or Proceeds Cost or other loss. If you enter an amount Gain or (loss).
+(Example: 100 sh. XYZ Co.) (Mo., day, yr.) disposed of (sales price) basis. See the i c n o l c u o m lu n m ( n f) ( . g S ) e , e e n in te s r t r a u c c o ti d o e n s in . Subtract column (e)
+Note below and from column (d) &
+(Mo., day, yr.) see Column (e) in (f) (g) combine the result
+the instructions Code(s) a A d m ju o s u tm nt e o n f t with column (g)
+PARTNERSHIP 1 1,208. 1,208. C
+PARTNERSHIP 4 2,725. 2,725. C
+PARTNERSHIP 6 1,626. 1,626. C
+PARTNERSHIP 7 120. 120. C
+PARTNERSHIP 8 41. -41. C
+PARTNERSHIP 9 202. -202. C
+PARTNERSHIP 10 2,196. -2,196. C
+PARTNERSHIP 11 522. 522. C
+PARTNERSHIP 12 1. 1. C
+PARTNERSHIP 13 286. 286. C
+PARTNERSHIP 15 4,021. 4,021. C
+PARTNERSHIP 18 41. -41. C
+PARTNERSHIP 19 4,147. -4,147. C
+PARTNERSHIP 20 1,885. 1,885. C
+PARTNERSHIP 21 683. 683. C
+2 Totals. Add the amounts in columns (d), (e), (g), and (h) (subtract
+negative amounts). Enter each total here and include on your
+Schedule D, line 8b (if Box D above is checked), line 9 (if Box E
+above is checked), or line 10 (if Box F above is checked)  13,077. 6,627. 6,450.
+Note: If you checked Box D above but the basis reported to the IRS was incorrect, enter in column (e) the basis as reported to the IRS, and enter an
+adjustment in column (g) to correct the basis. See Column (g) in the separate instructions for how to figure the amount of the adjustment.
+323012 01-05-24 Form 8949 (2023)
+80
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+4797 Sales of Business Property OMB No. 1545-0184
+Form (Also Involuntary Conversions and Recapture Amounts 2023
+Under Sections 179 and 280F(b)(2))
+Attach to your tax return.
+I D n e te p r a n r a tm l R e e n v t e o n f u t e h e S T e r r e vi a c s e ury Go to www.irs.gov/Form4797 for instructions and the latest information. A S t e t q a u c e h n m c e e n N t o. 27
+Name(s) shown on return Identifying number
+PITTSBURGH SYMPHONY INC. 25-0986052
+1a Enter the gross proceeds from sales or exchanges reported to you for 2023 on Form(s) 1099-B or 1099-S
+(or substitute statement) that you are including on line 2, 10, or 20 ~~~~~~~~~~~~~~~~~~~~~~~~ 1a
+b Enter the total amount of gain that you are including on lines 2, 10, and 24 due to the partial dispositions of
+MACRS assets ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1b
+c Enter the total amount of loss that you are including on lines 2 and 10 due to the partial dispositions of MACRS
+assets  1c
+Part I Sales or Exchanges of Property Used in a Trade or Business and Involuntary Conversions From Other
+Than Casualty or Theft-Most Property Held More Than 1 Year (see instructions)
+2 (a)Description (b) Date acquired (c)Date sold (d) Gross sales (e) a l D lo e w p e re d c o ia r tion (f) b C as o i s s t , o p r lu o s ther (g) Gain or (loss)
+of property (mo., day, yr.) (mo., day, yr.) price allowable since improvements and Subtract (f) from the
+sum of (d) and (e)
+SEE STATEMENT 8 acquisition expense of sale
+3 Gain, if any, from Form 4684, line 39 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3
+4 Section 1231 gain from installment sales from Form 6252, line 26 or 37 ~~~~~~~~~~~~~~~~~~~~~~ 4
+5 Section 1231 gain or (loss) from like-kind exchanges from Form 8824 ~~~~~~~~~~~~~~~~~~~~~~~ 5
+6 Gain, if any, from line 32, from other than casualty or theft ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6 10,691.
+7 Combine lines 2 through 6. Enter the gain or (loss) here and on the appropriate line as follows ~~~~~~~~~~ 7 104,425.
+Partnerships and S corporations. Report the gain or (loss) following the instructions for Form 1065, Schedule K,
+line 10, or Form 1120-S, Schedule K, line 9. Skip lines 8, 9, 11, and 12 below.
+Individuals, partners, S corporation shareholders, and all others. If line 7 is zero or a loss, enter the amount
+from line 7 on line 11 below and skip lines 8 and 9. If line 7 is a gain and you didn't have any prior year section
+1231 losses, or they were recaptured in an earlier year, enter the gain from line 7 as a long-term capital gain on
+the Schedule D filed with your return and skip lines 8, 9, 11, and 12 below.
+8 Nonrecaptured net section 1231 losses from prior years. See instructions ~~~~~~~~~~~~~~~~~~~~ 8
+9 Subtract line 8 from line 7. If zero or less, enter -0-. If line 9 is zero, enter the gain from line 7 on line 12 below. If
+line 9 is more than zero, enter the amount from line 8 on line 12 below and enter the gain from line 9 as a long-term
+capital gain on the Schedule D filed with your return. See instructions  9 104,425.
+Part II Ordinary Gains and Losses (see instructions)
+10 Ordinary gains and losses not included on lines 11 through 16 (include property held 1 year or less):
+11 Loss, if any, from line 7 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11 ( )
+12 Gain, if any, from line 7 or amount from line 8, if applicable ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12
+13 Gain, if any, from line 31 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13
+14 Net gain or (loss) from Form 4684, lines 31 and 38a ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 14
+15 Ordinary gain from installment sales from Form 6252, line 25 or 36 ~~~~~~~~~~~~~~~~~~~~~~~~ 15
+16 Ordinary gain or (loss) from like-kind exchanges from Form 8824 ~~~~~~~~~~~~~~~~~~~~~~~~~ 16
+17 Combine lines 10 through 16 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17
+18 For all except individual returns, enter the amount from line 17 on the appropriate line of your return and skip lines
+a and b below. For individual returns, complete lines a and b below.
+a If the loss on line 11 includes a loss from Form 4684, line 35, column (b)(ii), enter that part of the loss here. Enter the
+loss from income-producing property on Schedule A (Form 1040), line 16. (Do not include any loss on property used
+as an employee.) Identify as from "Form 4797, line 18a." See instructions ~~~~~~~~~~~~~~~~~~~~~ 18a
+b Redetermine the gain or (loss) on line 17 excluding the loss, if any, on line 18a. Enter here and on Schedule 1
+(Form 1040), Part I, line 4  18b
+LHA For Paperwork Reduction Act Notice, see separate instructions. Form 4797 (2023)
+318011 12-27-23
+81
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+Form 4797 (2023)PITTSBURGH SYMPHONY INC. 25-0986052 Page 2
+Part III Gain From Disposition of Property Under Sections 1245, 1250, 1252, 1254, and 1255 (see instructions)
+(b)Date acquired (c)Date sold
+19 (a)Description of section 1245, 1250, 1252, 1254, or 1255 property:
+(mo., day, yr.) (mo., day, yr.)
+A PARTNERSHIP 3 VARIOUS VARIOUS
+B PARTNERSHIP 4 VARIOUS VARIOUS
+C PARTNERSHIP 19 VARIOUS VARIOUS
+D PARTNERSHIP 20 VARIOUS VARIOUS
+These columns relate to the properties on
+lines 19A through 19D. Property A Property B Property C Property D
+20 Gross sales price (Note:See line 1a before completing.) 20 9,003. 1,680. 4. 4.
+21 Cost or other basis plus expense of sale ~~~~ 21
+22 Depreciation (or depletion) allowed or allowable~ 22
+23 Adjusted basis. Subtract line 22 from line 21 ~~ 23
+24 Total gain. Subtract line 23 from line 20 24 9,003. 1,680. 4. 4.
+25 If section 1245 property:
+a Depreciation allowed or allowable from line 22 ~ 25a
+b Enter the smaller of line 24 or 25a  25b
+26 If section 1250 property: If straight line depreciation
+was used, enter -0- on line 26g, except for a corporation
+subject to section 291.
+a Additional depreciation after 1975. See instructions ~ 26a
+b Applicable percentage multiplied by the smaller
+of line 24 or line 26a. See instructions ~~~~~ 26b
+c Subtract line 26a from line 24. If residential rental
+property orline 24 isn't more than line 26a, skip
+lines 26d and 26e ~~~~~~~~~~~~~~~ 26c
+d Additional depreciation after 1969 and before 1976~~ 26d
+e Enter the smallerof line 26c or 26d ~~~~~~ 26e
+f Section 291 amount (corporations only) ~~~~ 26f
+g Add lines 26b, 26e, and 26f  26g
+27 I f s e c t i o n 1 2 5 2 p r o p e r t y : Skip this section if you didn't
+dispose of farmland or if this form is being completed for
+a partnership.
+a Soil, water, and land clearing expenses~~~~~ 27a
+b Line 27a multiplied by applicable percentage~~~~~ 27b
+c Enter the smaller of line 24 or 27b  27c
+28 If section 1254 property:
+a Intangible drilling and development costs, expenditures
+for development of mines and other natural deposits,
+mining exploration costs, and depletion. See instructions 28a
+b Enter the smaller of line 24 or 28a  28b
+29 If section 1255 property:
+a Applicable percentage of payments excluded
+from income under section 126. See instructions 29a
+b Enter the smaller of line 24 or 29a. See instructions 29b
+Summary of Part III Gains. Complete property columns A through D through line 29b before going to line 30.
+30 Total gains for all properties. Add property columns A through D, line 24 ~~~~~~~~~~~~~~~~~~~~~ 30 10,691.
+31 Add property columns A through D, lines 25b, 26g, 27c, 28b, and 29b. Enter here and on line 13 ~~~~~~~~~ 31
+32 Subtract line 31 from line 30. Enter the portion from casualty or theft on Form 4684, line 33. Enter the portion
+from other than casualty or theft on Form 4797, line 6  32 10,691.
+Part IV Recapture Amounts Under Sections 179 and 280F(b)(2) When Business Use Drops to 50% or Less
+(see instructions)
+(a) Section (b) Section
+179 280F(b)(2)
+33 Section 179 expense deduction or depreciation allowable in prior years ~~~~~~~~~~~ 33
+34 Recomputed depreciation. See instructions ~~~~~~~~~~~~~~~~~~~~~~~~ 34
+35 Recapture amount. Subtract line 34 from line 33. See the instructions for where to report  35
+318012 12-27-23 Form 4797 (2023)
+82
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+PITTSBURGH SYMPHONY INC. 25-0986052
+}}}}}}}}}}}}}}}}}}}}}}}} }}}}}}}}}}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FORM 4797 PROPERTY HELD MORE THAN ONE YEAR STATEMENT 8
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+DATE DATE SALES COST GAIN
+DESCRIPTION ACQUIRED SOLD PRICE DEPR. OR BASIS OR LOSS
+}}}}}}}}}}} }}}}}}}} }}}}}}}} }}}}}}}}}} }}}}}}}}} }}}}}}}}}} }}}}}}}}}}
+PARTNERSHIP 3 11,927. 11,927.
+PARTNERSHIP 4 52,532. -52,532.
+PARTNERSHIP 7 56. 56.
+PARTNERSHIP 10 608. -608.
+PARTNERSHIP 11 146. 146.
+PARTNERSHIP 12 8,254. 8,254.
+PARTNERSHIP 13 2,141. 2,141.
+PARTNERSHIP 14 1,879. -1,879.
+PARTNERSHIP 15 1,565. -1,565.
+PARTNERSHIP 19 48. -48.
+PARTNERSHIP 20 2,120. 2,120.
+PARTNERSHIP 23 7,339. 7,339.
+PARTNERSHIP 22 118,383. 118,383.
+}}}}}}}}}} }}}}}}}}} }}}}}}}}}} }}}}}}}}}}
+TOTAL TO 4797, PART I, LINE 2 150,366. 56,632. 93,734.
+~~~~~~~~~~ ~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+83 STATEMENT(S) 8
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+SCHEDULE D Capital Gains and Losses OMB No. 1545-0123
+(Form 1120) Attach to Form 1120, 1120-C, 1120-F, 1120-FSC, 1120-H, 1120-IC-DISC, 1120-L, 2023
+Department of the Treasury 1120-ND, 1120-PC, 1120-POL, 1120-REIT, 1120-RIC, 1120-SF, or certain Forms 990-T.
+Internal Revenue Service Go to www.irs.gov/Form1120 for instructions and the latest information.
+Name Employer identification number
+PITTSBURGH SYMPHONY INC. 25-0986052
+Did the corporation dispose of any investment(s) in a qualified opportunity fund during the tax year? ~~~~~~~~~~~~ Yes X No
+If "Yes," attach Form 8949 and see its instructions for additional requirements for reporting your gain or loss.
+Part I Short-Term Capital Gains and Losses - Assets Held One Year or Less
+See instructions for how to figure the amounts (h) Gain or (loss)
+to enter on the lines below. (d) (e) (g) Adjustments to gain Subtract column (e) from
+Proceeds Cost or loss from Form(s) 8949,
+This form may be easier to complete if you (sales price) (or other basis) Part I, line 2, column (g) column (d) and combine the
+round off cents to whole dollars. result with column (g)
+1a Totals for all short-term transactions
+reported on Form 1099-B for which basis
+was reported to the IRS and for which you
+have no adjustments (see instructions).
+However, if you choose to report all these
+transactions on Form 8949, leave this line
+blank and go to line 1b 
+1b Totals for all transactions reported on
+Form(s) 8949 with Box A checked 
+2 Totals for all transactions reported on
+Form(s) 8949 with Box B checked 
+3 Totals for all transactions reported on
+Form(s) 8949 with Box C checked  24. 461. -437.
+4 Short-term capital gain from installment sales from Form 6252, line 26 or 37 ~~~~~~~~~~~~~~~~~~~~~~ 4
+5 Short-term capital gain or (loss) from like-kind exchanges from Form 8824 ~~~~~~~~~~~~~~~~~~~~~~ 5
+6 Unused capital loss carryover (attach computation) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6 ( )
+7 Net short-term capital gain or (loss). Combine lines 1a through 6 in column h  7 -437.
+Part II Long-Term Capital Gains and Losses - Assets Held More Than One Year
+See instructions for how to figure the amounts (h) Gain or (loss)
+to enter on the lines below. (d) (e) (g) Adjustments to gain Subtract column (e) from
+Proceeds Cost or loss from Form(s) 8949,
+This form may be easier to complete if you (sales price) (or other basis) Part II, line 2, column (g) column (d) and combine the
+round off cents to whole dollars. result with column (g)
+8a Totals for all long-term transactions reported
+on Form 1099-B for which basis was
+reported to the IRS and for which you have
+no adjustments (see instructions). However,
+if you choose to report all these transactions
+on Form 8949, leave this line blank and go to
+line 8b 
+8b Totals for all transactions reported on
+Form(s) 8949 with Box D checked 
+9 Totals for all transactions reported on
+Form(s) 8949 with Box E checked 
+10 Totals for all transactions reported on
+Form(s) 8949 with Box F checked  13,077. 6,627. 6,450.
+11 Enter gain from Form 4797, line 7 or 9 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11 104,425.
+12 Long-term capital gain from installment sales from Form 6252, line 26 or 37 ~~~~~~~~~~~~~~~~~~~~~~ 12
+13 Long-term capital gain or (loss) from like-kind exchanges from Form 8824 ~~~~~~~~~~~~~~~~~~~~~~ 13
+14 Capital gain distributions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 14
+15 Net long-term capital gain or (loss). Combine lines 8a through 14 in column h  15 110,875.
+Part III Summary of Parts I and II
+16 Enter excess of net short-term capital gain (line 7) over net long-term capital loss (line 15) ~~~~~~~~~~~~~~~~ 16
+17 Net capital gain. Enter excess of net long-term capital gain (line 15) over net short-term capital loss (line 7) ~~~~~~~~~ 17 110,438.
+18 Add lines 16 and 17. Enter here and on Form 1120, page 1, line 8, or the applicable line on other returns ~~~~~~~~~~ 18 110,438.
+Note: If losses exceed gains, see Capital Losses in the instructions.
+LHA For Paperwork Reduction Act Notice, see the Instructions for Form 1120. Schedule D (Form 1120) 2023
+321051
+12-26-23
+84
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+Sales and Other Dispositions of Capital Assets OMB No. 1545-0074
+8949
+2023
+Form
+File with your Schedule D to list your transactions for lines 1b, 2, 3, 8b, 9, and 10 of Schedule D.
+Department of the Treasury Attachment 12A
+Internal Revenue Service Go to www.irs.gov/Form8949 for instructions and the latest information. Sequence No.
+Name(s) shown on return Social security number or
+taxpayer identification no.
+PITTSBURGH SYMPHONY INC. 25-0986052
+Before you check Box A, B, or C below, see whether you received any Form(s) 1099-B or substitute statement(s) from your broker. A substitute
+statement will have the same information as Form 1099-B. Either will show whether your basis (usually your cost) was reported to the IRS by your
+broker and may even tell you which box to check.
+Part I Short-Term. Transactions involving capital assets you held 1 year or less are generally short-term (see instructions). For long-term
+transactions, see page 2.
+Note: You may aggregate all short-term transactions reported on Form(s) 1099-B showing basis was reported to the IRS and for which no adjustments or
+codes are required. Enter the totals directly on Schedule D, line 1a; you aren't required to report these transactions on Form 8949 (see instructions).
+You must check Box A, B, or C below. Check only one box. If more than one box applies for your short-term transactions, complete a separate Form 8949, page 1, for each applicable box.
+If you have more short-term transactions than will fit on this page for one or more of the boxes, complete as many forms with the same box checked as you need.
+(A) Short-term transactions reported on Form(s) 1099-B showing basis was reported to the IRS (see Note above)
+(B) Short-term transactions reported on Form(s) 1099-B showing basis wasn't reported to the IRS
+X (C) Short-term transactions not reported to you on Form 1099-B
+1 (a) (b) (c) (d) (e) Adjustment, if any, to gain or (h)
+Description of property Date acquired Date sold or Proceeds Cost or other loss. If you enter an amount Gain or (loss).
+(Example: 100 sh. XYZ Co.) (Mo., day, yr.) disposed of (sales price) basis. See the i c n o l c u o m lu n m ( n f) ( . g S ) e , e e n in te s r t r a u c c o ti d o e n s in . Subtract column (e)
+Note below and from column (d) &
+(Mo., day, yr.) see Column (e) in (f) (g) combine the result
+the instructions Code(s) a A d m ju o s u tm nt e o n f t with column (g)
+PARTNERSHIP 1 402. <402.>
+PARTNERSHIP 7 1. <1.>
+PARTNERSHIP 11 24. <24.>
+PARTNERSHIP 12 16. <16.>
+PARTNERSHIP 13 18. <18.>
+PARTNERSHIP 18 8. 8.
+PARTNERSHIP 19 16. 16.
+2 Totals. Add the amounts in columns (d), (e), (g), and (h) (subtract
+negative amounts). Enter each total here and include on your
+Schedule D, line 1b (if Box A above is checked), line 2 (if Box B
+above is checked), or line 3 (if Box C above is checked)  24. 461. <437.>
+Note: If you checked Box A above but the basis reported to the IRS was incorrect, enter in column (e) the basis as reported to the IRS, and enter an
+adjustment in column (g) to correct the basis. See Column (g) in the separate instructions for how to figure the amount of the adjustment.
+323011 01-05-24 LHA For Paperwork Reduction Act Notice, see your tax return instructions. Form 8949 (2023)
+85
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+Form 8949 (2023) Attachment Sequence No. 12A Page 2
+Name(s) shown on return. Name and SSN or taxpayer identification no. not required if shown on page 1 Social security number or
+taxpayer identification no.
+PITTSBURGH SYMPHONY INC. 25-0986052
+Before you check Box D, E, or F below, see whether you received any Form(s) 1099-B or substitute statement(s) from your broker. A substitute
+statement will have the same information as Form 1099-B. Either will show whether your basis (usually your cost) was reported to the IRS by your
+broker and may even tell you which box to check.
+Part II Long-Term. Transactions involving capital assets you held more than 1 year are generally long-term (see instructions). For short-term transactions,
+see page 1.
+Note: You may aggregate all long-term transactions reported on Form(s) 1099-B showing basis was reported to the IRS and for which no adjustments or
+codes are required. Enter the totals directly on Schedule D, line 8a; you aren't required to report these transactions on Form 8949 (see instructions).
+You must check Box D, E, or F below. Check only one box. If more than one box applies for your long-term transactions, complete a separate Form 8949, page 2, for each applicable box.
+If you have more long-term transactions than will fit on this page for one or more of the boxes, complete as many forms with the same box checked as you need.
+(D) Long-term transactions reported on Form(s) 1099-B showing basis was reported to the IRS (see Note above)
+(E) Long-term transactions reported on Form(s) 1099-B showing basis wasn't reported to the IRS
+X (F) Long-term transactions not reported to you on Form 1099-B
+1 (a) (b) (c) (d) (e) Adjustment, if any, to gain or (h)
+Description of property Date acquired Date sold or Proceeds Cost or other loss. If you enter an amount Gain or (loss).
+(Example: 100 sh. XYZ Co.) (Mo., day, yr.) disposed of (sales price) basis. See the i c n o l c u o m lu n m ( n f) ( . g S ) e , e e n in te s r t r a u c c o ti d o e n s in . Subtract column (e)
+Note below and from column (d) &
+(Mo., day, yr.) see Column (e) in (f) (g) combine the result
+the instructions Code(s) a A d m ju o s u tm nt e o n f t with column (g)
+PARTNERSHIP 1 1,208. 1,208.
+PARTNERSHIP 4 2,725. 2,725.
+PARTNERSHIP 6 1,626. 1,626.
+PARTNERSHIP 7 120. 120.
+PARTNERSHIP 8 41. <41.>
+PARTNERSHIP 9 202. <202.>
+PARTNERSHIP 10 2,196. <2,196.>
+PARTNERSHIP 11 522. 522.
+PARTNERSHIP 12 1. 1.
+PARTNERSHIP 13 286. 286.
+PARTNERSHIP 15 4,021. 4,021.
+PARTNERSHIP 18 41. <41.>
+PARTNERSHIP 19 4,147. <4,147.>
+PARTNERSHIP 20 1,885. 1,885.
+PARTNERSHIP 21 683. 683.
+2 Totals. Add the amounts in columns (d), (e), (g), and (h) (subtract
+negative amounts). Enter each total here and include on your
+Schedule D, line 8b (if Box D above is checked), line 9 (if Box E
+above is checked), or line 10 (if Box F above is checked)  13,077. 6,627. 6,450.
+Note: If you checked Box D above but the basis reported to the IRS was incorrect, enter in column (e) the basis as reported to the IRS, and enter an
+adjustment in column (g) to correct the basis. See Column (g) in the separate instructions for how to figure the amount of the adjustment.
+323012 01-05-24 Form 8949 (2023)
+86
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+4797 Sales of Business Property OMB No. 1545-0184
+Form (Also Involuntary Conversions and Recapture Amounts 2023
+Under Sections 179 and 280F(b)(2))
+Attach to your tax return.
+I D n e te p r a n r a tm l R e e n v t e o n f u t e h e S T e r r e vi a c s e ury Go to www.irs.gov/Form4797 for instructions and the latest information. A S t e t q a u c e h n m c e e n N t o. 27
+Name(s) shown on return Identifying number
+PITTSBURGH SYMPHONY INC. 25-0986052
+1a Enter the gross proceeds from sales or exchanges reported to you for 2023 on Form(s) 1099-B or 1099-S
+(or substitute statement) that you are including on line 2, 10, or 20 ~~~~~~~~~~~~~~~~~~~~~~~~ 1a
+b Enter the total amount of gain that you are including on lines 2, 10, and 24 due to the partial dispositions of
+MACRS assets ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1b
+c Enter the total amount of loss that you are including on lines 2 and 10 due to the partial dispositions of MACRS
+assets  1c
+Part I Sales or Exchanges of Property Used in a Trade or Business and Involuntary Conversions From Other
+Than Casualty or Theft-Most Property Held More Than 1 Year (see instructions)
+2 (a)Description (b) Date acquired (c)Date sold (d) Gross sales (e) a l D lo e w p e re d c o ia r tion (f) b C as o i s s t , o p r lu o s ther (g) Gain or (loss)
+of property (mo., day, yr.) (mo., day, yr.) price allowable since improvements and Subtract (f) from the
+sum of (d) and (e)
+SEE STATEMENT 9 acquisition expense of sale
+3 Gain, if any, from Form 4684, line 39 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3
+4 Section 1231 gain from installment sales from Form 6252, line 26 or 37 ~~~~~~~~~~~~~~~~~~~~~~ 4
+5 Section 1231 gain or (loss) from like-kind exchanges from Form 8824 ~~~~~~~~~~~~~~~~~~~~~~~ 5
+6 Gain, if any, from line 32, from other than casualty or theft ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 6 10,691.
+7 Combine lines 2 through 6. Enter the gain or (loss) here and on the appropriate line as follows ~~~~~~~~~~ 7 104,425.
+Partnerships and S corporations. Report the gain or (loss) following the instructions for Form 1065, Schedule K,
+line 10, or Form 1120-S, Schedule K, line 9. Skip lines 8, 9, 11, and 12 below.
+Individuals, partners, S corporation shareholders, and all others. If line 7 is zero or a loss, enter the amount
+from line 7 on line 11 below and skip lines 8 and 9. If line 7 is a gain and you didn't have any prior year section
+1231 losses, or they were recaptured in an earlier year, enter the gain from line 7 as a long-term capital gain on
+the Schedule D filed with your return and skip lines 8, 9, 11, and 12 below.
+8 Nonrecaptured net section 1231 losses from prior years. See instructions ~~~~~~~~~~~~~~~~~~~~ 8
+9 Subtract line 8 from line 7. If zero or less, enter -0-. If line 9 is zero, enter the gain from line 7 on line 12 below. If
+line 9 is more than zero, enter the amount from line 8 on line 12 below and enter the gain from line 9 as a long-term
+capital gain on the Schedule D filed with your return. See instructions  9 104,425.
+Part II Ordinary Gains and Losses (see instructions)
+10 Ordinary gains and losses not included on lines 11 through 16 (include property held 1 year or less):
+11 Loss, if any, from line 7 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 11 ( )
+12 Gain, if any, from line 7 or amount from line 8, if applicable ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12
+13 Gain, if any, from line 31 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13
+14 Net gain or (loss) from Form 4684, lines 31 and 38a ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 14
+15 Ordinary gain from installment sales from Form 6252, line 25 or 36 ~~~~~~~~~~~~~~~~~~~~~~~~ 15
+16 Ordinary gain or (loss) from like-kind exchanges from Form 8824 ~~~~~~~~~~~~~~~~~~~~~~~~~ 16
+17 Combine lines 10 through 16 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17
+18 For all except individual returns, enter the amount from line 17 on the appropriate line of your return and skip lines
+a and b below. For individual returns, complete lines a and b below.
+a If the loss on line 11 includes a loss from Form 4684, line 35, column (b)(ii), enter that part of the loss here. Enter the
+loss from income-producing property on Schedule A (Form 1040), line 16. (Do not include any loss on property used
+as an employee.) Identify as from "Form 4797, line 18a." See instructions ~~~~~~~~~~~~~~~~~~~~~ 18a
+b Redetermine the gain or (loss) on line 17 excluding the loss, if any, on line 18a. Enter here and on Schedule 1
+(Form 1040), Part I, line 4  18b
+LHA For Paperwork Reduction Act Notice, see separate instructions. Form 4797 (2023)
+318011 12-27-23
+87
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+Form 4797 (2023)PITTSBURGH SYMPHONY INC. 25-0986052 Page 2
+Part III Gain From Disposition of Property Under Sections 1245, 1250, 1252, 1254, and 1255 (see instructions)
+(b)Date acquired (c)Date sold
+19 (a)Description of section 1245, 1250, 1252, 1254, or 1255 property:
+(mo., day, yr.) (mo., day, yr.)
+A PARTNERSHIP 3 VARIOUS VARIOUS
+B PARTNERSHIP 4 VARIOUS VARIOUS
+C PARTNERSHIP 19 VARIOUS VARIOUS
+D PARTNERSHIP 20 VARIOUS VARIOUS
+These columns relate to the properties on
+lines 19A through 19D. Property A Property B Property C Property D
+20 Gross sales price (Note:See line 1a before completing.) 20 9,003. 1,680. 4. 4.
+21 Cost or other basis plus expense of sale ~~~~ 21
+22 Depreciation (or depletion) allowed or allowable~ 22
+23 Adjusted basis. Subtract line 22 from line 21 ~~ 23
+24 Total gain. Subtract line 23 from line 20 24 9,003. 1,680. 4. 4.
+25 If section 1245 property:
+a Depreciation allowed or allowable from line 22 ~ 25a
+b Enter the smaller of line 24 or 25a  25b
+26 If section 1250 property: If straight line depreciation
+was used, enter -0- on line 26g, except for a corporation
+subject to section 291.
+a Additional depreciation after 1975. See instructions ~ 26a
+b Applicable percentage multiplied by the smaller
+of line 24 or line 26a. See instructions ~~~~~ 26b
+c Subtract line 26a from line 24. If residential rental
+property orline 24 isn't more than line 26a, skip
+lines 26d and 26e ~~~~~~~~~~~~~~~ 26c
+d Additional depreciation after 1969 and before 1976~~ 26d
+e Enter the smallerof line 26c or 26d ~~~~~~ 26e
+f Section 291 amount (corporations only) ~~~~ 26f
+g Add lines 26b, 26e, and 26f  26g
+27 I f s e c t i o n 1 2 5 2 p r o p e r t y : Skip this section if you didn't
+dispose of farmland or if this form is being completed for
+a partnership.
+a Soil, water, and land clearing expenses~~~~~ 27a
+b Line 27a multiplied by applicable percentage~~~~~ 27b
+c Enter the smaller of line 24 or 27b  27c
+28 If section 1254 property:
+a Intangible drilling and development costs, expenditures
+for development of mines and other natural deposits,
+mining exploration costs, and depletion. See instructions 28a
+b Enter the smaller of line 24 or 28a  28b
+29 If section 1255 property:
+a Applicable percentage of payments excluded
+from income under section 126. See instructions 29a
+b Enter the smaller of line 24 or 29a. See instructions 29b
+Summary of Part III Gains. Complete property columns A through D through line 29b before going to line 30.
+30 Total gains for all properties. Add property columns A through D, line 24 ~~~~~~~~~~~~~~~~~~~~~ 30 10,691.
+31 Add property columns A through D, lines 25b, 26g, 27c, 28b, and 29b. Enter here and on line 13 ~~~~~~~~~ 31
+32 Subtract line 31 from line 30. Enter the portion from casualty or theft on Form 4684, line 33. Enter the portion
+from other than casualty or theft on Form 4797, line 6  32 10,691.
+Part IV Recapture Amounts Under Sections 179 and 280F(b)(2) When Business Use Drops to 50% or Less
+(see instructions)
+(a) Section (b) Section
+179 280F(b)(2)
+33 Section 179 expense deduction or depreciation allowable in prior years ~~~~~~~~~~~ 33
+34 Recomputed depreciation. See instructions ~~~~~~~~~~~~~~~~~~~~~~~~ 34
+35 Recapture amount. Subtract line 34 from line 33. See the instructions for where to report  35
+318012 12-27-23 Form 4797 (2023)
+88
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21
+
+PITTSBURGH SYMPHONY INC. 25-0986052
+}}}}}}}}}}}}}}}}}}}}}}}} }}}}}}}}}}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FORM 4797 PROPERTY HELD MORE THAN ONE YEAR STATEMENT 9
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+DATE DATE SALES COST GAIN
+DESCRIPTION ACQUIRED SOLD PRICE DEPR. OR BASIS OR LOSS
+}}}}}}}}}}} }}}}}}}} }}}}}}}} }}}}}}}}}} }}}}}}}}} }}}}}}}}}} }}}}}}}}}}
+PARTNERSHIP 3 11,927. 11,927.
+PARTNERSHIP 4 52,532. -52,532.
+PARTNERSHIP 7 56. 56.
+PARTNERSHIP 10 608. -608.
+PARTNERSHIP 11 146. 146.
+PARTNERSHIP 12 8,254. 8,254.
+PARTNERSHIP 13 2,141. 2,141.
+PARTNERSHIP 14 1,879. -1,879.
+PARTNERSHIP 15 1,565. -1,565.
+PARTNERSHIP 19 48. -48.
+PARTNERSHIP 20 2,120. 2,120.
+PARTNERSHIP 23 7,339. 7,339.
+PARTNERSHIP 22 118,383. 118,383.
+}}}}}}}}}} }}}}}}}}} }}}}}}}}}} }}}}}}}}}}
+TOTAL TO 4797, PART I, LINE 2 150,366. 56,632. 93,734.
+~~~~~~~~~~ ~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+89 STATEMENT(S) 9
+14300711 786250 23428-24000 2023.06000 PITTSBURGH SYMPHONY INC. 23428-21

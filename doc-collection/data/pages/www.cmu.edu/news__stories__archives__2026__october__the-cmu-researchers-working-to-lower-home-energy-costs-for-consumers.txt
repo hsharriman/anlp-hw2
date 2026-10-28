@@ -1,0 +1,58 @@
+URL: https://www.cmu.edu/news/stories/archives/2026/october/the-cmu-researchers-working-to-lower-home-energy-costs-for-consumers
+
+The CMU Researchers Working To Lower Home Energy Costs for Consumers - News - Carnegie Mellon University
+Skip to main content
+Carnegie Mellon University homepage
+Search Carnegie Mellon UniversitySearch
+Menu
+News
+Across the country, residents are seeing their utility bills rise. CMU researchers are exploring ways to make home energy bills more affordable.
+October 6, 2026
+The CMU Researchers Working To Lower Home Energy Costs for Consumers
+Share on Facebook (opens in new window)
+Share on X (opens in new window)
+Share on LinkedIn (opens in new window)
+Print this page
+Share by email
+By: Lucy Perkins  Email
+Media Inquiries
+Name
+University Communications and Marketing, Media Relations
+Email
+The rising costs of energy bills can be a monthly stressor for homeowners and renters and utility bills soared higher than ever this summer(opens in new window). Researchers at Carnegie Mellon University have been tackling the problem from multiple angles, developing technology that makes homes use heating and cooling systems more efficiently, and proposing new rate structures for utility companies.
+A robot that monitors a home’s energy efficiency
+Erica Cochran Hameen and Ph.D candidate Nihar Pathak in CMU’s School of Architecture want to improve how the inside of a home feels to its inhabitants without raising costs. That means keeping rooms at a comfortable temperature and ensuring there’s good air quality and a healthy amount of light.
+To do that, they designed a mobile sensing device that can move unobtrusively throughout a home or apartment and collect data from each room like temperature and air quality. They say its movement style will be similar to that of a robot vacuum cleaner that automatically moves from room to room sweeping up dust and debris as it goes.
+Erica Cochran Hameen
+“A Roomba roams around your house because it knows that dust doesn’t stay in one place,” said Cochran Hameen, an associate professor in the School of Architecture and co-director of the Center for Building Performance and Diagnostics. “The same thing should be true for an environmental sensor: It needs the ability to move to understand which rooms are warmer or cooler. We believe its ability to move solves a common problem: In so many homes, the thermostat that’s controlling your environment is stuck on a wall that’s not located in the area where you spend most of your time, which means it’s probably not adequately addressing your needs.”
+For example, a thermostat located near an exterior door could have a much lower temperature reading than the rest of a home, while a thermostat on a particularly sunny wall will register the house as being much hotter than it actually is.
+Cochran Hameen and Pathak are partnering with the Carnegie Bosch Institute to create the affordable, deployable robot that they hope consumers could purchase at any big box retail store and easily customize when they get home. Once it’s set up, users will be able to view what the device’s sensors pick up on their phone.
+The innovation of this device will go beyond movement. The key to making all these systems work in harmony with one another — regardless of the brand or design — is creating an algorithm that allows them to communicate compatibly through the environmental sensing device.
+“We are building a system that allows all your systems to talk to each other,” Cochran Hameen said. “It’s important for your thermostat to be able to communicate with your air quality monitor. For example, maybe you don’t need to turn on a ton of lights, but you should open the blinds and open a window for fresh air and everything would improve without using more energy.”
+Pathak (third from left) and Cochran Hameen (third from right) demonstrated the initial deployment of the robotic device (center) and live data visualization to the Carnegie Bosch Institute research team.
+Cochran Hameen and Pathak have already begun to put their research into practice by partnering with Pittsburgh residents in Homewood to help improve the quality of living indoors in the neighborhood.
+Nihar Pathak
+“We conducted classes with residents who were interested in learning more about the device,” said Pathak. “Not every building has a thermostat, and many are not well insulated. We wanted to train residents on how to use the robots with the aim that using the robots on a large scale could be a pathway to employment as people collect indoor data for buildings in the area and learn how to make operational, maintenance and retrofit decisions.”
+Cochran Hameen said that it was important for the research team to partner with Pittsburgh residents to bridge the gap between research conducted in a lab and real-world deployment.
+“A couple of the people in our classes realized — using the robots — that their rental homes were just not good,” Hameen said. “One woman reached out to her landlord and said ‘My home has mold in it, this is bad, and I’d like it fixed.’ Because she had data to back up her request, she was able to get her landlord to respond to her needs.”
+Finding the right temperature
+Heating and cooling systems can represent more than 50% of the energy usage of a home, according to Destenie Nock, the Alex Hills Career Development Associate Professor in the College of Engineering’s Civil and Environmental Engineering and Engineering and Public Policy departments. For that reason, she believes it’s really important to understand how people would prefer to heat or cool their home if cost wasn’t a limiting factor.
+Destenie Nock
+“When we talk about energy affordability, too often people just focus on the cost of the bill, but they don’t focus enough on how people are using energy in their home,” Nock said. “That really misses the point of energy systems. For example, if I spent $0 on a phone bill, but I couldn’t call or text anyone, you wouldn’t say that my phone bill was affordable because I wasn’t able to communicate with anyone.”
+Focusing on the cost alone doesn’t factor in the temperature that feels most comfortable to the resident, which is why using more energy efficient systems don’t guarantee lower energy bills, Nock said. Many people limit how often they run their air conditioner window units or how high they set the thermostat in the winter to save money. This can put them at risk of heat stroke or their pipes freezing. Installing an energy efficient system will use less energy and lower the cost of a utility bill but it also simultaneously frees up cash to make a home a little cooler in the summer or warmer in the winter.
+“Because we don’t ask people ‘is 76 degrees comfortable to you in the summer?’ we don’t know what they actually prefer,” Nock said, “Someone may want it cooler but they can only spend a limited amount of money on their bill each month. Now if I get an energy efficient system, I might be able to afford additional cooling and knock it down to 73 degrees.”
+Changing how utilities bill consumers
+Nock said making home energy affordable will require policymakers and utility companies to drastically rethink how home utility bills are structured. In her proposal, utilities would charge a flat-rate access fee that covers the minimum amount of energy a home uses and guarantees predictable billing, and then charge an incremental rate on top of that.
+“I think if we look at history, the energy industry may move to a block structure like the telecom industry did,” Nock said. “When cell phones first came out, we all had to pay per unit of usage — minutes, texts, the fees were different depending on the time of day. But now, we typically have unlimited talk and text and some level of data. A consumer pays for access to the telecom network. You have the option to pay more for additional services on top of this, but there is a guaranteed level of access for your monthly fee.”
+In her most recent research project, Nock calculated the baseline, essential need for energy in a 1,000 square foot, one-bedroom home that has a fridge, one lightbulb per room, a water heater, and basic heating and cooling. The amount of electricity needed in the home to meet basic needs ranged from 600 kWh-1,300 kWh depending on the heating type.
+“Utilities like electricity and gas have been treated as a commodity since the first companies popped up. But now we’re hearing about affordability challenges more and more because people are realizing energy is a need, not a commodity,” Nock said. “As an energy industry we really have to think about how we’re going to allow people to meet their basic energy needs in an affordable way. I think it starts by asking what should come with the fixed fee we pay every month.”
+Work That Matters
+Researchers at CMU are working on real world solutions to the biggest challenges.
+Read more about the latest discoveries.(opens in new window)
+— Related Content —
+The CMU Data Helping Pittsburgh See Heat and Air Pollution More Clearly
+How CMU Is Curbing Energy Demands From AI Data Centers
+CMU Professor Uses Data to Connect Energy Assistance with Those in Need
+The Piper: Campus & Community News  (opens in new window)
+Official Events Calendar  (opens in new window)
+▴ scroll to top

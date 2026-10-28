@@ -1,0 +1,87 @@
+URL: https://www.cmu.edu/computing/students/index.html
+
+Students - Computing Services - Office of the CIO - Carnegie Mellon University
+Carnegie Mellon University ———     Search   Search  Search this site only
+Computing Services
+Office of the CIO
+Office of the CIO › Computing Services ›  Tech Guides  › Students
+Tech Quick Start for Students
+Welcome to Carnegie Mellon University! Use this page to learn how to take advantage of all the computing resources that the university has to offer. This guide may also be helpful if you're setting up a new computer.
+If you can't find what you need, visit Help and Support.
+Essentials Checklist
+What Do I Need to Buy?
+divider
+Essentials Checklist
+Complete the steps below to prepare your tech for life on campus.
+Important
+Once you’ve claimed your Andrew account, always log in to Google with your Andrew userID and password. Do not use your personal Google account for university business. Using Chrome? Google makes this easy with Profiles.
+Before You Arrive
+Claim your Andrew account
+Check tech requirements for your program and install software
+Secure your devices
+Access your CMU Google Mail account
+Complete Security 101 training
+Set up your PRT Ready2Ride account
+Add a secondary device in DUO
+Enable access to My Plaid Student
+Record Your Name in NameCoach
+During Your First Week
+Connect to the campus internet
+Set up campus printing
+Update your phone number in DUO (international students)
+Locate computer labs near you
+Verify your personal email address
+Access XFINITY on campus
+divider
+What Do I Need to Buy?
+Before you buy any computing resources for class, verify which ones we provide for you.
+We Provide For You
+Software
+Each student has access to our extensive software catalog, which includes:
+Productivity software, like Microsoft Office and Google Workspace for Education
+Collaboration software, like Box, Google Chat, and Zoom
+Program-specific software that your instructors may require
+Some software applications can be downloaded to your personal computer, while others are only available in computer labs or through Virtual Andrew or Timeshare Linux.
+Before you arrive, installing VPN and Microsoft Office on your computer is a good idea. You can also set up campus printing.
+Students also have free access to LinkedIn Learning, a platform that offers thousands of short training videos on topics ranging from programming languages to strategic thinking and more.
+Printers and Copiers
+As a CMU student, you’re almost always just a few steps away from a campus printer that you can use from your computer or mobile device.
+Computer Labs
+Visit any of our Windows, Mac, or Linux computer labs 24/7 to access an extensive selection of software.
+You May Need to Buy
+CMU does not provide personal computers. Before you purchase one, check with your school to learn the hardware and software specifications required to complete your coursework.
+Some schools have their own requirements, including:
+School of Computer Science
+Heinz College
+Even if your school isn’t listed above, always check with your advisor before you buy!
+If your school doesn’t provide specifications requirements, we recommend a Mac or PC that meets the specifications listed below.
+Students are eligible for an educational discount on computers purchased through the CMU Tech Store. Contact them with any questions.
+Mac
+Recommended OS  macOS 26 (Tahoe) or macOS 15 (Sequoia)
+Processor*  Apple Silicon (M1, M1 Pro, etc.)
+RAM  8 GB
+Hard Drive  512 GB SSD
+*Note: Mac computers with Apple Silicon M series processors cannot run Windows software through Boot Camp or VMware Fusion. If you have a Mac with either of these processors, you can still access supported applications through Virtual Andrew.
+Click Apple > About and look for Chip to determine the processor installed in your machine.
+Windows
+Processor  Core 5 2.4 GHz
+Note: Snapdragon or ARM processors are not supported.
+RAM  16 GB
+Hard Drive  512 GB SSD
+About
+Computing Services InfoCenter
+Spotlight Awards and Recognition
+News
+Service Status
+Log In to Services
+Computing Services Help Center
+412-268-4357 (HELP)
+Submit Support Request
+Computing Services
+Office of the CIO
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Legal Info
+www.cmu.edu
+© 2026 Carnegie Mellon University

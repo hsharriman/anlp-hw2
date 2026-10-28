@@ -1,0 +1,60 @@
+URL: https://www.cmu.edu/news/stories/archives/2026/october/why-every-bump-in-the-night-feels-different-the-neuroscience-of-sensory-perception
+
+Why Every Bump in the Night Feels Different: The Neuroscience of Sensory Perception - News - Carnegie Mellon University
+Skip to main content
+Carnegie Mellon University homepage
+Search Carnegie Mellon UniversitySearch
+Menu
+News
+Research from Kate Hong sheds new light on how the brain distinguishes between sensory signals that are consciously perceived and those that are not.
+October 26, 2026
+Why Every Bump in the Night Feels Different: The Neuroscience of Sensory Perception
+CMU researchers uncover how the brain decides what deserves attention
+Share on Facebook (opens in new window)
+Share on X (opens in new window)
+Share on LinkedIn (opens in new window)
+Print this page
+Share by email
+By: Caroline Sheedy  Email
+Media Inquiries
+Name
+University Communications and Marketing, Media Relations
+Email
+A haunted house puts the brain on edge. During Halloween, revelers may interpret every creak, whisper or unexpected touch as a sign of something frightening. Safe at home, those same sensations might barely register.
+Research from Carnegie Mellon University’s Kate Hong, published in Nature Communications(opens in new window), suggests that the brain does more than receive sensory information: it interprets it, shaping how we experience the world around us. That may be especially apparent during spooky season, when a faint sound or an unexpected touch can seem more noticeable during a horror-movie marathon on a dark and stormy night.
+The stimulus is real, but the interpretation changes.
+Why study sensory perception?
+Understanding how the brain decides what is important enough to notice is a central question in neuroscience.
+"We don't always see the world as it really is. Our brains are constantly interpreting signals to help us make sense of what's going on in the environment,” said Hong, an assistant professor of biological sciences and Neuroscience Institute in Carnegie Mellon's Mellon College of Science. “I’ve always been fascinated by how the brain transforms sensory input into our perception of the world.”
+Building on years of research, Hong and her colleagues showed that perception is not a passive process. Communication between the brain's somatosensory cortex and the superior colliculus helps determine whether a sensation was present.
+First author Alice Nam, then a graduate student in the Hong lab, said one of the most interesting parts of leading the project was thinking about the brain as a whole.
+“There is not just one area that’s responsible for one function,” Nam said. “Different brain regions and different populations of neurons work together. We really need to think about the brain as a system, because neurons are interconnected. They're not discrete objects.”
+The science of saying “I felt that”
+Hong, Nam and their team were interested in studying two distinct aspects of perception. The first is sensitivity: how well a stimulus can distinguish between the presence or absence of a stimulus. The second is decision bias: how likely it is to report that it felt something.
+To investigate, the researchers trained mice to detect tiny movements of their whiskers, which they use much like humans use their fingertips to explore the world. The mice were trained to report whether they felt a stimulus by licking one water port for “yes” and another for “no.”
+That threshold can shift depending on context. In the right circumstances, the brain may be more aware of even a faint brush against the skin, Hong said. Consider how someone walking through a cemetery may become hyperaware of every creak or whisper, when the same sensations would go unnoticed on a sunny walk with a friend.
+"Even if the sensation is the same, you might have a higher or lower threshold for saying yes or consciously noting it," Hong said.
+Shining a light on an ancient system
+Because the somatosensory cortex is widely considered the brain's primary touch-processing center, the researchers expected it to play a critical role in the task. Using optogenetics, a technique that allows scientists to control specific neurons with light, they temporarily suppressed activity in the region while mice performed the detection task.
+Hong uses optogenetics, a technique that uses light to control specific brain cells, to study how the brain decides whether sensory signals become conscious perceptions.
+The researchers expected the animals would become less sensitive to touch. Instead, they found something surprising. The mice could still detect the stimuli, but they became more likely to not report it.
+"What surprised us was that silencing the cortex didn’t simply change the sensitivity of the animal," Hong said. "It changed how biased they were to report feeling something. Depending on which side of the brain we silenced, the mice became more or less likely to say yes.”’
+This response led researchers to look at the superior colliculus, an evolutionarily ancient brain structure involved in detecting important events and triggering rapid responses to sights, sounds and touch.
+"The superior colliculus helps us react quickly to sensory changes happening around us,” Hong said. “If someone unexpectedly taps you on the shoulder, you might instinctively turn your head toward them. The superior colliculus helps coordinate these rapid responses. ”A frog spotting an insect and instantly flicking out its tongue relies heavily on a similar brain structure called the optic tectum, the evolutionary counterpart of superior colliculus. Humans have developed a much larger cortex capable of complex sensory processing, reasoning, memory and decision-making, but the older system remains.
+"What we're seeing is that the primary sensory cortex works together with this ancient system, even for something as simple as deciding whether a stimulus was present," Hong said.
+Where the research goes next
+The findings suggest that perception emerges from interactions between these regions of the brain. Rather than acting as a simple receiver of information, the brain continuously weighs incoming signals against expectations, context and state of mind before deciding what deserves attention.
+The next challenge for the Hong lab is understanding how the brain shifts between simple detection and more sophisticated perceptual judgments. Detecting a touch is one thing; determining what caused it requires more complex processing.
+"What can a frog do versus what can a human do?" Hong asked. "The neocortex allows us to do many more things, but rather than replacing the function of existing structures, it evolved to work with a structure that was already very good at helping animals survive.
+Hong said that understanding these fundamental processes could eventually help researchers understand how sensory processing and behavior change after brain injury or with neurodevelopmental conditions such as autism.
+Neuroscience Research at CMU
+The Neuroscience Institute integrates cognitive neuroscience, computational modeling, data science, biology and engineering to uncover the mechanisms of brain function and dysfunction.
+Learn more
+The brain's touch center sends information directly to the superior colliculus, an evolutionarily older brain region that helps detect and respond to sensory events. The red and green lines show these neural connections. Image by Jiwook Shin, former CMU undergraduate and co-author of the study.
+— Related Content —
+Neurosurgeons Are Really Good at Removing Brain Tumors, and They’re About To Get Even Better
+CMU Builds on Its Strengths To Advance NeuroAI
+Breakthrough in RNA Research Could Lead to Treatment for Neuromuscular Disorders
+The Piper: Campus & Community News  (opens in new window)
+Official Events Calendar  (opens in new window)
+▴ scroll to top

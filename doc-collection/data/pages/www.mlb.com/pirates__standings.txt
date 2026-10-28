@@ -1,0 +1,162 @@
+URL: https://www.mlb.com/pirates/standings
+
+2026 Pirates Standings and Record: Regular Season | Pittsburgh Pirates
+Log in
+Standings
+Sunday Sep 27
+2026
+Division
+StandardExpanded
+The top 2 division winners in each league receive byes to the Division Series. The other 4 teams in each league (3rd division winner and 3 Wild Cards) play best-of-3 Wild Card Series; the higher seed hosts all 3 games. Teams with identical records are listed in order of which team holds the tiebreaker edge.
+NL Central W L PCT GB WCGB E# L10 STRK RS RA DIFF X-W/L HOME AWAY ≥.500 Next Game
+Milwaukee Brewersz
+103 59 .636 - - - 8-2 W5 832 618
++214
+103-59 55-26 48-33 45-30
+Oct 27 @ TB
+Chicago Cubsw
+89 73 .549 14.0 +1.0 E 5-5 W1 850 703
++147
+95-67 46-35 43-38 41-37
+Pittsburgh Pirates
+82 80 .506 21.0 6.0 E 7-3 W1 767 739
++28
+84-78 44-37 38-43 35-40
+St. Louis Cardinals
+77 85 .475 26.0 11.0 E 2-8 L4 720 749
+-29
+78-84 38-43 39-42 44-45
+Cincinnati Reds
+75 87 .463 28.0 13.0 E 4-6 L1 666 826
+-160
+65-97 38-43 37-44 38-53
+NL East
+W L PCT GB WCGB E# L10 STRK RS RA
+DIFF
+X-W/L HOME AWAY ≥.500 Next Game
+Atlanta Bravesy
+94 68 .580 - - - 5-5 L1 742 626
++116
+93-69 52-29 42-39 43-29
+Philadelphia Philliesw
+88 74 .543 6.0 - E 4-6 W1 713 698
++15
+83-79 43-38 45-36 31-38
+Miami Marlins
+80 82 .494 14.0 8.0 E 5-5 W1 715 712
++3
+81-81 47-34 33-48 33-50
+Washington Nationals
+77 85 .475 17.0 11.0 E 6-4 W1 821 815
++6
+82-80 39-42 38-43 33-48
+New York Mets
+74 88 .457 20.0 14.0 E 5-5 L1 699 731
+-32
+78-84 36-45 38-43 36-48
+NL West
+W L PCT GB WCGB E# L10 STRK RS RA
+DIFF
+X-W/L HOME AWAY ≥.500 Next Game
+Los Angeles Dodgersy
+100 62 .617 - - - 8-2 W3 801 600
++201
+102-60 51-30 49-32 38-37
+San Diego Padresw
+91 71 .562 9.0 +3.0 E 8-2 W2 722 681
++41
+85-77 51-30 40-41 33-42
+Arizona Diamondbacks
+86 76 .531 14.0 2.0 E 6-4 L2 739 730
++9
+82-80 45-36 41-40 35-40
+San Francisco Giants
+65 97 .401 35.0 23.0 E 2-8 L5 669 760
+-91
+72-90 37-44 28-53 32-56
+Colorado Rockies
+58 104 .358 42.0 30.0 E 2-8 L1 752 944
+-192
+64-98 32-49 26-55 25-65
+AL East
+W L PCT GB WCGB E# L10 STRK RS RA
+DIFF
+X-W/L HOME AWAY ≥.500 Next Game
+Tampa Bay Raysz
+98 64 .605 - - - 5-5 L1 736 650
++86
+90-72 55-26 43-38 40-28
+Oct 27 vs. MIL
+New York Yankeesw
+93 68 .578 4.5 +9.5 E 5-5 W1 739 601
++138
+96-65 46-34 47-34 35-34
+Boston Red Soxw
+87 75 .537 11.0 +3.0 E 5-5 L1 689 611
++78
+90-72 41-40 46-35 36-35
+Baltimore Orioles
+79 82 .491 18.5 4.5 E 6-4 L1 718 739
+-21
+78-83 39-42 40-40 34-47
+Toronto Blue Jays
+79 83 .488 19.0 5.0 E 4-6 W1 648 694
+-46
+76-86 42-39 37-44 38-46
+AL Central
+W L PCT GB WCGB E# L10 STRK RS RA
+DIFF
+X-W/L HOME AWAY ≥.500 Next Game
+Cleveland Guardiansy
+85 77 .525 - - - 8-2 L1 678 667
++11
+82-80 41-40 44-37 25-36
+Chicago White Soxw
+84 78 .519 1.0 - E 7-3 W1 776 720
++56
+87-75 48-33 36-45 26-40
+Minnesota Twins
+77 85 .475 8.0 7.0 E 6-4 W1 739 797
+-58
+75-87 42-39 35-46 33-44
+Detroit Tigers
+76 86 .469 9.0 8.0 E 4-6 L1 723 652
++71
+89-73 42-39 34-47 31-48
+Kansas City Royals
+69 93 .426 16.0 15.0 E 2-8 W1 690 810
+-120
+69-93 41-40 28-53 23-52
+AL West
+W L PCT GB WCGB E# L10 STRK RS RA
+DIFF
+X-W/L HOME AWAY ≥.500 Next Game
+Houston Astrosy
+81 81 .500 - - - 5-5 W2 734 766
+-32
+78-84 39-42 42-39 29-26
+Texas Rangers
+80 82 .494 1.0 4.0 E 4-6 L1 673 719
+-46
+76-86 45-36 35-46 33-38
+Seattle Mariners
+76 86 .469 5.0 8.0 E 6-4 W2 664 722
+-58
+75-87 43-38 33-48 34-37
+Athletics
+64 98 .395 17.0 20.0 E 3-7 L2 699 937
+-238
+60-102 32-49 32-49 24-44
+Los Angeles Angels
+62 100 .383 19.0 22.0 E 4-6 L2 655 752
+-97
+71-91 34-47 28-53 23-48
+Last updated: Oct 25th 1:07 AM ET
+Glossary
+Clinch Indicators
+w
+Clinched Wild Card
+y
+Clinched Division
+z
+Clinched Division and Best Record in League

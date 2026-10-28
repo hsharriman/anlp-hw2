@@ -1,15 +1,16 @@
 """Build the report's tables from the system outputs in rag/results/.
 
-Writes rag/results/tables/<name>.md (to read) and <name>.tex (booktabs, for the ACL template):
-    corpus        documents and chunks per source group
+Writes rag/results/tables/<name>.tex (booktabs, for the ACL template) and prints each table:
+    corpus        documents and tokens per source group, with the sites in each group (all
+                  computed from rag/data/, so the table follows the corpus when it is rebuilt)
     retrieval     hit@k / MRR per retriever (from rag/results/public/retrieval_corpus3.txt)
-    ablations     end-to-end scores of every variant on the final corpus, with paired bootstrap
+    ablations     end-to-end scores of every variant on corpus 3, with paired bootstrap
                   p-values against the final system
     progression   corpus versions and answer styles: public set and leaderboard side by side
     by_topic      F1 per question topic for closed-book and each retriever (which fusion works
                   best for which kind of question)
     by_type       F1 per answer type (date/time, person, number, ...)
-    examples      outputs of several systems on the same questions
+    examples      outputs of several systems on the same questions (full-width table)
 Variants that have not been run yet are left out.
 
 Usage: python rag/report_tables.py
@@ -28,6 +29,7 @@ OUT = RESULTS / "tables"
 PUBLIC = RESULTS / "public"
 REFS = load_references(ROOT / "public_evaluation_data.json")
 QUESTIONS = {str(q["id"]): q["question"] for q in json.load(open(ROOT / "public_evaluation_data.json"))}
+TOKENIZER = "sentence-transformers/all-MiniLM-L6-v2"  # the chunker's tokenizer (preprocess.py)
 FINAL = "corpus3_rag_hybrid-w0.5_fallback_match-prompt_qwen30b"  # final system, short answers
 
 # (file stem in rag/results/public, label); all on corpus 3 with short answers
@@ -53,7 +55,12 @@ PROGRESSION = [
     ("corpus3_rag_hybrid-w0.5_fallback_match-prompt_sentence_qwen30b",
      "corpus3_hybrid-w0.5_fallback_match-prompt_sentence_qwen30b.json", "Sentence answers"),
     ("corpus3_rag_hybrid-w0.5_fallback_match-prompt_concise_qwen30b",
-     "corpus3_hybrid-w0.5_fallback_match-prompt_concise_qwen30b.json", "Concise sentences (submitted best)"),
+     "corpus3_hybrid-w0.5_fallback_match-prompt_concise_qwen30b.json", "Concise sentences"),
+    ("corpus3_rag_hybrid-w0.5_fallback_match-prompt_adaptive_qwen30b",
+     "corpus3_hybrid-w0.5_fallback_match-prompt_adaptive_qwen30b.json", "Adaptive (fact or sentence by question)"),
+    ("corpus4_rag_hybrid-w0.5_fallback_match-prompt_concise_qwen30b",
+     "corpus4_hybrid-w0.5_fallback_match-prompt_concise_qwen30b.json",
+     "Corpus 4: 2-link crawl of recommended sites (4,562 docs), concise (submitted best)"),
 ]
 TOPICS = [  # first match wins
     ("Art collection", r"Carnegie Museum of Art.*(painting|record|catalog|credit|accession|creator|list|acquire)|"
@@ -65,6 +72,19 @@ TOPICS = [  # first match wins
     ("Food & dining", r"restaurant|cuisine|bakery|chocolate|coffee|[Pp]izza|food|steakhouse|specialty|Restaurant Week"),
     ("CMU", r"CMU|Carnegie Mellon"),
     ("History & general", r""),
+]
+SOURCE_GROUPS = [  # report groups for the sites in the corpus, matched on the host; first match wins
+    ("Wikipedia", r"wikipedia"),
+    ("Visit Pittsburgh", r"visitpittsburgh"),
+    ("Event calendars", r"pghcitypaper|pittsburgh\.events|downtownpittsburgh|events\.cmu|improv|mrsmalls"),
+    ("Sports (pro and college)", r"steelers|mlb|nhl|panthers|rmucolonials|goduquesne|chathamcougars"),
+    ("Museums and art collection", r"carnegieart|carnegiemuseums|heinzhistory|frick|warhol|mattress|clemente|"
+                                   r"photoantiq|phipps|zoo"),
+    ("Music and performing arts", r"symphony|opera|trustarts|culturaldistrict|mendelssohn|bachchoir|music\.pitt|"
+                                  r"applause|awaacc"),
+    ("City and CMU", r"pittsburghpa|cmu\.edu|britannica"),
+    ("Food festivals", r"picklesburgh|tacofest|restaurantweek|littleitaly|bananasplit"),
+    ("Other", r""),
 ]
 ANSWER_TYPES = [
     ("Yes/no", r"^(Is|Does|Are|Do|Can)\b"),
@@ -107,21 +127,35 @@ def paired_bootstrap(a, b, metric="F1", samples=10000, seed=0):
     return extreme / samples
 
 
-def write(name, header, rows, caption, align=None):
-    """rows: lists of cells (str). Writes markdown and a booktabs LaTeX table."""
+def esc(s):
+    """Escape LaTeX special characters; **text** becomes bold."""
+    s = s.replace("\\", r"\textbackslash{}")
+    for c in "&%_#$":
+        s = s.replace(c, "\\" + c)
+    return re.sub(r"\*\*(.+?)\*\*", r"\\textbf{\1}", s)
+
+
+def write(name, header, rows, caption, align=None, wide=None):
+    """rows: lists of cells (str), a str for a row across all columns, or None for a rule. Writes a
+    booktabs LaTeX table and prints it. Tables with more than 5 columns span both page columns
+    (table*) unless wide says otherwise."""
     OUT.mkdir(parents=True, exist_ok=True)
-    md = ["| " + " | ".join(header) + " |", "|" + "|".join("---" for _ in header) + "|"]
-    md += ["| " + " | ".join(r) + " |" for r in rows]
-    (OUT / f"{name}.md").write_text(f"{caption}\n\n" + "\n".join(md) + "\n", encoding="utf-8")
-    esc = lambda s: s.replace("&", r"\&").replace("%", r"\%").replace("_", r"\_").replace("#", r"\#")
+    env = "table*" if (wide if wide is not None else len(header) > 5) else "table"
     align = align or "l" + "r" * (len(header) - 1)
-    tex = [r"\begin{table}[t]", r"\centering", r"\small", rf"\begin{{tabular}}{{{align}}}", r"\toprule",
+    tex = [rf"\begin{{{env}}}[t]", r"\centering", r"\small", rf"\begin{{tabular}}{{{align}}}", r"\toprule",
            " & ".join(esc(h) for h in header) + r" \\", r"\midrule"]
-    tex += [" & ".join(esc(c) for c in r) + r" \\" for r in rows]
+    for r in rows:
+        if r is None:
+            tex.append(r"\midrule")
+        elif isinstance(r, str):  # a full-width row
+            tex.append(rf"\multicolumn{{{len(header)}}}{{p{{0.95\textwidth}}}}{{{esc(r)}}} \\")
+        else:
+            tex.append(" & ".join(esc(c) for c in r) + r" \\")
     tex += [r"\bottomrule", r"\end{tabular}", rf"\caption{{{esc(caption)}}}", rf"\label{{tab:{name}}}",
-            r"\end{table}"]
+            rf"\end{{{env}}}"]
     (OUT / f"{name}.tex").write_text("\n".join(tex) + "\n", encoding="utf-8")
-    print(f"\n{caption}\n" + "\n".join(md))
+    print(f"\n{caption}\n" + "\n".join((r if isinstance(r, str) else " | ".join(r)).replace("**", "")
+                                         for r in [header, *rows] if r))
 
 
 def pct(x):
@@ -129,28 +163,36 @@ def pct(x):
 
 
 def corpus_table():
-    groups = [("Wikipedia", r"wikipedia"), ("Visit Pittsburgh", r"visitpittsburgh"),
-              ("Event calendars", r"pghcitypaper|pittsburgh\.events|downtownpittsburgh|events\.cmu|improv|mrsmalls"),
-              ("Sports (pro and college)", r"steelers|mlb|nhl|panthers|rmucolonials|goduquesne|chathamcougars"),
-              ("Museums and art collection", r"carnegieart|carnegiemuseums|heinzhistory|frick|warhol|mattress|clemente|photoantiq|phipps|zoo"),
-              ("Music and performing arts", r"symphony|opera|trustarts|culturaldistrict|mendelssohn|bachchoir|music\.pitt|applause|awaacc"),
-              ("City and CMU", r"pittsburghpa|cmu\.edu|britannica"),
-              ("Food festivals", r"picklesburgh|tacofest|restaurantweek|littleitaly|bananasplit"),
-              ("Other", r"")]
+    """Documents, tokens and chunks per source group; each group lists the sites (hosts) it holds, so a
+    site added to the collection shows up on its own (in "Other" until SOURCE_GROUPS names it)."""
+    from transformers import AutoTokenizer, logging
+    logging.set_verbosity_error()  # whole documents exceed the model's 512-token limit; we only count
+    tokenizer = AutoTokenizer.from_pretrained(TOKENIZER)
     docs = [json.loads(l) for l in open(ROOT / "rag" / "data" / "docs.jsonl")]
     chunks = Counter(json.loads(l)["doc_id"] for l in open(ROOT / "rag" / "data" / "chunks.jsonl"))
-    rows, totals = [], [0, 0]
-    for label, pattern in groups:
-        picked = [d for d in docs if re.search(pattern, d["doc_id"].split("/")[0]) and not d.get("_used")]
-        for d in picked:
-            d["_used"] = True
-        n_chunks = sum(chunks[d["doc_id"]] for d in picked)
-        totals[0] += len(picked)
-        totals[1] += n_chunks
-        rows.append([label, f"{len(picked):,}", f"{n_chunks:,}"])
-    rows.append(["Total", f"{totals[0]:,}", f"{totals[1]:,}"])
-    write("corpus", ["Source", "Documents", "Chunks"], rows,
-          "Knowledge resource after cleaning and deduplication (final corpus).")
+    lengths = tokenizer([d["text"] for d in docs], add_special_tokens=False, return_length=True)["length"]
+    groups = {label: Counter() for label, _ in SOURCE_GROUPS}  # label -> host -> [docs, tokens, chunks]
+    for d, n_tokens in zip(docs, lengths):
+        host = re.sub(r"^www\.", "", d["doc_id"].split("/")[0])  # www.x.org and x.org are one site
+        label = first_match(host, SOURCE_GROUPS)
+        groups[label][host, "docs"] += 1
+        groups[label][host, "tokens"] += n_tokens
+        groups[label][host, "chunks"] += chunks[d["doc_id"]]
+    rows, total = [], Counter()
+    for label, counts in groups.items():
+        hosts = sorted({h for h, _ in counts}, key=lambda h: (-counts[h, "docs"], h))
+        if not hosts:
+            continue
+        row = {key: sum(counts[h, key] for h in hosts) for key in ("docs", "tokens", "chunks")}
+        total.update(row)
+        total["sites"] += len(hosts)
+        rows.append([label, ", ".join(hosts), f"{row['docs']:,}", f"{row['tokens']:,}", f"{row['chunks']:,}"])
+    rows += [None, ["Total", f"{total['sites']} sites", f"{total['docs']:,}", f"{total['tokens']:,}",
+                    f"{total['chunks']:,}"]]
+    write("corpus", ["Source", "Sites", "Documents", "Tokens", "Chunks"], rows,
+          "Composition of our knowledge resource after cleaning and deduplication. Tokens are counted with the "
+          "all-MiniLM-L6-v2 WordPiece tokenizer used for chunking.",
+          align=r"lp{0.4\textwidth}rrr", wide=True)
 
 
 def retrieval_table():
@@ -164,7 +206,7 @@ def retrieval_table():
             rows.append([m.group(1).strip()] + [c.rstrip("%") for c in m.group(2).split()] + [m.group(3)])
     n = re.search(r"(\d+) short-answer questions", path.read_text())
     write("retrieval", ["Retriever", "hit@1", "hit@3", "hit@5", "hit@10", "hit@20", "MRR@20"], rows,
-          f"Retrieval on the final corpus: share of the {n.group(1) if n else ''} short-answer public questions "
+          f"Retrieval on corpus 3 (2,709 documents, before the final crawl): share of the {n.group(1) if n else ''} short-answer public questions "
           "with a reference answer in the top k chunks.")
 
 
@@ -178,7 +220,7 @@ def ablation_table():
         p = "" if stem == FINAL or final is None else f"{paired_bootstrap(pq, final):.3f}"
         rows.append([label] + [pct(mean(s[m] for s in pq.values())) for m in METRICS] + [p])
     write("ablations", ["System", *METRICS, "p (F1 vs final)"], rows,
-          f"End-to-end results on public_evaluation_data.json ({len(REFS)} questions), final corpus, short "
+          f"End-to-end results on public_evaluation_data.json ({len(REFS)} questions), corpus 3 (2,709 documents, before the final crawl), short "
           "answers, k=5. p: paired bootstrap (10,000 samples) for the F1 difference from the final system.")
 
 
@@ -196,11 +238,13 @@ def progression_table():
                      f"{lb['overall']:.2f}" if "overall" in lb else "-",
                      f"{lb['F1']:.1f}" if "F1" in lb else "-", f"{lb['Recall']:.1f}" if "Recall" in lb else "-",
                      f"{lb['ROUGE-L']:.1f}" if "ROUGE-L" in lb else "-", f"{lb['judge']:.2f}" if "judge" in lb else "-"])
-    write("progression", ["System", "Public F1", f"Public F1, long refs (n={len(long_refs)})", "LB overall",
+    write("progression", ["System", "Public F1", "Long refs F1", "LB overall",
                           "LB F1", "LB recall", "LB ROUGE-L", "LB judge"], rows,
           f"Development history: public set ({len(REFS)} questions) and leaderboard (LB, 150 questions; "
           "overall = mean of F1, recall, ROUGE-L and the rescaled judge score). Hybrid weighted retrieval, "
-          "Qwen3-30B-A3B. Separate question sets: never compare a public number with a leaderboard number.")
+          "Qwen3-30B-A3B. Separate question sets: never compare a public number with a leaderboard number. "
+          f"Long refs: the {len(long_refs)} public questions whose references are longer than 6 words.",
+          align=r"p{0.21\textwidth}rrrrrrr")
 
 
 def breakdown_table(name, rules, caption):
@@ -222,10 +266,7 @@ def breakdown_table(name, rules, caption):
         rows.append([f"{label} ({len(ids)})"] + cells)
     short = [l.replace("Closed-book, Qwen3-30B-A3B", "Closed-book").replace("Hybrid, weighted (final)", "Weighted")
               .replace("Hybrid, RRF", "RRF").replace("Sparse (BM25)", "BM25") for _, l in systems]
-    write(name, ["Questions (n)"] + short, [[c.replace("**", "") for c in r] for r in rows], caption)
-    (OUT / f"{name}.md").write_text(f"{caption}\n\n" + "\n".join(
-        ["| " + " | ".join(["Questions (n)"] + short) + " |", "|" + "|".join("---" for _ in range(len(short) + 1)) + "|"]
-        + ["| " + " | ".join(r) + " |" for r in rows]) + "\n", encoding="utf-8")
+    write(name, ["Questions (n)"] + short, rows, caption + " Bold: the best retrieval system for each group.")
 
 
 def examples():
@@ -241,16 +282,14 @@ def examples():
                ("corpus3_rag_dense-bge_qwen30b", "Dense"), (FINAL, "Hybrid (short)"),
                ("corpus3_rag_hybrid-w0.5_fallback_match-prompt_concise_qwen30b", "Hybrid (concise)")]
     outputs = {label: load(stem) for stem, label in systems}
-    lines = []
+    rows = []
     for qid, why in picks.items():
-        lines.append(f"**Q{qid}** ({why}): {QUESTIONS[qid]}  \nReference: {REFS[qid][0]}")
-        for label, preds in outputs.items():
-            if preds:
-                lines.append(f"- {label}: {preds.get(qid, '')}")
-        lines.append("")
-    OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "examples.md").write_text("Example outputs on public questions.\n\n" + "\n".join(lines), encoding="utf-8")
-    print("\n" + "\n".join(lines))
+        if rows:
+            rows.append(None)
+        rows.append(f"**Q{qid}** ({why}): {QUESTIONS[qid]} Reference: {REFS[qid][0]}")
+        rows += [[label, preds.get(qid, "")] for label, preds in outputs.items() if preds]
+    write("examples", ["System", "Answer"], rows, "Example outputs on public questions.",
+          align=r"lp{0.75\textwidth}", wide=True)
 
 
 def main():
@@ -258,9 +297,9 @@ def main():
     retrieval_table()
     ablation_table()
     progression_table()
-    breakdown_table("by_topic", TOPICS, "F1 by question topic (public set, final corpus, short answers). "
+    breakdown_table("by_topic", TOPICS, "F1 by question topic (public set, corpus 3, short answers). "
                     "Topics are assigned by keyword rules on the question.")
-    breakdown_table("by_type", ANSWER_TYPES, "F1 by expected answer type (public set, final corpus, short answers).")
+    breakdown_table("by_type", ANSWER_TYPES, "F1 by expected answer type (public set, corpus 3, short answers).")
     examples()
 
 

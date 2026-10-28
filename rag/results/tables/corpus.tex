@@ -1,22 +1,23 @@
-\begin{table}[t]
+\begin{table*}[t]
 \centering
 \small
-\begin{tabular}{lrr}
+\begin{tabular}{lp{0.4\textwidth}rrr}
 \toprule
-Source & Documents & Chunks \\
+Source & Sites & Documents & Tokens & Chunks \\
 \midrule
-Wikipedia & 824 & 33,216 \\
-Visit Pittsburgh & 1,064 & 6,527 \\
-Event calendars & 29 & 1,705 \\
-Sports (pro and college) & 271 & 1,551 \\
-Museums and art collection & 162 & 2,304 \\
-Music and performing arts & 261 & 1,025 \\
-City and CMU & 60 & 1,552 \\
-Food festivals & 33 & 114 \\
-Other & 5 & 26 \\
-Total & 2,709 & 48,020 \\
+Wikipedia & en.wikipedia.org & 824 & 5,605,365 & 33,216 \\
+Visit Pittsburgh & visitpittsburgh.com & 1,064 & 1,039,665 & 6,527 \\
+Event calendars & downtownpittsburgh.com, mrsmalls.com, community.pghcitypaper.com, events.cmu.edu, pittsburgh.events, improv.com & 32 & 252,448 & 1,721 \\
+Sports (pro and college) & mlb.com, goduquesne.com, nhl.com, steelers.com, gochathamcougars.com, rmucolonials.com, pittsburghpanthers.com, mktg.mlbstatic.com & 570 & 469,587 & 2,950 \\
+Museums and art collection & thefrickpittsburgh.org, carnegieart.org, carnegiemuseums.org, warhol.org, heinzhistorycenter.org, pittsburghzoo.org, mattress.org, collection.carnegieart.org, clementemuseum.com, phipps.conservatory.org, photoantiquities.org & 717 & 752,012 & 4,978 \\
+Music and performing arts & pittsburghopera.org, pittsburghsymphony.org, trustarts.org, music.pitt.edu, awaacc.org, assets.culturaldistrict.org, themendelssohn.org, bachchoirpittsburgh.org, pittsburghapplause.com & 671 & 995,606 & 6,204 \\
+City and CMU & cmu.edu, pittsburghpa.gov, britannica.com & 527 & 641,311 & 3,951 \\
+Food festivals & bananasplitfest.com, pittsburghrestaurantweek.com, picklesburgh.com, pghtacofest.com, littleitalydays.com & 141 & 63,107 & 405 \\
+Other & carnegiesciencecenter.org, pvgp.org, carnegiemnh.org & 16 & 13,056 & 80 \\
+\midrule
+Total & 47 sites & 4,562 & 9,832,157 & 60,032 \\
 \bottomrule
 \end{tabular}
-\caption{Knowledge resource after cleaning and deduplication (final corpus).}
+\caption{Composition of our knowledge resource after cleaning and deduplication. Tokens are counted with the all-MiniLM-L6-v2 WordPiece tokenizer used for chunking.}
 \label{tab:corpus}
-\end{table}
+\end{table*}

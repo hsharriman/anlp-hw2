@@ -1,0 +1,60 @@
+URL: https://www.cmu.edu/computing/start/faculty-staff.html
+
+Faculty and Staff - Computing Services - Office of the CIO - Carnegie Mellon University
+Carnegie Mellon University ———     Search   Search  Search this site only
+Computing Services
+Office of the CIO
+Office of the CIO › Computing Services ›  Tech Guides  › Faculty and Staff
+Tech Quick Start for Faculty and Staff
+Welcome to Carnegie Mellon University! Use this page during your first few weeks to learn how to take advantage of the university-wide computing resources available to you. This guide may also be helpful if you're setting up a new computer.
+If you can’t find what you need, visit Help and Support.
+Connect to the Network
+The university offers several fast and secure network options, including both wired and wireless.
+If you’re connecting off campus, we recommend connecting to the university’s Virtual Private Network (VPN) to access on-campus resources and provide additional security.
+Secure Your Devices, Accounts, and Files
+Take control of your technology, and update your operating system and apps. Install CrowdStrike for advanced protection. CrowdStrike is a requirement for university-owned computers. It’s the easiest way to keep your information, and the university’s shared resources, safe from cybersecurity threats.
+Set Up Your Email and Calendar
+Your email address is your Andrew userID followed by “@andrew.cmu.edu.” We offer mail and calendar services through Google.
+Find Your Andrew userID
+How to Use Google Mail
+How to Use Google Calendar
+Find Software You Need
+Faculty and staff have access to our extensive software catalog, which includes:
+Productivity software, like Microsoft Office and Google Workspace for Education.
+Collaboration software, like Box, Google Chat, and Zoom.
+Some software applications are available for download to your computer, while others are only available in computer labs or through Virtual Andrew or Timeshare Linux.
+You also have free access to LinkedIn Learning, a platform that offers thousands of short training videos on topics ranging from Microsoft Office to leadership and more.
+Note: Your department may also offer access to additional specialized software to support your work. Speak with your supervisor to learn what’s available to you.
+Teaching Guide
+If you are teaching students, check out our Teaching Guide to learn how to use resident technology in classrooms managed by the University Registrar’s Office.
+Are you logged in to your browser correctly?
+Always log in to Google with your Andrew userID and password. Do not use your personal Google account for university business. Using Chrome? Google makes this easy with Profiles.
+Hybrid and Remote Work
+Meet Virtually with Zoom
+Connect to Campus VPN
+Access Software Remotely
+Find Hybrid and Hoteling Spaces
+Manage Your Office Phone
+You May Also Want To
+Verify Your Personal Email Address
+Install Campus Printers
+Access the Google Shared Drive for Research
+Add a Secondary Device in DUO
+Record Your Name in NameCoach
+About
+Computing Services InfoCenter
+Spotlight Awards and Recognition
+News
+Service Status
+Log In to Services
+Computing Services Help Center
+412-268-4357 (HELP)
+Submit Support Request
+Computing Services
+Office of the CIO
+Carnegie Mellon University
+5000 Forbes Avenue
+Pittsburgh, PA 15213
+Legal Info
+www.cmu.edu
+© 2026 Carnegie Mellon University

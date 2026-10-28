@@ -1,0 +1,331 @@
+URL: https://www.mlb.com/pirates/apps/ballpark/frequently-asked-questions
+
+MLB Ballpark App Frequently Asked Questions | Pittsburgh Pirates
+Log in
+MLB Ballpark Frequently Asked Questions
+MLB Ballpark
+Frequently Asked Questions
+What's new with Ballpark in 2026
+Stronger Account Security with Multi-Factor Authentication
+To help keep your MLB account more secure, MLB is adding multi-factor authentication (MFA). When you sign in, you’ll use your email and password, then confirm it’s you with a 6-digit verification code sent to your email. You’ll also be asked to add a mobile number so you can use SMS verification.
+After you’re enrolled, you’ll sign in with your email and password and then verify your identity using either email or text message.
+Improved Home Tab for Gameday
+The Ballpark Home tab now makes it easier to access key stadium information for your gameday experience. Ticket holders can quickly view items like interactive maps, stadium games, and your MLB Wallet (at participating venues) for team-specific offers, all directly from the Home tab.
+Tap on your ticket card to dive deeper into venue-specific details that help you plan your visit and get into the ballpark smoothly. You'll find stadium A-Z guide, gate opening times, parking information, gameday weather, directions, Go-Ahead Entry details (at participating venues), and Know Before You Go tips. Everything you need to make your gameday experience stress-free is just a tap away.
+Faster Ticket Purchase with Saved Payment Methods
+Buy tickets faster without re-entering your payment information every time. The Ballpark app now supports multiple payment options:
+Apple Pay – Complete your purchase with Face ID, Touch ID, or your device passcode
+Saved cards – Store your payment details securely in the app for one-tap checkout
+Autofill – Use payment information saved through your iPhone, Android device, or browser
+Simply select your preferred payment method at checkout. No need to type in card numbers, expiration dates, or security codes each time you buy tickets.
+Table of Contents
+Supported Devices
+Getting Started
+Navigation and Usage
+MLB Ballpark Digital Ticketing
+Frequently Asked Questions
+Support Information
+Supported Devices
+Supported Apple Devices:
+iPhone XS, XR or SE (2nd generation or later) or newer devices*
+* Requires iOS 18.0 or later.
+Apple Devices that support Apple Pay technology for participating Clubs:
+iPhone XS, XR or SE (2nd generation or later) or newer devices*
+* Requires iOS 18.0 or later
+Supported Android Operating Systems:
+Android OS 11 - 16
+Back to Top
+Getting Started & Verifying Ticketing and Loyalty Accounts
+Accessing the MLB Ballpark app
+The MLB Ballpark app can be downloaded directly from the App Store on Apple devices or Google Play on Android devices. Accessing content in the MLB Ballpark app requires an MLB or a Club.com (e.g., Mets.com) account. If you do not have an existing account, you can create a new account during initial app login.
+MLB Ballpark app Digital Ticketing
+The MLB Ballpark app’s digital ticketing features allow you to purchase new tickets, present existing tickets at the ballpark for entry, and forward tickets to friends and family, or receive tickets. These features can be found in the “Tickets” tab, "Wallet" section or on the “Home” tab for upcoming games. For additional information on how to set up and use the new MLB Ballpark app digital ticketing features, please refer to the "MLB Ballpark Digital Ticketing" section below.
+For any "Wallet," account, tickets, or related support inquiries, please utilize the MLB Ballpark app Digital Assistant for step-by-step assistance.
+Club Loyalty Programs
+If you are a member of a participating Club's loyalty program, you can access that program by navigating to the Team tab and tapping on your team's Loyalty program module. The location of this module card may differ from Club to Club based on how that Club has configured its Team tab.
+If you are signed in with your MLB/Club.com account associated with the Loyalty program, you will be taken to a digital membership card, where you can view your account information, benefits, and stored value (eCash, if applicable). If your accounts are not successfully linked, you will be provided with Club-specific contact information for assistance. For inquiries about Club Loyalty program usage, your account, reward points, or stored value (eCash), please review the specific information for the Club.
+Back to Top
+Navigation and Usage
+Home Tab
+The “Home” tab is your source for personalized and contextually-relevant content and suggestions as you prepare for your ballpark visit and to complement your experience at the game.
+Your Next Ticketed Event
+The Home tab provides quick access to tickets for your next event. Tap "Open Tickets" to view your tickets and see your barcode for quick and easy scanning at the gate. From your ticket view, you can add your ticket to Apple Wallet (available at select clubs) or view additional ticket details by tapping the info icon at the bottom right of your ticket.
+Tap on your ticket card to access comprehensive venue-specific information that helps make your entry seamless. You'll find an A-Z stadium guide, gate opening times, parking information, Go-Ahead Entry details (at participating venues), and Know Before You Go tips, everything you need in one place.
+Personalized Home Tab Experience
+The Home tab delivers personalized content and venue-specific information based on your location, time, and upcoming events—helping you stay connected and prepared for game day.
+Stadium essentials and planning:
+Access interactive maps, A-Z stadium guides, and gate opening times
+View parking information and directions to help plan your arrival
+Check Go-Ahead Entry details (at participating venues) and Know Before You Go tips
+View upcoming matchups based on your location and proximity to nearby venues
+Before the game:
+Select your favorite team to receive updates on stadium information and game day communications
+Get reminders to forward tickets to friends and family so everyone's ready for game day
+At the ballpark:
+Access your MLB Wallet for team-specific discounts and offers
+Use in-venue features like mobile food and beverage ordering (at select clubs)
+Redeem game day offers and promotions with sponsored partners (at participating clubs)
+Play interactive games to enhance your ballpark experience
+Add your ballpark check-in to your Profile to capture photos and commemorate your visit
+Get the most out of your visit:
+Enable location services to unlock exclusive content and relevant information throughout your ballpark experience.
+Tickets Tab
+The” Tickets” tab enables you to purchase, access, and manage your tickets all in one place. This content is split into your “Wallet” for access to purchased tickets and “Buy Tickets” to browse schedules and purchase tickets to upcoming games/events.
+Wallet
+Access and manage your existing tickets. Ensure your account is verified to view, access, and manage tickets associated with your MLB or Club.com account.
+Sell Tickets
+SeatGeek is the MLB’s exclusive Fan-to-Fan Ticket Marketplace. Fans can now list their ticket(s) for resale on SeatGeek directly from the MLB Ballpark app. From the Tickets tab, tap “Sell Tickets”, and select which tickets you would like to list on the SeatGeek marketplace. The MLB Ballpark app will direct you to list your tickets on SeatGeek.
+After logging into your SeatGeek account, or creating a new account if you do not already have one, you can select the quantity, seats, payout method, price, and original ticket price. Once all fields have been satisfied, your ticket(s) will be officially listed on SeatGeek’s marketplace. Once your tickets have successfully sold, your tickets will automatically be removed from your MLB Ballpark app.
+View All
+For fans with tickets to more than 5 events in their Wallet, the “View All” link allows you to access all events you have.
+Buy Tickets
+Scroll through any team’s upcoming schedule. Tap on a row or the green ticket icon to purchase tickets to a specific event.
+Filters allow you to narrow down the full schedule to view just home games or navigate to another team’s schedule. If you have any questions about ticketing, please see the "MLB Ballpark Digital Ticketing" section in the FAQs below.
+Ticket Forwarding
+When you select a specific event, you will see a list of all of your tickets for that event. From this ticket list view, you can click “Forward Tickets” to transfer your ticket(s) to someone else via email or a share link. This view will also provide updates on the status of forwarded tickets, e.g., when pending or accepted by the recipient. You can also cancel a pending Forward by clicking on “Cancel” to the right of the ticket, or you can recall an accepted ticket by clicking on “Recall” to the right of the ticket.
+To track your sent and received forwards, simply tap on the ticket forward icon in the top right corner of the “Tickets” tab. Click into an event to see ticket details, including the date received, date accepted, and current ticketing status, e.g.,Forward Accepted, Forward Pending, Recalled.
+NOTE: Not all tickets are eligible for forwarding; if not eligible, the option to Forward Tickets will not be available, as the “Forward Tickets” button will not be displayed.
+Offers
+Fans that unlock exclusive offers by attending and completing an official Ballpark check-in at select games can view those offers from the Ballpark "Inbox" on the top right corner of the “Home” and “Profile” tabs. Unlocked offers will live in a fan’s Inbox until they are redeemed or have expired. Unlocked offers are a result of a successful check-in. To learn more about checking in, please refer to the Check-in section below.
+Ballpark Digital Assistant & Ticket Troubleshooting
+The MLB Ballpark app Digital Assistant provides a universal Ticketing Guide with the ability to troubleshoot issues with ticket access, forwarding, recall, and more. The Ballpark Digital Assistant can also give information on stats, game schedules, scores, and standings. To access the Digital Assistant, select the “chat” icon in the top right-hand corner of the “Home” or “Tickets” tab in the MLB Ballpark app.
+Team Tab
+Plan your visit and enhance your game day experience using the MLB Ballpark app’s Team tab. Each Club customizes its Team tab with information about its unique ballpark, including transportation options, in-venue dining, in-stadium features or services, maps, and more. In most markets, fans can browse menus and order food and drinks right from the app.
+Additionally, in select markets, fans can interact and engage with in-stadium activations, including voting, trivia, other games, and more.
+Navigate to your team's schedule to view events and purchase tickets by tapping on the "Schedule" tab in the subheader at the top of the Team tab.
+Maps
+Make the most of your time at the game with maps and directories to help you navigate around the stadium. From the Home or Team tab, locate the Maps module or icon (location may vary by Club). Based on the map configuration, you will have access to search and filter for points of interest around the venue, including entry gates, dining options, merchandise, concessions, restrooms, and more.
+Profile
+To access your Profile, tap the ‘Profile’ icon on the bottom navigation. The Profile section will allow you to edit your account information, verify your ticket accounts, modify your favorite team(s), and set notification preferences and view your Go-Ahead Entry status (where available)
+My History - Keeps a record of your past ballpark visits (i.e., Check-ins). See more below in the “My History” section.
+MLB Account Settings - Manage and update your account information after you sign in. You can change your email address, phone number, date of birth, password, communication preferences, and other personal details to keep your account current and secure.
+Favorite Teams - Allows you to modify your Favorite Team(s). Tap team tiles in descending order (i.e., your favorite Club first) to rank your favorite teams or tap again to deselect a team(s).
+App Notifications - Enabling notifications allows the MLB Ballpark app to send you push notifications and Inbox messages from your favorite team(s) on tickets, events, exclusive offers, and more.
+MLB Go-Ahead Entry - View your Go-Ahead Entry enrollment status (where applicable), learn more about participating Go-Ahead Entry Ballparks & remove yourself from the Go-Ahead Pace Pass program.
+MLB Account Emails - Allows you to verify ownership of your ticket accounts for seamless ticket access. Also indicates whether your accounts are verified and allows you to take action to verify accounts in order to ensure you can access tickets associated with your email account(s) in the MLB Ballpark app.
+Ticket Accounts - Allows you to view and manage your verified ticket accounts.
+About Ballpark - View technical details about your Ballpark app, including the app version, build number, operating system, and device information. This information is helpful when contacting customer support or troubleshooting issues.
+Close MLB Account - Permanently delete your MLB account and all associated data. This action is irreversible and will remove your tickets, purchase history, and saved information. Sign in to confirm your identity before closing your account.
+Customer Support - Contact customer support for help with tickets, account issues, payments, or technical problems. Submit a support request through the app or browse our Help Center for answers to common questions.
+Log Out - Sign out of your MLB account on this device. You'll be asked to sign in again the next time you open the app. This is useful when using a shared device or switching to a different account.
+My History
+My History helps you reminisce about games you’ve attended, including stats about your ballpark visits, where you sat, game day photos, teams seen, and final scores.
+When the “View Details” link is selected, your check-ins are displayed by year in descending order.
+Add a Game (Historic Check-In)
+Please refer to the Historic Check-in section below.
+Add Photo(s)
+To add photos to an existing check-in, simply tap on the check-in, then tap the "+ Add New Photo" button. From there, choose whether you wish to take a photo with your camera or add one from your Photo Library. Take or select your photo, and then tap "Done".
+Remove Photo(s)
+To remove photos from a check-in, simply tap on the check-in, then tap the photo you wish to remove. Then, tap the trash can icon in the lower right-hand corner of the screen. Please note, the photo will be permanently deleted from your check-in and My History.
+Edit Notes
+If you would like to edit or delete an existing check-in, simply tap on the check-in. To edit, tap the "Edit" button in the top right-hand corner. Make changes to your notes or seat information and tap "Done".
+Delete a Check In
+To delete a check-in, tap on the check-in and scroll to the bottom of the screen. You’ll notice a "Delete Game" button. If you delete a game, it will no longer display in your My History nor count towards your personal ballpark stats. Any photos associated with the check-in will also be deleted.
+Check In
+Official Check In
+An Official Check-in occurs when you scan a ticket for entry, or have location services enabled, or by manually checking in from the Team Page while at the ballpark. Checking in to a game will allow you to unlock exclusive ballpark offers as well as exclusive content on the Team tab that may only be accessible while in the stadium (e.g., voting).
+Location can be turned on from the top right of the Home tab. Enabling location services for the MLB Ballpark app will allow the app to automatically complete an Official Check-in by simply opening up your MLB Ballpark app while at the ballpark during the game.
+You can also manually complete an Official Check-in from the "Team" tab of the home team by tapping on the "Check-in" button at the bottom of the screen. The earliest a "Check-in" can be completed is 2 hours prior to the scheduled start time, and you must be near or in the stadium. If you are not near or in the stadium, the app will present a message indicating you need to be within proximity to check-in. If you believe an error has occurred, you can tap on the "Refresh" button to refresh the information for the app to attempt to better locate you.
+Accessing Unlocked Offers
+Once an Official Check-in has occurred, fans can access unlocked offers directly in their Inbox. For more details on accessing and unlocking offers after a check-in, see the Offers section.
+Historic Check-In
+Time to pull out all those old ticket stubs! If you would like to check-in retroactively to a game you attended in the past, you can now do so by tapping the “+” icon in the top right corner of "My History". While adding a "Historic" Check-in does not unlock any promotions or offers, documenting your past events will allow you to see your updated personal stats, including your own win-loss record in My History. You can add a Historic Check-in at any time for any Spring Training, Regular Season, or Postseason game going back to 1903.
+Back to Top
+MLB Ballpark Digital Ticketing
+The MLB Ballpark app’s digital ticketing features allow you to purchase new tickets, present existing tickets at the ballpark for entry, forward tickets to friends and family, and sell tickets. These features can be found in the “Tickets” tab, "Wallet" section or on the “Home” tab for upcoming games.
+Tickets will display a rotating barcode that automatically refreshes every few seconds, which helps ensure that your tickets are secure and cannot be stolen or duplicated. So, heads up that screenshots will no longer be accepted at gate entrances!
+Purchasing Tickets
+Tap on the "Tickets" tab in the bottom navigation bar and select "Buy Tickets".
+Make sure you have the correct team selected, or tap on the team name filter to change.
+Select the game for which you want to buy tickets by tapping on a row with the green ticket icon.
+Select your seats.
+Provide account and payment information.
+Review and complete your purchase.
+Verifying Accounts and Accessing Tickets
+Why verify my email?
+In order to access and manage tickets in the MLB Ballpark app, fans must verify their email, regardless of whether the tickets were purchased or received through a ticket forward. By verifying your email you confirm ownership of the MLB account and associated tickets.
+How do I verify my email?
+Fans need to login with an MLB account the first time they open the MLB Ballpark app. If you don’t have an existing MLB account, you can create one as part of the initial onboarding process.
+Fans who view the "Home" or "Tickets" tabs without a verified account will be prompted to “Please verify your email address or refresh your tickets”.
+Fans can request a verification email be sent to verify their MLB account OR add an email address under “Profile” and “My MLB Account Emails” to link the email associated with their tickets. All MLB Account Emails must be verified in order to access tickets associated with that email.
+Upon requesting a verification email, an email will be sent to that address asking you to verify that address by tapping on a one-time link.
+How can I remove a verified account?
+During the verification process, if you've added an incorrect email address OR would like to remove a secondary account that you've previously linked, you can do so within the app.
+Go to the “Home” tab in the bottom navigation bar, and click on the avatar icon or your initials in the upper left-hand corner to go to your “Profile.”
+Click on “My MLB Email Account Emails,” where you can see any emails that are linked and their verification status.
+Tap on "Remove", which will unlock all verified emails with a minus button next to each.
+Tap on the minus icon next to the email address(es) you wish to remove.
+Confirm that you want to remove the account by tapping the "Remove" button at the right of the email address.
+Important Note: While you can remove secondary email addresses, users cannot remove their primary email address (the one used to login to the MLB Ballpark app).
+How do I access my tickets?
+Ticket Purchasers
+To find your purchases in the MLB Ballpark app, go to the “Tickets” tab and click “Wallet” to view the Event card for the ticket(s) that you purchased. If you don’t see the Event card, tap on “Refresh” or pull down on the screen to refresh your ticketing inventory. Event cards will display for the next 5 upcoming events in your Wallet. For fans with more than 5 events in their inventory, tap the “View All” link on the top right of the wallet to view all upcoming events.
+Event cards will populate provided that the email address associated with those tickets is both a) linked with your MLB account, and b) you have verified your ownership over that email. If you are still not seeing an Event card, go to the “Home” tab in the bottom navigation bar, and click on the avatar icon or your initials in the upper left-hand corner to go to your Profile. Click on My MLB Email Account Emails, where you can see any emails that are linked and whether they are verified. If you need to add another email, click on “Add Another Email” at the bottom of the screen, and follow the steps.
+Click on the Event card, which will take you to your ticket(s), where you can Open tickets to view the barcode for quick and easy scanning at the gate, Add to Apple Wallet (at select Clubs), view ticket details on the ticket back (by pressing the info icon at the bottom right of the ticket face), or Forward Tickets to someone else.
+If you have tickets to more than one Club that uses Tickets.com as its primary ticketing vendor, you can access tickets across any Tickets.com Club account, provided the email(s) associated with those accounts is linked.
+Accepting a Ticket Forward
+If you received your ticket(s) as the result of a ticket forward from another fan, you will be notified directly by email or you will receive a share link where you can accept tickets from the sender.
+If you already have the MLB Ballpark app,
+For email forwards, if your email that was used to receive your forwarded ticket(s) is verified, your ticket(s) will automatically be accepted and accessible via the MLB Ballpark app.
+For SMS share links, you will need to tap the link, which will open the MLB Ballpark app, where your ticket(s) will automatically be accepted and accessible.
+If you do not already have the MLB Ballpark app downloaded,
+For email forwards, clicking “Accept Tickets” will take you to an MLB.com ticket acceptance page, where you can either accept or reject the ticket(s). Once you have accepted the ticket(s), you will be prompted to download the MLB Ballpark app, verify your account and will be able to access your tickets.
+For SMS share links, clicking “Accept Tickets” will take you to an MLB.com ticket acceptance page, where you can either accept or reject the ticket(s). Once you have accepted the ticket(s), you can click on a button that, based on the OS of your device, will route you to the appropriate app store, from where you can download the MLB Ballpark app to access your tickets.
+The sender and recipient will be notified by email when the forward is complete.
+Next, go to the “Tickets” tab and click “Wallet” to view the Event card for the ticket(s) you just accepted. If you don’t see the Event card, tap on “Refresh” or pull down on the screen to refresh. Event cards will display for the next 5 upcoming events in your Wallet. For fans with more than 5 events in their inventory, tap the “View All” link on the top right of the wallet to view all upcoming events.
+Event cards will populate provided that the email address associated with those tickets is both a) linked with your MLB account, and b) you have verified your ownership over that email. If you are still not seeing an Event card, go to the “Home” tab in the bottom navigation bar, click on the avatar icon or your initials in the upper left-hand corner to go to your Profile. Click on My MLB Email Account Emails, where you can see any emails that are linked and whether they are verified. If you need to add another email, click on “Add Another Email” at the bottom of the screen, and follow the steps.
+Click on the Event card, which will take you to your ticket(s), where you can Open tickets to view the barcode for quick and easy scanning at the gate, Add to Apple Wallet (at select Clubs), view ticket details on the ticket back (by pressing the info icon at the bottom right of the ticket face), or Forward Tickets to someone else.
+If you have tickets to more than one Club that uses Tickets.com as its primary ticketing vendor, you can access tickets across any Tickets.com Club account, provided the email(s) associated with those accounts is linked.
+Scanning a Ticket at the Ballpark
+Quickly access your tickets in the MLB Ballpark app via the "Home" tab for your next upcoming game by tapping “Open Tickets”, which will take you directly to your ticket barcode(s) so you can quickly scan to enter at entrance gates. If you have more than one ticket, this view will default to your first ticket, and you can swipe left to view additional tickets in the carousel. You will need to scan each ticket on your device at the gate or else digitally forward additional tickets to others in your party.
+At select Clubs, if you have added your ticket(s) to Apple Wallet, you can use NFC (near-field communication) to tap and go for entry into the ballpark. If you have more than one ticket, this view will default to the first ticket, and you can swipe left to view and tap additional tickets in the carousel. You will need to tap each ticket on your device at the gate or else digitally forward additional tickets to others in your party.
+You can also access your tickets from the “Tickets” tab, “Wallet” section. Simply tap on the Event card or click “Open Tickets”, which will display a list of your tickets. From the list view, tap “Open” to see the "Scan View" of your ticket for display at ballpark entrance gates. This view will display your event information, seating information, and account information. If you have multiple tickets or parking passes, you can swipe through them in "Scan View". You will need to scan each ticket on your device at the gate or else digitally forward additional tickets to others in your party.
+If you need additional assistance, please refer to the Verifying Accounts and Accessing Tickets section.
+Forwarding and Receiving a Ticket
+Forwarding a Ticket
+Go to the "Wallet" section of the "Tickets" tab and tap on the Event card for which you want to forward tickets. From this ticket list view, you will see a list of all of your tickets for that event. Click the “Forward Tickets” button at the bottom of the screen, which will enable you to select the ticket(s) you wish to transfer to someone else.
+NOTE: Not all tickets are eligible for forwarding; if not eligible, the option to Forward Tickets will not be available, as the “Forward Tickets” button will not be displayed.
+For an Individual Ticket:
+Tap on the circle to the left of the ticket to select the specific ticket you would like to forward. A blue check mark will appear next to the selected ticket.
+Tap the "Forward Tickets" button and choose your delivery method.
+Previously Used Emails - A list of prior emails to which you have successfully completed a forward in the past may appear here. Tap on an email from this list to immediately forward a ticket to the selected email without needing to manually type the email or open your device contacts.
+Via Email - An email address is required; a name and message are optional.
+Share Link - A link will be copied for you to share.
+Select from Contacts - Your device's Contacts will appear, giving you the ability to select a contact and then the contact's email address or phone number (if stored on your device). If an email is selected, the individual's name and email address will be populated. Tap "Send" to forward. If a phone number is selected, you will be able to forward the ticket via SMS.
+For Multiple tickets:
+Tap on the circle to the left of the ticket to select the specific tickets you would like to forward. Check marks will appear next to the selected tickets.
+Tap on "Forward Tickets" at the bottom of the screen and choose your delivery method.
+Previously Used Emails - A list of prior emails to which you have successfully completed a forward in the past may appear here. Tap on an email from this list to immediately forward a ticket to the selected email without needing to manually type the email or open your device contacts.
+Via Email - An email address is required; a name and message are optional.
+Share Link - A link will be copied for you to share.
+Select from Contacts - Your device's Contacts will appear, giving you the ability to select a contact and then the contact's email address or phone number (if stored on your device). If an email is selected, the individual's name and email address will be populated. Tap "Send" to forward. If a phone number is selected, you will be able to forward the ticket via SMS.
+The ticket will be moved into a "Forward Pending" state until the ticket is accepted.
+If you are the original ticket purchaser, you can revoke the ticket forward at any time up until the ticket is scanned for entry. However, if you received the ticket as the result of a forward, you can revoke subsequent ticket forwards at any time up until the ticket is scanned for entry, provided that the forward recipient does not forward the ticket to someone else. The original ticket purchaser, however, retains perpetual rights to revoke the ticket back to him/herself, regardless of whether it has been subsequently forwarded, up until the ticket is scanned for entry.
+To see the current status of all of your tickets, go to the "Wallet" section of the "Tickets" tab and tap on the Event card to see the status of forwarded tickets, e.g., when pending or accepted by the recipient. You can also cancel a pending Forward by clicking on “Cancel” to the right of the ticket, or you can recall an accepted ticket by clicking on “Recall” to the right of the ticket.
+To track all of your sent and received forwards, go to the “Tickets” tab and tap on the ticket forward icon in the top right-hand corner of the screen. From here, you can click on the down chevron icon to toggle between teams. Click into an event to see ticket details, including the date received, date accepted, and current status, e.g., Revoked.
+For more information, please refer to the Ticket Forwarding section above.
+Canceling a Forward
+Fans who forward tickets have the option of canceling the Forward at any time via the MLB Ballpark app. There are three ways in which the sender can cancel their forwarded ticket(s):
+Cancel via Scan View
+Tap into the "Tickets" tab.
+Select the Event card for the desired game.
+Locate the Forwarded ticket(s), noted by the Forward arrow icon next to them and the Forward status description below the seat information.
+Tap on the section, row, and seat to enter the "Scan View" mode.
+Tap the "Recall Forward" button located directly on the ticket.
+To confirm you wish to recall the ticket, select “Yes”.
+If Yes is tapped, you will see the ticket re-activate on your screen.
+The recipient who had their ticket(s) revoked will receive an email letting them know.
+Cancel via Event Ticket List View
+Tap into the "Tickets" tab.
+Select the Event card for the desired game.
+Locate the Forwarded ticket(s), noted by the Forward arrow icon next to them and the Forward status description below the seat information.
+Tap on the "Cancel"/"Recall" button along the right side. (If the recipient has accepted the ticket(s), it will say “Recall”. If the recipient has not yet accepted the ticket(s), it will say “Cancel”.
+A confirmation message will be displayed.
+If “Yes” is tapped, you will see the ticket re-activate on your screen.
+The recipient who had their ticket(s) revoked will receive an email letting them know.
+Cancel via Forward History
+Tap into the "Tickets" tab.
+Tap on the ticket forward icon in the top right-hand corner of the screen (it looks like a ticket with an arrow).
+From here, you can click on the down chevron icon to toggle between teams. Once selected, you will see your entire Forward History for that team.
+Click into an event to see ticket details.
+You will see ALL of your forwarded tickets for that event.
+If a ticket Forward has yet to be canceled, there will be a "Cancel Forward" link next to the individual ticket.
+Tap the "Cancel Forward" link, and a confirmation message will be displayed.
+If “Yes” is tapped, you will see a status of "Revoked" on that ticket if it had been accepted and “Canceled” if it had not yet been accepted.
+The recipient who had their ticket(s) revoked will receive an email letting them know.
+Receiving a Ticket Forward
+To accept a ticket forward, please see the Accepting a Ticket Forward section.
+Selling Tickets on SeatGeek
+To sell your tickets from the Ballpark app please complete the following steps. You will be directed to SeatGeek, the official marketplace of Major League Baseball, to list your tickets for sale.
+Tap on the "Tickets" tab in the Ballpark app
+Select the event with the tickets you want to sell. Note: you can only sell tickets within the same event. Tickets for multiple events need to be listed for sale separately.
+Tap the Sell Tickets button
+Select the tickets you want to sell. Note: not all tickets are able to be resold, see ticket terms for details.
+Tap the Sell Tickets button
+Tap "Sell Tickets" on the confirmation modal directing you to SeatGeek
+Sign up or Login to your SeatGeek account
+When logged into SeatGeek, select the seats to be listed for sale, payout method, price and original ticket price
+Confirm your ticket listing and your ticket(s) will be officially listed on SeatGeek’s marketplace and your ticket status will be reflected in the Ballpark app
+Back to Top
+Frequently Asked Questions
+What should I do if I am unable to present my tickets using the MLB Ballpark app?
+If you are unable to access your tickets via MLB Ballpark digital ticketing or the "Tickets" tab in the MLB Ballpark app, please contact the Box Office for immediate assistance or select the Digital Assistant chat icon at the top right-hand corner of the "Home" or "Tickets" tab.
+If you do not remember your MLB account password, you can request a new password for your MLB account by tapping on "Forgot Password?" on the login screen.
+Ticketmaster customer service can also help troubleshoot any ticketing related issues.
+What ballparks support digital ticketing?
+All 30 major league ballparks support digital ticketing for the 2026 season.
+What ballparks support Go-Ahead Entry?
+Select Major League ballparks will offer dedicated Go-Ahead Entry lanes for facial authentication access to the stadium. The following ballparks currently have Go-Ahead Entry available to enrolled fans, with more ballparks to be added throughout the season.
+Minute Maid Park (HOU)
+Citizens Bank Park (PHI)
+Great American Ball Park (CIN)
+Dodger Stadium (LAD)
+Kauffman Stadium (KCR)
+American Family Field (MIL)
+Target Field (MIN)
+Oracle Park (SFG)
+Nationals Park (WSH)
+What ballparks support club loyalty programs?
+Chase Field (ARI)
+Camden Yards (BAL)
+Angel Stadium (LAA)
+Globe Life Field (TEX)
+Truist Park (ATL)
+Fenway Park (BOS)
+Wrigley Field (CHC)
+Guaranteed Rate Field (CWS)
+Great American Ball Park (CIN)
+Progressive Field (CLE)
+Coors Field (COL)
+Comerica Park (DET)
+Minute Maid Park (HOU)
+Kauffman Stadium (KCR)
+loanDepot Park (MIA)
+American Family Field (MIL)
+Citi Field (NYM)
+Yankee Stadium (NYY)
+Citizens Bank Park (PHI)
+PNC Park (PIT)
+T-Mobile Park (SEA)
+Busch Stadium (STL)
+Oracle Park (SFG)
+Back to Top
+Support Information
+Club Loyalty Program Support
+For inquiries about Club loyalty program usage, your account, tickets, reward points, or stored value (eCash), please review the specific contact information for the Club which is listed in the app.
+Ticketing Support
+For all inquiries regarding ticket accounts, inventory, verifying or ticket presentation, please contact the Club Box Office for immediate assistance. For self-service remediation in the app, select the chat icon from the “Home” or “Tickets” tab to follow step-by-step instructions in the Ballpark Digital Assistant chatbot.
+If you have any questions about the "Wallet" section of the “Tickets” tab, please contact the Club Box Office for immediate assistance or follow the instructions presented in the error message.
+Club Ticket Help Contact
+Club Phone Email
+Athletics (916) 371-HITS (4487)
+Baltimore Orioles (888) 848-BIRD
+Boston Red Sox (877) REDSOX9
+Chicago Cubs (773) 404-2827
+Cincinnati Reds (513) 765-7000 ticketservices@reds.com
+Cleveland Guardians (216) 420-HITS
+Detroit Tigers (313) 471-7000
+Houston Astros (713) 259-8000 tickethelp@astros.com
+Kansas City Royals 1-800-6ROYALS
+Los Angeles Angels (888) 796-HALO
+Los Angeles Dodgers (866) DODGERS
+Miami Marlins (305) 480-1300
+Milwaukee Brewers (414) 902-4000 tickets@brewers.com
+Minnesota Twins (612) 659-3400
+New York Mets (718) 565-4360 ticket_services@nymets.com
+Philadelphia Phillies (215) 463-1000
+Pittsburgh Pirates (412) 321-BUCS
+San Diego Padres (619) 795-5555 tickets@padres.com
+San Francisco Giants (415) 972-2000
+St. Louis Cardinals (314) 345-9000
+Tampa Bay Rays (888) FAN-RAYS
+Texas Rangers (972) RANGERS
+Washington Nationals (202) 675-NATS (6287)
+MLB Ballpark App Support
+If you have any questions or require troubleshooting assistance with the MLB Ballpark app, please contact Customer Service online or call us toll-free at 866-244-2291 (US) or 972-836-1111 (International).
+If you have any questions or require troubleshooting assistance with the MLB Ballpark app, please contact Customer Service toll-free at 866-244-2291 (US) or 972-836-1111 (International).
+Customer Support Hours:
+Monday through Friday 9 a.m. to 6 p.m. ET
+Customer Support remains open until the conclusion of the last game each weeknight.
+Customer Support will remain closed on the following days: Weekends, Thanksgiving Day, Christmas Eve, Christmas Day, New Year's Eve, New Year's Day.
+Back to Top

@@ -1,0 +1,778 @@
+URL: https://pittsburghopera.org/wp-content/uploads/2026/09/16298-FINAL-FS-SF-Pittsburgh-Opera-063025-24-A.pdf
+
+PITTSBURGH OPERA, INC.
+Pittsburgh, Pennsylvania
+Financial Statements
+For the years ended June 30, 2025 and 2024
+and Independent Auditor’s Report Thereon
+www.schneiderdowns.com
+
+C O N T E N T S
+PAGE
+INDEPENDENT AUDITOR’S REPORT 1
+FINANCIAL STATEMENTS
+Statements of Financial Position, June 30, 2025 and 2024 4
+Statements for the years ended June 30, 2025 and 2024:
+Activities and Changes in Net Assets 6
+Functional Expenses 8
+Cash Flows 12
+Notes to Financial Statements 13
+
+INDEPENDENT AUDITOR’S REPORT
+Board of Directors
+Pittsburgh Opera, Inc.
+Pittsburgh, Pennsylvania
+Opinion
+We have audited the accompanying financial statements of Pittsburgh Opera, Inc. (Opera) (a nonprofit
+organization), which comprise the statements of financial position as of June 30, 2025 and 2024, and the related
+statements of activities and changes in net assets, functional expenses and cash flows for the years then ended,
+and the related notes to the financial statements.
+In our opinion, the financial statements referred to above present fairly, in all material respects, the financial
+position of the Opera as of June 30, 2025 and 2024, and the changes in its net assets, and its functional expenses
+and cash flows for the years then ended in accordance with accounting principles generally accepted in the United
+States of America.
+Basis for Opinion
+We conducted our audits in accordance with auditing standards generally accepted in the United States of
+America. Our responsibilities under those standards are further described in the Auditor’s Responsibilities for the
+Audit of the Financial Statements section of our report. We are required to be independent of the Opera and to
+meet our other ethical responsibilities in accordance with the relevant ethical requirements relating to our audits.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit
+opinion.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in accordance
+with accounting principles generally accepted in the United States of America, and for the design,
+implementation, and maintenance of internal control relevant to the preparation and fair presentation of
+financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, management is required to evaluate whether there are conditions or
+events, considered in the aggregate, that raise substantial doubt about the Opera’s ability to continue as a going
+concern within one year after the date that the financial statements are available to be issued.
+Schneider Downs & Co., Inc. One PPG Place 65 E. State Street 1660 International Drive
+www.schneiderdowns.com Suite 1700 Suite 2000 Suite 600
+McLean, VA 21102
+Pittsburgh, PA 15222 Columbus, OH 43215
+TEL 571.380.9003
+TEL 412.261.3644 TEL 614.621.4060
+FAX 412.261.4876 FAX 614.621.4062
+1
+
+Auditor’s Responsibility for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from
+material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion.
+Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not a guarantee
+that an audit conducted in accordance with generally accepted auditing standards will always detect a material
+misstatement when it exists. The risk of not detecting a material misstatement resulting from fraud is higher than
+for one resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or
+the override of internal control. Misstatements are considered material if there is a substantial likelihood that,
+individually or in the aggregate, they would influence the judgment made by a reasonable user based on the
+financial statements.
+In performing an audit in accordance with generally accepted auditing standards, we:
+• Exercise professional judgment and maintain professional skepticism throughout the audit.
+• Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or
+error, and design and perform audit procedures responsive to those risks. Such procedures include
+examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+• Obtain an understanding of internal control relevant to the audit in order to design audit procedures that
+are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness
+of the Opera’s internal control. Accordingly, no such opinion is expressed.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of significant accounting
+estimates made by management, as well as evaluate the overall presentation of the financial statements.
+• Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, that raise
+substantial doubt about the Opera’s ability to continue as a going concern for a reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other matters, the planned
+scope and timing of the audit, significant audit findings, and certain internal control related matters that we
+identified during the audit.
+Schneider Downs & Co., Inc.
+Pittsburgh, Pennsylvania
+September 16, 2025
+2
+
+[This Page Intentionally Left Blank.]
+3
+
+PITTSBURGH OPERA, INC.
+STATEMENTS OF FINANCIAL POSITION
+June 30, 2025
+Without Donor With Donor
+Restrictions Restrictions Total
+ASSETS
+CASH AND CASH EQUIVALENTS $ 7 7,427 $ 464,051 $ 541,478
+CONTRIBUTIONS RECEIVABLE, NET 593,379 1,786,891 2 ,380,270
+INVESTMENTS 1,087,526 25,034,101 26,121,627
+INVESTMENTS HELD BY TRUST - 846,902 846,902
+DEFERRED CHARGES AND OTHER 55,239 130,000 185,239
+PROPERTY AND EQUIPMENT, NET 4,097,150 - 4 ,097,150
+Total Assets $ 5 ,910,721 $ 2 8,261,945 $ 34,172,666
+LIABILITIES AND NET ASSETS
+ACCOUNTS PAYABLE $ 9 5,181 - $ 95,181
+ACCRUED EXPENSES 6 2,501 - 6 2,501
+DEFERRED SUBSCRIPTIONS 3 15,628 - 3 15,628
+Total Liabilities 4 73,310 - 4 73,310
+NET ASSETS 5 ,437,411 $ 28,261,945 33,699,356
+Total Liabilities And Net Assets $ 5,910,721 $ 28,261,945 $ 34,172,666
+4
+
+June 30, 2024
+Without Donor With Donor
+Restrictions Restrictions Total
+$ 1 23,553 $ 1,178,453 $ 1 ,302,006
+563,318 2,002,459 2 ,565,777
+1,272,481 23,562,320 2 4,834,801
+- 813,819 8 13,819
+91,460 94,077 1 85,537
+4,295,654 - 4 ,295,654
+$ 6 ,346,466 $ 2 7,651,128 $ 33,997,594
+$ 3 18,074 - $ 3 18,074
+3 8,409 - 38,409
+3 91,842 - 391,842
+7 48,325 - 7 48,325
+5 ,598,141 $ 27,651,128 3 3,249,269
+$ 6,346,466 $ 27,651,128 $ 33,997,594
+See notes to financial statements.
+5
+
+PITTSBURGH OPERA, INC.
+STATEMENTS OF ACTIVITIES AND CHANGES IN NET ASSETS
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+2025
+Without Donor With Donor
+Restrictions Restrictions Total
+REVENUE AND OTHER SUPPORT
+Season subscriptions $ 388,453 - $ 388,453
+Single ticket sales 495,339 - 495,339
+Group ticket sales 131,351 - 131,351
+1,015,143 - 1,015,143
+Net assets released from restrictions:
+For operations 2,062,105 $ (2,062,105) -
+For building fund 138,894 (138,894) -
+For investment income spending 759,923 (759,923) -
+2,960,922 (2,960,922) -
+Investment income, net 84,862 2 ,730,457 2,815,319
+Other 185,666 - 185,666
+270,528 2 ,730,457 3,000,985
+PUBLIC SUPPORT 4,065,199 841,282 4,906,481
+Total Revenue, Other Support
+And Public Support 8,311,792 6 10,817 8,922,609
+OPERATING EXPENSES
+Production 3,930,223 - 3,930,223
+Outreach and education 1,325,119 - 1,325,119
+General and administrative 2,226,654 - 2,226,654
+Fundraising 766,358 - 766,358
+8,248,354 - 8,248,354
+Changes In Net Assets Before
+Depreciation 63,438 6 10,817 674,255
+DEPRECIATION EXPENSE ( 224,168) - ( 224,168)
+Changes In Net Assets ( 160,730) 6 10,817 450,087
+NET ASSETS
+Beginning of year 5,598,141 2 7,651,128 33,249,269
+End of year $ 5,437,411 $ 2 8,261,945 $ 33,699,356
+6
+
+2024
+Without Donor With Donor
+Restrictions Restrictions Total
+$ 428,919 - $ 4 28,919
+495,340 - 4 95,340
+137,726 - 137,726
+1,061,985 - 1 ,061,985
+2,598,521 $ (2,598,521) -
+337,211 (337,211) -
+772,838 (772,838) -
+3,708,570 (3,708,570) -
+102,141 2 ,125,904 2 ,228,045
+209,728 - 209,728
+311,869 2 ,125,904 2 ,437,773
+3,704,799 1,293,902 4 ,998,701
+8,787,223 (288,764) 8 ,498,459
+4,022,439 - 4 ,022,439
+1,270,979 - 1 ,270,979
+2,032,598 - 2 ,032,598
+964,122 - 9 64,122
+8,290,138 - 8 ,290,138
+497,085 (288,764) 2 08,321
+( 219,386) - ( 219,386)
+277,699 (288,764) ( 11,065)
+5,320,442 2 7,939,892 3 3,260,334
+$ 5,598,141 $ 2 7,651,128 $ 33,249,269
+See notes to financial statements.
+7
+
+PITTSBURGH OPERA, INC.
+STATEMENT OF FUNCTIONAL EXPENSES
+FOR THE YEAR ENDED JUNE 30, 2025
+Program Services
+Production Education Resident Artist IDEA Total
+Salaries and wages $ 2 ,393,757 $ 1 61,203 $ 6 77,622 $ 5 2,020 $ 3 ,284,602
+Pension 3 5,801 1 ,981 7 ,240 5 63 4 5,585
+Other employee benefits 3 6,105 8 ,915 2 1,046 4 ,338 7 0,404
+Payroll taxes 9 3,872 8 ,995 2 2,962 3 ,947 1 29,776
+Accounting - - - - -
+Subcontractor expenses 3 95,955 1 ,745 8 0,310 4 8,004 5 26,014
+Advertising and promotion 2 25,563 - 6 8,036 - 2 93,599
+Office - 1 ,583 1 8,671 9 16 2 1,170
+Information technology - 2 ,157 1 40 2 ,061 4 ,358
+Royalties 1 ,224 - 1 5,451 - 1 6,675
+Occupancy 2 44,600 - - - 2 44,600
+Travel 2 5,579 - 4 ,185 - 2 9,764
+Interest - - - - -
+Depreciation - - - - -
+Insurance 3 ,600 - - - 3 ,600
+Production sets and costumes 4 00,934 7 ,923 8 3,442 6 36 4 92,935
+Cast housing 7 3,233 - 1 8,466 - 9 1,699
+Fundraising - - - - -
+Other - - 2 23 3 38 5 61
+$ 3 ,930,223 $ 1 94,502 $ 1 ,017,794 $ 1 12,823 $ 5 ,255,342
+8
+
+Management
+and Total
+General Fundraising 2025
+$ 9 77,881 $ 5 06,599 $ 4 ,769,082
+1 3,249 3 ,768 6 2,602
+1 40,253 3 5,115 2 45,772
+1 11,837 4 1,175 2 82,788
+4 2,090 6 42 4 2,732
+1 56,946 7 7,704 7 60,664
+1 48,694 1 ,989 4 44,282
+9 0,390 1 8,043 1 29,603
+1 44,407 4 2,027 1 90,792
+- - 1 6,675
+2 50,772 - 4 95,372
+4 6,612 3 ,305 7 9,681
+8 - 8
+2 24,168 - 2 24,168
+1 00,361 - 1 03,961
+2 ,753 - 4 95,688
+- - 9 1,699
+2 98 3 5,991 3 6,289
+1 03 - 6 64
+$ 2 ,450,822 $ 7 66,358 $ 8 ,472,522
+See notes to financial statements.
+9
+
+PITTSBURGH OPERA, INC.
+STATEMENT OF FUNCTIONAL EXPENSES
+FOR THE YEAR ENDED JUNE 30, 2024
+Program Services
+Production Education Resident Artist IDEA Total
+Salaries and wages $ 2 ,094,366 $ 1 55,092 $ 6 66,775 $ 1 02,000 $ 3 ,018,233
+Pension 1 21,991 2 ,768 2 2,261 9 78 1 47,998
+Other employee benefits 9 9,944 8 ,752 1 9,328 8 ,474 1 36,498
+Payroll taxes 1 07,988 8 ,252 2 4,770 8 ,090 1 49,100
+Accounting - - - - -
+Subcontractor expenses 3 94,481 5 ,539 4 6,491 6 ,788 4 53,299
+Advertising and promotion 3 39,284 - 4 3,680 - 3 82,964
+Office - 4 ,329 2 7,852 1 ,923 3 4,104
+Information technology - 2 ,201 2 57 2 ,146 4 ,604
+Royalties 1 4,045 - 3 ,753 - 1 7,798
+Occupancy 3 02,705 6 ,500 - - 3 09,205
+Travel 2 7,161 - 2 ,237 - 2 9,398
+Interest - - - - -
+Depreciation - - - - -
+Insurance 1 1,200 - - - 1 1,200
+Production sets and costumes 4 19,425 1 2,286 7 3,364 2 14 5 05,289
+Cast housing 8 9,849 - 3 ,450 - 9 3,299
+Fundraising - - - - -
+Other - - 2 15 2 14 4 29
+$ 4 ,022,439 $ 2 05,719 $ 9 34,433 $ 1 30,827 $ 5 ,293,418
+10
+
+Management
+and Total
+General Fundraising 2024
+$ 8 04,746 $ 6 77,139 $ 4 ,500,118
+1 1,815 3 ,366 1 63,179
+1 43,853 3 0,429 3 10,780
+1 06,840 5 2,093 3 08,033
+6 9,734 6 72 7 0,406
+2 65,765 9 9,384 8 18,448
+6 9,965 1 76 4 53,105
+9 5,539 2 8,455 1 58,098
+1 10,599 2 4,868 1 40,071
+- - 1 7,798
+2 19,749 1 21 5 29,075
+5 3,272 4 26 8 3,096
+7 ,333 - 7 ,333
+2 19,386 - 2 19,386
+6 6,665 - 7 7,865
+4 ,600 (29) 5 09,860
+- - 9 3,299
+2 ,123 4 7,022 4 9,145
+- - 4 29
+$ 2 ,251,984 $ 9 64,122 $ 8 ,509,524
+See notes to financial statements.
+11
+
+PITTSBURGH OPERA, INC.
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+2025 2024
+CASH FLOWS FROM OPERATING ACTIVITIES
+Changes in net assets $ 450,087 $ ( 11,065)
+Adjustments to reconcile changes in net assets to net cash
+(used in) provided by operating activities:
+Depreciation 224,168 219,386
+Contributions restricted for investment in endowment - ( 14,700)
+Net realized and unrealized gain on investments ( 1,957,418) ( 1,650,066)
+Changes in operating assets and liabilities:
+Contributions receivable 185,507 3,402,788
+Deferred charges and other 298 152,327
+Accounts payable ( 222,893) 5,824
+Accrued expenses 24,092 ( 72,402)
+Deferred subscriptions ( 76,214) ( 3,027)
+Net Cash (Used In) Provided By Operating Activities ( 1,372,373) 2,029,065
+CASH FLOWS FROM INVESTING ACTIVITIES
+Purchases of investments ( 5,142,868) ( 6,542,605)
+Proceeds from sale of investments 5,780,377 5,166,500
+Purchases of property and equipment ( 25,664) ( 288,405)
+Net Cash Provided By (Used In) Investing Activities 611,845 ( 1,664,510)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Proceeds from contributions restricted for investment in endowment - 14,700
+Net (Decrease) Increase In Cash And Cash Equivalents ( 760,528) 379,255
+CASH AND CASH EQUIVALENTS
+Beginning of year 1,302,006 922,751
+End of year $ 541,478 $ 1,302,006
+See notes to financial statements.
+12
+
+PITTSBURGH OPERA, INC.
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+NOTE 1 - ORGANIZATION
+Pittsburgh Opera, Inc. (Opera) is a Pennsylvania not-for-profit corporation formed for the primary purpose
+of producing operatic and other musical performances for the benefit of the public. The Opera produced five operas
+with a total of 21 performances during its 2025 season. The Opera produced six operas with a total of 24
+performances during its 2024 season. A component organization of the Opera is Friends of Pittsburgh Opera, which
+provides valuable support to the Opera both financially and as a liaison within the community.
+The Opera also administers the Resident Artist Program of the Pittsburgh Opera (Program), which is an
+artist-training program that prepares young artists for operatic careers. The Program is a major source of outreach
+and education for the Opera. The Program produced two operas with a total of nine performances in 2025. During
+2024, the Opera produced two operas with a total of eight performances during its season as part of the Program.
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+A summary of significant accounting policies consistently applied by management in the preparation of
+the accompanying financial statements follows:
+The accompanying financial statements have been prepared on the accrual basis of accounting.
+The financial statements include the accounts of the Pittsburgh Opera, Inc., and the component organization
+(collectively, the Opera). All significant intercompany accounts and transactions have been eliminated.
+The preparation of financial statements in conformity with generally accepted accounting principles in the
+United States of America (U.S. GAAP) requires management to make estimates and assumptions that affect the
+reported amount of assets and liabilities and disclosures of contingent assets and liabilities at the date of the
+financial statements and the reported amounts of revenues and expenses during the reporting period. Actual
+results could differ from those estimates.
+The Opera classifies resources for accounting and reporting purposes into separate net asset classes based
+on the absence or existence of donor-imposed restrictions. In the accompanying financial statements, net assets
+that have similar characteristics have been combined into similar categories. A description of the Opera’s net asset
+categories is as follows:
+Net Assets Without Donor Restrictions - Net assets not subject to donor-imposed
+restrictions or stipulations as to purpose or use.
+Net Assets With Donor Restrictions - Net assets that are subject to donor-imposed
+restrictions. Some donor-imposed stipulations are temporary in nature, such as those that
+may or will be satisfied either by actions of the Opera and/or the passage of time. Other
+donor-imposed stipulations are perpetual in nature of investing the principal contribution in
+perpetuity and using only the investment income for the Opera’s operations and programs.
+The Opera reports gifts of cash and other assets as restricted support if they are received with donor-
+imposed restrictions that limit the use of the donated assets. When a donor restriction expires, that is, when a
+stipulated time restriction ends or purpose restriction is accomplished, net assets with donor restrictions are
+reclassified to net assets without donor restrictions and reported in the statements of activities and changes in net
+assets as net assets released from restrictions. Certain restricted funds were received and expended during the
+same year. These funds are classified on the statements of activities and changes in net assets as without donor
+restrictions.
+1 3
+
+PITTSBURGH OPERA, INC.
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+Receipts of unconditional promises to give with payments due in future periods are recorded as pledges
+receivable and recognized as increases to net assets at the date of promise. Provisions are made for estimated
+uncollectible unconditional promises to give based on historical collection experience, a review of the current
+status of unconditional promises to give and judgment. Decisions to charge off receivables are based on
+management’s judgment after consideration of facts and circumstances surrounding potential uncollectible
+accounts. It is reasonably possible that the Opera’s estimate of the allowance for doubtful accounts will change.
+The total allowance for doubtful accounts was approximately $18,000 at both June 30, 2025 and 2024. Receipts
+of conditional promises to give, which depend on the occurrence of a specified future and uncertain event, are
+recognized when the conditions on which they depend are substantially met.
+The Opera maintains cash that at times might exceed the federally insured amount. The Opera has not
+experienced any losses on such accounts. For purposes of the statements of cash flows, the Opera considers all
+interest-bearing certificates of deposit and noninterest-bearing accounts to be cash equivalents.
+Investments are carried at fair value, which is the price that would be received to sell an asset or paid to
+transfer a liability (i.e., exit price) in an orderly transaction between market participants at the measurement date.
+Accordingly, the change in net unrealized appreciation or depreciation for the year is included in the statements of
+activities and changes in net assets. Investment income (including realized and unrealized gains and losses on
+investments, interest and dividends) is included in net assets without donor restrictions unless the income is
+restricted by donor or law. Investment income is reported net of internal and external expenses. The cost of
+investment securities sold is determined using the specific identification method.
+Other general advertising costs are expensed in the period incurred. Advertising expenses approximated
+$444,000 and $453,000 for the years ended June 30, 2025 and 2024, respectively.
+Functional expenses are summarized and categorized based on their functional classification as either
+program or supporting expenses. Specific expenses that are readily identifiable to a single program or activity are
+charged directly to that function. Certain categories of expenses are attributable to more than one program or
+supporting function and allocated based on analysis of personnel time. All other expenses are allocated based on
+actual usage. These expenses are allocated on a reasonable basis that is consistently applied.
+Property and equipment are recorded at the lower of cost or fair value. Donated equipment is stated at fair
+market value at the date of donation. Depreciation and amortization are computed on a straight-line basis over
+estimated useful lives. Repairs and maintenance costs that do not extend the lives of the applicable assets are charged
+to expense as incurred. Gain or loss resulting from the retirement or other disposition of assets is included in the
+statements of activities and changes in net assets. The Opera capitalizes all additions greater than or equal to $2,000.
+Long-lived assets are reviewed for impairment when events or changes in circumstances indicate that the
+carrying value of the asset might not be recoverable. The carrying amount of the assets is compared to the related
+expected undiscounted future cash flows to be generated by those assets over the estimated remaining useful life
+of the primary asset. Cash flows are projected based on historical results and expectations. In cases where the
+expected future cash flows and fair value are less than the carrying amount of the assets, the assets are considered
+to be impaired and are written down to fair value, based on appraisals or other methods to estimate value. There
+were no impairment losses recorded in 2025 or 2024.
+1 4
+
+PITTSBURGH OPERA, INC.
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+The Opera follows Accounting Standards Codification Topic 606, Revenue from Contracts with
+Customers (Topic 606). The Opera’s revenues are derived from the sale of tickets to attend performances, either
+through subscription (group) or single ticket sales. Revenue is recognized when the Opera satisfies its
+performance obligation under the contract by transferring the promised service (performance) to the customer.
+Ticket sales are recognized at the point in time in which the related performance occurs. Revenue is measured as
+the amount of consideration the Opera expects to receive in exchange for transferring the services to the customer.
+Payment terms are either payment in advance or immediate payment.
+Based on the nature of the Opera’s contracts, there were no contract assets recorded at June 30, 2025 or
+2024.Contract liabilities consist of payments received before ticket sales are earned. Contract liabilities were
+approximately $316,000 and $392,000 and are included in deferred subscriptions in the statements of financial
+position at June 30, 2025 and 2024, respectively. At July 1, 2023, contract assets and liabilities were $0 and
+$395,000, respectively.
+The Opera organizes benefit and fundraising events during the year that are recorded net of revenues
+received. Included in public support on the statements of activities and changes in net assets are net benefits and
+fundraising public support of approximately $371,000 and $276,000 for 2025 and 2024, respectively. Had the
+Opera recorded revenues and expenses at their gross amount, revenues and expenses would have been greater by
+approximately $216,000 and $195,000 for 2025 and 2024, respectively.
+The Opera is exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code
+(IRC) and from Pennsylvania state taxes. Accordingly, no provision for income taxes is recorded in the financial
+statements. The Opera’s policy is to accrue interest and penalties related to unrecognized tax benefits in income
+tax expense as a component of general, administrative and fundraising expense. The Opera has not identified any
+material uncertain tax positions requiring an accrual or disclosure in the financial statements. The tax years ending
+after 2021 remain open to examination.
+The Opera receives certain donated services that assist in accomplishing its goals. The Opera assigns
+values to such services based on rates commensurate with the type of services performed. Such expenses are
+reflected in the accompanying financial statements as both revenue and expense. In-kind services include but are
+not limited to event space and other event services and IT consulting support. In 2024, in-kind donations totaled
+approximately $87,000. There were no in-kind donations in 2023.
+Although board members have donated a substantial amount of time to the operation of the Opera, no
+amounts have been reflected in the accompanying financial statements for donated services because no objective
+basis is available to measure the value of such services.
+Subsequent Events - Subsequent events are events or transactions that occur after the statement of
+financial position date but before the financial statements are issued or are available to be issued. Management has
+evaluated subsequent events through September 16, 2025, the date that the financial statements were available to
+be issued and determined that there have been no events that have occurred that would require adjustments to the
+disclosures in the financial statements.
+1 5
+
+PITTSBURGH OPERA, INC.
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+NOTE 3 - LIQUIDITY AND AVAILABILITY
+The Opera has approximately $4,116,000 of financial assets available within one year of the statement of
+financial position date to meet cash needs for general expenditures. Certain investments with donor restriction are
+subject to the Opera’s spending policy, under which, as described in Note 10, both the endowment and the
+building fund have a spending rate of 5%. Appropriations from these funds will be available within the following
+12 months. Certain contributions receivable are subject to implied time and other donor restrictions, are not
+expected to be collected within one year, or are restricted for specific purposes and are removed from the table
+below. The Opera has access to a $907,000 cash reserve fund that has been established to provide short-term
+liquidity, which is available at June 30, 2025 and 2024, the assets of which are included as a component of
+investments with donor restrictions.
+The table below presents financial assets available for general expenditures within one year of the financial
+position date as of June 30, 2025 and 2024:
+2025 2024
+Cash and cash equivalents $ 492,000 $ 907,000
+Contributions receivable, net 1,152,000 1,216,000
+Investments not subject to donor restriction 1,088,000 1,272,000
+Distributions from investments held by trust 36,000 36,000
+Endowment - spending rate appropriation 802,000 713,000
+The Henry J. & Mary Louise Gailliot Fund -
+spending rate appropriation 383,000 352,000
+Building fund - spending rate appropriation 163,000 136,000
+$ 4,116,000 $ 4,632,000
+NOTE 4 - INVESTMENTS
+Investments include the restricted endowment, restricted capital funds and a portion of the operating fund.
+The cost and fair values at June 30, 2025 and 2024 are summarized as follows:
+2025 2024
+Fair Fair
+Cost Value Cost Value
+Equity mutual funds $ 12,011,000 $ 17,628,000 $ 12,571,000 $ 16,582,000
+Bond mutual funds 7,435,000 7,257,000 7,690,000 7,155,000
+Money market funds 1,237,000 1,237,000 1,098,000 1,098,000
+$ 20,683,000 $ 26,122,000 $ 21,359,000 $ 24,835,000
+1 6
+
+PITTSBURGH OPERA, INC.
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+NOTE 4 - INVESTMENTS (Continued)
+Net investment income related to investments and investments held by trust for the years ended June 30
+consists of the following:
+2025 2024
+Interest and dividends $ 984,000 $ 694,000
+Net realized gain 274,000 51,000
+Net unrealized gain 1,683,000 1,599,000
+Net realized and unrealized gain 1,957,000 1,650,000
+Investment fees (126,000) (116,000)
+$ 2,815,000 $ 2,228,000
+Investment securities are exposed to various risks caused by changes in interest rates, general market
+volatility, credit risk, etc. Due to the level of risk associated with certain investment securities, it is possible that
+changes in risks in the near term could materially affect account balances and the amounts reported in the
+statements of financial position and statements of activities and changes in net assets.
+NOTE 5 - INVESTMENTS HELD BY TRUST
+The Opera is a partial beneficiary of the trust of Pauline Beamer Pickens. The trustee holds title to the
+assets, and the Opera records its share of the assets at fair value. Distributions are made at the discretion of the
+trustee in accordance with the trust and are included within net assets without donor restrictions. Distributions
+approximated $48,000 and $29,000, respectively, during the years ended June 30, 2025 and 2024, and are
+included in net assets released from restriction for investment income spending. The Opera’s portion of cost (or
+donated value) was approximately $696,000 and $715,000 as of June 30, 2025 and 2024, respectively.
+NOTE 6 - PROPERTY AND EQUIPMENT
+Property and equipment at June 30 are summarized as follows:
+2025 2024
+Building and building improvements $ 5,950,000 $ 5,941,000
+Equipment 989,000 974,000
+6,939,000 6,915,000
+Less - Accumulated depreciation 3,167,000 2,943,000
+3,772,000 3,972,000
+Construction-in-progress 1,000 -
+Land 324,000 324,000
+$ 4,097,000 $ 4,296,000
+1 7
+
+PITTSBURGH OPERA, INC.
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+NOTE 7 - LINE OF CREDIT AND NOTE PAYABLE
+The Opera maintains an unsecured line-of-credit agreement with a bank for which maximum allowed
+borrowings are $1,000,000, and interest accrues at the bank’s prime lending rate (7.50% at June 30, 2025) plus 50
+basis points (0.50%). At June 30, 2025 and 2024, there were no amounts drawn and outstanding under this
+agreement. The agreement expires on December 31, 2025.
+NOTE 8 - CONTRIBUTIONS RECEIVABLE
+The Opera has recorded annual and capital fund pledges receivable at June 30 consisting of the receipt of
+unconditional promises to give, which are summarized as follows:
+2025 2024
+Due in less than one year $ 1,170,000 $ 1,246,000
+Due in one to five years 1,228,000 1,338,000
+2,398,000 2,584,000
+Allowance for doubtful accounts (18,000) (18,000)
+$ 2,380,000 $ 2,566,000
+At June 30, 2025 and 2024, amounts outstanding from three donors represented approximately 66% and
+64%, respectively, of contributions receivable on the statements of financial position.
+NOTE 9 - NET ASSETS
+The Opera has recorded net assets based on use restrictions imposed by the donor. These funds originated
+from past and present fundraising campaigns for the purpose of providing for the long-term and short-term
+stability of the organization. The significant outcomes include the establishment of an endowment and the
+creation of a permanent home for the Opera.
+Campaigns include:
+1990 21st Century for establishing a solid endowment base
+1997 Renaissance for debt reduction and endowment growth
+2007 Bold New Home for the purchase and sustenance of the Opera headquarters (Building Fund)
+2013 Capital Projects for the upkeep of the Opera’s headquarters
+The 21st Century Campaign (Campaign) that concluded in 1990 stated that 85% of the principal collected
+would be held as a permanent endowment (net assets with donor restrictions) and 15% would be available to
+support operations and new initiatives as approved by the board of directors, with the stipulation that all amounts
+used for such purposes are intended to be repaid to the campaign fund by the end of the fiscal year (net assets with
+donor restrictions that are temporary in nature). Investment earnings are available for use in operations.
+1 8
+
+PITTSBURGH OPERA, INC.
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+NOTE 9 - NET ASSETS (Continued)
+In addition to specific fundraising campaigns, the Opera raises funds for operating support through its
+Annual Fund efforts. Funds raised for future purposes include multiyear grants, funds restricted to future
+educational programming and donations with specific donor restrictions.
+Net Assets Without Donor Restrictions Summary
+Net assets without donor restrictions include an accumulated operating surplus, Building Funds, and
+funds designated by the Board to be treated as endowment funds. The balance of the funds without donor
+restrictions by campaign, as designated by management, as of June 30 is as follows:
+2025 2024
+Accumulated Operating Surplus $ 1,418,000 $ 1,401,000
+Building Fund Assets 3,719,000 3,897,000
+Board-Designated Fund 300,000 300,000
+$ 5,437,000 $ 5,598,000
+Net Assets With Donor Restrictions Summary
+The balance of the net assets with donor restrictions by campaign as of June 30 is as follows:
+2025 2024
+Subject to expenditure for specified purpose or to the
+passag e o f time :
+Annual Fund (Operations) $ 2,381,000 $ 3,274,000
+21st Century and Renaissance Campaigns 907,000 907,000
+Building Fund 2,797,000 2,620,000
+Olga Barry Fund 138,000 114,000
+The Henry J. & Mary Louise Gailliot Fund 6,732,000 6,221,000
+Endowments:
+21st Century and Renaissance Campaigns 14,045,000 13,317,000
+Bernadette G. Callery Endowed Fund (formerly
+Joseph M. Newcomer Fund) 293,000 269,000
+John H. Hill Fund 122,000 115,000
+Investments held by trust (Note 5) 847,000 814,000
+$ 28,262,000 $ 27,651,000
+Net assets with donor restrictions were released from restrictions primarily due to the passage of time and
+building-related expenses.
+1 9
+
+PITTSBURGH OPERA, INC.
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+NOTE 10 - ENDOWMENT
+The Opera’s endowment consists of board-designated and donor-restricted investment funds established
+for perpetual support of the organization’s mission. As required by generally accepted accounting principles, net
+assets associated with endowment funds, including funds designated by the Opera to function as endowments, are
+classified and reported based on the existence or absence of donor-imposed restrictions. The Building Fund is not
+a part of the endowment.
+Interpretation of Relevant Law - The board of directors of the Opera has elected to be governed by the
+Commonwealth of Pennsylvania’s Act 141 (Act 141), a total return policy that allows a nonprofit organization to
+choose to treat a percentage of the average market value of its endowment’s permanently restricted investments as
+unrestricted income each year. The long-term preservation of the real value of the assets, however, must be taken
+into consideration when the board elects the amount. On an annual basis, the board must elect a spending rate of
+between 2% and 7%.
+The Opera classifies as permanently restricted net assets the original and subsequent value of gifts
+donated to the permanent endowment. In accordance with Act 141, the Opera has adopted a written investment
+policy, of which a section specifically relates to the endowment fund.
+The Opera considers the following factors in making a determination to set a spending rate:
+1. Protecting the corpus of the endowment fund.
+2. Preserving the spending power of the assets.
+3. Obtaining maximum investment return with reasonable risk and operational consideration.
+4. Complying with applicable laws.
+Net endowment funds by asset type as of June 30 comprise the following:
+Board-
+Designated
+Unrestricted Restricted Total
+2025 $ 300,000 $ 15,307,000 $ 15,607,000
+2024 $ 300,000 $ 14,515,000 $ 14,815,000
+2 0
+
+PITTSBURGH OPERA, INC.
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+NOTE 10 - ENDOWMENT (Continued)
+The following represents the change in board-designated and donor-restricted endowment funds by net
+asset type for the year ended June 30, 2025:
+Board-
+Designated Restricted Total
+Endowment net assets, beginning of year $ 300,000 $ 14,515,000 $ 14,815,000
+Investment return:
+Investment income - 483,000 483,000
+Net realized and unrealized gains - 1,137,000 1,137,000
+- 1,620,000 1,620,000
+Appropriation of endowment assets for (760,000) (760,000)
+expenditure -
+Investment management fees - (68,000) (68,000)
+Endowment net assets, end of year $ 300,000 $ 15,307,000 $ 15,607,000
+The following represents the change in board-designated and donor-restricted endowment funds by net
+asset type for the year ended June 30, 2024:
+Board-
+Designated Restricted Total
+Endowment net assets, beginning of year $ 300,000 $ 13,753,000 $ 14,053,000
+Investment return:
+Investment income - 443,000 443,000
+Net realized and unrealized gains - 1,152,000 1,152,000
+- 1,595,000 1,595,000
+Contribution - 15,000 15,000
+Appropriation of endowment assets for (773,000) (773,000)
+expenditure -
+Investment management fees - (75,000) (75,000)
+Endowment net assets, end of year $ 300,000 $ 14,515,000 $ 14,815,000
+2 1
+
+PITTSBURGH OPERA, INC.
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+NOTE 10 - ENDOWMENT (Continued)
+Return Objectives and Risk Parameters - The principal objective of the investment policy is to provide a
+secure source of income to support operations and new initiatives on an ongoing basis. Investments are managed
+for “total return” to provide, in addition to current income for operations, growth of principal modestly greater
+than inflation.
+Strategies Employed for Achieving Objectives - To satisfy its long-term rate-of-return objectives, the
+Opera relies on a total return strategy in which investment returns are achieved through both capital appreciation
+(realized and unrealized) and current yield (interest and dividends). The Opera targets a diversified asset
+allocation that places a greater emphasis on equity-based investments to achieve its long-term return objectives
+within prudent risk constraints.
+Spending Policy and Investment Objectives Related to Spending Policy - In accordance with Act 141 and
+donor-specified restrictions, the Opera annually transfers no more than 5% of the previous three years’ average
+market value of the permanently restricted endowment fund to unrestricted net assets for use in current and future
+operations. For the years ended June 30, 2025 and 2024, the spendable return totaled $760,000 and $773,000,
+respectively. The Opera believes that this spending policy is consistent with the Commonwealth of
+Pennsylvania’s guidelines and with the Opera’s objective to maintain the purchasing power of the endowment
+assets held in perpetuity, as well as to provide additional real growth through new gifts and investment return.
+From time to time, certain donor-restricted endowment funds may have fair values less than the amount
+required to be maintained by donors or by law (underwater endowments). The Opera has interpreted Act 141 to
+permit spending from underwater endowments in accordance with prudent measures required under law. The
+Opera has no underwater endowment funds at June 30, 2025 and 2024. The original corpus of the endowment
+funds is $8,261,000.
+NOTE 11 - EMPLOYEE BENEFIT PLAN
+The Opera has a defined contribution plan that covers substantially all employees. The Opera’s policy is
+that it may contribute up to 5% of gross salaries to the plan for employees who have more than two years of
+employment. Employees may elect to contribute additional funds subject to the maximum amount allowed by
+law. Employer contributions related to the discretionary plan contributions approximated $19,000 and $17,000,
+respectively, for the years ended June 30, 2025 and 2024, respectively.
+2 2
+
+PITTSBURGH OPERA, INC.
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+NOTE 12 - FAIR VALUE MEASUREMENT
+The Opera categorizes assets and liabilities measured at fair value into one of three different levels
+depending on the assumptions (i.e., inputs) used in the valuation. Level 1 provides the most reliable measure of
+fair value, while Level 3 generally requires significant management judgment. Financial assets and liabilities are
+classified in their entirety based on the lowest level of input significant to the fair value measurement.
+The fair value hierarchy is defined as follows:
+Level 1 - Valuations are based on unadjusted quoted prices in an active market for identical assets
+or liabilities.
+Level 2 - Valuations are based on quoted prices for similar assets or liabilities in active markets,
+or quoted prices in markets that are not active for which significant inputs are observable, either
+directly or indirectly.
+Level 3 - Valuations are based on prices or valuation techniques that require inputs that are
+both unobservable and significant to the overall fair value measurement. Inputs reflect
+management’s best estimate of what market participants would use in valuing the asset or
+liability at the measurement date.
+The Opera’s financial instruments consist primarily of cash and cash equivalents, deferred charges,
+contributions receivable, investments, investment held by trust, accounts payable, accrued expenses and deferred
+subscriptions. The carrying amount of the investments and investment held by trust is at fair value using the methods
+below. The carrying amount of the Opera’s other instruments approximates their fair value due to their nature and
+respective relatively short maturity dates or durations.
+The following section describes the valuation methodologies used by the Opera to measure investments
+and investment held in trust at fair value:
+Money Market Funds - Carrying value approximates fair value due to the short-term nature of the
+investments.
+Mutual Funds - Valued at the daily closing price as reported by the fund. Mutual funds held by
+the Opera are open-end mutual funds that are registered with the Securities and Exchange
+Commission. These funds are required to publish their daily net asset value and to transact at that
+price. The mutual funds held by the Opera are deemed to be actively traded.
+Investment Held by Trust - Investments held by trust primarily include underlying investments,
+which are readily quoted in active markets. The majority of the underlying investments use
+Level 1 and Level 2 inputs; but since the trust itself is not readily tradable, significant inputs are
+considered to be unobservable in active markets. Since the Opera’s ownership in this trust is
+represented by an undivided interest in these investments, not in the underlying assets themselves,
+and the undivided interests are not publicly traded themselves nor can they be valued based on
+observable direct or indirect inputs as defined by the IRC, the Opera has reported the investment
+held by trust as a Level 3 asset.
+2 3
+
+PITTSBURGH OPERA, INC.
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+NOTE 12 - FAIR VALUE MEASUREMENT (Continued)
+The preceding methods described might produce a fair value calculation that might not be indicative of
+net realizable value or reflective of future fair values. Further, although the Opera believes that its valuation
+methods are appropriate and consistent with other market participants, the use of different methodologies or
+assumptions to determine the fair value of certain financial instruments could result in a different fair value
+measurement at the reporting date.
+The valuation of the Opera’s investments and investment held in trust at June 30, 2025 and 2024
+according to the fair value hierarchy is summarized as follows:
+2025
+Level 1 Level 2 Level 3 Total
+Money market funds $ 1,269,000 - - $ 1,269,000
+Mutual funds:
+Equity 17,596,000 - - 17,596,000
+Bond 7,257,000 - - 7,257,000
+Investment held by trust - - $ 847,000 847,000
+Total $ 26,122,000 - $ 847,000 $ 26,969,000
+2024
+Level 1 Level 2 Level 3 Total
+Money market funds $ 1,098,000 - - $ 1,098,000
+Mutual funds:
+Equity 16,582,000 - - 16,582,000
+Bond 7,155,000 - - 7,155,000
+Investment held by trust - - $ 814,000 814,000
+Total $ 24,835,000 - $ 814,000 $ 25,649,000
+2 4

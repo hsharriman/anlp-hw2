@@ -1,0 +1,134 @@
+URL: https://trustarts.org/pct_home/privacy-policy
+
+Privacy Policy
+Close Window
+Time Out
+You have exceeded the time limit and your seats have been released.
+Time left to complete order
+Pittsburgh Cultural Trust Privacy Policy
+Applies to culturaldistrict.org, trustarts.org, and other websites, applications, and digital services that link to this Policy
+Effective Date: October 8, 2026
+Last Updated Date: October 14, 2026
+1. Scope and Covered Organizations
+This Privacy Policy (“Policy”) describes how the Pittsburgh Cultural Trust (“the Trust,” “we,” “us,” or “our”) handles personal information when you interact with us online or offline. This Policy applies to culturaldistrict.org, trustarts.org, and any other websites, mobile applications, digital services, or online platforms that link to this Policy (collectively, the “Websites”).
+This Policy applies when you visit or use our Websites or other digital services; purchase, receive, exchange, or transfer tickets, subscriptions, memberships, gift cards, parking, or other products or services; donate or participate in fundraising activities; create or manage an online Cultural District account; register for an event, education program, volunteer opportunity, contest, promotion, or survey; attend performances, festivals, public events, exhibitions, or programs presented or administered by the Trust; or contact us or communicate with our staff.
+We refer collectively to these websites, digital services, social media pages, email communications, mobile communications, and offline interactions as our “Services.”
+Our Role
+The Trust presents, manages, and supports performances, festivals, public spaces, venues, educational programs, fundraising activities, and community events. We also provide ticketing, customer service, patron management, marketing, fundraising, and administrative services for arts presenting organizations, rental clients, and other partners.
+As a result, the Trust’s role may differ depending on the particular interaction. Depending on the event or service, the Trust may determine how your personal information is processed. In other cases, we process information on behalf of another organization in connection with an event, performance, membership, donation, venue rental, or other activity.
+When another organization is identified on a website page, checkout process, ticket, email, SMS or other communication, that organization may also collect, receive, or process your personal information for its own purposes, and its privacy policy may also apply. This Policy does not govern information that another organization collects independently outside of the Trust’s Services or pursuant to that organization’s own privacy practices.
+2. How We Collect Information
+We collect personal information from different sources depending on how you interact with the Trust. For example, we may collect information directly from you when you purchase tickets, donate, create an account, register for a program, contact us, or otherwise use our Services. We also collect information automatically when you use our Websites or other Services, and we may receive information from organizations and service providers that help us administer performances, events, donations, ticketing, and other services.
+We may also combine information collected from different sources where reasonably necessary to provide our Services, maintain accurate records, personalize your experience, protect our systems, comply with legal obligations, or otherwise carry out the purposes described in this Policy.
+3. Information We Collect
+3.1 Information You Provide to Us
+Contact and account information, including your name, address, email address, telephone number, title and organization, authentication credentials, account preferences, and other information associated with your account.
+Transaction information, including records regarding ticket purchase, performances, seats, subscriptions, gift certificates, parking, ticket-protection products, merchandise, discounts and promotional codes, delivery methods, exchanges and refunds, and related transaction history.
+Payment information, including billing address, payment type, limited payment information, such as the type of payment method, the last four digits of a payment card, and transaction identifiers. Full payment-card information is generally collected and processed by our third party payment processors rather than stored by us.
+Donation information, such as gift amount, designation, donor recognition preference, employer-matching information, membership level, benefits, and information needed for acknowledgments or tax receipts.
+Feedback or correspondence, including messages, call notes, chatbot transcripts, survey responses, and other communications with box office, customer service, development, or other personnel.
+Accessibility and accommodation information you choose to provide when requesting accessible seating, assistive services, or other accommodations. Please provide only information necessary for the request. We do not use this information for marketing purposes.
+Marketing information, such as your preferences for receiving communications about our programs, activities, and publications; details about how you engage with our communications; and inferred interests based on interactions.
+Employment, volunteer, or business information, such as information submitted by job applicants, contractors, vendors, sponsors, and business contacts. Separate notices may apply to employment-related information.
+3.2 Information Collected Automatically
+We, our service providers, and our business partners may automatically log information about you, your computer or mobile device, and activity on or through the Services, including the below:
+Device and usage information, including IP address, browser and device type, operating system, identifiers, device fingerprint, visitor ID, referring pages, pages viewed, clicks, searches, cart activity, dates and times, language preferences, and approximate location derived from IP address.
+Cookie and similar-technology information, including cookie identifiers, pixels, tags, local-storage data, and consent or preference records.
+Security and fraud information, including login attempts, device and network signals, transaction and purchasing patterns, account activity, bot-detection results, risk scores, and information used to prevent account takeover, unauthorized resale, payment fraud, and abuse.
+Email and communication engagement, including whether a message was delivered, opened, or clicked and whether you opted out, subject to applicable law and your settings.
+3.3 Photography, Audio, and Video
+We or our service providers may photograph, audio record, or video record performances, festivals, public events, donor events, educational programs, public spaces, and other activities for promotional, educational, archival, documentary, security, or operational purposes. Images, recordings, or likenesses may be used in print, online, social media, broadcast, or other communications consistent with applicable law and any notices.
+3.4 Information We Obtain from Social Media
+We may maintain pages for the Trust on social media platforms, such as Facebook, Instagram, X, YouTube, and LinkedIn. When you visit or interact with our pages on those platforms, the platform provider’s privacy policy applies to your interactions and to the provider’s collection, use, and processing of your personal information. You or the platforms may provide information to us through the platform, and we will treat information we receive in accordance with this Policy.
+3.5 Information from Other Sources
+We may receive personal information about you from third-party sources, including:
+Arts organizations, venues, co-presenters, rental clients, sponsors, parking providers, ticket-protection providers, and other partners involved in a transaction or program.
+Tessitura and other providers that support customer-relationship management, ticketing, authentication, payment processing, email, SMS, analytics, security, digital ticketing, accessibility, parking, refund protection, and related operations.
+Publicly available sources and fundraising research and wealth-screening providers used to maintain records, identify prospective supporters, and support development activities, where permitted by law.
+Social networks, internet searches, identity providers, or other services.
+Government agencies and sources where permitted by law.
+Data partners and cooperatives or nonprofit organizations with which we exchange or obtain contact information, only where permitted and as described at the point of collection or in this Policy.
+3.6 Google Account Information
+If you choose to sign in to or create a Cultural District account using Google, we may receive information associated with your Google account, such as your name, email address, and a unique Google account identifier. We use this information to authenticate you, create or connect your Cultural District account, maintain account security, and provide the Services you request.
+We store Google account information only as reasonably necessary to maintain and secure your Cultural District account, provide our Services, comply with applicable legal obligations, resolve disputes, and enforce our agreements. We protect this information using the administrative, technical, and physical safeguards described in the Security section of this Policy.
+We do not sell Google user data. We do not use Google user data for advertising or permit humans to read Google user data except when necessary to provide or secure the Services, comply with applicable law, or when you have provided affirmative consent. We may disclose Google user data to service providers that assist us with authentication, hosting, security, account administration, and related operations, subject to appropriate confidentiality and data-protection obligations. We may also disclose information when required by law or as otherwise described in this Policy. Our use and transfer of information received from Google APIs will adhere to the Google API Services User Data Policy, including its Limited Use requirements.
+4. How We Use Information
+We use personal information for the purposes described below, as otherwise disclosed at the time of collection, or with your consent. Specific uses depend on how you interact with the Trust and the Services you request:
+To provide and operate our Services: We use your information to process purchases, donations, subscriptions, parking, gift cards, exchanges, refunds, and other transactions you request. We also use it to deliver tickets, provide access to performances, programs, digital content, member or donor benefits, presales, promotions, contests, surveys, and other Services we offer.
+To manage accounts and profiles: If you create an account or profile, we use your information to create, authenticate, maintain, and secure it, including by sending one-time passcodes, service notices, and security alerts.
+For marketing communications: We may use your information to send marketing, fundraising, and promotional communications by email, SMS, mail, telephone, or digital advertising, consistent with applicable law and subject to your communication preferences.
+For operational communications: We use your information to respond to your questions, requests, feedback, accessibility needs, compliments, or complaints, and to communicate with you about your tickets, donations, memberships, accounts, or other Trust interactions. We also send receipts, tax acknowledgments, event updates, schedule changes, policy notices, administrative messages, security notices, and other Services-related information.
+To improve your experience: We use your information to understand your interests, personalize your experience, recommend performances, programs, subscriptions, donations, or other opportunities, and maintain accurate constituent, household, donor, and transaction records.
+For research and development: We analyze how people use our Services, including our Websites, checkout tools, communications, and programs, so we can improve them, develop new offerings, strengthen operations, and better support patrons, donors, and visitors.
+For fundraising: We may use information about ticket purchases, donations, memberships, event attendance, publicly available information, and information from fundraising-research providers to maintain donor records, identify prospective supporters, personalize outreach, administer benefits, prepare acknowledgments, and support development activities.
+For fraud prevention, safety, and compliance: We may use your information to protect our Services, patrons, visitors, organization, and others; detect and respond to fraud, stolen payment cards, account misuse, automated purchasing, ticket-limit circumvention, unauthorized resale, security incidents, or violations of our terms; and enforce our rights and agreements.
+To promote safety and security. We use personal information, including video surveillance, access records, and security logs, to protect patrons, visitors, performers, volunteers, employees, property, and public spaces; investigate incidents; respond to emergencies; and maintain a safe environment.
+To comply with law: We use your information as needed to comply with legal, tax, accounting, accessibility, safety, insurance, contractual, and regulatory obligations; respond to subpoenas or lawful government requests; and establish, exercise, or defend legal claims.
+Photography, Audio, and Video: We may use photographs, audio recordings, and video recordings captured at and in performances, festivals, public events and spaces, educational programs, donor events, and other activities for promotional, educational, archival, documentary, security, and other legitimate organizational purposes, consistent with applicable law and any notices provided at the event.
+With your consent: In some cases, we may ask for your consent to collect, use, or share your information, such as when consent is required by law or appropriate for a particular service or activity.
+To create anonymous or aggregated information: We may create aggregated or anonymous information by removing details that identify you. We may use and share that information for lawful purposes, including to analyze trends, improve our services, and support our organization.
+5. How We Disclose Information
+We may disclose personal information to the recipient categories below to operate our Services, fulfill your requests, comply with legal obligations, protect our organization and patrons, or as otherwise described in this Policy.
+Arts organizations and event partners. Resident companies, presenting organizations, co-presenters, producers, promoters, venue rental clients, artists, exhibitors, sponsors (where applicable), and other organizations associated with a performance, event, festival, exhibition, donation, membership, subscription, or program. These organizations may use your information to administer the applicable event or relationship consistent with their own privacy practices.
+Service providers. Providers supporting Tessitura and ticketing, cloud hosting, payment processing, authentication, email and SMS, digital ticketing, customer service, analytics, advertising, fraud prevention, cybersecurity, bot mitigation, accessibility, fundraising research, printing, mailing, parking, and ticket protection.
+Payment and financial parties. Payment processors, financial institutions, card networks, banks, and fraud-prevention providers necessary to authorize, settle, refund, dispute, or investigate transactions.
+Professional advisers. Attorneys, auditors, accountants, insurers, consultants, and other advisers subject to appropriate obligations.
+Governmental and legal recipients. Courts, regulators, law enforcement, and other parties when required by law or reasonably necessary to protect rights, safety, systems, patrons, personnel, or the public.
+Organizational transactions. Parties involved in a merger, restructuring, transfer of operations or assets, financing, or similar transaction, subject to applicable legal requirements.
+At your direction or with consent. Other recipients when you request or authorize disclosure.
+The Trust does not sell personal information in exchange for monetary compensation. However, certain uses of cookies, pixels, or similar technologies for advertising or analytics purposes may constitute a “sale,” “sharing,” or targeted advertising under certain state privacy laws. Where applicable, you may exercise your privacy choices as described in the Your Choices and Privacy Rights section of this Policy.
+No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties, absent governmental or legal requirements.
+6. Cookies and Similar Technologies
+We and our service providers use cookies and similar technologies to operate, secure, and improve our Services; remember preferences; understand Websites use; personalize content; measure communications and advertising effectiveness; and support other legitimate operational purposes.
+These technologies may include cookies, pixels, tags, software development kits (SDKs), browser web storage, local storage, and similar technologies. Depending on the applicable Website and your choices, they may be categorized as strictly necessary, functional, performance and analytics, or advertising technologies.
+Most web browsers allow you to manage or delete cookies through your browser settings, although doing so may affect the functionality of certain Services. Cookie preferences are generally specific to the browser and device you use.
+7. Advertising and Analytics
+We may use analytics and advertising services to measure visits, campaigns, conversions, and interactions and to provide or evaluate interest-based advertising. These providers may collect identifiers and activity information over time and across websites or services. Your cookie settings and applicable state-law rights may limit these activities.
+8. Your Choices and Privacy Rights
+We offer several ways for you to manage your personal information and communication preferences. Depending on where you live and how you interact with the Trust, you may also have certain privacy rights under applicable law.
+Managing Your Information
+Access or update your information: If you have an online account, you may review and update certain personal information by logging into your account. Please contact us with any questions or issues.
+Choosing not to provide information. You may choose not to provide certain personal information. However, if we require that information to provide a requested product, service, or transaction, your decision not to provide it may prevent us from fulfilling your request. Where appropriate, we will identify information that is required at the time it is collected.
+Managing Your Communications
+Marketing emails. You may opt out of receiving marketing and fundraising emails at any time by following the unsubscribe instructions included in those communications. Even if you opt out of marketing emails, we may continue to send you transactional or operational communications relating to your tickets, donations, subscriptions, account, purchases, or other interactions with the Trust.
+Text messages. If you receive marketing text messages from us, you may opt out by following the instructions included in the message or by contacting us. Message and data rates may apply. Opting out of marketing text messages will not affect service-related messages necessary to administer a transaction or provide requested services.
+Mail and telephone communications. You may contact us to update your preferences regarding marketing communications by mail or telephone.
+Cookies and Similar Technologies
+You may manage your cookie preferences through the Website. Most web browsers also allow you to block or delete cookies through your browser settings, although doing so may affect the functionality of certain Services. Additional information is available in the Cookies and Similar Technologies section of this Policy.
+Some web browsers transmit “Do Not Track” signals. Because there is not currently a consistent industry standard for responding to these signals, our Websites do not respond to those signals.
+Third-Party Platforms and Social Media
+If you connect to our Services through a third-party platform or social media service, you may be able to limit the information that the third party shares with us by adjusting your settings with that platform. Changes you make through a third-party platform generally do not affect information we previously received from that platform.
+State Privacy Rights
+Residents of certain states may have additional privacy rights under applicable law. Depending on the law that applies, these rights may include the ability to request access to, correction of, deletion of, or a copy of certain personal information, or to opt out of certain processing activities, including targeted advertising or certain disclosures of personal information.
+To exercise any applicable privacy right, please contact us using the information provided below. We may request information reasonably necessary to verify your identity and process your request. Where permitted by law, an authorized agent may submit a request on your behalf, subject to appropriate verification of the agent’s authority.
+We may decline a request where permitted by applicable law, including when we are unable to verify your identity, an exception applies, or we are required to retain certain information to comply with legal obligations, resolve disputes, maintain security, or protect our rights.
+If applicable law provides you with the right to appeal our decision regarding a privacy request, you may submit an appeal using the same contact information. We will review and respond to your appeal within the timeframe required by applicable law.
+9. Data Retention
+We retain personal information for as long as reasonably necessary for the purposes described in this Policy, including providing Services; maintaining patron, donor, membership, transaction, tax, accounting, fraud, and security records; complying with legal and contractual obligations; resolving disputes; and enforcing agreements. Retention periods vary based on the information, relationship, legal requirements, operational needs, and risk.
+10. Security
+The security of your personal information is important to us. We maintain administrative, technical and physical safeguards designed to protect the personal information we collect against unauthorized access, use, and disclosure.
+However, no transmission or storage system is completely secure, and we cannot guarantee the absolute security of your personal information. You are responsible for maintaining the confidentiality of account credentials and for notifying us promptly if you suspect unauthorized access. We may suspend access or require additional verification to protect your information, our Services, or the Trust.
+11. Children
+Our Services are not directed to children under the age of 13, and we do not knowingly collect personal information online from children under 13. If we learn that we have collected personal information from a child in a manner inconsistent with applicable law, we will take reasonable steps to delete the information.
+Certain Trust education programs, performances, camps, community programs, volunteer opportunities, or other activities may involve children. Information collected in connection with those activities may be governed by separate registration materials, notices, consent forms, or program-specific privacy practices.
+12. International Visitors
+The Trust is headquartered in the United States, and our Services are intended primarily for individuals in the United States. Information may be processed and stored in the United States and other countries where our providers operate, whose data protection laws may differ from those in your country of residence. Where applicable law requires a legal basis for processing personal information, we rely on one or more of the following: performance of a contract, compliance with legal obligations, our legitimate interests, or your consent, depending on the circumstances.
+13. Third Party Sites and Services
+Our Services may contain links to, or content or features from, other websites and online services operated by third parties, including payment services, social networks, maps, and parking. These links are not an endorsement of, or representation that we are affiliated with, any third party.
+In addition, our content may be included on web pages or in mobile applications or online services that are not associated with us. The Trust does not control, and is not responsible for, third-party websites, mobile applications, or online services.
+Other websites and services follow different rules regarding the collection, use, and sharing of your personal information. Those parties’ privacy practices apply to information they collect independently, and we encourage you to read their privacy policies.
+14. Changes to This Policy
+We may update this Policy at any time to reflect changes in practices, technology, Services, or law. When we do, we will post the updated Policy and revise the “Last updated” date. When required, we will provide additional notice.
+15. Contact Us
+If you have questions or comments about this Policy or the Trust’s privacy practices, please contact us:
+Pittsburgh Cultural Trust
+803 Liberty Avenue
+Pittsburgh, PA 15222
+Email: contact@trustarts.org
+Telephone: 412.456.6666
+Looking for more?
+Join our email list and get priority access to tickets, news, and events!
+Email*
+Join
+Join Our Newsletter!
+Learn More

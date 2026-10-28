@@ -1,0 +1,78 @@
+URL: https://www.cmu.edu/admission/majors-programs/school-of-computer-science/computer-science
+
+Computer Science - Undergraduate Admission - Carnegie Mellon University
+Skip to main content   Carnegie Mellon University homepage
+Undergraduate Admission
+Search    Menu
+Computer Science
+Architects in the computer lab, building machines and fabricating future technology.
+Computer Science Majors and Minors
+Choose the path that fits you best. Browse all current Computer Science curriculums and courses.
+Computer Science
+Bachelor of Science
+Additional Major
+Minor
+Designed for tech-minded scholars with big-picture mindsets, this degree combines a solid core of computer science courses with other science and humanities courses that help you develop greater context and crucial critical thinking skills. As a student in this program, you’ll be required to minor in a separate field of study, giving you deep knowledge in another area — and you’ll have the chance to put theory into practice through research, part-time work, project-oriented courses and independent study.
+No matter your major, you can pursue a minor in computer science to gain additional depth and breadth of knowledge in the field.
+Language Technologies
+Minor
+Human language technologies have become an increasingly central component of computer science in the last decade. Information retrieval, machine translation and speech technology are used daily by the general public, while text mining, natural language processing and language-based tutoring are used regularly within more specialized professional or educational environments. The Language Technologies minor allows students to learn about language technologies and apply them through a directed project.
+Machine Learning
+Minor
+Machine learning and statistical methods are increasingly used in many application areas including natural language processing, speech, vision, robotics and computational biology. The minor in machine learning gives undergraduates the opportunity to learn about the field's core principles.
+Neural Computation
+Minor
+The neural computation minor is open to students in any major at CMU. The primary objective of the minor is to encourage students in biology and psychology to take computer science, engineering and mathematics courses on the one hand, and to encourage students in computer science, engineering, statistics and physics to take courses in neuroscience and psychology on the other, and to bring students from different disciplines together to form a community. The program seeks to produce students with both the basic computational skills and knowledge in cognitive science and neuroscience that are central to computational neuroscience.
+Robotics
+Additional Major
+Minor
+The additional major in robotics is designed for students who want to explore the field more than is possible through our existing undergraduate robotics minor. Although students can come from any department on campus, the nature of the courses required for the additional major makes it ideal for students already pursuing an undergraduate degree in computer science through the School of Computer Science, or in engineering through the College of Engineering.
+The minor in robotics provides an opportunity for Carnegie Mellon undergraduates to learn the principles and practice of robotics through theoretical studies and hands-on experience with robots. This minor serves as a focal point for undergraduates who are interested in robotics at CMU, and is open to students in all colleges. Students initially learn the basics of robotics in an introductory robotics overview course. Additional required courses teach control systems and robotic manipulation. Students also choose from a wide selection of electives in robotics, perception and computer vision, cognition and cognitive science, or computer graphics. Students have a unique opportunity to undertake independent research projects, working under the guidance of Robotics Institute faculty members, an excellent introduction to robotics research for those considering graduate studies.
+Software Engineering
+Minor
+The software engineering minor is designed to teach the fundamental tools, techniques and processes of software engineering. Through internships and a mentored project experience, students gain an understanding of the issues of scale and complexity that motivate software engineering tools and techniques. The core curriculum includes material both on engineering the software product and on the process, teamwork and management skills that are essential to successful engineering. Program graduates should have the technical, process, and teamwork skills to be immediately productive in a mature engineering organization.
+Societal Computing
+Minor
+This cross-disciplinary program offers undergraduates additional exposure to computer science problems related to existing and emerging technologies and their associated social, public policy, legal, business and organizational contexts. The minor/concentration provides students with a foundation in the skills necessary to analyze ethical, policy and legal issues related to computing technology and to reason about the suitability of and tradeoffs associated with technology for a particular application. Students may go on to apply these skills in their professional careers or pursue further studies in societal computing.
+Contact
+School of Computer Science
+5000 Forbes Avenue
+Carnegie Mellon University
+Pittsburgh, PA 15213
+T: 412-268-2565
+@email
+Computer Science Website
+Apply Now
+Geeta
+"Once I was at CMU, I saw that there were so many facets to computer science. That was the excitement — once I started realizing that computer science was linked to literally every other field possible in the world."
+Geeta '08
+School of Computer Science
+Computer Science
+Research fans, rejoice: You’ll be all kinds of engaged in this program, which gives you firsthand experience in real-world work as an undergraduate. In pursuing this degree, you’ll gain a strong foundation with core computer science and project-oriented courses. But these are balanced with humanities courses and a required additional area of study, all of which will make you a more well-rounded computer scientist. Ultimately, you’ll gain the tools, skills and knowledge to keep up with technology as it evolves — so that as it advances, so will your career.
+Class of 2025, Six Months After Graduation
+98%
+Employed or in Grad School
+$156,556
+Average Salary
+Recent Employers
+Amazon
+Meta
+Google
+Jane Street
+More Post-Graduation Stats(opens in new window)
+High School Course Requirements
+4 years English
+4 years Mathematics*
+1 year Physics
+2 years Chemistry, Biology or Computer Science
+2 years Foreign Language
+3 electives
+*Four years of mathematics should include at least algebra, geometry, trigonometry, analytic geometry, elementary functions (precalculus) and preferably calculus. Advanced mathematics courses are encouraged, especially a course in calculus.
+Apply
+Submit your application for the School of Computer Science.
+Get Started
+Mix It Up
+You’re not just one thing. You’re a scientist. An artist. A technologist. A maker. A writer. Carnegie Mellon has been mixing it up for decades, and whatever you want to pursue, we’ve got the right mix for you.
+The CMU Experience
+How to Major in Mixing-It-Up
+› scroll to top
